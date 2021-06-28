@@ -1,43 +1,43 @@
-alive~dead,leben~tot
-ancient~modern,antike ~ modern
-backward~forward,rückwärt~vorwärts
-bad~good,schlecht ~ gut
-boring~interesting,langweilig~interessant
-bright~dark,hell~dunkel
-cheap~expensive,preiswert ~ teuer
-clever~stupid,klug ~ dämlich
-cruel~kind,grausam ~ freundlich
-dangerous~safe,gefährlich ~ sicher
-deep,tief
-difficult~easy,schwierig~einfach
-clean~dirty,sauber ~ schmutzig
-up~down,hoch~runter
-wet~dry,nass ~ trocken
-full~empty,voll ~ leer
-near~far,nahe ~ weit
-thin~fat,dünn ~ fett
-innocent~guilty,unschuldig ~ schuldig
-sad~happy,traurig ~ glücklich
-soft~hard,weich~schwer
-sick~healthy,krank~gesund
-low~high,niedrig ~ hoch
-cold<warm<hot,kalt<warm<heiß
-early~late,früh ~ spät
-heavy~lightweight,schwer ~ leicht
-short~long,kurz~lang
-tight~loose,eng ~ locker
-silent~loud,geräusch~laut
-old~new,alt~neu
-closed~open,geschlossen~open
-shy~outgoing,schüchtern ~ ausgehend
-rich~poor,reich~schlecht
-fake~real,fake~real
-right~left,rechts~links
-right~wrong,rechts~falsch
-blunt~sharp,stumpf~scharf
-fast~slow,schnell ~ langsam
-big~small,groß ~ klein
-short~tall,kurz~groß
-beautiful~ugly,schön ~ hässlich
-strong~weak,stark ~ schwach
-old~young,alt~jung
+alive ~ dead , leben ~ tot
+ancient ~ modern , antike ~ modern
+backward ~ forward , rückwärt ~ vorwärts
+bad ~ good , schlecht ~ gut
+boring ~ interesting , langweilig ~ interessant
+bright ~ dark , hell ~ dunkel
+cheap ~ expensive , preiswert ~ teuer
+clever ~ stupid , klug ~ dämlich
+cruel ~ kind , grausam ~ freundlich
+dangerous ~ safe , gefährlich ~ sicher
+deep , tief
+difficult ~ easy , schwierig ~ einfach
+clean ~ dirty , sauber ~ schmutzig
+up ~ down , hoch ~ runter
+wet ~ dry , nass ~ trocken
+full ~ empty , voll ~ leer
+near ~ far , nahe ~ weit
+thin ~ fat , dünn ~ fett
+innocent ~ guilty , unschuldig ~ schuldig
+sad ~ happy , traurig ~ glücklich
+soft ~ hard , weich ~ schwer
+sick ~ healthy , krank ~ gesund
+low ~ high , niedrig ~ hoch
+cold<warm<hot , kalt<warm<heiß
+early ~ late , früh ~ spät
+heavy ~ lightweight , schwer ~ leicht
+short ~ long , kurz ~ lang
+tight ~ loose , eng ~ locker
+silent ~ loud , geräusch ~ laut
+old ~ new , alt ~ neu
+closed ~ open , geschlossen ~ open
+shy ~ outgoing , schüchtern ~ ausgehend
+rich ~ poor , reich ~ schlecht
+fake ~ real , fake ~ real
+right ~ left , rechts ~ links
+right ~ wrong , rechts ~ falsch
+blunt ~ sharp , stumpf ~ scharf
+fast ~ slow , schnell ~ langsam
+big ~ small , groß ~ klein
+short ~ tall , kurz ~ groß
+beautiful ~ ugly , schön ~ hässlich
+strong ~ weak , stark ~ schwach
+old ~ young , alt ~ jung

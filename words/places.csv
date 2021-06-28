@@ -1,64 +1,64 @@
-airport,Flughafen
-embassy,Botschaft
-port,Hafen
-bakery,Bäckerei
-factory,Fabrik
-prison,Gefängnis
-bank,Bank
-farm,Bauernhof
-restaurant,Restaurant
-bar * 2,Balken * 2
-fountain,Brunnen
-road/street,Straße/Strasse
-garage,Garage
-school,schulen
-hospital,Krankenhaus
-sidewalk,Gehweg
-bench,Bank
-hotel,Hotel
-square,Quadrat
-bookstore,Buchhandlung
-house,Haus
-stable,stabil
-bridge,Brücke
-stadium,Stadion
-building,Gebäude
-inn,Gasthaus
-store,Geschäft
-castle,Schloss
-library,Bibliothek
-suburb,Vorort
-cathedral,Kathedrale
-market,Markt
-theater,Theater
-cemetery,Friedhof
-monument,Denkmal
-tower,Turm
-church,Kirche
-museum,Museum
-town,Stadt
-palace,Palast
-town hall,Rathaus
-consulate,Konsulat
-path,Pfad
-train station,Bahnhof
-corner,Ecke
-pharmacy,Apotheke
-university,Universität
-police station,Polizeirevier
-village,Dorf
-shop,Geschäft
-gym,Fitnessstudio
-job,Aufgabe
-swimming pool,schwimmbad
-cafe,Café
-night club,Nachtclub
-park,Park
-laundry,Wäscherei
-cinema,Kino
-shopping mall,Einkaufszentrum
-ambulance,Krankenwagen
-office,Büro
-railway station,Bahnhof
-bus stop,Haltestelle
-subway,U-Bahn
+airport , Flughafen
+embassy , Botschaft
+port , Hafen
+bakery , Bäckerei
+factory , Fabrik
+prison , Gefängnis
+bank , Bank
+farm , Bauernhof
+restaurant , Restaurant
+bar * 2 , Balken * 2
+fountain , Brunnen
+road / street , Straße / Strasse
+garage , Garage
+school , schulen
+hospital , Krankenhaus
+sidewalk , Gehweg
+bench , Bank
+hotel , Hotel
+square , Quadrat
+bookstore , Buchhandlung
+house , Haus
+stable , stabil
+bridge , Brücke
+stadium , Stadion
+building , Gebäude
+inn , Gasthaus
+store , Geschäft
+castle , Schloss
+library , Bibliothek
+suburb , Vorort
+cathedral , Kathedrale
+market , Markt
+theater , Theater
+cemetery , Friedhof
+monument , Denkmal
+tower , Turm
+church , Kirche
+museum , Museum
+town , Stadt
+palace , Palast
+town hall , Rathaus
+consulate , Konsulat
+path , Pfad
+train station , Bahnhof
+corner , Ecke
+pharmacy , Apotheke
+university , Universität
+police station , Polizeirevier
+village , Dorf
+shop , Geschäft
+gym , Fitnessstudio
+job , Aufgabe
+swimming pool , schwimmbad
+cafe , Café
+night club , Nachtclub
+park , Park
+laundry , Wäscherei
+cinema , Kino
+shopping mall , Einkaufszentrum
+ambulance , Krankenwagen
+office , Büro
+railway station , Bahnhof
+bus stop , Haltestelle
+subway , U-Bahn
