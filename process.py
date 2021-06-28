@@ -43,9 +43,6 @@ def validate_file(tfile):
         if commas == 0:
             errors.append("Line has no commas @ %d" % i)
             continue
-        elif commas > 1:
-            errors.append("Line has too many commas @ %d" % i)
-            continue
         if line.count("  "):
             errors.append("Line has too many spaces in a row @ %d" % i)
     if errors:
@@ -67,7 +64,7 @@ def main():
     current_dir = os.path.abspath(os.curdir)
     for tfile in csvs(current_dir):
         validate_file(tfile)
-        translate_file(tfile)
+        #translate_file(tfile)
 
 
 if __name__ == "__main__":
