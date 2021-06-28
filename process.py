@@ -60,11 +60,25 @@ def csvs(path):
             yield os.path.join(current, fil)
 
 
+def reverse_csvs(path):
+    with open(path) as fil:
+        rev = []
+        for line in fil.read().split("\n"):
+            if "," not in line:
+                continue
+            left, right = line.split(",", maxsplit=1)
+            rev.append("{},{}".format(right, left))
+
+    with open(path.replace(".csv", ".rev.csv"), "w") as fil:
+        fil.write("\n".join(rev))
+
+
 def main():
     current_dir = os.path.abspath(os.curdir)
     for tfile in csvs(current_dir):
         validate_file(tfile)
         #translate_file(tfile)
+        reverse_csvs(tfile)
 
 
 if __name__ == "__main__":
