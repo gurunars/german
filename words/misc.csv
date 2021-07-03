@@ -1,24 +1,24 @@
-foreigner , Ausländer
+foreigner , der Ausländer
 sound , Klang
-connection , Verbindung
-surface , Oberfläche
+connection , der Verbindung
+surface , der Fläche
 ore , Erz
 part , Teil
-1 / 6 , 1 / 6
+1 / 4 , Ein Viertel
 state border , staatliche Grenze
-government , Regierung
-newspaper , Zeitung
+government , die Regierung
+newspaper , die Zeitung
 party , Partei
 life , Leben
 death , Tod
 guest , Gast
 goods , Waren
-note , Hinweis
-cros$1 , $2berqueren
+note (sticker) / note (заметка) , Zettel / Notizen
+cross , Uberqueren
 place , Ort
 birthday , Geburtstag
 moment , Moment
-message , Botschaft
+message , Nachricht
 continuation , Fortführung
 department , Abteilung
 equipment , Ausrüstung
@@ -26,17 +26,18 @@ speech , Rede
 button , Knopf
 population , Bevölkerung
 queen , Königin
-citizenship , Staatsbürgerschaft
+citizenship , Staatsangehörigkeit
 language , Sprache
-friend * 2 , freund * 2
-desire , Verlangen
+friend , freund
+demand, Verlangen
+desire , Wunsch
 page , Seite
-homework , Heimarbeit
+homework , Hausaufgabe
 thing , Sache
-place / sight , Ort / Anblick
+place / sight , Ort / Sehenswürdigkeit
 future , Zukunft
 tip , Tipp
 rent , Miete
 topic , Thema
-fun (noun),fun (Substantiv)
+fun (noun),Spaß (Substantiv)
 example , Beispiel
