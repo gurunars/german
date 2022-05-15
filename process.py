@@ -85,7 +85,7 @@ def generate_readme(paths: List[str]):
     yield "# German"
     yield ""
     for path in paths:
-        yield f"[{path}](https://gurunars.com/german{path})"
+        yield f"- [{path}](https://gurunars.com/german{path})"
 
 
 def write_readme(paths: List[str]):
