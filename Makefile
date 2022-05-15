@@ -2,10 +2,10 @@ process: venv
 	venv/bin/python process.py
 
 venv:
-	python -m venv venv
+	virtualenv venv
 	./venv/bin/pip install -r requirements.txt
 
-test:
+test: venv
 	./venv/bin/pytest -svv --doctest-modules process.py
 
 .PHONY: test

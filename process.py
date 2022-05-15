@@ -1,5 +1,6 @@
 #!/usr/bin/python
 import os
+from typing import List
 
 import boto3
 from botocore import translate
@@ -73,12 +74,34 @@ def reverse_csvs(path):
         fil.write("\n".join(rev))
 
 
+def remove_prefix(prefix: str, string: str) -> str:
+    if not string.startswith(prefix):
+        return string
+    return string[len(prefix):]
+
+
+
+def generate_readme(paths: List[str]):
+    yield "# German"
+    yield ""
+    for path in paths:
+        yield f"[{path}](https://gurunars.com/german{path})"
+
+
+def write_readme(paths: List[str]):
+    with open("README.md", "w") as fil:
+        for line in generate_readme(paths):
+            fil.write(f"{line}\n")
+
+
 def main():
     current_dir = os.path.abspath(os.curdir)
     for tfile in csvs(current_dir):
-        validate_file(tfile)
+        #validate_file(tfile)
         #translate_file(tfile)
-        reverse_csvs(tfile)
+        #reverse_csvs(tfile)
+        pass
+    write_readme((remove_prefix(current_dir, p) for p in csvs(current_dir)))
 
 
 if __name__ == "__main__":
