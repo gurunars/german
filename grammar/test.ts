@@ -1,3 +1,5 @@
+import { removeSuffix } from './utils.ts'
+
 type PronounType = {
   first: string
   second: string
@@ -7,4 +9,10 @@ type PronounType = {
 type VerbPresentForms = {
   singluar: PronounType
   plural: PronounType
+}
+
+const getDefaultVerbPresentForms = (
+  infinitive: string,
+) => {
+  const base = removeSuffix(infinitive, 'en')
 }
