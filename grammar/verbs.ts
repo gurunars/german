@@ -1,4 +1,4 @@
-import { ensure, keys, removeSuffix } from './utils.ts'
+import { findFirst, keys, removeSuffix } from './utils.ts'
 import { IRREGULAR_VERBS } from './irregulaVerbs.ts'
 import { VerbPresentForms, VerbPronounCases } from './types.ts'
 
@@ -41,7 +41,7 @@ const PRESENT_ENDINGS_MAP = {
   },
 }
 
-const addEndings = (base: string, endings: VerbPronounCases): VerbPronounCases => ({
+const withEndings = (base: string, endings: VerbPronounCases): VerbPronounCases => ({
   first: base + endings.first,
   second: base + endings.second,
   third: base + endings.third,
@@ -53,16 +53,14 @@ const getSingularIrregularEndingsOverrides = (infinitive: string): Omit<VerbPron
 export const getVerbPresentEndings = (
   infinitive: string,
 ): VerbPresentForms => {
-  const infinitiveEnding = ensure(
-    keys(PRESENT_ENDINGS_MAP).find((it) => infinitive.endsWith(it)),
-  ) as keyof typeof PRESENT_ENDINGS_MAP
+  const infinitiveEnding = findFirst(keys(PRESENT_ENDINGS_MAP), infinitive.endsWith)
   const base = removeSuffix(infinitive, infinitiveEnding)
   const presentEndings = PRESENT_ENDINGS_MAP[infinitiveEnding]
   return {
     singluar: {
-      ...addEndings(base, presentEndings.singular),
+      ...withEndings(base, presentEndings.singular),
       ...getSingularIrregularEndingsOverrides(infinitive),
     },
-    plural: addEndings(base, presentEndings.plural),
+    plural: withEndings(base, presentEndings.plural),
   }
 }
