@@ -5,4 +5,8 @@ export const IRREGULAR_VERBS: Record<string, Omit<VerbPronounCases, 'first'>> = 
     second: 'isst',
     third: 'isst',
   },
+  'fahren': {
+    second: 'fährt',
+    third: 'fahre',
+  },
 }
