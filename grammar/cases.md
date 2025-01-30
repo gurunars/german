@@ -16,40 +16,18 @@
 
 ## Definite
 
-### Articles
+| Gender | Nominativ | Akkusativ | Dativ | Genitiv |
+|---|---|---|---|---|
+| Masculine | der (-e) | den (-en) | dem (-en) | des (-en) |
+| Feminine | die (-e) | die (-e) | der (-en) | der (-en) |
+| Neuter | das (-e) | das (-e) | dem (-en) | des (-en) |
+| Plural | die (-en) | die (-en) | den (-en) | der (-en) |
+
+## Indefinite articles + adjectives
 
 | Gender | Nominativ | Akkusativ | Dativ | Genitiv |
 |---|---|---|---|---|
-| Masculine | der | den | dem | des |
-| Feminine | die | die | der | der |
-| Neuter | das | das | dem | des |
-| Plural | die | die | den | der |
-
-### Adjectives
-
-| Gender | Nominativ | Akkusativ | Dativ | Genitiv |
-|---|---|---|---|---|
-| Masculine | -e | -en | -en | -en |
-| Feminine | -e | -e | -en | -en |
-| Neuter | -e | -e | -en | -en |
-| Plural | -en | -en | -en | -en |
-
-## Indefinite
-
-### Articles
-
-| Gender | Nominativ | Akkusativ | Dativ | Genitiv |
-|---|---|---|---|---|
-| Masculine | ein | einen | einem | eines |
-| Feminine | eine | eine | einer | einer |
-| Neuter | ein | ein | einem | eines |
-| Plural | keine | keine | keinen | keiner |
-
-### Adjectives
-
-| Gender | Nominativ | Akkusativ | Dativ | Genitiv |
-|---|---|---|---|---|
-| Masculine | -er | -en | -em | -en |
-| Feminine | -e | -e | -er | -er |
-| Neuter | -es | -es | -em | -en |
-| Plural | -e | -e | -en | -en |
+| Masculine | ein (-er) | einen (-en) | einem (-em) | eines (-en) |
+| Feminine | eine (-e) | eine (-e) | einer (-er) | einer (-er) |
+| Neuter | ein (-es) | ein (-es) | einem (-em) | eines (-en) |
+| Plural | keine (-e) | keine (-e) | keinen (-en) | keiner (-en) |
