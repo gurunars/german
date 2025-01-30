@@ -2,19 +2,19 @@
 
 ## Pronouns
 
-| Pronoun | Nominativ | Akkusativ | Dativ | Genitiv |
-|---|---|---|---|---|
-| I | ich | mich | mir | meiner |
-| You (informal, singular) | du | dich | dir | deiner |
-| He | er | ihn | ihm | seiner |
-| She | sie | sie | ihr | ihrer |
-| It | es | es | ihm | seiner/seines |
-| We | wir | uns | uns | unser |
-| You (informal, plural) | ihr | euch | euch | euer |
-| They | sie | sie | ihnen | ihrer |
-| You (formal, singular/plural) | Sie | Sie | Ihnen | Ihrer |
+| Pronoun (English) | Nominativ | Akkusativ | Dativ | Genitiv | Reflexive | Possessive Stem |
+|---|---|---|---|---|---|---|
+| I | ich | mich | mir | meiner | mich | mein- |
+| You (informal, singular) | du | dich | dir | deiner | dich | dein- |
+| He | er | ihn | ihm | seiner | sich | sein- |
+| She | sie | sie | ihr | ihrer | sich | ihr- |
+| It | es | es | ihm | seiner/seines | sich | sein- |
+| We | wir | uns | uns | unser | uns | unser- |
+| You (informal, plural) | ihr | euch | euch | euer | euch | euer- |
+| They | sie | sie | ihnen | ihrer | sich | ihr- |
+| You (formal, singular/plural) | Sie | Sie | Ihnen | Ihrer | sich | Ihr- |
 
-## Definite
+## Definite articles + adjectives
 
 | Gender | Nominativ | Akkusativ | Dativ | Genitiv |
 |---|---|---|---|---|
