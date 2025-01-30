@@ -14,7 +14,9 @@
 | They | sie | sie | ihnen | ihrer |
 | You (formal, singular/plural) | Sie | Sie | Ihnen | Ihrer |
 
-## Definite articles
+## Definite
+
+### Articles
 
 | Gender | Nominativ | Akkusativ | Dativ | Genitiv |
 |---|---|---|---|---|
@@ -23,7 +25,18 @@
 | Neuter | das | das | dem | des |
 | Plural | die | die | den | der |
 
-## Indefinite articles
+### Adjectives
+
+| Gender | Nominativ | Akkusativ | Dativ | Genitiv |
+|---|---|---|---|---|
+| Masculine | -e | -en | -en | -en |
+| Feminine | -e | -e | -en | -en |
+| Neuter | -e | -e | -en | -en |
+| Plural | -en | -en | -en | -en |
+
+## Indefinite
+
+### Articles
 
 | Gender | Nominativ | Akkusativ | Dativ | Genitiv |
 |---|---|---|---|---|
@@ -31,3 +44,12 @@
 | Feminine | eine | eine | einer | einer |
 | Neuter | ein | ein | einem | eines |
 | Plural | keine | keine | keinen | keiner |
+
+### Adjectives
+
+| Gender | Nominativ | Akkusativ | Dativ | Genitiv |
+|---|---|---|---|---|
+| Masculine | -er | -en | -em | -en |
+| Feminine | -e | -e | -er | -er |
+| Neuter | -es | -es | -em | -en |
+| Plural | -e | -e | -en | -en |
