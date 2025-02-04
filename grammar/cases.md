@@ -105,6 +105,9 @@ It is more common to indication possesions using **von**
 1. Wir gehen in **das neue Kino**. (We are going to **the new cinema**.) - Neuter accusative
 1. Sie spricht mit **dem freundlichen Mann**. (She is talking to **the friendly man**.) - Masculine dative
 1. Die Kinder spielen in **den grünen Wäldern**. (The children play in **the green forests**.) - Plural dative
+1. **Die großen** Bäume spenden Schatten. (**The big** trees provide shade.) - Nominative plural
+1. Ich mag **die roten** Äpfel. (I like **the red** apples.) - Accusative plural
+1. Die Kinder spielen mit **den bunten** Bällen. (The children play with **the colorful** balls.) - Dative plural
 
 ### Indefinite (articles) + adjectives
 
@@ -124,3 +127,6 @@ It is more common to indication possesions using **von**
 1. **Sein altes Fahrrad** ist kaputt. (**His old bicycle** is broken.) - Neuter nominative, possessive pronoun "sein"
 1. Wir besuchen **ihre große Familie**. (We are visiting **her big family**.) - Feminine accusative, possessive pronoun "ihr"
 1. **Unser kleines Haus** ist gemütlich. (**Our small house** is cozy.) - Neuter nominative, possessive pronoun "unser"
+1. **Meine neuen** Schuhe sind bequem. (**My new** shoes are comfortable.) - Nominative plural, possessive pronoun "mein"
+1. Ich mag **deine roten** Socken. (I like **your red** socks.) - Accusative plural, possessive pronoun "dein"
+1. **Unsere kleinen** Kinder schlafen. (**Our little** children are sleeping.) - Nominative plural, possessive pronoun "unser"
