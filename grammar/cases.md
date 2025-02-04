@@ -2,17 +2,17 @@
 
 ## Pronouns
 
-| Pronoun (English) | Nominativ | Akkusativ | Dativ | Genitiv | Reflexive (Accusative) | Reflexive (Dative) | Possessive Stem |
+| Pronoun | Nominativ | Akkusativ (Personal) | Akkusativ (Reflexiv) | Dativ (Personal) | Dativ (Reflexiv) | Possessive Stem | Possessive Endings |
 |---|---|---|---|---|---|---|---|
-| I | ich | mich | mir | meiner | mich | mir | mein- |
-| You (informal, singular) | du | dich | dir | deiner | dich | dir | dein- |
-| He | er | ihn | ihm | seiner | sich | sich | sein- |
-| She | sie | sie | ihr | ihrer | sich | sich | ihr- |
-| It | es | es | ihm | seiner/seines | sich | sich | sein- |
-| We | wir | uns | uns | unser | uns | uns | unser- |
-| You (informal, plural) | ihr | euch | euch | euer | euch | euch | euer- |
-| They | sie | sie | ihnen | ihrer | sich | sich | ihr- |
-| You (formal, singular/plural) | Sie | Sie | Ihnen | Ihrer | sich | sich | Ihr- |
+| I | ich | mich | mich | mir | mir | mein- |  |
+| You (informal, singular) | du | dich | dich | dir | dir | dein- |  |
+| He | er | ihn | sich | ihm | sich | sein- | -er |
+| She | sie | sie | sich | ihr | sich | ihr- | -e |
+| It | es | es | sich | ihm | sich | sein- | -es |
+| We | wir | uns | uns | uns | uns | unser- |  |
+| You (informal, plural) | ihr | euch | euch | euch | euch | euer- |  |
+| They | sie | sie | sich | ihnen | sich | ihr- | -e |
+| You (formal, singular/plural) | Sie | Sie | sich | Ihnen | sich | Ihr- |  |
 
 ## Definite articles + adjectives
 
