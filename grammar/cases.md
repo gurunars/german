@@ -97,3 +97,19 @@ It is more common to indication possesions using **von**
 3. Der Name **meines Kindes** ist Sophie. (**My child's** name is Sophie.) - Neuter, singular noun, 1st person singular possessive
 4. Die Titel **ihrer Bücher** sind interessant. (**Her books'** titles are interesting.) - Plural noun, 3rd person singular possessive
 5. Das Ende **unserer Reise** ist nah. (**Our journey's** end is near.) - Feminine, singular noun, 1st person plural possessive
+
+### Definite articles + adjectives
+
+1. **Der große Baum** steht im Park. (**The big tree** stands in the park.) - Masculine nominative
+2. Ich mag **die rote Blume**. (I like **the red flower**.) - Feminine accusative
+3. Wir gehen in **das neue Kino**. (We are going to **the new cinema**.) - Neuter accusative
+4. Sie spricht mit **dem freundlichen Mann**. (She is talking to **the friendly man**.) - Masculine dative
+5. Die Kinder spielen in **den grünen Wäldern**. (The children play in **the green forests**.) - Plural dative
+
+### Indefinite articles + adjectives
+
+1. Ich sehe **einen kleinen Hund**. (I see **a small dog**.) - Masculine accusative
+2. Sie kauft **eine schöne Tasche**. (She buys **a beautiful bag**.) - Feminine accusative
+3. Er hat **ein neues Auto**. (He has **a new car**.) - Neuter accusative
+4. Wir brauchen **einen großen Tisch**. (We need **a big table**.) - Masculine accusative
+5.  Sie wohnen in **einem alten Haus**. (They live in **an old house**.) - Neuter dative
