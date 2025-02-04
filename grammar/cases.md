@@ -24,8 +24,6 @@
 * Partitive genitive (expressing part of a whole)
 * Object of certain prepositions (e.g., wegen, während, anstatt)
 
-NOTE: less common in spoken German, often replaced by "von + Dativ."
-
 ## Pronouns
 
 | Pronoun | Nominativ | Akkusativ (Personal) | Akkusativ (Reflexiv) | Dativ (Personal) | Dativ (Reflexiv) | Genetiv Stem | Genetiv Ending |
