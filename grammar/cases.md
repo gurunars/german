@@ -64,6 +64,15 @@ It is more common to indication possesions using **von**
 | Neuter | ein (-es) | ein (-es) | einem (-em) | eines (-en) |
 | Plural | -- (-e) | -- (-e) | -- (-en) | -- (-en) |
 
+### Negation
+
+| Gender | Nominativ | Akkusativ | Dativ | Genitiv |
+|---|---|---|---|---|
+| Masculine | keiner | keinen | keinem | keines |
+| Feminine | keine | keine | keiner | keiner |
+| Neuter | kein | kein | keinem | keines |
+| Plural | keine | keine | keinen | keiner |
+
 ## Examples
 
 ### Nominativ
