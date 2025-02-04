@@ -113,3 +113,11 @@ It is more common to indication possesions using **von**
 3. Er hat **ein neues Auto**. (He has **a new car**.) - Neuter accusative
 4. Wir brauchen **einen großen Tisch**. (We need **a big table**.) - Masculine accusative
 5.  Sie wohnen in **einem alten Haus**. (They live in **an old house**.) - Neuter dative
+
+### Pronouns + adjectives
+
+1. **Mein neuer Computer** ist schnell. (**My new computer** is fast.) - Masculine nominative, possessive pronoun "mein"
+2. Ich mag **deine blaue Jacke**. (I like **your blue jacket**.) - Feminine accusative, possessive pronoun "dein"
+3. **Sein altes Fahrrad** ist kaputt. (**His old bicycle** is broken.) - Neuter nominative, possessive pronoun "sein"
+4. Wir besuchen **ihre große Familie**. (We are visiting **her big family**.) - Feminine accusative, possessive pronoun "ihr"
+5. **Unser kleines Haus** ist gemütlich. (**Our small house** is cozy.) - Neuter nominative, possessive pronoun "unser"
