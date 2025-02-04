@@ -1,8 +1,34 @@
 # Cases
 
+## Nominativ
+
+* Subject of the sentence (who or what is performing the action)
+* Predicate nominative (noun or pronoun following a linking verb like "sein" - to be)
+
+## Akkusativ
+
+* Direct object of a verb (who or what is receiving the action)
+* Object of certain prepositions (e.g., durch, für, gegen, ohne, um)
+* Adverbial accusative (expressing duration or extent)
+
+## Dativ
+
+* Indirect object of a verb (to whom or for whom the action is done)
+* Object of certain prepositions (e.g., aus, bei, mit, nach, seit, von, zu)
+* Object of certain verbs (e.g., helfen, danken, folgen)
+* Dative of possession (with the verb "gehören" - to belong)
+
+## Genitiv
+
+* Possession (whose?)
+* Partitive genitive (expressing part of a whole)
+* Object of certain prepositions (e.g., wegen, während, anstatt)
+
+NOTE: less common in spoken German, often replaced by "von + Dativ."
+
 ## Pronouns
 
-| Pronoun | Nominativ | Akkusativ (Personal) | Akkusativ (Reflexiv) | Dativ (Personal) | Dativ (Reflexiv) | Possessive Stem | Possessive Endings |
+| Pronoun | Nominativ | Akkusativ (Personal) | Akkusativ (Reflexiv) | Dativ (Personal) | Dativ (Reflexiv) | Genetiv Stem | Genetiv Ending |
 |---|---|---|---|---|---|---|---|
 | I | ich | mich | mich | mir | mir | mein- |  |
 | You (informal, singular) | du | dich | dich | dir | dir | dein- |  |
