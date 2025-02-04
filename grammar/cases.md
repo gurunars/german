@@ -62,7 +62,7 @@ It is more common to indication possesions using **von**
 | Masculine | ein (-er) | einen (-en) | einem (-em) | eines (-en) |
 | Feminine | eine (-e) | eine (-e) | einer (-er) | einer (-er) |
 | Neuter | ein (-es) | ein (-es) | einem (-em) | eines (-en) |
-| Plural | keine (-e) | keine (-e) | keinen (-en) | keiner (-en) |
+| Plural | -- (-e) | -- (-e) | -- (-en) | -- (-en) |
 
 ## Examples
 
