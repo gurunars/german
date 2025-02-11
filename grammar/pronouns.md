@@ -3,7 +3,7 @@
 <table>
     <thead>
         <tr>
-            <th rowspan="2">Pronoun</th>
+            <th rowspan="2">Object Pronoun</th>
             <th colspan="5" align="center" valign="center">Singular</th>
             <th colspan="4" align="center" valign="center">Plural</th>
         </tr>
@@ -96,18 +96,6 @@
             <td>Ihr-</td>
         </tr>
         <tr>
-            <td><b>Genetiv Ending</b></td>
-            <td></td>
-            <td></td>
-            <td>-es</td>
-            <td>-er</td>
-            <td>-es</td>
-            <td></td>
-            <td></td>
-            <td>-er</td>
-            <td></td>
-        </tr>
-        <tr>
             <td colspan="100%" align="center" valign="center"><b>Verbs</b></td>
         </tr>
         <tr>
@@ -150,6 +138,27 @@
             <td></td>
             <td></td>
             <td></td>
+        </tr>
+    </tbody>
+</table>
+
+# Genetive subject (3rd person)
+
+<table>
+    <thead>
+        <tr>
+            <th>Masculine</th>
+            <th>Feminine</th>
+            <th>Neutral</th>
+            <th>Plural</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>-es</td>
+            <td>-er</td>
+            <td>-es</td>
+            <td>-er</td>
         </tr>
     </tbody>
 </table>
