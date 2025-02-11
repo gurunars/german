@@ -111,16 +111,33 @@
             <td colspan="100%" align="center" valign="center"><b>Verbs</b></td>
         </tr>
         <tr>
-            <td><b>Present tense</b></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td rowspan="4"><b>Present endings</b></td>
+            <td colspan="9" align="center" valign="center">Stem ends with <b>t</b></td>
+        </tr>
+        <tr>
+            <td>-e</td>
+            <td>-est</td>
+            <td>-et</td>
+            <td>-et</td>
+            <td>-et</td>
+            <td>-en</td>
+            <td>-et</td>
+            <td>-en</td>
+            <td>-en</td>
+        </tr>
+        <tr>
+            <td colspan="9" align="center" valign="center">Stem DOES NOT end with <b>t</b></td>
+        </tr>
+        <tr>
+            <td>-e</td>
+            <td>-st</td>
+            <td>-t</td>
+            <td>-t</td>
+            <td>-t</td>
+            <td>-en</td>
+            <td>-t</td>
+            <td>-en</td>
+            <td>-en</td>
         </tr>
         <tr>
             <td><b>Past tense</b></td>
