@@ -3,7 +3,7 @@
 <table>
     <thead>
         <tr>
-            <th>Pronoun</th>
+            <th rowspan="2">Pronoun</th>
             <th colspan="5" align="center" valign="center">Singular</th>
             <th colspan="4" align="center" valign="center">Plural</th>
         </tr>
@@ -21,7 +21,10 @@
     </thead>
     <tbody>
         <tr>
-            <th>Nominativ</th>
+            <td colspan="100%" align="center" valign="center"><b>Cases</b></td>
+        </tr>
+        <tr>
+            <td><b>Nominativ</b></td>
             <td>ich</td>
             <td>du</td>
             <td>er</td>
@@ -33,7 +36,7 @@
             <td>Sie</td>
         </tr>
         <tr>
-            <th>Akkusativ (Personal)</th>
+            <td><b>Akkusativ (Personal)</b></td>
             <td>mich</td>
             <td>dich</td>
             <td>ihn</td>
@@ -45,7 +48,7 @@
             <td>Sie</td>
         </tr>
         <tr>
-            <th>Akkusativ (Reflexiv)</th>
+            <td><b>Akkusativ (Reflexiv)</b></td>
             <td>mich</td>
             <td>dich</td>
             <td>sich</td>
@@ -57,7 +60,7 @@
             <td>sich</td>
         </tr>
         <tr>
-            <th>Dativ (Personal)</th>
+            <td><b>Dativ (Personal)</b></td>
             <td>mir</td>
             <td>dir</td>
             <td>ihm</td>
@@ -69,7 +72,7 @@
             <td>Ihnen</td>
         </tr>
         <tr>
-            <th>Dativ (Reflexiv)</th>
+            <td><b>Dativ (Reflexiv)</b></td>
             <td>mir</td>
             <td>dir</td>
             <td>sich</td>
@@ -81,7 +84,7 @@
             <td>sich</td>
         </tr>
         <tr>
-            <th>Genetiv Stem</th>
+            <td><b>Genetiv Stem</b></td>
             <td>mein-</td>
             <td>dein-</td>
             <td>sein-</td>
@@ -93,7 +96,7 @@
             <td>Ihr-</td>
         </tr>
         <tr>
-            <th>Genetiv Ending</th>
+            <td><b>Genetiv Ending</b></td>
             <td></td>
             <td></td>
             <td>-es</td>
@@ -105,7 +108,10 @@
             <td></td>
         </tr>
         <tr>
-            <th>Present tense</th>
+            <td colspan="100%" align="center" valign="center"><b>Verbs</b></td>
+        </tr>
+        <tr>
+            <td><b>Present tense</b></td>
             <td></td>
             <td></td>
             <td></td>
@@ -117,7 +123,7 @@
             <td></td>
         </tr>
         <tr>
-            <th>Past tense</th>
+            <td><b>Past tense</b></td>
             <td></td>
             <td></td>
             <td></td>
