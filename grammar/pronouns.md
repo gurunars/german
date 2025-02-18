@@ -140,16 +140,16 @@
             <td>-ten</td>
         </tr>
         <tr>
-            <td><b>Future</b></td>
-            <td>werde <i>I</i></td>
-            <td>wirst <i>I</i></td>
-            <td>wird <i>I</i></td>
-            <td>wird <i>I</i></td>
-            <td>wird <i>I</i></td>
-            <td>werden <i>I</i></td>
-            <td>werdet <i>I</i></td>
-            <td>werden <i>I</i></td>
-            <td>werden <i>I</i></td>
+            <td><b>Future (will *)</b></td>
+            <td>werde</td>
+            <td>wirst</td>
+            <td>wird</td>
+            <td>wird</td>
+            <td>wird</td>
+            <td>werden</td>
+            <td>werdet</td>
+            <td>werden</td>
+            <td>werden</td>
         </tr>
     </tbody>
 </table>
