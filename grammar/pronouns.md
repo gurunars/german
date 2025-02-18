@@ -97,6 +97,8 @@
         </tr>
         <tr>
             <td colspan="100%" align="center" valign="center"><b>Verbs</b></td>
+        </tr>
+        <tr>
             <td colspan="100%" align="center" valign="center"><i>Stemp ends with <b>t</b> -> add *e* before endings starting with *s* or *t* </i></td>
         </tr>
         <tr>
