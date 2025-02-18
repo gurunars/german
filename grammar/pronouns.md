@@ -102,9 +102,6 @@
             <td colspan="100%" align="center" valign="center"><i>Stemp ends with <b>t</b> -> add *e* before endings starting with *s* or *t* </i></td>
         </tr>
         <tr>
-            <td rowspan="4"><b>Present</b></td>
-        </tr>
-        <tr>
             <td><b>Present</b></td>
             <td>-e</td>
             <td>-st</td>
