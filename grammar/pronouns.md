@@ -97,26 +97,13 @@
         </tr>
         <tr>
             <td colspan="100%" align="center" valign="center"><b>Verbs</b></td>
+            <td colspan="100%" align="center" valign="center"><i>Stemp ends with <b>t</b> -> add *e* before endings starting with *s* or *t* </i></td>
         </tr>
         <tr>
             <td rowspan="4"><b>Present</b></td>
-            <td colspan="9" align="center" valign="center">Stem ends with <b>t</b></td>
         </tr>
         <tr>
-            <td>-e</td>
-            <td>-est</td>
-            <td>-et</td>
-            <td>-et</td>
-            <td>-et</td>
-            <td>-en</td>
-            <td>-et</td>
-            <td>-en</td>
-            <td>-en</td>
-        </tr>
-        <tr>
-            <td colspan="9" align="center" valign="center">Stem DOES NOT end with <b>t</b></td>
-        </tr>
-        <tr>
+            <td><b>Present</b></td>
             <td>-e</td>
             <td>-st</td>
             <td>-t</td>
