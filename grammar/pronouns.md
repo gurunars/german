@@ -99,7 +99,7 @@
             <td colspan="100%" align="center" valign="center"><b>Verbs</b></td>
         </tr>
         <tr>
-            <td rowspan="4"><b>Present endings</b></td>
+            <td rowspan="4"><b>Present</b></td>
             <td colspan="9" align="center" valign="center">Stem ends with <b>t</b></td>
         </tr>
         <tr>
@@ -128,16 +128,16 @@
             <td>-en</td>
         </tr>
         <tr>
-            <td><b>Past tense</b></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><b>Past simple</b></td>
+            <td>-te</td>
+            <td>-test</td>
+            <td>-te</td>
+            <td>-te</td>
+            <td>-te</td>
+            <td>-ten</td>
+            <td>-tet</td>
+            <td>-ten</td>
+            <td>-ten</td>
         </tr>
     </tbody>
 </table>
