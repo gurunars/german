@@ -141,15 +141,15 @@
         </tr>
         <tr>
             <td><b>Future</b></td>
-            <td>werde</td>
-            <td>wirst</td>
-            <td>wird</td>
-            <td>wird</td>
-            <td>wird</td>
-            <td>werden</td>
-            <td>werdet</td>
-            <td>werden</td>
-            <td>werden</td>
+            <td>werde [I]</td>
+            <td>wirst [I]</td>
+            <td>wird [I]</td>
+            <td>wird [I]</td>
+            <td>wird [I]</td>
+            <td>werden [I]</td>
+            <td>werdet [I]</td>
+            <td>werden [I]</td>
+            <td>werden [I]</td>
         </tr>
     </tbody>
 </table>
