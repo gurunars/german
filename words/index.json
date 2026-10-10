@@ -1,0 +1,155 @@
+{
+  "name": "German words",
+  "decks": [
+    {
+      "name": "Before B1",
+      "url": "before_b1.json",
+      "cards": 1500
+    },
+    {
+      "name": "Adjectives",
+      "url": "adjectives.json",
+      "cards": 22
+    },
+    {
+      "name": "Animals",
+      "url": "animals.json",
+      "cards": 68
+    },
+    {
+      "name": "Antonyms",
+      "url": "antonyms.json",
+      "cards": 46
+    },
+    {
+      "name": "Clothes",
+      "url": "clothes.json",
+      "cards": 58
+    },
+    {
+      "name": "Colors",
+      "url": "colors.json",
+      "cards": 11
+    },
+    {
+      "name": "Core",
+      "url": "core.json",
+      "cards": 754
+    },
+    {
+      "name": "Crime and money",
+      "url": "crime_and_money.json",
+      "cards": 23
+    },
+    {
+      "name": "Critical",
+      "url": "critical.json",
+      "cards": 99
+    },
+    {
+      "name": "Directions",
+      "url": "directions.json",
+      "cards": 8
+    },
+    {
+      "name": "Entertainment",
+      "url": "entertainment.json",
+      "cards": 8
+    },
+    {
+      "name": "Family",
+      "url": "family.json",
+      "cards": 25
+    },
+    {
+      "name": "Food",
+      "url": "food.json",
+      "cards": 81
+    },
+    {
+      "name": "Fruits and vegetables",
+      "url": "fruits_and_vegetables.json",
+      "cards": 64
+    },
+    {
+      "name": "House and furniture",
+      "url": "house_and_furniture.json",
+      "cards": 82
+    },
+    {
+      "name": "Materials and tools",
+      "url": "materials_and_tools.json",
+      "cards": 47
+    },
+    {
+      "name": "Misc",
+      "url": "misc.json",
+      "cards": 43
+    },
+    {
+      "name": "Nature",
+      "url": "nature.json",
+      "cards": 83
+    },
+    {
+      "name": "Office supplies",
+      "url": "office_supplies.json",
+      "cards": 53
+    },
+    {
+      "name": "Parts of the body",
+      "url": "parts_of_the_body.json",
+      "cards": 72
+    },
+    {
+      "name": "Phrases",
+      "url": "phrases.json",
+      "cards": 71
+    },
+    {
+      "name": "Places",
+      "url": "places.json",
+      "cards": 64
+    },
+    {
+      "name": "Professions",
+      "url": "professions.json",
+      "cards": 71
+    },
+    {
+      "name": "Sports",
+      "url": "sports.json",
+      "cards": 25
+    },
+    {
+      "name": "Time",
+      "url": "time.json",
+      "cards": 95
+    },
+    {
+      "name": "Time prepositions",
+      "url": "time_prepositions.json",
+      "cards": 12
+    },
+    {
+      "name": "Transport",
+      "url": "transport.json",
+      "cards": 11
+    },
+    {
+      "name": "Traveling",
+      "url": "traveling.json",
+      "cards": 33
+    },
+    {
+      "name": "Verbs",
+      "url": "verbs.json",
+      "cards": 247
+    },
+    {
+      "name": "Weather",
+      "url": "weather.json",
+      "cards": 14
+    }
+  ]
+}

@@ -1,64 +1,64 @@
-airport , Flughafen
-embassy , Botschaft
-port , Hafen
-bakery , Bäckerei
-factory , Fabrik
-prison , Gefängnis
-bank , Bank
-farm , Bauernhof
-restaurant , Restaurant
-bar * 2 , Balken * 2
-fountain , Brunnen
-road / street , Straße / Strasse
-garage , Garage
-school , schulen
-hospital , Krankenhaus
-sidewalk , Gehweg
-bench , Bank
-hotel , Hotel
-square , Quadrat
-bookstore , Buchhandlung
-house , Haus
-stable , stabil
-bridge , Brücke
-stadium , Stadion
-building , Gebäude
-inn , Gasthaus
-store , Geschäft
-castle , Schloss
-library , Bibliothek
-suburb , Vorort
-cathedral , Kathedrale
-market , Markt
-theater , Theater
-cemetery , Friedhof
-monument , Denkmal
-tower , Turm
-church , Kirche
-museum , Museum
-town , Stadt
-palace , Palast
-town hall , Rathaus
-consulate , Konsulat
-path , Pfad
-train station , Bahnhof
-corner , Ecke
-pharmacy , Apotheke
-university , Universität
-police station , Polizeirevier
-village , Dorf
-shop , Geschäft
-gym , Fitnessstudio
-job , Aufgabe
-swimming pool , schwimmbad
-cafe , Café
-night club , Nachtclub
-park , Park
-laundry , Wäscherei
-cinema , Kino
-shopping mall , Einkaufszentrum
-ambulance , Krankenwagen
-office , Büro
-railway station , Bahnhof
-bus stop , Haltestelle
-subway , U-Bahn
+airport , der Flughafen
+embassy , die Botschaft
+port , der Hafen
+bakery , die Bäckerei
+factory , die Fabrik
+prison , das Gefängnis
+bank , die Bank
+farm , der Bauernhof
+restaurant , das Restaurant
+bar * 2 , die Bar / die Kneipe
+fountain , der Brunnen
+road / street , die Straße / Strasse
+garage , die Garage
+school , die Schule
+hospital , das Krankenhaus
+sidewalk , der Gehweg
+bench , die Bank
+hotel , das Hotel
+square , der Platz
+bookstore , die Buchhandlung
+house , das Haus
+stable , der Stall
+bridge , die Brücke
+stadium , das Stadion
+building , das Gebäude
+inn , das Gasthaus
+store , das Geschäft
+castle , das Schloss
+library , die Bibliothek
+suburb , der Vorort
+cathedral , die Kathedrale
+market , der Markt
+theater , das Theater
+cemetery , der Friedhof
+monument , das Denkmal
+tower , der Turm
+church , die Kirche
+museum , das Museum
+town , die Stadt
+palace , der Palast
+town hall , das Rathaus
+consulate , das Konsulat
+path , der Pfad
+train station , der Bahnhof
+corner , die Ecke
+pharmacy , die Apotheke
+university , die Universität
+police station , das Polizeirevier
+village , das Dorf
+shop , das Geschäft
+gym , das Fitnessstudio
+job , der Job / die Arbeitsstelle
+swimming pool , das Schwimmbad
+cafe , das Café
+night club , der Nachtclub
+park , der Park
+laundry , die Wäscherei
+cinema , das Kino
+shopping mall , das Einkaufszentrum
+ambulance , der Krankenwagen
+office , das Büro
+railway station , der Bahnhof
+bus stop , die Haltestelle
+subway , die U-Bahn

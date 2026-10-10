@@ -1,0 +1,80 @@
+{
+  "name": "Time prepositions",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I have been doing it since last christmas",
+      "back": "Ich mache es seit letztem Weihnachten",
+      "priority": 0.79,
+      "rank": 16322
+    },
+    {
+      "front": "I have been doing it for 3 weeks",
+      "back": "Ich mache es seit 3 Wochen",
+      "priority": 2.18,
+      "rank": 663
+    },
+    {
+      "front": "I did it 2 days ago",
+      "back": "Ich hab's vor 2 Tagen gemacht",
+      "priority": 2.13,
+      "rank": 749
+    },
+    {
+      "front": "I will do it within 2 months",
+      "back": "Ich mache es innerhalb von 2 Monaten",
+      "priority": 1.65,
+      "rank": 2233
+    },
+    {
+      "front": "I will do it 2 months later",
+      "back": "Ich mache es in 2 Monaten",
+      "priority": 2.02,
+      "rank": 965
+    },
+    {
+      "front": "I did it during traffic jam",
+      "back": "Ich habe es während des Staus gemacht",
+      "priority": 0.5,
+      "rank": 45893
+    },
+    {
+      "front": "I did it in 1989",
+      "back": "Ich habe es 1989 geschafft / gemacht",
+      "priority": 2.7,
+      "rank": 199
+    },
+    {
+      "front": "I did it while she was at home",
+      "back": "Ich habe es gemacht, während sie zu Hause war",
+      "priority": 2.7,
+      "rank": 199
+    },
+    {
+      "front": "I did it after she came",
+      "back": "Ich habe es gemacht, nachdem sie gekommen war",
+      "priority": 2.7,
+      "rank": 199
+    },
+    {
+      "front": "I did it before she came",
+      "back": "Ich habe es gemacht, bevor sie kam",
+      "priority": 2.7,
+      "rank": 199
+    },
+    {
+      "front": "I will be doing it as long as she is at home",
+      "back": "Ich werde es machen, solange sie zu Hause ist",
+      "priority": 2.91,
+      "rank": 123
+    },
+    {
+      "front": "I have been living there from 1975 till 1981",
+      "back": "Ich habe dort von 1975 bis 1981 gelebt",
+      "priority": 1.57,
+      "rank": 2671
+    }
+  ]
+}

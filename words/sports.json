@@ -1,0 +1,156 @@
+{
+  "name": "Sports",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "badminton",
+      "back": "das Badminton",
+      "priority": 0.5
+    },
+    {
+      "front": "baseball",
+      "back": "der Baseball",
+      "priority": 1.29,
+      "rank": 5080
+    },
+    {
+      "front": "basketball",
+      "back": "der Basketball",
+      "priority": 1.13,
+      "rank": 7383
+    },
+    {
+      "front": "bowling",
+      "back": "das Bowling",
+      "priority": 0.89,
+      "rank": 12880
+    },
+    {
+      "front": "boxing",
+      "back": "das Boxen",
+      "priority": 1.21,
+      "rank": 6099
+    },
+    {
+      "front": "cycling",
+      "back": "das Radfahren",
+      "priority": 0.53,
+      "rank": 29331
+    },
+    {
+      "front": "golf",
+      "back": "das Golf",
+      "priority": 1.29,
+      "rank": 5146
+    },
+    {
+      "front": "hockey",
+      "back": "das Eishockey",
+      "priority": 0.64,
+      "rank": 22947
+    },
+    {
+      "front": "ice-skating",
+      "back": "das Eislaufen",
+      "priority": 0.5,
+      "rank": 38062
+    },
+    {
+      "front": "jogging",
+      "back": "das Joggen",
+      "priority": 0.96,
+      "rank": 11058
+    },
+    {
+      "front": "rugby",
+      "back": "das Rugby",
+      "priority": 0.57,
+      "rank": 26652
+    },
+    {
+      "front": "sailing",
+      "back": "das Segeln",
+      "priority": 1.19,
+      "rank": 6436
+    },
+    {
+      "front": "skiing",
+      "back": "das Skifahren",
+      "priority": 0.7,
+      "rank": 19959
+    },
+    {
+      "front": "soccer",
+      "back": "der Fußball",
+      "priority": 1.31,
+      "rank": 4872
+    },
+    {
+      "front": "surfing",
+      "back": "das Surfen",
+      "priority": 0.94,
+      "rank": 11435
+    },
+    {
+      "front": "swimming",
+      "back": "das Schwimmen",
+      "priority": 1.65,
+      "rank": 2231
+    },
+    {
+      "front": "table tennis",
+      "back": "das Tischtennis",
+      "priority": 0.5,
+      "rank": 36552
+    },
+    {
+      "front": "tennis",
+      "back": "das Tennis",
+      "priority": 1.08,
+      "rank": 8326
+    },
+    {
+      "front": "volleyball",
+      "back": "der Volleyball",
+      "priority": 0.57,
+      "rank": 26828
+    },
+    {
+      "front": "wrestling",
+      "back": "das Ringen",
+      "priority": 0.9,
+      "rank": 12472
+    },
+    {
+      "front": "gymnastics",
+      "back": "die Gymnastik",
+      "priority": 0.57,
+      "rank": 26721
+    },
+    {
+      "front": "chess",
+      "back": "das Schach",
+      "priority": 1.26,
+      "rank": 5512
+    },
+    {
+      "front": "skating",
+      "back": "das Schlittschuhlaufen",
+      "priority": 0.5,
+      "rank": 37791
+    },
+    {
+      "front": "bodybuilding",
+      "back": "das Bodybuilding",
+      "priority": 0.5
+    },
+    {
+      "front": "yoga",
+      "back": "das Yoga",
+      "priority": 0.98,
+      "rank": 10507
+    }
+  ]
+}

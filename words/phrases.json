@@ -1,0 +1,428 @@
+{
+  "name": "Phrases",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "change to B",
+      "back": "zu B wechseln",
+      "priority": 1.58,
+      "rank": 2617
+    },
+    {
+      "front": "in such a case",
+      "back": "in einem solchen Fall / in so einem Fall",
+      "priority": 2.46,
+      "rank": 349
+    },
+    {
+      "front": "Have fun!",
+      "back": "Viel Spaß!",
+      "priority": 2.29,
+      "rank": 517
+    },
+    {
+      "front": "a list of ...",
+      "back": "eine Liste von...",
+      "priority": 1.94,
+      "rank": 1144
+    },
+    {
+      "front": "in an hour",
+      "back": "in einer Stunde",
+      "priority": 2.19,
+      "rank": 650
+    },
+    {
+      "front": "look for ...",
+      "back": "nach ... suchen",
+      "priority": 2.35,
+      "rank": 446
+    },
+    {
+      "front": "a note for you",
+      "back": "eine Notiz für dich",
+      "priority": 1.09,
+      "rank": 8189
+    },
+    {
+      "front": "answer the questions",
+      "back": "beantworte die Fragen / beantworten Sie die Fragen",
+      "priority": 1.61,
+      "rank": 2465
+    },
+    {
+      "front": "next time",
+      "back": "nächstes Mal",
+      "priority": 1.94,
+      "rank": 1139
+    },
+    {
+      "front": "opposite to ...",
+      "back": "gegenüber...",
+      "priority": 1.9,
+      "rank": 1257
+    },
+    {
+      "front": "present (show) to ...",
+      "back": "präsentieren (zeigen) ...",
+      "priority": 1.28,
+      "rank": 5198
+    },
+    {
+      "front": "the end of ...",
+      "back": "das Ende von...",
+      "priority": 2.41,
+      "rank": 386
+    },
+    {
+      "front": "instead of ...",
+      "back": "statt...",
+      "priority": 1.86,
+      "rank": 1380
+    },
+    {
+      "front": "look like ...",
+      "back": "aussehen wie ...",
+      "priority": 1.93,
+      "rank": 1173
+    },
+    {
+      "front": "for example",
+      "back": "zum Beispiel",
+      "priority": 1.96,
+      "rank": 1095
+    },
+    {
+      "front": "vice versa",
+      "back": "umgekehrt",
+      "priority": 1.23,
+      "rank": 5933
+    },
+    {
+      "front": "etc.",
+      "back": "usw.",
+      "priority": 0.5
+    },
+    {
+      "front": "like (similar to) ...",
+      "back": "wie (ähnlich)...",
+      "priority": 3.7,
+      "rank": 20
+    },
+    {
+      "front": "return (from vacation) / return (an object)",
+      "back": "zurückkommen / zurückgeben|abgeben (ein Objekt)",
+      "priority": 1.66,
+      "rank": 2208
+    },
+    {
+      "front": "be interested in ...",
+      "back": "sich interessieren für ...",
+      "priority": 1.62,
+      "rank": 2422
+    },
+    {
+      "front": "Would you like (to go)",
+      "back": "Möchtest du (gehen)",
+      "priority": 2.08,
+      "rank": 830
+    },
+    {
+      "front": "as much as possible",
+      "back": "so viel wie möglich",
+      "priority": 2.22,
+      "rank": 605
+    },
+    {
+      "front": "what is the weather?",
+      "back": "wie ist das Wetter?",
+      "priority": 1.6,
+      "rank": 2508
+    },
+    {
+      "front": "when is ur birthday?",
+      "back": "wann ist dein Geburtstag?",
+      "priority": 1.92,
+      "rank": 1192
+    },
+    {
+      "front": "what date is it today?",
+      "back": "welches Datum haben wir heute? / der Wievielte ist heute?",
+      "priority": 1.28,
+      "rank": 5267
+    },
+    {
+      "front": "tell each other",
+      "back": "einander erzählen / sich gegenseitig erzählen",
+      "priority": 1.66,
+      "rank": 2178
+    },
+    {
+      "front": "one of ...",
+      "back": "einer von...",
+      "priority": 2.94,
+      "rank": 114
+    },
+    {
+      "front": "angry about",
+      "back": "wütend über",
+      "priority": 1.96,
+      "rank": 1100
+    },
+    {
+      "front": "disappointed with",
+      "back": "enttäuscht von",
+      "priority": 1.68,
+      "rank": 2102
+    },
+    {
+      "front": "tired of",
+      "back": "genug haben von / satthaben",
+      "priority": 2.54,
+      "rank": 287
+    },
+    {
+      "front": "annoyed with",
+      "back": "genervt von",
+      "priority": 1.07,
+      "rank": 8491
+    },
+    {
+      "front": "look at sth.",
+      "back": "etw. ansehen",
+      "priority": 0.5
+    },
+    {
+      "front": "taste sth.",
+      "back": "etw. probieren / kosten",
+      "priority": 1.77,
+      "rank": 1698
+    },
+    {
+      "front": "listen to",
+      "back": "hören",
+      "priority": 2.62,
+      "rank": 242
+    },
+    {
+      "front": "smell sth.",
+      "back": "etw. riechen / an etw. riechen",
+      "priority": 0.5
+    },
+    {
+      "front": "touch sth.",
+      "back": "etw. berühren",
+      "priority": 0.5
+    },
+    {
+      "front": "see you later",
+      "back": "bis später",
+      "priority": 2.42,
+      "rank": 379
+    },
+    {
+      "front": "he turns 40",
+      "back": "er wird 40",
+      "priority": 3.19,
+      "rank": 65
+    },
+    {
+      "front": "think about it",
+      "back": "denk darüber nach",
+      "priority": 2.05,
+      "rank": 895
+    },
+    {
+      "front": "both A and B",
+      "back": "sowohl A als auch B",
+      "priority": 2.52,
+      "rank": 5479
+    },
+    {
+      "front": "not only A but also B",
+      "back": "nicht nur A, sondern auch B",
+      "priority": 2.04,
+      "rank": 908
+    },
+    {
+      "front": "either A or B",
+      "back": "entweder A oder B",
+      "priority": 1.61,
+      "rank": 2471
+    },
+    {
+      "front": "neither A nor B",
+      "back": "weder A noch B",
+      "priority": 1.61,
+      "rank": 2471
+    },
+    {
+      "front": "be satisfied with ...",
+      "back": "zufrieden sein mit ...",
+      "priority": 1.83,
+      "rank": 1483
+    },
+    {
+      "front": "all over the world",
+      "back": "auf der ganzen Welt",
+      "priority": 2.36,
+      "rank": 436
+    },
+    {
+      "front": "take care of",
+      "back": "sich kümmern um",
+      "priority": 2.11,
+      "rank": 777
+    },
+    {
+      "front": "in any case / in all cases",
+      "back": "auf jeden Fall / in allen Fällen",
+      "priority": 2.44,
+      "rank": 365
+    },
+    {
+      "front": "stay on top",
+      "back": "an der Spitze bleiben",
+      "priority": 1.59,
+      "rank": 2588
+    },
+    {
+      "front": "to be good at / in",
+      "back": "gut in ... sein",
+      "priority": 3.25,
+      "rank": 56
+    },
+    {
+      "front": "look forward to",
+      "back": "sich freuen auf",
+      "priority": 1.78,
+      "rank": 1641
+    },
+    {
+      "front": "do you know anyone who...",
+      "back": "kennst du jemanden, der...",
+      "priority": 4.0,
+      "rank": 10
+    },
+    {
+      "front": "friend of ...",
+      "back": "Freund von...",
+      "priority": 2.59,
+      "rank": 260
+    },
+    {
+      "front": "I was forced",
+      "back": "ich wurde gezwungen",
+      "priority": 1.62,
+      "rank": 2418
+    },
+    {
+      "front": "what is this?",
+      "back": "was ist das?",
+      "priority": 3.92,
+      "rank": 12
+    },
+    {
+      "front": "be late",
+      "back": "zu spät kommen / sich verspäten",
+      "priority": 2.36,
+      "rank": 437
+    },
+    {
+      "front": "do sth. for a while",
+      "back": "etw. eine Weile machen",
+      "priority": 0.5
+    },
+    {
+      "front": "two cups a day",
+      "back": "zwei Tassen pro Tag",
+      "priority": 0.98,
+      "rank": 10376
+    },
+    {
+      "front": "anything else",
+      "back": "sonst noch etwas / noch etwas anderes",
+      "priority": 2.53,
+      "rank": 294
+    },
+    {
+      "front": "a map of the city",
+      "back": "eine Karte der Stadt",
+      "priority": 1.92,
+      "rank": 1208
+    },
+    {
+      "front": "have been planning for a long time",
+      "back": "schon lange planen",
+      "priority": 1.47,
+      "rank": 3377
+    },
+    {
+      "front": "end up with ...",
+      "back": "am Ende ... haben",
+      "priority": 2.41,
+      "rank": 386
+    },
+    {
+      "front": "for real",
+      "back": "echt / wirklich",
+      "priority": 2.9,
+      "rank": 125
+    },
+    {
+      "front": "same to you",
+      "back": "gleichfalls / dir auch",
+      "priority": 3.28,
+      "rank": 53
+    },
+    {
+      "front": "take it easy",
+      "back": "immer mit der Ruhe / nimm's locker",
+      "priority": 2.33,
+      "rank": 468
+    },
+    {
+      "front": "have sth. to do with ...",
+      "back": "etw. mit ... zu tun haben",
+      "priority": 0.5
+    },
+    {
+      "front": "he / she is ashamed of",
+      "back": "er / sie schämt sich für",
+      "priority": 3.85,
+      "rank": 14
+    },
+    {
+      "front": "get started",
+      "back": "loslegen",
+      "priority": 1.15,
+      "rank": 7061
+    },
+    {
+      "front": "many people",
+      "back": "viele Leute",
+      "priority": 2.59,
+      "rank": 257
+    },
+    {
+      "front": "move by yourself",
+      "back": "sich allein bewegen",
+      "priority": 1.89,
+      "rank": 1278
+    },
+    {
+      "front": "in such case",
+      "back": "in einem solchen Fall",
+      "priority": 1.72,
+      "rank": 1901
+    },
+    {
+      "front": "have fun!",
+      "back": "viel Spaß!",
+      "priority": 2.29,
+      "rank": 517
+    }
+  ]
+}

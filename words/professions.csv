@@ -1,72 +1,72 @@
-actor , Schauspieler
-actress , Darstellerin
-author , Autor
-baker , Bäcker
-baker's shop , Bäckerladen
-bookseller , Buchhändler
-bookshop , Buchhandlung
-businessman , Geschäftsmann
-butcher , Metzger
-pharmacist , Apotheker
-pharmacy , Apotheke
-cook , Koch
-customer , Kundin
-dentist , Zahnarzt
-doctor , fälschen
-employee , Mitarbeiter
-engineer , Ingenieur
-fisherman , Fischer
-gardener , Gärtner
-hairdresser , Friseur
-jeweler , Juwelier
-journalist , Journalist
-judge , Richter
-lawyer , Anwalt
-mechanic , Mechaniker
-musician , Musiker
-nurse , Krankenschwester
-official , offiziell
-optician (eye doctor),Optiker (Augenarzt)
-painter , Maler
-photographer , Fotograf
-policeman , Polizist
-postman , Postbote
-priest , Priester
-publisher , Herausgeber
-scientist , Wissenschaftlerin
-shoemaker , Schuhmacher
-singer , Sänger
-student , Student
-surgeon , Chirurgen
-tailor , Schneider
-teacher , Lehrer
-translato$1 , $2bersetzer
-workman , Arbeiter
-shop assistant , Verkäuferin
-driver , Treiber
-cashier , Kassierer
-employer , Arbeitgeber
-employee , Mitarbeiter
-programmer , Programmierer
-architect , Architekt
-stewardess , Stewardess
-blacksmith , Schmied
-carpenter , Zimmermann
-manager , Manager
-leader , Anführer
-crowd , Menge
-artist , Künstler
-pilot , Pilot
-guard , bewachen
-bartender , Barkeeper
-dancer , Tänzer
-composer , Komponist
-writer , Schriftsteller
-movie director , Filmregisseur
-sportsman , Sportler
-player , Spieler
-buyer , käufer
-fireman , Feuerwehrmann
-magician , Zauberer
-coach , Trainer
-farmer , Landwirt
+actor , der Schauspieler / die Schauspielerin
+actress , die Schauspielerin
+author , der Autor / die Autorin
+baker , der Bäcker / die Bäckerin
+baker's shop , die Bäckerei
+bookseller , der Buchhändler / die Buchhändlerin
+bookshop , die Buchhandlung
+businessman , der Geschäftsmann / die Geschäftsfrau
+butcher , der Metzger / die Metzgerin
+pharmacist , der Apotheker / die Apothekerin
+pharmacy , die Apotheke
+cook , der Koch / die Köchin
+customer , der Kunde / die Kundin
+dentist , der Zahnarzt / die Zahnärztin
+doctor , der Arzt / die Ärztin
+employee , der Mitarbeiter / die Mitarbeiterin
+engineer , der Ingenieur / die Ingenieurin
+fisherman , der Fischer / die Fischerin
+gardener , der Gärtner / die Gärtnerin
+hairdresser , der Friseur / die Friseurin
+jeweler , der Juwelier / die Juwelierin
+journalist , der Journalist / die Journalistin
+judge , der Richter / die Richterin
+lawyer , der Anwalt / die Anwältin
+mechanic , der Mechaniker / die Mechanikerin
+musician , der Musiker / die Musikerin
+nurse , der Krankenpfleger / die Krankenschwester
+official , der Beamte / die Beamtin
+optician , der Optiker / die Optikerin
+painter , der Maler / die Malerin
+photographer , der Fotograf / die Fotografin
+policeman , der Polizist / die Polizistin
+postman , der Postbote / die Postbotin
+priest , der Priester / die Priesterin
+publisher , der Verleger / die Verlegerin
+scientist , der Wissenschaftler / die Wissenschaftlerin
+shoemaker , der Schuhmacher / die Schuhmacherin
+singer , der Sänger / die Sängerin
+student , der Student / die Studentin
+surgeon , der Chirurg / die Chirurgin
+tailor , der Schneider / die Schneiderin
+teacher , der Lehrer / die Lehrerin
+translator , der Übersetzer / die Übersetzerin
+workman , der Arbeiter / die Arbeiterin
+shop assistant , der Verkäufer / die Verkäuferin
+driver , der Fahrer / die Fahrerin
+cashier , der Kassierer / die Kassiererin
+employer , der Arbeitgeber / die Arbeitgeberin
+employee , der Mitarbeiter / die Mitarbeiterin
+programmer , der Programmierer / die Programmiererin
+architect , der Architekt / die Architektin
+stewardess , die Stewardess / die Flugbegleiterin
+blacksmith , der Schmied / die Schmiedin
+carpenter , der Zimmermann
+manager , der Manager / die Managerin
+leader , der Anführer / die Anführerin
+crowd , die Menge
+artist , der Künstler / die Künstlerin
+pilot , der Pilot / die Pilotin
+guard , der Wächter / die Wächterin
+bartender , der Barkeeper / die Barkeeperin
+dancer , der Tänzer / die Tänzerin
+composer , der Komponist / die Komponistin
+writer , der Schriftsteller / die Schriftstellerin
+movie director , der Filmregisseur / die Filmregisseurin
+sportsman , der Sportler / die Sportlerin
+player , der Spieler / die Spielerin
+buyer , der Käufer / die Käuferin
+fireman , der Feuerwehrmann / die Feuerwehrfrau
+magician , der Zauberer / die Zauberin
+coach , der Trainer / die Trainerin
+farmer , der Landwirt / die Landwirtin

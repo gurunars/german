@@ -1,0 +1,504 @@
+{
+  "name": "Nature",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "air",
+      "back": "die Luft",
+      "priority": 2.15,
+      "rank": 707
+    },
+    {
+      "front": "bank (river)",
+      "back": "das Ufer",
+      "priority": 1.21,
+      "rank": 6174
+    },
+    {
+      "front": "bay",
+      "back": "die Bucht",
+      "priority": 1.08,
+      "rank": 8342
+    },
+    {
+      "front": "beach",
+      "back": "der Strand",
+      "priority": 1.72,
+      "rank": 1910
+    },
+    {
+      "front": "branch",
+      "back": "der Ast",
+      "priority": 0.96,
+      "rank": 10843
+    },
+    {
+      "front": "bush",
+      "back": "der Busch",
+      "priority": 1.16,
+      "rank": 6868
+    },
+    {
+      "front": "cape",
+      "back": "das Kap",
+      "priority": 0.58,
+      "rank": 26361
+    },
+    {
+      "front": "cave",
+      "back": "die Höhle",
+      "priority": 1.46,
+      "rank": 3429
+    },
+    {
+      "front": "climate",
+      "back": "das Klima",
+      "priority": 0.93,
+      "rank": 11650
+    },
+    {
+      "front": "cloud",
+      "back": "die Wolke",
+      "priority": 1.13,
+      "rank": 7397
+    },
+    {
+      "front": "coast",
+      "back": "die Küste",
+      "priority": 1.39,
+      "rank": 4071
+    },
+    {
+      "front": "comet",
+      "back": "der Komet",
+      "priority": 0.76,
+      "rank": 17225
+    },
+    {
+      "front": "country(side)",
+      "back": "das Land",
+      "priority": 2.29,
+      "rank": 512
+    },
+    {
+      "front": "current",
+      "back": "die Strömung",
+      "priority": 0.87,
+      "rank": 13356
+    },
+    {
+      "front": "darkness",
+      "back": "die Dunkelheit",
+      "priority": 1.57,
+      "rank": 2701
+    },
+    {
+      "front": "desert",
+      "back": "die Wüste",
+      "priority": 1.5,
+      "rank": 3148
+    },
+    {
+      "front": "dust",
+      "back": "der Staub",
+      "priority": 1.49,
+      "rank": 3264
+    },
+    {
+      "front": "earth",
+      "back": "die Erde",
+      "priority": 2.11,
+      "rank": 783
+    },
+    {
+      "front": "east",
+      "back": "der Osten",
+      "priority": 1.51,
+      "rank": 3086
+    },
+    {
+      "front": "field",
+      "back": "das Feld",
+      "priority": 1.56,
+      "rank": 2767
+    },
+    {
+      "front": "flower",
+      "back": "die Blume",
+      "priority": 1.33,
+      "rank": 4646
+    },
+    {
+      "front": "foam",
+      "back": "der Schaum",
+      "priority": 0.87,
+      "rank": 13517
+    },
+    {
+      "front": "fog",
+      "back": "der Nebel",
+      "priority": 1.34,
+      "rank": 4602
+    },
+    {
+      "front": "forest",
+      "back": "der Wald",
+      "priority": 1.86,
+      "rank": 1383
+    },
+    {
+      "front": "fresh water",
+      "back": "das Süßwasser",
+      "priority": 0.5,
+      "rank": 46931
+    },
+    {
+      "front": "frost",
+      "back": "der Frost",
+      "priority": 1.21,
+      "rank": 6217
+    },
+    {
+      "front": "grass",
+      "back": "das Gras",
+      "priority": 1.6,
+      "rank": 2529
+    },
+    {
+      "front": "gulf",
+      "back": "der Golf",
+      "priority": 1.29,
+      "rank": 5146
+    },
+    {
+      "front": "hail",
+      "back": "der Hagel",
+      "priority": 0.53,
+      "rank": 29380
+    },
+    {
+      "front": "hay",
+      "back": "das Heu",
+      "priority": 0.95,
+      "rank": 11325
+    },
+    {
+      "front": "hill",
+      "back": "der Hügel",
+      "priority": 1.37,
+      "rank": 4288
+    },
+    {
+      "front": "ice",
+      "back": "das Eis",
+      "priority": 1.83,
+      "rank": 1480
+    },
+    {
+      "front": "island",
+      "back": "die Insel",
+      "priority": 1.82,
+      "rank": 1527
+    },
+    {
+      "front": "jungle",
+      "back": "der Dschungel",
+      "priority": 1.31,
+      "rank": 4948
+    },
+    {
+      "front": "lake",
+      "back": "der See",
+      "priority": 1.8,
+      "rank": 1597
+    },
+    {
+      "front": "leaf",
+      "back": "das Blatt",
+      "priority": 1.31,
+      "rank": 4946
+    },
+    {
+      "front": "light",
+      "back": "das Licht",
+      "priority": 2.11,
+      "rank": 770
+    },
+    {
+      "front": "lightning",
+      "back": "der Blitz",
+      "priority": 1.37,
+      "rank": 4308
+    },
+    {
+      "front": "meadow",
+      "back": "die Wiese",
+      "priority": 0.95,
+      "rank": 11171
+    },
+    {
+      "front": "moon",
+      "back": "der Mond",
+      "priority": 1.69,
+      "rank": 2057
+    },
+    {
+      "front": "mountain",
+      "back": "der Berg",
+      "priority": 1.62,
+      "rank": 2393
+    },
+    {
+      "front": "mountain range",
+      "back": "der Gebirgszug",
+      "priority": 0.5
+    },
+    {
+      "front": "nature",
+      "back": "die Natur",
+      "priority": 1.74,
+      "rank": 1813
+    },
+    {
+      "front": "north",
+      "back": "der Norden",
+      "priority": 1.62,
+      "rank": 2379
+    },
+    {
+      "front": "peninsula",
+      "back": "die Halbinsel",
+      "priority": 0.57,
+      "rank": 27159
+    },
+    {
+      "front": "plain",
+      "back": "die Ebene",
+      "priority": 1.36,
+      "rank": 4339
+    },
+    {
+      "front": "planet",
+      "back": "der Planet",
+      "priority": 1.5,
+      "rank": 3170
+    },
+    {
+      "front": "plant",
+      "back": "die Pflanze",
+      "priority": 1.16,
+      "rank": 6909
+    },
+    {
+      "front": "pond",
+      "back": "der Teich",
+      "priority": 1.04,
+      "rank": 9064
+    },
+    {
+      "front": "rain",
+      "back": "der Regen",
+      "priority": 1.66,
+      "rank": 2163
+    },
+    {
+      "front": "rainbow",
+      "back": "der Regenbogen",
+      "priority": 0.9,
+      "rank": 12504
+    },
+    {
+      "front": "river",
+      "back": "der Fluss",
+      "priority": 1.71,
+      "rank": 1954
+    },
+    {
+      "front": "rock",
+      "back": "der Felsen / der Stein",
+      "priority": 1.75,
+      "rank": 1795
+    },
+    {
+      "front": "root",
+      "back": "die Wurzel",
+      "priority": 0.86,
+      "rank": 13929
+    },
+    {
+      "front": "rose",
+      "back": "die Rose",
+      "priority": 1.76,
+      "rank": 1726
+    },
+    {
+      "front": "salt water",
+      "back": "das Salzwasser",
+      "priority": 0.66,
+      "rank": 21742
+    },
+    {
+      "front": "sand",
+      "back": "der Sand",
+      "priority": 1.48,
+      "rank": 3337
+    },
+    {
+      "front": "sea",
+      "back": "das Meer",
+      "priority": 1.79,
+      "rank": 1622
+    },
+    {
+      "front": "shadow",
+      "back": "der Schatten",
+      "priority": 1.68,
+      "rank": 2084
+    },
+    {
+      "front": "sky",
+      "back": "der Himmel",
+      "priority": 2.11,
+      "rank": 772
+    },
+    {
+      "front": "snow",
+      "back": "der Schnee",
+      "priority": 1.55,
+      "rank": 2822
+    },
+    {
+      "front": "soil",
+      "back": "der Boden",
+      "priority": 2.07,
+      "rank": 846
+    },
+    {
+      "front": "south",
+      "back": "der Süden",
+      "priority": 1.57,
+      "rank": 2661
+    },
+    {
+      "front": "spring (water)",
+      "back": "die Quelle",
+      "priority": 1.59,
+      "rank": 2582
+    },
+    {
+      "front": "star",
+      "back": "der Stern",
+      "priority": 1.5,
+      "rank": 3187
+    },
+    {
+      "front": "stem",
+      "back": "der Stiel / der Stängel",
+      "priority": 0.8,
+      "rank": 15681
+    },
+    {
+      "front": "storm",
+      "back": "der Sturm",
+      "priority": 1.58,
+      "rank": 2632
+    },
+    {
+      "front": "strait",
+      "back": "die Meerenge",
+      "priority": 0.5,
+      "rank": 48415
+    },
+    {
+      "front": "stream",
+      "back": "der Bach",
+      "priority": 1.31,
+      "rank": 4915
+    },
+    {
+      "front": "sun",
+      "back": "die Sonne",
+      "priority": 1.91,
+      "rank": 1218
+    },
+    {
+      "front": "sunflower",
+      "back": "die Sonnenblume",
+      "priority": 0.5
+    },
+    {
+      "front": "thunder",
+      "back": "der Donner",
+      "priority": 1.23,
+      "rank": 5826
+    },
+    {
+      "front": "tornado",
+      "back": "der Tornado",
+      "priority": 0.87,
+      "rank": 13398
+    },
+    {
+      "front": "tree",
+      "back": "der Baum",
+      "priority": 1.76,
+      "rank": 1741
+    },
+    {
+      "front": "valley",
+      "back": "das Tal",
+      "priority": 1.36,
+      "rank": 4355
+    },
+    {
+      "front": "view",
+      "back": "die Aussicht",
+      "priority": 1.38,
+      "rank": 4168
+    },
+    {
+      "front": "water",
+      "back": "das Wasser",
+      "priority": 2.31,
+      "rank": 491
+    },
+    {
+      "front": "waterfall",
+      "back": "der Wasserfall",
+      "priority": 0.87,
+      "rank": 13486
+    },
+    {
+      "front": "wave",
+      "back": "die Welle",
+      "priority": 1.18,
+      "rank": 6605
+    },
+    {
+      "front": "weather",
+      "back": "das Wetter",
+      "priority": 1.6,
+      "rank": 2508
+    },
+    {
+      "front": "west",
+      "back": "der Westen",
+      "priority": 1.58,
+      "rank": 2603
+    },
+    {
+      "front": "wind",
+      "back": "der Wind",
+      "priority": 1.8,
+      "rank": 1599
+    },
+    {
+      "front": "world",
+      "back": "die Welt",
+      "priority": 2.57,
+      "rank": 270
+    }
+  ]
+}

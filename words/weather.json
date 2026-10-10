@@ -1,0 +1,91 @@
+{
+  "name": "Weather",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "How's the weather today?",
+      "back": "Wie ist das Wetter heute?",
+      "priority": 1.6,
+      "rank": 2508
+    },
+    {
+      "front": "It's cold",
+      "back": "Es ist kalt",
+      "priority": 1.97,
+      "rank": 1065
+    },
+    {
+      "front": "beautiful",
+      "back": "wunderschön / schön",
+      "priority": 2.75,
+      "rank": 179
+    },
+    {
+      "front": "hot",
+      "back": "heiß",
+      "priority": 1.97,
+      "rank": 1063
+    },
+    {
+      "front": "clear",
+      "back": "klar",
+      "priority": 2.76,
+      "rank": 175
+    },
+    {
+      "front": "icy",
+      "back": "eisig",
+      "priority": 0.54,
+      "rank": 29078
+    },
+    {
+      "front": "warm",
+      "back": "warm",
+      "priority": 1.68,
+      "rank": 2074
+    },
+    {
+      "front": "windy",
+      "back": "windig",
+      "priority": 0.69,
+      "rank": 20572
+    },
+    {
+      "front": "cloudy",
+      "back": "wolkig",
+      "priority": 0.5
+    },
+    {
+      "front": "humid",
+      "back": "feucht",
+      "priority": 1.16,
+      "rank": 6851
+    },
+    {
+      "front": "foggy",
+      "back": "neblig",
+      "priority": 0.5,
+      "rank": 40259
+    },
+    {
+      "front": "It's snowing",
+      "back": "Es schneit",
+      "priority": 0.93,
+      "rank": 11881
+    },
+    {
+      "front": "It's raining",
+      "back": "Es regnet",
+      "priority": 1.32,
+      "rank": 4768
+    },
+    {
+      "front": "It's freezing",
+      "back": "Es ist eiskalt",
+      "priority": 1.16,
+      "rank": 6904
+    }
+  ]
+}

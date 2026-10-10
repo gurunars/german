@@ -1,0 +1,56 @@
+{
+  "name": "Directions",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "North",
+      "back": "der Norden / im Norden",
+      "priority": 1.62,
+      "rank": 2379
+    },
+    {
+      "front": "South",
+      "back": "der Süden / im Süden",
+      "priority": 1.57,
+      "rank": 2661
+    },
+    {
+      "front": "East",
+      "back": "der Osten / im Osten",
+      "priority": 1.51,
+      "rank": 3086
+    },
+    {
+      "front": "West",
+      "back": "der Westen / im Westen",
+      "priority": 1.58,
+      "rank": 2603
+    },
+    {
+      "front": "Northeast",
+      "back": "der Nordosten / im Nordosten",
+      "priority": 0.64,
+      "rank": 22724
+    },
+    {
+      "front": "Northwest",
+      "back": "der Nordwesten / im Nordwesten",
+      "priority": 0.64,
+      "rank": 22993
+    },
+    {
+      "front": "Southeast",
+      "back": "der Südosten / im Südosten",
+      "priority": 0.52,
+      "rank": 30387
+    },
+    {
+      "front": "Southwest",
+      "back": "der Südwesten / im Südwesten",
+      "priority": 0.65,
+      "rank": 22246
+    }
+  ]
+}

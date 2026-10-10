@@ -1,0 +1,201 @@
+{
+  "name": "Traveling",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "arrival",
+      "back": "die Ankunft",
+      "priority": 1.4,
+      "rank": 3947
+    },
+    {
+      "front": "baggage",
+      "back": "das Gepäck",
+      "priority": 1.46,
+      "rank": 3448
+    },
+    {
+      "front": "border",
+      "back": "die Grenze",
+      "priority": 1.69,
+      "rank": 2041
+    },
+    {
+      "front": "compartment",
+      "back": "das Abteil",
+      "priority": 0.8,
+      "rank": 15955
+    },
+    {
+      "front": "connection",
+      "back": "die Verbindung",
+      "priority": 1.95,
+      "rank": 1115
+    },
+    {
+      "front": "customs",
+      "back": "der Zoll",
+      "priority": 1.13,
+      "rank": 7479
+    },
+    {
+      "front": "delay",
+      "back": "die Verspätung",
+      "priority": 1.34,
+      "rank": 4521
+    },
+    {
+      "front": "departure",
+      "back": "die Abfahrt / der Abflug (plane)",
+      "priority": 1.0,
+      "rank": 9905
+    },
+    {
+      "front": "engine",
+      "back": "der Motor",
+      "priority": 1.63,
+      "rank": 2367
+    },
+    {
+      "front": "entrance",
+      "back": "der Eingang",
+      "priority": 1.35,
+      "rank": 4420
+    },
+    {
+      "front": "exit",
+      "back": "der Ausgang",
+      "priority": 1.39,
+      "rank": 4041
+    },
+    {
+      "front": "guard (on a train)",
+      "back": "der Schaffner / die Schaffnerin",
+      "priority": 0.7,
+      "rank": 19732
+    },
+    {
+      "front": "information bureau",
+      "back": "das Informationsbüro",
+      "priority": 0.5
+    },
+    {
+      "front": "lavatory",
+      "back": "die Toilette",
+      "priority": 1.67,
+      "rank": 2139
+    },
+    {
+      "front": "passenger",
+      "back": "der Passagier / die Passagierin",
+      "priority": 0.99,
+      "rank": 10121
+    },
+    {
+      "front": "passport",
+      "back": "der Reisepass",
+      "priority": 0.7,
+      "rank": 19897
+    },
+    {
+      "front": "platform",
+      "back": "der Bahnsteig",
+      "priority": 0.77,
+      "rank": 17093
+    },
+    {
+      "front": "porter",
+      "back": "der Gepäckträger",
+      "priority": 0.5,
+      "rank": 32130
+    },
+    {
+      "front": "railroad car",
+      "back": "der Eisenbahnwagen / der Waggon",
+      "priority": 0.7,
+      "rank": 20034
+    },
+    {
+      "front": "railway",
+      "back": "die Eisenbahn",
+      "priority": 1.04,
+      "rank": 9222
+    },
+    {
+      "front": "return ticket",
+      "back": "die Rückfahrkarte",
+      "priority": 0.5
+    },
+    {
+      "front": "seat",
+      "back": "der Sitz",
+      "priority": 1.5,
+      "rank": 3173
+    },
+    {
+      "front": "sleeping car",
+      "back": "der Schlafwagen",
+      "priority": 0.5
+    },
+    {
+      "front": "station",
+      "back": "der Bahnhof",
+      "priority": 1.43,
+      "rank": 3751
+    },
+    {
+      "front": "station master",
+      "back": "der Bahnhofsvorsteher",
+      "priority": 0.5
+    },
+    {
+      "front": "stop",
+      "back": "die Haltestelle",
+      "priority": 0.75,
+      "rank": 17741
+    },
+    {
+      "front": "suitcase",
+      "back": "der Koffer",
+      "priority": 1.72,
+      "rank": 1884
+    },
+    {
+      "front": "ticket",
+      "back": "die Fahrkarte",
+      "priority": 0.97,
+      "rank": 10762
+    },
+    {
+      "front": "ticket office",
+      "back": "der Fahrkartenschalter",
+      "priority": 0.5
+    },
+    {
+      "front": "time table",
+      "back": "der Fahrplan",
+      "priority": 0.56,
+      "rank": 27731
+    },
+    {
+      "front": "trunk",
+      "back": "der Kofferraum",
+      "priority": 1.37,
+      "rank": 4300
+    },
+    {
+      "front": "visa",
+      "back": "das Visum",
+      "priority": 0.84,
+      "rank": 14453
+    },
+    {
+      "front": "waiting room",
+      "back": "der Wartesaal / der Warteraum",
+      "priority": 0.52,
+      "rank": 30235
+    }
+  ]
+}

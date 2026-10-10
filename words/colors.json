@@ -1,0 +1,74 @@
+{
+  "name": "Colors",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "purple",
+      "back": "lila",
+      "priority": 1.27,
+      "rank": 5387
+    },
+    {
+      "front": "pink",
+      "back": "pink",
+      "priority": 1.11,
+      "rank": 7706
+    },
+    {
+      "front": "orange",
+      "back": "orange",
+      "priority": 1.22,
+      "rank": 6022
+    },
+    {
+      "front": "blue",
+      "back": "blau",
+      "priority": 1.59,
+      "rank": 2566
+    },
+    {
+      "front": "yellow",
+      "back": "gelb",
+      "priority": 1.23,
+      "rank": 5955
+    },
+    {
+      "front": "red",
+      "back": "rot",
+      "priority": 1.71,
+      "rank": 1930
+    },
+    {
+      "front": "black",
+      "back": "schwarz",
+      "priority": 1.72,
+      "rank": 1912
+    },
+    {
+      "front": "brown",
+      "back": "braun",
+      "priority": 1.21,
+      "rank": 6208
+    },
+    {
+      "front": "gray",
+      "back": "grau",
+      "priority": 1.12,
+      "rank": 7631
+    },
+    {
+      "front": "white",
+      "back": "weiß",
+      "priority": 3.15,
+      "rank": 70
+    },
+    {
+      "front": "green",
+      "back": "grün",
+      "priority": 1.53,
+      "rank": 2943
+    }
+  ]
+}

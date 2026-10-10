@@ -1,0 +1,391 @@
+{
+  "name": "Places",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "airport",
+      "back": "der Flughafen",
+      "priority": 1.66,
+      "rank": 2171
+    },
+    {
+      "front": "embassy",
+      "back": "die Botschaft",
+      "priority": 1.66,
+      "rank": 2202
+    },
+    {
+      "front": "port",
+      "back": "der Hafen",
+      "priority": 1.48,
+      "rank": 3345
+    },
+    {
+      "front": "bakery",
+      "back": "die Bäckerei",
+      "priority": 0.94,
+      "rank": 11355
+    },
+    {
+      "front": "factory",
+      "back": "die Fabrik",
+      "priority": 1.47,
+      "rank": 3361
+    },
+    {
+      "front": "prison",
+      "back": "das Gefängnis",
+      "priority": 2.1,
+      "rank": 790
+    },
+    {
+      "front": "bank",
+      "back": "die Bank",
+      "priority": 1.91,
+      "rank": 1229
+    },
+    {
+      "front": "farm",
+      "back": "der Bauernhof",
+      "priority": 0.84,
+      "rank": 14585
+    },
+    {
+      "front": "restaurant",
+      "back": "das Restaurant",
+      "priority": 1.74,
+      "rank": 1810
+    },
+    {
+      "front": "bar",
+      "back": "die Bar / die Kneipe",
+      "priority": 3.9,
+      "rank": 1126
+    },
+    {
+      "front": "fountain",
+      "back": "der Brunnen",
+      "priority": 1.3,
+      "rank": 4974
+    },
+    {
+      "front": "road / street",
+      "back": "die Straße / Strasse",
+      "priority": 2.14,
+      "rank": 732
+    },
+    {
+      "front": "garage",
+      "back": "die Garage",
+      "priority": 1.46,
+      "rank": 3442
+    },
+    {
+      "front": "school",
+      "back": "die Schule",
+      "priority": 2.25,
+      "rank": 559
+    },
+    {
+      "front": "hospital",
+      "back": "das Krankenhaus",
+      "priority": 2.09,
+      "rank": 811
+    },
+    {
+      "front": "sidewalk",
+      "back": "der Gehweg",
+      "priority": 0.58,
+      "rank": 26374
+    },
+    {
+      "front": "bench",
+      "back": "die Bank",
+      "priority": 1.91,
+      "rank": 1229
+    },
+    {
+      "front": "hotel",
+      "back": "das Hotel",
+      "priority": 2.03,
+      "rank": 937
+    },
+    {
+      "front": "square",
+      "back": "der Platz",
+      "priority": 2.21,
+      "rank": 614
+    },
+    {
+      "front": "bookstore",
+      "back": "die Buchhandlung",
+      "priority": 0.6,
+      "rank": 25204
+    },
+    {
+      "front": "house",
+      "back": "das Haus",
+      "priority": 2.59,
+      "rank": 255
+    },
+    {
+      "front": "stable",
+      "back": "der Stall",
+      "priority": 1.23,
+      "rank": 5829
+    },
+    {
+      "front": "bridge",
+      "back": "die Brücke",
+      "priority": 1.78,
+      "rank": 1656
+    },
+    {
+      "front": "stadium",
+      "back": "das Stadion",
+      "priority": 1.02,
+      "rank": 9558
+    },
+    {
+      "front": "building",
+      "back": "das Gebäude",
+      "priority": 1.87,
+      "rank": 1336
+    },
+    {
+      "front": "inn",
+      "back": "das Gasthaus",
+      "priority": 0.84,
+      "rank": 14484
+    },
+    {
+      "front": "store",
+      "back": "das Geschäft",
+      "priority": 2.06,
+      "rank": 878
+    },
+    {
+      "front": "castle",
+      "back": "das Schloss",
+      "priority": 1.77,
+      "rank": 1681
+    },
+    {
+      "front": "library",
+      "back": "die Bibliothek",
+      "priority": 1.43,
+      "rank": 3730
+    },
+    {
+      "front": "suburb",
+      "back": "der Vorort",
+      "priority": 0.7,
+      "rank": 19937
+    },
+    {
+      "front": "cathedral",
+      "back": "die Kathedrale",
+      "priority": 0.74,
+      "rank": 18168
+    },
+    {
+      "front": "market",
+      "back": "der Markt",
+      "priority": 1.51,
+      "rank": 3073
+    },
+    {
+      "front": "theater",
+      "back": "das Theater",
+      "priority": 1.67,
+      "rank": 2162
+    },
+    {
+      "front": "cemetery",
+      "back": "der Friedhof",
+      "priority": 1.39,
+      "rank": 4104
+    },
+    {
+      "front": "monument",
+      "back": "das Denkmal",
+      "priority": 0.87,
+      "rank": 13337
+    },
+    {
+      "front": "tower",
+      "back": "der Turm",
+      "priority": 1.31,
+      "rank": 4899
+    },
+    {
+      "front": "church",
+      "back": "die Kirche",
+      "priority": 1.93,
+      "rank": 1185
+    },
+    {
+      "front": "museum",
+      "back": "das Museum",
+      "priority": 1.41,
+      "rank": 3915
+    },
+    {
+      "front": "town",
+      "back": "die Stadt",
+      "priority": 2.43,
+      "rank": 369
+    },
+    {
+      "front": "palace",
+      "back": "der Palast",
+      "priority": 1.45,
+      "rank": 3569
+    },
+    {
+      "front": "town hall",
+      "back": "das Rathaus",
+      "priority": 1.09,
+      "rank": 8056
+    },
+    {
+      "front": "consulate",
+      "back": "das Konsulat",
+      "priority": 0.91,
+      "rank": 12197
+    },
+    {
+      "front": "path",
+      "back": "der Pfad",
+      "priority": 1.24,
+      "rank": 5694
+    },
+    {
+      "front": "train station",
+      "back": "der Bahnhof",
+      "priority": 1.43,
+      "rank": 3751
+    },
+    {
+      "front": "corner",
+      "back": "die Ecke",
+      "priority": 1.78,
+      "rank": 1655
+    },
+    {
+      "front": "pharmacy",
+      "back": "die Apotheke",
+      "priority": 1.12,
+      "rank": 7610
+    },
+    {
+      "front": "university",
+      "back": "die Universität",
+      "priority": 1.43,
+      "rank": 3698
+    },
+    {
+      "front": "police station",
+      "back": "das Polizeirevier",
+      "priority": 0.98,
+      "rank": 10488
+    },
+    {
+      "front": "village",
+      "back": "das Dorf",
+      "priority": 1.82,
+      "rank": 1531
+    },
+    {
+      "front": "shop",
+      "back": "das Geschäft",
+      "priority": 2.06,
+      "rank": 878
+    },
+    {
+      "front": "gym",
+      "back": "das Fitnessstudio",
+      "priority": 0.88,
+      "rank": 13090
+    },
+    {
+      "front": "job",
+      "back": "der Job / die Arbeitsstelle",
+      "priority": 2.35,
+      "rank": 451
+    },
+    {
+      "front": "swimming pool",
+      "back": "das Schwimmbad",
+      "priority": 0.81,
+      "rank": 15433
+    },
+    {
+      "front": "cafe",
+      "back": "das Café",
+      "priority": 0.5
+    },
+    {
+      "front": "night club",
+      "back": "der Nachtclub",
+      "priority": 0.86,
+      "rank": 13887
+    },
+    {
+      "front": "park",
+      "back": "der Park",
+      "priority": 1.8,
+      "rank": 1574
+    },
+    {
+      "front": "laundry",
+      "back": "die Wäscherei",
+      "priority": 0.8,
+      "rank": 15747
+    },
+    {
+      "front": "cinema",
+      "back": "das Kino",
+      "priority": 1.64,
+      "rank": 2305
+    },
+    {
+      "front": "shopping mall",
+      "back": "das Einkaufszentrum",
+      "priority": 1.11,
+      "rank": 7759
+    },
+    {
+      "front": "ambulance",
+      "back": "der Krankenwagen",
+      "priority": 1.55,
+      "rank": 2815
+    },
+    {
+      "front": "office",
+      "back": "das Büro",
+      "priority": 2.18,
+      "rank": 660
+    },
+    {
+      "front": "railway station",
+      "back": "der Bahnhof",
+      "priority": 1.43,
+      "rank": 3751
+    },
+    {
+      "front": "bus stop",
+      "back": "die Haltestelle",
+      "priority": 0.75,
+      "rank": 17741
+    },
+    {
+      "front": "subway",
+      "back": "die U-Bahn",
+      "priority": 1.09,
+      "rank": 8060
+    }
+  ]
+}

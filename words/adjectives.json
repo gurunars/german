@@ -1,0 +1,139 @@
+{
+  "name": "Adjectives",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "usual ~ unusual",
+      "back": "üblich ~ ungewöhnlich",
+      "priority": 1.44,
+      "rank": 3618
+    },
+    {
+      "front": "tough",
+      "back": "zäh / hart",
+      "priority": 2.09,
+      "rank": 816
+    },
+    {
+      "front": "damaged / injured",
+      "back": "beschädigt / verletzt (insulted)",
+      "priority": 2.09,
+      "rank": 820
+    },
+    {
+      "front": "happy / satisfied",
+      "back": "glücklich / zufrieden",
+      "priority": 2.22,
+      "rank": 597
+    },
+    {
+      "front": "handsome",
+      "back": "gutaussehend",
+      "priority": 0.84,
+      "rank": 14550
+    },
+    {
+      "front": "available / vacant / free",
+      "back": "frei",
+      "priority": 2.22,
+      "rank": 602
+    },
+    {
+      "front": "handmade",
+      "back": "handgemacht",
+      "priority": 0.5
+    },
+    {
+      "front": "cozy / homely",
+      "back": "gemütlich / häuslich",
+      "priority": 1.37,
+      "rank": 4228
+    },
+    {
+      "front": "quiet",
+      "back": "ruhig",
+      "priority": 2.36,
+      "rank": 434
+    },
+    {
+      "front": "exciting",
+      "back": "aufregend / spannend",
+      "priority": 1.55,
+      "rank": 2804
+    },
+    {
+      "front": "fun",
+      "back": "lustig / spaßig",
+      "priority": 2.07,
+      "rank": 860
+    },
+    {
+      "front": "disgusting",
+      "back": "ekelhaft",
+      "priority": 1.32,
+      "rank": 4751
+    },
+    {
+      "front": "flat",
+      "back": "flach",
+      "priority": 1.13,
+      "rank": 7420
+    },
+    {
+      "front": "famous",
+      "back": "berühmt / populär",
+      "priority": 1.47,
+      "rank": 3405
+    },
+    {
+      "front": "good - better - best",
+      "back": "gut - besser - am besten, (food) \"Das Essen schmeckt gut\"",
+      "priority": 2.22,
+      "rank": 609
+    },
+    {
+      "front": "bad - worse - worst (conditions)",
+      "back": "schlimm - schlimmer - am schlimmsten",
+      "priority": 1.37,
+      "rank": 4233
+    },
+    {
+      "front": "bad - worse - worst (objects)",
+      "back": "schlecht - schlechter - am schlechtesten",
+      "priority": 0.76,
+      "rank": 17388
+    },
+    {
+      "front": "few - fewer",
+      "back": "wenige - weniger",
+      "priority": 1.53,
+      "rank": 2930
+    },
+    {
+      "front": "small - smaller - smallest",
+      "back": "klein - kleiner - am kleinsten",
+      "priority": 0.94,
+      "rank": 11413
+    },
+    {
+      "front": "many - more - most (countable)",
+      "back": "viele - mehr - die meisten",
+      "priority": 2.05,
+      "rank": 894
+    },
+    {
+      "front": "much - more - most (uncountable)",
+      "back": "viel - mehr - am meisten",
+      "priority": 2.05,
+      "rank": 894
+    },
+    {
+      "front": "old - older - oldest",
+      "back": "alt - älter - am ältesten",
+      "priority": 1.11,
+      "rank": 7726
+    }
+  ]
+}

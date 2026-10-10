@@ -1,0 +1,577 @@
+{
+  "name": "Time",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "Monday",
+      "back": "der Montag",
+      "priority": 1.62,
+      "rank": 2417
+    },
+    {
+      "front": "Tuesday",
+      "back": "der Dienstag",
+      "priority": 1.5,
+      "rank": 3159
+    },
+    {
+      "front": "Wednesday",
+      "back": "der Mittwoch",
+      "priority": 1.39,
+      "rank": 4089
+    },
+    {
+      "front": "Thursday",
+      "back": "der Donnerstag",
+      "priority": 1.49,
+      "rank": 3240
+    },
+    {
+      "front": "Friday",
+      "back": "der Freitag",
+      "priority": 1.68,
+      "rank": 2097
+    },
+    {
+      "front": "Saturday",
+      "back": "der Samstag",
+      "priority": 1.63,
+      "rank": 2365
+    },
+    {
+      "front": "Sunday",
+      "back": "der Sonntag",
+      "priority": 1.64,
+      "rank": 2267
+    },
+    {
+      "front": "morning",
+      "back": "der Morgen / der Vormittag",
+      "priority": 2.75,
+      "rank": 176
+    },
+    {
+      "front": "afternoon",
+      "back": "der Nachmittag",
+      "priority": 1.76,
+      "rank": 1749
+    },
+    {
+      "front": "evening",
+      "back": "der Abend",
+      "priority": 2.6,
+      "rank": 254
+    },
+    {
+      "front": "night",
+      "back": "die Nacht",
+      "priority": 2.66,
+      "rank": 219
+    },
+    {
+      "front": "today",
+      "back": "heute",
+      "priority": 2.85,
+      "rank": 142
+    },
+    {
+      "front": "tomorrow",
+      "back": "morgen",
+      "priority": 2.75,
+      "rank": 176
+    },
+    {
+      "front": "day after tomorrow",
+      "back": "übermorgen",
+      "priority": 1.24,
+      "rank": 5792
+    },
+    {
+      "front": "tonight",
+      "back": "heute Abend",
+      "priority": 2.6,
+      "rank": 254
+    },
+    {
+      "front": "yesterday",
+      "back": "gestern",
+      "priority": 2.32,
+      "rank": 475
+    },
+    {
+      "front": "day before yesterday",
+      "back": "vorgestern",
+      "priority": 1.07,
+      "rank": 8579
+    },
+    {
+      "front": "last night",
+      "back": "letzte Nacht",
+      "priority": 2.42,
+      "rank": 381
+    },
+    {
+      "front": "this morning",
+      "back": "heute Morgen",
+      "priority": 2.75,
+      "rank": 176
+    },
+    {
+      "front": "last year",
+      "back": "letztes Jahr",
+      "priority": 1.91,
+      "rank": 1221
+    },
+    {
+      "front": "this month",
+      "back": "diesen Monat",
+      "priority": 1.99,
+      "rank": 1027
+    },
+    {
+      "front": "weekend",
+      "back": "das Wochenende",
+      "priority": 1.83,
+      "rank": 1486
+    },
+    {
+      "front": "January",
+      "back": "der Januar",
+      "priority": 1.21,
+      "rank": 6148
+    },
+    {
+      "front": "February",
+      "back": "der Februar",
+      "priority": 1.19,
+      "rank": 6445
+    },
+    {
+      "front": "March",
+      "back": "der März",
+      "priority": 1.25,
+      "rank": 5624
+    },
+    {
+      "front": "April",
+      "back": "der April",
+      "priority": 1.52,
+      "rank": 2994
+    },
+    {
+      "front": "May",
+      "back": "der Mai",
+      "priority": 1.43,
+      "rank": 3699
+    },
+    {
+      "front": "June",
+      "back": "der Juni",
+      "priority": 1.34,
+      "rank": 4580
+    },
+    {
+      "front": "July",
+      "back": "der Juli",
+      "priority": 1.4,
+      "rank": 4001
+    },
+    {
+      "front": "August",
+      "back": "der August",
+      "priority": 1.4,
+      "rank": 3960
+    },
+    {
+      "front": "September",
+      "back": "der September",
+      "priority": 1.35,
+      "rank": 4474
+    },
+    {
+      "front": "October",
+      "back": "der Oktober",
+      "priority": 1.3,
+      "rank": 4967
+    },
+    {
+      "front": "November",
+      "back": "der November",
+      "priority": 1.27,
+      "rank": 5324
+    },
+    {
+      "front": "December",
+      "back": "der Dezember",
+      "priority": 1.27,
+      "rank": 5394
+    },
+    {
+      "front": "day",
+      "back": "der Tag",
+      "priority": 2.74,
+      "rank": 184
+    },
+    {
+      "front": "week",
+      "back": "die Woche",
+      "priority": 2.3,
+      "rank": 502
+    },
+    {
+      "front": "month",
+      "back": "der Monat",
+      "priority": 1.99,
+      "rank": 1027
+    },
+    {
+      "front": "year",
+      "back": "das Jahr",
+      "priority": 2.33,
+      "rank": 465
+    },
+    {
+      "front": "daily",
+      "back": "täglich",
+      "priority": 1.53,
+      "rank": 2972
+    },
+    {
+      "front": "weekly",
+      "back": "wöchentlich",
+      "priority": 0.67,
+      "rank": 21469
+    },
+    {
+      "front": "monthly",
+      "back": "monatlich",
+      "priority": 0.67,
+      "rank": 21159
+    },
+    {
+      "front": "yearly",
+      "back": "jährlich",
+      "priority": 0.82,
+      "rank": 15220
+    },
+    {
+      "front": "Winter",
+      "back": "der Winter",
+      "priority": 1.59,
+      "rank": 2556
+    },
+    {
+      "front": "Spring",
+      "back": "der Frühling",
+      "priority": 1.3,
+      "rank": 4987
+    },
+    {
+      "front": "Summer",
+      "back": "der Sommer",
+      "priority": 1.75,
+      "rank": 1781
+    },
+    {
+      "front": "Fall",
+      "back": "der Herbst",
+      "priority": 1.24,
+      "rank": 5804
+    },
+    {
+      "front": "on Monday / ... / Sunday",
+      "back": "am Montag / ... / am Sonntag",
+      "priority": 1.64,
+      "rank": 2267
+    },
+    {
+      "front": "in (the) winter",
+      "back": "im Winter",
+      "priority": 1.59,
+      "rank": 2556
+    },
+    {
+      "front": "in (the) spring",
+      "back": "im Frühling",
+      "priority": 1.3,
+      "rank": 4987
+    },
+    {
+      "front": "in (the) summer",
+      "back": "im Sommer",
+      "priority": 1.75,
+      "rank": 1781
+    },
+    {
+      "front": "in (the) fall",
+      "back": "im Herbst",
+      "priority": 1.24,
+      "rank": 5804
+    },
+    {
+      "front": "What time is it?",
+      "back": "Wie viel Uhr ist es?",
+      "priority": 2.43,
+      "rank": 368
+    },
+    {
+      "front": "It is 2 AM",
+      "back": "Es ist 2 Uhr morgens",
+      "priority": 1.73,
+      "rank": 1842
+    },
+    {
+      "front": "6:20",
+      "back": "6:20",
+      "priority": 0.5
+    },
+    {
+      "front": "half past 3",
+      "back": "halb 4",
+      "priority": 1.81,
+      "rank": 1544
+    },
+    {
+      "front": "quarter past 4",
+      "back": "Viertel nach 4",
+      "priority": 1.51,
+      "rank": 3115
+    },
+    {
+      "front": "quarter to 5",
+      "back": "Viertel vor 5",
+      "priority": 1.51,
+      "rank": 3115
+    },
+    {
+      "front": "10 past 11",
+      "back": "10 nach 11",
+      "priority": 3.14,
+      "rank": 73
+    },
+    {
+      "front": "20 to 7",
+      "back": "20 vor 7",
+      "priority": 3.04,
+      "rank": 92
+    },
+    {
+      "front": "noon",
+      "back": "der Mittag",
+      "priority": 1.57,
+      "rank": 2697
+    },
+    {
+      "front": "midnight",
+      "back": "die Mitternacht",
+      "priority": 1.55,
+      "rank": 2791
+    },
+    {
+      "front": "in the morning",
+      "back": "morgens",
+      "priority": 1.73,
+      "rank": 1842
+    },
+    {
+      "front": "in the evening",
+      "back": "am Abend",
+      "priority": 2.6,
+      "rank": 254
+    },
+    {
+      "front": "It's exactly...",
+      "back": "Es ist genau...",
+      "priority": 2.77,
+      "rank": 171
+    },
+    {
+      "front": "About / around 8.",
+      "back": "etwa / gegen 8.",
+      "priority": 2.54,
+      "rank": 290
+    },
+    {
+      "front": "At 8.",
+      "back": "Um 8 Uhr.",
+      "priority": 2.43,
+      "rank": 368
+    },
+    {
+      "front": "early",
+      "back": "früh",
+      "priority": 2.2,
+      "rank": 626
+    },
+    {
+      "front": "late (later)",
+      "back": "spät (später)",
+      "priority": 2.36,
+      "rank": 437
+    },
+    {
+      "front": "have been planning for a long time",
+      "back": "planen schon lange",
+      "priority": 1.47,
+      "rank": 3377
+    },
+    {
+      "front": "once a day",
+      "back": "einmal täglich",
+      "priority": 3.05,
+      "rank": 2972
+    },
+    {
+      "front": "once a week",
+      "back": "einmal pro Woche",
+      "priority": 1.84,
+      "rank": 1455
+    },
+    {
+      "front": "once a year",
+      "back": "einmal im Jahr",
+      "priority": 4.67,
+      "rank": 465
+    },
+    {
+      "front": "once a month",
+      "back": "einmal im Monat",
+      "priority": 1.99,
+      "rank": 1027
+    },
+    {
+      "front": "once an hour",
+      "back": "einmal pro Stunde",
+      "priority": 1.84,
+      "rank": 1455
+    },
+    {
+      "front": "once a minute",
+      "back": "einmal pro Minute",
+      "priority": 1.84,
+      "rank": 1455
+    },
+    {
+      "front": "before (time)",
+      "back": "vor (Zeit)",
+      "priority": 3.04,
+      "rank": 92
+    },
+    {
+      "front": "until",
+      "back": "bis",
+      "priority": 5.62,
+      "rank": 155
+    },
+    {
+      "front": "since ...",
+      "back": "seit...",
+      "priority": 2.63,
+      "rank": 234
+    },
+    {
+      "front": "... ago",
+      "back": "vor ...",
+      "priority": 3.04,
+      "rank": 92
+    },
+    {
+      "front": "during (during the week)",
+      "back": "während (unter der Woche)",
+      "priority": 2.27,
+      "rank": 537
+    },
+    {
+      "front": "(I will do it) in an hour",
+      "back": "(Ich mache es) in einer Stunde",
+      "priority": 2.19,
+      "rank": 650
+    },
+    {
+      "front": "(I've been living there)for a year",
+      "back": "(Ich lebe dort) seit einem Jahr",
+      "priority": 2.33,
+      "rank": 465
+    },
+    {
+      "front": "already",
+      "back": "bereits",
+      "priority": 2.18,
+      "rank": 655
+    },
+    {
+      "front": "soon",
+      "back": "bald",
+      "priority": 2.41,
+      "rank": 388
+    },
+    {
+      "front": "seldom",
+      "back": "selten",
+      "priority": 1.63,
+      "rank": 2352
+    },
+    {
+      "front": "sometimes",
+      "back": "manchmal",
+      "priority": 2.27,
+      "rank": 531
+    },
+    {
+      "front": "always",
+      "back": "immer",
+      "priority": 3.05,
+      "rank": 89
+    },
+    {
+      "front": "ever (time)",
+      "back": "jemals (Zeit)",
+      "priority": 2.03,
+      "rank": 929
+    },
+    {
+      "front": "finally / at last",
+      "back": "schließlich / endlich",
+      "priority": 2.32,
+      "rank": 480
+    },
+    {
+      "front": "at the same time",
+      "back": "zur gleichen Zeit",
+      "priority": 1.82,
+      "rank": 1503
+    },
+    {
+      "front": "often",
+      "back": "häufig",
+      "priority": 1.27,
+      "rank": 5353
+    },
+    {
+      "front": "while",
+      "back": "während",
+      "priority": 2.27,
+      "rank": 537
+    },
+    {
+      "front": "immediately",
+      "back": "sofort",
+      "priority": 2.51,
+      "rank": 306
+    },
+    {
+      "front": "still",
+      "back": "noch",
+      "priority": 3.38,
+      "rank": 42
+    },
+    {
+      "front": "nowadays",
+      "back": "heutzutage",
+      "priority": 1.54,
+      "rank": 2872
+    }
+  ]
+}

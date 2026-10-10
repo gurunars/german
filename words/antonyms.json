@@ -1,0 +1,284 @@
+{
+  "name": "Antonyms",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "alive ~ dead",
+      "back": "lebendig (Er lebt noch, Er ist gestorben) ~ tot",
+      "priority": 2.56,
+      "rank": 275
+    },
+    {
+      "front": "ancient ~ modern",
+      "back": "antik ~ modern",
+      "priority": 1.03,
+      "rank": 9353
+    },
+    {
+      "front": "backward ~ forward",
+      "back": "rückwärts ~ vorwärts",
+      "priority": 1.76,
+      "rank": 1737
+    },
+    {
+      "front": "bad ~ good",
+      "back": "schlecht ~ gut",
+      "priority": 3.28,
+      "rank": 52
+    },
+    {
+      "front": "boring ~ interesting",
+      "back": "langweilig ~ interessant",
+      "priority": 1.89,
+      "rank": 1287
+    },
+    {
+      "front": "bright ~ dark",
+      "back": "hell ~ dunkel",
+      "priority": 1.68,
+      "rank": 2100
+    },
+    {
+      "front": "cheap ~ expensive",
+      "back": "preiswert (выгодный) / billig (дешевый) ~ teuer",
+      "priority": 1.67,
+      "rank": 2154
+    },
+    {
+      "front": "clever ~ stupid",
+      "back": "klug ~ dumm",
+      "priority": 2.02,
+      "rank": 955
+    },
+    {
+      "front": "cruel ~ kind",
+      "back": "grausam ~ freundlich",
+      "priority": 1.67,
+      "rank": 2124
+    },
+    {
+      "front": "dangerous ~ safe",
+      "back": "gefährlich ~ sicher",
+      "priority": 2.82,
+      "rank": 151
+    },
+    {
+      "front": "deep",
+      "back": "tief",
+      "priority": 1.95,
+      "rank": 1116
+    },
+    {
+      "front": "difficult ~ easy",
+      "back": "schwierig ~ einfach",
+      "priority": 2.87,
+      "rank": 134
+    },
+    {
+      "front": "clean ~ dirty",
+      "back": "sauber ~ schmutzig",
+      "priority": 1.88,
+      "rank": 1315
+    },
+    {
+      "front": "up ~ down",
+      "back": "hoch / rauf ~ runter",
+      "priority": 2.38,
+      "rank": 413
+    },
+    {
+      "front": "wet ~ dry",
+      "back": "nass ~ trocken",
+      "priority": 1.45,
+      "rank": 3550
+    },
+    {
+      "front": "full ~ empty",
+      "back": "voll ~ leer",
+      "priority": 2.17,
+      "rank": 673
+    },
+    {
+      "front": "near ~ far",
+      "back": "nah ~ weit",
+      "priority": 2.4,
+      "rank": 397
+    },
+    {
+      "front": "thin ~ fat (man)",
+      "back": "schlank ~ dick (полненький) / fett",
+      "priority": 1.67,
+      "rank": 2127
+    },
+    {
+      "front": "innocent ~ guilty",
+      "back": "unschuldig ~ schuldig",
+      "priority": 1.88,
+      "rank": 1327
+    },
+    {
+      "front": "sad ~ happy",
+      "back": "traurig ~ glücklich",
+      "priority": 2.22,
+      "rank": 597
+    },
+    {
+      "front": "soft ~ hard",
+      "back": "weich ~ hart",
+      "priority": 2.09,
+      "rank": 816
+    },
+    {
+      "front": "sick ~ healthy",
+      "back": "krank ~ gesund",
+      "priority": 2.14,
+      "rank": 724
+    },
+    {
+      "front": "low ~ high (price)",
+      "back": "niedrig ~ hoch",
+      "priority": 2.29,
+      "rank": 507
+    },
+    {
+      "front": "tall ~ short",
+      "back": "groß / hoch ~ klein / niedrig",
+      "priority": 2.29,
+      "rank": 507
+    },
+    {
+      "front": "cold<warm<hot",
+      "back": "kalt<warm<heiß",
+      "priority": 1.97,
+      "rank": 1063
+    },
+    {
+      "front": "early ~ late",
+      "back": "früh ~ spät",
+      "priority": 2.36,
+      "rank": 437
+    },
+    {
+      "front": "heavy ~ lightweight",
+      "back": "schwer ~ leicht",
+      "priority": 2.31,
+      "rank": 486
+    },
+    {
+      "front": "short ~ long",
+      "back": "kurz ~ lang",
+      "priority": 2.35,
+      "rank": 442
+    },
+    {
+      "front": "tight ~ loose",
+      "back": "eng ~ weit",
+      "priority": 2.4,
+      "rank": 397
+    },
+    {
+      "front": "tense (movie) ~ relaxed",
+      "back": "spannend ~ locker",
+      "priority": 1.64,
+      "rank": 2280
+    },
+    {
+      "front": "silent ~ loud",
+      "back": "leise ~ laut",
+      "priority": 2.11,
+      "rank": 778
+    },
+    {
+      "front": "old ~ new",
+      "back": "alt ~ neu",
+      "priority": 2.22,
+      "rank": 599
+    },
+    {
+      "front": "closed ~ open",
+      "back": "geschlossen ~ geöffnet",
+      "priority": 1.76,
+      "rank": 1728
+    },
+    {
+      "front": "shy ~ outgoing",
+      "back": "schüchtern ~ kontaktfreudig / aufgeschlossen",
+      "priority": 1.37,
+      "rank": 4252
+    },
+    {
+      "front": "rich ~ poor",
+      "back": "reich ~ arm",
+      "priority": 1.99,
+      "rank": 1034
+    },
+    {
+      "front": "fake ~ real (coin)",
+      "back": "gefälscht / unecht ~ echt",
+      "priority": 4.88,
+      "rank": 362
+    },
+    {
+      "front": "fake ~ real (person)",
+      "back": "falsch / unaufrichtig ~ echt / aufrichtig",
+      "priority": 2.44,
+      "rank": 362
+    },
+    {
+      "front": "right ~ left",
+      "back": "rechts ~ links",
+      "priority": 1.93,
+      "rank": 1177
+    },
+    {
+      "front": "right ~ wrong",
+      "back": "richtig ~ falsch",
+      "priority": 2.62,
+      "rank": 239
+    },
+    {
+      "front": "blunt ~ sharp",
+      "back": "stumpf ~ scharf",
+      "priority": 1.65,
+      "rank": 2221
+    },
+    {
+      "front": "fast ~ slow",
+      "back": "schnell ~ langsam",
+      "priority": 2.56,
+      "rank": 273
+    },
+    {
+      "front": "big ~ small",
+      "back": "groß ~ klein",
+      "priority": 2.14,
+      "rank": 721
+    },
+    {
+      "front": "short ~ tall",
+      "back": "klein ~ groß",
+      "priority": 2.14,
+      "rank": 721
+    },
+    {
+      "front": "beautiful ~ ugly",
+      "back": "schön ~ hässlich",
+      "priority": 2.75,
+      "rank": 179
+    },
+    {
+      "front": "strong ~ weak",
+      "back": "stark ~ schwach",
+      "priority": 2.08,
+      "rank": 828
+    },
+    {
+      "front": "old ~ young",
+      "back": "alt ~ jung",
+      "priority": 2.22,
+      "rank": 599
+    }
+  ]
+}

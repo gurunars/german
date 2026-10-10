@@ -1,0 +1,414 @@
+{
+  "name": "Animals",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "animal",
+      "back": "das Tier",
+      "priority": 1.76,
+      "rank": 1721
+    },
+    {
+      "front": "ant",
+      "back": "die Ameise",
+      "priority": 0.71,
+      "rank": 19671
+    },
+    {
+      "front": "bat",
+      "back": "die Fledermaus",
+      "priority": 0.94,
+      "rank": 11540
+    },
+    {
+      "front": "bear",
+      "back": "der Bär",
+      "priority": 1.45,
+      "rank": 3525
+    },
+    {
+      "front": "bee",
+      "back": "die Biene",
+      "priority": 0.97,
+      "rank": 10833
+    },
+    {
+      "front": "bird",
+      "back": "der Vogel",
+      "priority": 1.72,
+      "rank": 1908
+    },
+    {
+      "front": "bull",
+      "back": "der Stier",
+      "priority": 1.02,
+      "rank": 9592
+    },
+    {
+      "front": "butterfly",
+      "back": "der Schmetterling",
+      "priority": 1.04,
+      "rank": 9102
+    },
+    {
+      "front": "cat",
+      "back": "die Katze",
+      "priority": 1.75,
+      "rank": 1772
+    },
+    {
+      "front": "chicken",
+      "back": "das Huhn",
+      "priority": 1.38,
+      "rank": 4140
+    },
+    {
+      "front": "cockroach",
+      "back": "die Kakerlake",
+      "priority": 0.8,
+      "rank": 15965
+    },
+    {
+      "front": "cow",
+      "back": "die Kuh",
+      "priority": 1.58,
+      "rank": 2657
+    },
+    {
+      "front": "crocodile",
+      "back": "das Krokodil",
+      "priority": 0.88,
+      "rank": 13106
+    },
+    {
+      "front": "crow",
+      "back": "die Krähe",
+      "priority": 0.81,
+      "rank": 15553
+    },
+    {
+      "front": "deer",
+      "back": "der Hirsch",
+      "priority": 0.99,
+      "rank": 10307
+    },
+    {
+      "front": "dog",
+      "back": "der Hund",
+      "priority": 2.17,
+      "rank": 676
+    },
+    {
+      "front": "donkey",
+      "back": "der Esel",
+      "priority": 1.35,
+      "rank": 4455
+    },
+    {
+      "front": "duck",
+      "back": "die Ente",
+      "priority": 1.25,
+      "rank": 5655
+    },
+    {
+      "front": "eagle",
+      "back": "der Adler",
+      "priority": 1.25,
+      "rank": 5597
+    },
+    {
+      "front": "elephant",
+      "back": "der Elefant",
+      "priority": 1.08,
+      "rank": 8378
+    },
+    {
+      "front": "fish",
+      "back": "der Fisch",
+      "priority": 1.73,
+      "rank": 1863
+    },
+    {
+      "front": "fly",
+      "back": "die Fliege",
+      "priority": 1.56,
+      "rank": 2725
+    },
+    {
+      "front": "fox",
+      "back": "der Fuchs",
+      "priority": 1.29,
+      "rank": 5116
+    },
+    {
+      "front": "frog",
+      "back": "der Frosch",
+      "priority": 1.25,
+      "rank": 5629
+    },
+    {
+      "front": "fur",
+      "back": "der Pelz",
+      "priority": 0.9,
+      "rank": 12501
+    },
+    {
+      "front": "giraffe",
+      "back": "die Giraffe",
+      "priority": 0.73,
+      "rank": 18652
+    },
+    {
+      "front": "goose",
+      "back": "die Gans",
+      "priority": 1.11,
+      "rank": 7773
+    },
+    {
+      "front": "gorilla",
+      "back": "der Gorilla",
+      "priority": 0.99,
+      "rank": 10290
+    },
+    {
+      "front": "grasshopper",
+      "back": "die Heuschrecke",
+      "priority": 0.5,
+      "rank": 46391
+    },
+    {
+      "front": "hamster",
+      "back": "der Hamster",
+      "priority": 0.81,
+      "rank": 15371
+    },
+    {
+      "front": "hedgehog",
+      "back": "der Igel",
+      "priority": 0.61,
+      "rank": 24456
+    },
+    {
+      "front": "horse",
+      "back": "das Pferd",
+      "priority": 1.93,
+      "rank": 1165
+    },
+    {
+      "front": "insect",
+      "back": "das Insekt",
+      "priority": 0.8,
+      "rank": 15755
+    },
+    {
+      "front": "kitten",
+      "back": "das Kätzchen",
+      "priority": 1.23,
+      "rank": 5888
+    },
+    {
+      "front": "lamb",
+      "back": "das Lamm",
+      "priority": 1.07,
+      "rank": 8511
+    },
+    {
+      "front": "lion",
+      "back": "der Löwe",
+      "priority": 1.25,
+      "rank": 5677
+    },
+    {
+      "front": "lizard",
+      "back": "die Eidechse",
+      "priority": 0.66,
+      "rank": 21787
+    },
+    {
+      "front": "monkey",
+      "back": "der Affe",
+      "priority": 1.34,
+      "rank": 4605
+    },
+    {
+      "front": "mosquito",
+      "back": "der Moskito",
+      "priority": 0.5,
+      "rank": 40412
+    },
+    {
+      "front": "mouse",
+      "back": "die Maus",
+      "priority": 1.35,
+      "rank": 4491
+    },
+    {
+      "front": "octopus",
+      "back": "der Oktopus",
+      "priority": 0.5,
+      "rank": 36679
+    },
+    {
+      "front": "parrot",
+      "back": "der Papagei",
+      "priority": 0.97,
+      "rank": 10611
+    },
+    {
+      "front": "penguin",
+      "back": "der Pinguin",
+      "priority": 0.89,
+      "rank": 12957
+    },
+    {
+      "front": "pig",
+      "back": "das Schwein",
+      "priority": 1.84,
+      "rank": 1437
+    },
+    {
+      "front": "pigeon",
+      "back": "die Taube",
+      "priority": 1.09,
+      "rank": 8047
+    },
+    {
+      "front": "rabbit",
+      "back": "das Kaninchen",
+      "priority": 1.22,
+      "rank": 6020
+    },
+    {
+      "front": "rat",
+      "back": "die Ratte",
+      "priority": 1.49,
+      "rank": 3268
+    },
+    {
+      "front": "salmon",
+      "back": "der Lachs",
+      "priority": 0.94,
+      "rank": 11614
+    },
+    {
+      "front": "scorpion",
+      "back": "der Skorpion",
+      "priority": 0.82,
+      "rank": 15204
+    },
+    {
+      "front": "sea gull",
+      "back": "die Möwe",
+      "priority": 0.63,
+      "rank": 23197
+    },
+    {
+      "front": "shark",
+      "back": "der Hai",
+      "priority": 1.21,
+      "rank": 6119
+    },
+    {
+      "front": "sheep",
+      "back": "das Schaf",
+      "priority": 1.11,
+      "rank": 7755
+    },
+    {
+      "front": "shrimp",
+      "back": "die Garnele",
+      "priority": 0.5
+    },
+    {
+      "front": "snail",
+      "back": "die Schnecke",
+      "priority": 0.96,
+      "rank": 11064
+    },
+    {
+      "front": "snake",
+      "back": "die Schlange",
+      "priority": 1.57,
+      "rank": 2681
+    },
+    {
+      "front": "sparrow",
+      "back": "der Sperling",
+      "priority": 0.5
+    },
+    {
+      "front": "spider",
+      "back": "die Spinne",
+      "priority": 1.18,
+      "rank": 6578
+    },
+    {
+      "front": "squirrel",
+      "back": "das Eichhörnchen",
+      "priority": 1.08,
+      "rank": 8385
+    },
+    {
+      "front": "swan",
+      "back": "der Schwan",
+      "priority": 0.87,
+      "rank": 13616
+    },
+    {
+      "front": "tiger",
+      "back": "der Tiger",
+      "priority": 1.49,
+      "rank": 3208
+    },
+    {
+      "front": "tuna",
+      "back": "der Thunfisch",
+      "priority": 0.84,
+      "rank": 14527
+    },
+    {
+      "front": "turkey",
+      "back": "der Truthahn",
+      "priority": 1.16,
+      "rank": 6843
+    },
+    {
+      "front": "turtle",
+      "back": "die Schildkröte",
+      "priority": 1.05,
+      "rank": 8901
+    },
+    {
+      "front": "wasp",
+      "back": "die Wespe",
+      "priority": 0.56,
+      "rank": 27321
+    },
+    {
+      "front": "whale",
+      "back": "der Wal",
+      "priority": 1.09,
+      "rank": 8117
+    },
+    {
+      "front": "wolf",
+      "back": "der Wolf",
+      "priority": 1.57,
+      "rank": 2676
+    },
+    {
+      "front": "worm",
+      "back": "der Wurm",
+      "priority": 1.15,
+      "rank": 7057
+    },
+    {
+      "front": "zebra",
+      "back": "das Zebra",
+      "priority": 0.88,
+      "rank": 13172
+    }
+  ]
+}

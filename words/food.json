@@ -1,0 +1,491 @@
+{
+  "name": "Food",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "bacon",
+      "back": "der Speck",
+      "priority": 1.2,
+      "rank": 6288
+    },
+    {
+      "front": "beef",
+      "back": "das Rindfleisch",
+      "priority": 0.78,
+      "rank": 16530
+    },
+    {
+      "front": "beer",
+      "back": "das Bier",
+      "priority": 1.99,
+      "rank": 1014
+    },
+    {
+      "front": "beverage",
+      "back": "das Getränk",
+      "priority": 1.03,
+      "rank": 9355
+    },
+    {
+      "front": "biscuit",
+      "back": "der Keks",
+      "priority": 1.17,
+      "rank": 6814
+    },
+    {
+      "front": "bread",
+      "back": "das Brot",
+      "priority": 1.6,
+      "rank": 2535
+    },
+    {
+      "front": "breakfast",
+      "back": "das Frühstück",
+      "priority": 1.79,
+      "rank": 1633
+    },
+    {
+      "front": "butter",
+      "back": "die Butter",
+      "priority": 1.31,
+      "rank": 4847
+    },
+    {
+      "front": "cake",
+      "back": "der Kuchen",
+      "priority": 1.73,
+      "rank": 1868
+    },
+    {
+      "front": "cheese",
+      "back": "der Käse",
+      "priority": 1.53,
+      "rank": 2961
+    },
+    {
+      "front": "chicken",
+      "back": "das Hähnchen",
+      "priority": 0.94,
+      "rank": 11478
+    },
+    {
+      "front": "coffee",
+      "back": "der Kaffee",
+      "priority": 2.15,
+      "rank": 706
+    },
+    {
+      "front": "cream",
+      "back": "die Sahne",
+      "priority": 1.07,
+      "rank": 8568
+    },
+    {
+      "front": "dessert",
+      "back": "der Nachtisch",
+      "priority": 1.19,
+      "rank": 6518
+    },
+    {
+      "front": "dinner",
+      "back": "das Abendessen",
+      "priority": 1.85,
+      "rank": 1400
+    },
+    {
+      "front": "egg",
+      "back": "das Ei",
+      "priority": 1.54,
+      "rank": 2892
+    },
+    {
+      "front": "fried egg",
+      "back": "das Spiegelei",
+      "priority": 0.5,
+      "rank": 33873
+    },
+    {
+      "front": "soft-boiled egg",
+      "back": "das weichgekochte Ei",
+      "priority": 0.5
+    },
+    {
+      "front": "fat",
+      "back": "das Fett",
+      "priority": 1.53,
+      "rank": 2951
+    },
+    {
+      "front": "flour",
+      "back": "das Mehl",
+      "priority": 0.99,
+      "rank": 10349
+    },
+    {
+      "front": "ham",
+      "back": "der Schinken",
+      "priority": 1.21,
+      "rank": 6113
+    },
+    {
+      "front": "honey",
+      "back": "der Honig",
+      "priority": 1.19,
+      "rank": 6432
+    },
+    {
+      "front": "jam",
+      "back": "die Marmelade",
+      "priority": 0.99,
+      "rank": 10189
+    },
+    {
+      "front": "lunch",
+      "back": "das Mittagessen",
+      "priority": 1.6,
+      "rank": 2490
+    },
+    {
+      "front": "meal",
+      "back": "die Mahlzeit",
+      "priority": 1.22,
+      "rank": 6036
+    },
+    {
+      "front": "meat",
+      "back": "das Fleisch",
+      "priority": 1.8,
+      "rank": 1582
+    },
+    {
+      "front": "milk",
+      "back": "die Milch",
+      "priority": 1.69,
+      "rank": 2028
+    },
+    {
+      "front": "mustard",
+      "back": "der Senf",
+      "priority": 1.03,
+      "rank": 9344
+    },
+    {
+      "front": "mutton",
+      "back": "das Hammelfleisch",
+      "priority": 0.5
+    },
+    {
+      "front": "oil",
+      "back": "das Öl",
+      "priority": 1.41,
+      "rank": 3904
+    },
+    {
+      "front": "omelet",
+      "back": "das Omelett",
+      "priority": 0.75,
+      "rank": 17599
+    },
+    {
+      "front": "pepper",
+      "back": "der Pfeffer",
+      "priority": 0.95,
+      "rank": 11186
+    },
+    {
+      "front": "pork",
+      "back": "das Schweinefleisch",
+      "priority": 0.8,
+      "rank": 15854
+    },
+    {
+      "front": "roll",
+      "back": "das Brötchen",
+      "priority": 1.08,
+      "rank": 8261
+    },
+    {
+      "front": "salad",
+      "back": "der Salat",
+      "priority": 1.32,
+      "rank": 4752
+    },
+    {
+      "front": "salt",
+      "back": "das Salz",
+      "priority": 1.35,
+      "rank": 4452
+    },
+    {
+      "front": "sandwich",
+      "back": "das Sandwich",
+      "priority": 1.37,
+      "rank": 4240
+    },
+    {
+      "front": "sauce",
+      "back": "die Soße",
+      "priority": 1.13,
+      "rank": 7375
+    },
+    {
+      "front": "sausage",
+      "back": "die Wurst",
+      "priority": 1.09,
+      "rank": 8188
+    },
+    {
+      "front": "soup",
+      "back": "die Suppe",
+      "priority": 1.5,
+      "rank": 3171
+    },
+    {
+      "front": "stew",
+      "back": "der Eintopf",
+      "priority": 0.87,
+      "rank": 13520
+    },
+    {
+      "front": "sugar",
+      "back": "der Zucker",
+      "priority": 1.52,
+      "rank": 3048
+    },
+    {
+      "front": "supper",
+      "back": "das Abendessen",
+      "priority": 1.85,
+      "rank": 1400
+    },
+    {
+      "front": "tea",
+      "back": "der Tee",
+      "priority": 1.88,
+      "rank": 1306
+    },
+    {
+      "front": "veal",
+      "back": "das Kalbfleisch",
+      "priority": 0.5,
+      "rank": 36148
+    },
+    {
+      "front": "vegetables",
+      "back": "das Gemüse",
+      "priority": 1.31,
+      "rank": 4861
+    },
+    {
+      "front": "vinegar",
+      "back": "der Essig",
+      "priority": 0.78,
+      "rank": 16418
+    },
+    {
+      "front": "wine",
+      "back": "der Wein",
+      "priority": 1.9,
+      "rank": 1248
+    },
+    {
+      "front": "bottle",
+      "back": "die Flasche",
+      "priority": 1.79,
+      "rank": 1618
+    },
+    {
+      "front": "can opener",
+      "back": "der Dosenöffner",
+      "priority": 0.5,
+      "rank": 35940
+    },
+    {
+      "front": "coffee pot",
+      "back": "die Kaffeekanne",
+      "priority": 0.5,
+      "rank": 40000
+    },
+    {
+      "front": "cup",
+      "back": "die Tasse",
+      "priority": 1.51,
+      "rank": 3059
+    },
+    {
+      "front": "dish",
+      "back": "die Schüssel / das Gericht",
+      "priority": 1.91,
+      "rank": 1225
+    },
+    {
+      "front": "fork",
+      "back": "die Gabel",
+      "priority": 1.02,
+      "rank": 9483
+    },
+    {
+      "front": "frying pan",
+      "back": "die Bratpfanne",
+      "priority": 0.5,
+      "rank": 32308
+    },
+    {
+      "front": "glass",
+      "back": "das Glas",
+      "priority": 1.86,
+      "rank": 1389
+    },
+    {
+      "front": "jug",
+      "back": "der Krug",
+      "priority": 0.96,
+      "rank": 10988
+    },
+    {
+      "front": "kettle",
+      "back": "der Wasserkocher",
+      "priority": 0.5
+    },
+    {
+      "front": "knife",
+      "back": "das Messer",
+      "priority": 1.84,
+      "rank": 1452
+    },
+    {
+      "front": "napkin",
+      "back": "die Serviette",
+      "priority": 0.85,
+      "rank": 14226
+    },
+    {
+      "front": "plate",
+      "back": "der Teller",
+      "priority": 1.44,
+      "rank": 3595
+    },
+    {
+      "front": "saucepan",
+      "back": "der Kochtopf",
+      "priority": 0.5,
+      "rank": 47028
+    },
+    {
+      "front": "spoon",
+      "back": "der Löffel",
+      "priority": 1.21,
+      "rank": 6236
+    },
+    {
+      "front": "tablecloth",
+      "back": "die Tischdecke",
+      "priority": 0.5,
+      "rank": 37114
+    },
+    {
+      "front": "teapot",
+      "back": "die Teekanne",
+      "priority": 0.5,
+      "rank": 31801
+    },
+    {
+      "front": "pasta",
+      "back": "die Pasta",
+      "priority": 0.89,
+      "rank": 13026
+    },
+    {
+      "front": "porridge",
+      "back": "der Brei",
+      "priority": 0.99,
+      "rank": 10344
+    },
+    {
+      "front": "chocolate",
+      "back": "die Schokolade",
+      "priority": 1.46,
+      "rank": 3430
+    },
+    {
+      "front": "candy",
+      "back": "die Süßigkeiten (Pl.)",
+      "priority": 1.25,
+      "rank": 5598
+    },
+    {
+      "front": "chewing gum",
+      "back": "der Kaugummi",
+      "priority": 1.19,
+      "rank": 6397
+    },
+    {
+      "front": "nut",
+      "back": "die Nuss",
+      "priority": 0.98,
+      "rank": 10389
+    },
+    {
+      "front": "dressing",
+      "back": "das Dressing",
+      "priority": 0.51,
+      "rank": 30697
+    },
+    {
+      "front": "ketchup",
+      "back": "das Ketchup",
+      "priority": 0.97,
+      "rank": 10614
+    },
+    {
+      "front": "mayonnaise",
+      "back": "die Mayonnaise",
+      "priority": 0.75,
+      "rank": 17606
+    },
+    {
+      "front": "cinnamon",
+      "back": "der Zimt",
+      "priority": 0.74,
+      "rank": 18317
+    },
+    {
+      "front": "curry",
+      "back": "das Curry",
+      "priority": 0.78,
+      "rank": 16568
+    },
+    {
+      "front": "alcohol",
+      "back": "der Alkohol",
+      "priority": 1.66,
+      "rank": 2190
+    },
+    {
+      "front": "vodka",
+      "back": "der Wodka",
+      "priority": 1.32,
+      "rank": 4786
+    },
+    {
+      "front": "cider",
+      "back": "der Apfelwein",
+      "priority": 0.5,
+      "rank": 35197
+    },
+    {
+      "front": "juice",
+      "back": "der Saft",
+      "priority": 1.31,
+      "rank": 4853
+    },
+    {
+      "front": "can",
+      "back": "die Dose",
+      "priority": 1.18,
+      "rank": 6557
+    }
+  ]
+}

@@ -1,5 +1,5 @@
-alive ~ dead , lebendihg (Er lebt noch, Er ist gestorben) ~ tot
-ancient ~ modern , antike ~ modern
+alive ~ dead , lebendig (Er lebt noch, Er ist gestorben) ~ tot
+ancient ~ modern , antik ~ modern
 backward ~ forward , rückwärts ~ vorwärts
 bad ~ good , schlecht ~ gut
 boring ~ interesting , langweilig ~ interessant
@@ -21,7 +21,7 @@ sad ~ happy , traurig ~ glücklich
 soft ~ hard , weich ~ hart
 sick ~ healthy , krank ~ gesund
 low ~ high (price), niedrig ~ hoch
-tall ~ short , hoch ~ nicht so hoch / klein
+tall ~ short , groß / hoch ~ klein / niedrig
 cold<warm<hot , kalt<warm<heiß
 early ~ late , früh ~ spät
 heavy ~ lightweight , schwer ~ leicht
@@ -31,16 +31,16 @@ tense (movie) ~ relaxed , spannend ~ locker
 silent ~ loud , leise ~ laut
 old ~ new , alt ~ neu
 closed ~ open , geschlossen ~ geöffnet
-shy ~ outgoing , schüchtern ~ zugewandt
+shy ~ outgoing , schüchtern ~ kontaktfreudig / aufgeschlossen
 rich ~ poor , reich ~ arm
-fake ~ real (coin) * 2 , gefälscht / echt  ~ richtig / unecht
-fake ~ real (person) , aufrichtig ~ nicht aufrichtig
+fake ~ real (coin) * 2 , gefälscht / unecht ~ echt
+fake ~ real (person) , falsch / unaufrichtig ~ echt / aufrichtig
 right ~ left , rechts ~ links
 right ~ wrong , richtig ~ falsch
 blunt ~ sharp , stumpf ~ scharf
 fast ~ slow , schnell ~ langsam
 big ~ small , groß ~ klein
-short ~ tall , klein ~ hoch
+short ~ tall , klein ~ groß
 beautiful ~ ugly , schön ~ hässlich
 strong ~ weak , stark ~ schwach
 old ~ young , alt ~ jung

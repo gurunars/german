@@ -1,0 +1,383 @@
+{
+  "name": "Fruits and vegetables",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "banana",
+      "back": "die Banane",
+      "priority": 1.01,
+      "rank": 9786
+    },
+    {
+      "front": "watermelon",
+      "back": "die Wassermelone",
+      "priority": 0.59,
+      "rank": 25492
+    },
+    {
+      "front": "vegetable",
+      "back": "das Gemüse",
+      "priority": 1.31,
+      "rank": 4861
+    },
+    {
+      "front": "salad",
+      "back": "der Salat",
+      "priority": 1.32,
+      "rank": 4752
+    },
+    {
+      "front": "paprika",
+      "back": "der Paprika / die Paprika",
+      "priority": 0.76,
+      "rank": 17201
+    },
+    {
+      "front": "grain",
+      "back": "das Korn",
+      "priority": 0.91,
+      "rank": 12241
+    },
+    {
+      "front": "almond",
+      "back": "die Mandel",
+      "priority": 0.5,
+      "rank": 46378
+    },
+    {
+      "front": "apple",
+      "back": "der Apfel",
+      "priority": 1.28,
+      "rank": 5228
+    },
+    {
+      "front": "ash (tree)",
+      "back": "die Esche",
+      "priority": 0.5
+    },
+    {
+      "front": "bark",
+      "back": "die Rinde",
+      "priority": 0.55,
+      "rank": 27906
+    },
+    {
+      "front": "berry",
+      "back": "die Beere",
+      "priority": 0.5
+    },
+    {
+      "front": "birch",
+      "back": "die Birke",
+      "priority": 0.5
+    },
+    {
+      "front": "blackberry",
+      "back": "die Brombeere",
+      "priority": 0.5
+    },
+    {
+      "front": "branch",
+      "back": "der Ast",
+      "priority": 0.96,
+      "rank": 10843
+    },
+    {
+      "front": "cherry",
+      "back": "die Kirsche",
+      "priority": 0.7,
+      "rank": 20031
+    },
+    {
+      "front": "currant",
+      "back": "die Johannisbeere",
+      "priority": 0.5
+    },
+    {
+      "front": "fig",
+      "back": "die Feige",
+      "priority": 1.3,
+      "rank": 5065
+    },
+    {
+      "front": "fruit",
+      "back": "das Obst",
+      "priority": 1.14,
+      "rank": 7235
+    },
+    {
+      "front": "grapes",
+      "back": "die Trauben (Pl.)",
+      "priority": 0.88,
+      "rank": 13181
+    },
+    {
+      "front": "hazelnut",
+      "back": "die Haselnuss",
+      "priority": 0.5
+    },
+    {
+      "front": "leaf",
+      "back": "das Blatt",
+      "priority": 1.31,
+      "rank": 4946
+    },
+    {
+      "front": "lemon",
+      "back": "die Zitrone",
+      "priority": 0.99,
+      "rank": 10205
+    },
+    {
+      "front": "melon",
+      "back": "die Melone",
+      "priority": 0.84,
+      "rank": 14588
+    },
+    {
+      "front": "olive",
+      "back": "die Olive",
+      "priority": 1.0,
+      "rank": 10067
+    },
+    {
+      "front": "orange",
+      "back": "die Orange",
+      "priority": 1.22,
+      "rank": 6022
+    },
+    {
+      "front": "peach",
+      "back": "der Pfirsich",
+      "priority": 0.72,
+      "rank": 18864
+    },
+    {
+      "front": "pear",
+      "back": "die Birne",
+      "priority": 1.06,
+      "rank": 8757
+    },
+    {
+      "front": "pineapple",
+      "back": "die Ananas",
+      "priority": 0.85,
+      "rank": 14231
+    },
+    {
+      "front": "raspberry",
+      "back": "die Himbeere",
+      "priority": 0.5,
+      "rank": 48311
+    },
+    {
+      "front": "root",
+      "back": "die Wurzel",
+      "priority": 0.86,
+      "rank": 13929
+    },
+    {
+      "front": "strawberry",
+      "back": "die Erdbeere",
+      "priority": 0.67,
+      "rank": 21451
+    },
+    {
+      "front": "tree",
+      "back": "der Baum",
+      "priority": 1.76,
+      "rank": 1741
+    },
+    {
+      "front": "tree trunk",
+      "back": "der Baumstamm",
+      "priority": 0.55,
+      "rank": 28043
+    },
+    {
+      "front": "vine",
+      "back": "die Weinrebe",
+      "priority": 0.5
+    },
+    {
+      "front": "walnut",
+      "back": "die Walnuss",
+      "priority": 0.5,
+      "rank": 38550
+    },
+    {
+      "front": "barley",
+      "back": "die Gerste",
+      "priority": 0.5,
+      "rank": 36518
+    },
+    {
+      "front": "bean (broad)",
+      "back": "die dicke Bohne / die Saubohne",
+      "priority": 0.75,
+      "rank": 17720
+    },
+    {
+      "front": "bean (kidney)",
+      "back": "die Kidneybohne",
+      "priority": 0.5
+    },
+    {
+      "front": "brussel sprouts",
+      "back": "der Rosenkohl",
+      "priority": 0.51,
+      "rank": 30702
+    },
+    {
+      "front": "cabbage",
+      "back": "der Kohl",
+      "priority": 0.87,
+      "rank": 13425
+    },
+    {
+      "front": "carrot",
+      "back": "die Karotte",
+      "priority": 0.69,
+      "rank": 20577
+    },
+    {
+      "front": "cauliflower",
+      "back": "der Blumenkohl",
+      "priority": 0.5,
+      "rank": 35423
+    },
+    {
+      "front": "celery",
+      "back": "der Sellerie",
+      "priority": 0.6,
+      "rank": 25310
+    },
+    {
+      "front": "corn",
+      "back": "der Mais",
+      "priority": 1.09,
+      "rank": 8048
+    },
+    {
+      "front": "cucumber",
+      "back": "die Gurke",
+      "priority": 0.79,
+      "rank": 16188
+    },
+    {
+      "front": "eggplant",
+      "back": "die Aubergine",
+      "priority": 0.5,
+      "rank": 36033
+    },
+    {
+      "front": "garlic",
+      "back": "der Knoblauch",
+      "priority": 0.95,
+      "rank": 11105
+    },
+    {
+      "front": "herb",
+      "back": "das Kraut",
+      "priority": 0.78,
+      "rank": 16751
+    },
+    {
+      "front": "lettuce",
+      "back": "der Kopfsalat",
+      "priority": 0.5
+    },
+    {
+      "front": "maize",
+      "back": "der Mais",
+      "priority": 1.09,
+      "rank": 8048
+    },
+    {
+      "front": "mint",
+      "back": "die Minze",
+      "priority": 0.53,
+      "rank": 29441
+    },
+    {
+      "front": "mushroom",
+      "back": "der Pilz",
+      "priority": 0.82,
+      "rank": 15270
+    },
+    {
+      "front": "oats",
+      "back": "der Hafer",
+      "priority": 0.58,
+      "rank": 26351
+    },
+    {
+      "front": "onion",
+      "back": "die Zwiebel",
+      "priority": 0.71,
+      "rank": 19682
+    },
+    {
+      "front": "pea",
+      "back": "die Erbse",
+      "priority": 0.52,
+      "rank": 29928
+    },
+    {
+      "front": "potato",
+      "back": "die Kartoffel",
+      "priority": 0.85,
+      "rank": 14091
+    },
+    {
+      "front": "pumpkin",
+      "back": "der Kürbis",
+      "priority": 0.92,
+      "rank": 12019
+    },
+    {
+      "front": "rice",
+      "back": "der Reis",
+      "priority": 1.29,
+      "rank": 5129
+    },
+    {
+      "front": "rye",
+      "back": "der Roggen",
+      "priority": 0.5,
+      "rank": 38685
+    },
+    {
+      "front": "seed",
+      "back": "der Samen",
+      "priority": 1.1,
+      "rank": 7871
+    },
+    {
+      "front": "spinach",
+      "back": "der Spinat",
+      "priority": 0.73,
+      "rank": 18602
+    },
+    {
+      "front": "tomato",
+      "back": "die Tomate",
+      "priority": 0.8,
+      "rank": 15840
+    },
+    {
+      "front": "turnip",
+      "back": "die Rübe",
+      "priority": 0.76,
+      "rank": 17467
+    },
+    {
+      "front": "wheat",
+      "back": "der Weizen",
+      "priority": 0.89,
+      "rank": 12904
+    }
+  ]
+}

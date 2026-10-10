@@ -1,0 +1,55 @@
+{
+  "name": "Entertainment",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "card games",
+      "back": "die Kartenspiele (Pl.)",
+      "priority": 0.5
+    },
+    {
+      "front": "computer games",
+      "back": "die Computerspiele (Pl.)",
+      "priority": 0.5,
+      "rank": 49821
+    },
+    {
+      "front": "tv series",
+      "back": "die Fernsehserie / die Serie",
+      "priority": 1.51,
+      "rank": 3071
+    },
+    {
+      "front": "movie",
+      "back": "der Film",
+      "priority": 2.17,
+      "rank": 674
+    },
+    {
+      "front": "horror",
+      "back": "der Horrorfilm",
+      "priority": 0.69,
+      "rank": 20391
+    },
+    {
+      "front": "sci-fi",
+      "back": "die Science-Fiction",
+      "priority": 0.55,
+      "rank": 27918
+    },
+    {
+      "front": "detective",
+      "back": "der Detektiv / der Krimi",
+      "priority": 1.26,
+      "rank": 5536
+    },
+    {
+      "front": "news",
+      "back": "die Nachrichten (Pl.)",
+      "priority": 1.92,
+      "rank": 1206
+    }
+  ]
+}

@@ -1,0 +1,1488 @@
+{
+  "name": "Verbs",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "compete",
+      "back": "wetteifern",
+      "priority": 0.5,
+      "rank": 48902
+    },
+    {
+      "front": "diet",
+      "back": "eine Diät machen",
+      "priority": 1.12,
+      "rank": 7579
+    },
+    {
+      "front": "mix",
+      "back": "mischen",
+      "priority": 1.2,
+      "rank": 6332
+    },
+    {
+      "front": "rent",
+      "back": "mieten",
+      "priority": 1.17,
+      "rank": 6818
+    },
+    {
+      "front": "borrow",
+      "back": "leihen",
+      "priority": 1.42,
+      "rank": 3778
+    },
+    {
+      "front": "book / reserve",
+      "back": "buchen / reservieren",
+      "priority": 0.95,
+      "rank": 11276
+    },
+    {
+      "front": "exchange",
+      "back": "tauschen",
+      "priority": 1.43,
+      "rank": 3714
+    },
+    {
+      "front": "register",
+      "back": "sich anmelden / registrieren",
+      "priority": 0.94,
+      "rank": 11483
+    },
+    {
+      "front": "pay",
+      "back": "zahlen",
+      "priority": 2.0,
+      "rank": 1001
+    },
+    {
+      "front": "spend",
+      "back": "ausgeben (Geld) / verbringen (Zeit)",
+      "priority": 1.79,
+      "rank": 1630
+    },
+    {
+      "front": "earn",
+      "back": "verdienen",
+      "priority": 1.81,
+      "rank": 1562
+    },
+    {
+      "front": "buy",
+      "back": "kaufen",
+      "priority": 2.12,
+      "rank": 754
+    },
+    {
+      "front": "accelerate",
+      "back": "beschleunigen",
+      "priority": 1.08,
+      "rank": 8321
+    },
+    {
+      "front": "jump",
+      "back": "springen",
+      "priority": 1.62,
+      "rank": 2412
+    },
+    {
+      "front": "swim",
+      "back": "schwimmen",
+      "priority": 1.65,
+      "rank": 2231
+    },
+    {
+      "front": "drive",
+      "back": "fahren",
+      "priority": 2.43,
+      "rank": 372
+    },
+    {
+      "front": "move",
+      "back": "bewegen",
+      "priority": 1.89,
+      "rank": 1278
+    },
+    {
+      "front": "refuse",
+      "back": "sich weigern",
+      "priority": 1.01,
+      "rank": 9853
+    },
+    {
+      "front": "be used to",
+      "back": "gewohnt sein",
+      "priority": 1.53,
+      "rank": 2957
+    },
+    {
+      "front": "begin",
+      "back": "beginnen",
+      "priority": 1.85,
+      "rank": 1410
+    },
+    {
+      "front": "like",
+      "back": "mögen",
+      "priority": 2.05,
+      "rank": 893
+    },
+    {
+      "front": "start",
+      "back": "starten / anfangen",
+      "priority": 2.03,
+      "rank": 933
+    },
+    {
+      "front": "stop",
+      "back": "anhalten / aufhören",
+      "priority": 2.15,
+      "rank": 715
+    },
+    {
+      "front": "wonder",
+      "back": "sich fragen",
+      "priority": 2.52,
+      "rank": 299
+    },
+    {
+      "front": "think",
+      "back": "denken",
+      "priority": 2.46,
+      "rank": 344
+    },
+    {
+      "front": "need",
+      "back": "brauchen",
+      "priority": 2.54,
+      "rank": 289
+    },
+    {
+      "front": "decide",
+      "back": "entscheiden",
+      "priority": 1.89,
+      "rank": 1288
+    },
+    {
+      "front": "feel",
+      "back": "fühlen",
+      "priority": 6.22,
+      "rank": 844
+    },
+    {
+      "front": "plan",
+      "back": "planen",
+      "priority": 1.47,
+      "rank": 3377
+    },
+    {
+      "front": "love",
+      "back": "lieben",
+      "priority": 2.18,
+      "rank": 658
+    },
+    {
+      "front": "guess",
+      "back": "erraten",
+      "priority": 1.13,
+      "rank": 7431
+    },
+    {
+      "front": "arrest",
+      "back": "verhaften / festnehmen",
+      "priority": 1.63,
+      "rank": 2363
+    },
+    {
+      "front": "hate",
+      "back": "hassen",
+      "priority": 1.69,
+      "rank": 2024
+    },
+    {
+      "front": "kill",
+      "back": "töten",
+      "priority": 2.41,
+      "rank": 389
+    },
+    {
+      "front": "misjudge / mistake",
+      "back": "falsch einschätzen / sich irren",
+      "priority": 1.55,
+      "rank": 2812
+    },
+    {
+      "front": "attack",
+      "back": "angreifen",
+      "priority": 1.51,
+      "rank": 3081
+    },
+    {
+      "front": "lose (be defeated)",
+      "back": "verlieren (besiegt werden)",
+      "priority": 2.15,
+      "rank": 703
+    },
+    {
+      "front": "answer",
+      "back": "antworten",
+      "priority": 1.89,
+      "rank": 1280
+    },
+    {
+      "front": "ask",
+      "back": "fragen",
+      "priority": 2.52,
+      "rank": 299
+    },
+    {
+      "front": "excuse",
+      "back": "entschuldigen",
+      "priority": 2.26,
+      "rank": 550
+    },
+    {
+      "front": "explain",
+      "back": "erklären",
+      "priority": 2.13,
+      "rank": 744
+    },
+    {
+      "front": "mean | I mean that ...",
+      "back": "meinen | Ich meine, dass ...",
+      "priority": 3.62,
+      "rank": 24
+    },
+    {
+      "front": "listen | listen to me",
+      "back": "zuhören | hör mir zu",
+      "priority": 1.61,
+      "rank": 2456
+    },
+    {
+      "front": "promise",
+      "back": "versprechen",
+      "priority": 1.81,
+      "rank": 1559
+    },
+    {
+      "front": "advise",
+      "back": "beraten",
+      "priority": 1.14,
+      "rank": 7292
+    },
+    {
+      "front": "agree",
+      "back": "zustimmen",
+      "priority": 1.32,
+      "rank": 4793
+    },
+    {
+      "front": "tell",
+      "back": "erzählen",
+      "priority": 2.26,
+      "rank": 547
+    },
+    {
+      "front": "thank",
+      "back": "danken",
+      "priority": 1.83,
+      "rank": 1481
+    },
+    {
+      "front": "apologize",
+      "back": "sich entschuldigen",
+      "priority": 2.26,
+      "rank": 550
+    },
+    {
+      "front": "forget",
+      "back": "vergessen",
+      "priority": 2.45,
+      "rank": 355
+    },
+    {
+      "front": "read",
+      "back": "lesen",
+      "priority": 2.06,
+      "rank": 873
+    },
+    {
+      "front": "repeat",
+      "back": "wiederholen",
+      "priority": 1.53,
+      "rank": 2975
+    },
+    {
+      "front": "speak / talk",
+      "back": "sprechen / reden",
+      "priority": 5.46,
+      "rank": 186
+    },
+    {
+      "front": "show",
+      "back": "zeigen",
+      "priority": 2.28,
+      "rank": 523
+    },
+    {
+      "front": "laugh",
+      "back": "lachen",
+      "priority": 2.07,
+      "rank": 857
+    },
+    {
+      "front": "call",
+      "back": "anrufen",
+      "priority": 2.08,
+      "rank": 841
+    },
+    {
+      "front": "research / investigate",
+      "back": "forschen / untersuchen",
+      "priority": 1.65,
+      "rank": 2215
+    },
+    {
+      "front": "teach",
+      "back": "lehren",
+      "priority": 1.28,
+      "rank": 5196
+    },
+    {
+      "front": "spell",
+      "back": "buchstabieren",
+      "priority": 0.85,
+      "rank": 14221
+    },
+    {
+      "front": "study",
+      "back": "studieren / lernen",
+      "priority": 4.32,
+      "rank": 689
+    },
+    {
+      "front": "learn = teach",
+      "back": "lernen = lehren",
+      "priority": 1.28,
+      "rank": 5196
+    },
+    {
+      "front": "pass a test / succeed",
+      "back": "einen Test bestehen / Erfolg haben",
+      "priority": 1.83,
+      "rank": 1482
+    },
+    {
+      "front": "accept",
+      "back": "akzeptieren",
+      "priority": 1.62,
+      "rank": 2378
+    },
+    {
+      "front": "accumulate",
+      "back": "ansammeln",
+      "priority": 0.5
+    },
+    {
+      "front": "add",
+      "back": "hinzufügen",
+      "priority": 1.05,
+      "rank": 8843
+    },
+    {
+      "front": "arrange",
+      "back": "anordnen",
+      "priority": 0.65,
+      "rank": 22495
+    },
+    {
+      "front": "assist",
+      "back": "assistieren",
+      "priority": 0.77,
+      "rank": 16826
+    },
+    {
+      "front": "take a bath",
+      "back": "ein Bad nehmen / baden",
+      "priority": 1.74,
+      "rank": 1828
+    },
+    {
+      "front": "present / introduce",
+      "back": "präsentieren / vorstellen",
+      "priority": 2.1,
+      "rank": 801
+    },
+    {
+      "front": "prepare",
+      "back": "vorbereiten",
+      "priority": 1.52,
+      "rank": 3042
+    },
+    {
+      "front": "reduce",
+      "back": "verringern",
+      "priority": 0.84,
+      "rank": 14530
+    },
+    {
+      "front": "attend",
+      "back": "teilnehmen",
+      "priority": 1.21,
+      "rank": 6230
+    },
+    {
+      "front": "bake",
+      "back": "backen",
+      "priority": 1.16,
+      "rank": 6931
+    },
+    {
+      "front": "change (from A to B)",
+      "back": "ändern (von A nach B)",
+      "priority": 2.09,
+      "rank": 821
+    },
+    {
+      "front": "change (property of an object)",
+      "back": "verändern (Eigenschaft eines Objekts)",
+      "priority": 1.64,
+      "rank": 2277
+    },
+    {
+      "front": "clean",
+      "back": "putzen / sauber machen",
+      "priority": 1.88,
+      "rank": 1315
+    },
+    {
+      "front": "cook",
+      "back": "kochen",
+      "priority": 1.69,
+      "rank": 2035
+    },
+    {
+      "front": "disconnect",
+      "back": "trennen",
+      "priority": 1.61,
+      "rank": 2457
+    },
+    {
+      "front": "draw (picture)",
+      "back": "zeichnen (Bild)",
+      "priority": 1.16,
+      "rank": 6930
+    },
+    {
+      "front": "drink coffee",
+      "back": "Kaffee trinken",
+      "priority": 2.15,
+      "rank": 706
+    },
+    {
+      "front": "fall asleep",
+      "back": "einschlafen",
+      "priority": 1.24,
+      "rank": 5744
+    },
+    {
+      "front": "fear",
+      "back": "fürchten / Angst haben",
+      "priority": 2.57,
+      "rank": 267
+    },
+    {
+      "front": "finish / end / stop",
+      "back": "beenden / enden / aufhören",
+      "priority": 4.29,
+      "rank": 715
+    },
+    {
+      "front": "celebrate",
+      "back": "feiern",
+      "priority": 1.87,
+      "rank": 1350
+    },
+    {
+      "front": "fit",
+      "back": "passen",
+      "priority": 1.88,
+      "rank": 1332
+    },
+    {
+      "front": "join",
+      "back": "beitreten",
+      "priority": 0.89,
+      "rank": 12882
+    },
+    {
+      "front": "lay the table",
+      "back": "den Tisch decken",
+      "priority": 1.4,
+      "rank": 3941
+    },
+    {
+      "front": "leave",
+      "back": "verlassen",
+      "priority": 2.28,
+      "rank": 522
+    },
+    {
+      "front": "lock / fasten",
+      "back": "verriegeln / befestigen",
+      "priority": 0.73,
+      "rank": 18556
+    },
+    {
+      "front": "mail",
+      "back": "mit der Post schicken",
+      "priority": 1.66,
+      "rank": 2200
+    },
+    {
+      "front": "manufacture",
+      "back": "herstellen",
+      "priority": 1.19,
+      "rank": 6428
+    },
+    {
+      "front": "meet (people)",
+      "back": "treffen (Personen)",
+      "priority": 4.76,
+      "rank": 415
+    },
+    {
+      "front": "miss (someone)",
+      "back": "vermissen (jemanden)",
+      "priority": 1.61,
+      "rank": 2463
+    },
+    {
+      "front": "miss (a bus / a target)",
+      "back": "verpassen (einen Bus) / verfehlen (ein Ziel)",
+      "priority": 1.59,
+      "rank": 2545
+    },
+    {
+      "front": "open",
+      "back": "öffnen / aufmachen",
+      "priority": 1.94,
+      "rank": 1154
+    },
+    {
+      "front": "paint (walls / houses / etc.)",
+      "back": "streichen (Wände / Häuser / usw.)",
+      "priority": 1.29,
+      "rank": 5160
+    },
+    {
+      "front": "play",
+      "back": "spielen",
+      "priority": 2.34,
+      "rank": 456
+    },
+    {
+      "front": "practice",
+      "back": "üben",
+      "priority": 1.49,
+      "rank": 3221
+    },
+    {
+      "front": "relax",
+      "back": "entspannen",
+      "priority": 1.56,
+      "rank": 2751
+    },
+    {
+      "front": "share",
+      "back": "teilen",
+      "priority": 1.87,
+      "rank": 1335
+    },
+    {
+      "front": "succeed",
+      "back": "erfolgreich sein",
+      "priority": 1.55,
+      "rank": 2833
+    },
+    {
+      "front": "repair",
+      "back": "reparieren",
+      "priority": 4.89,
+      "rank": 2347
+    },
+    {
+      "front": "taste",
+      "back": "schmecken / probieren",
+      "priority": 1.64,
+      "rank": 2306
+    },
+    {
+      "front": "seem",
+      "back": "scheinen",
+      "priority": 1.7,
+      "rank": 1994
+    },
+    {
+      "front": "visit ... (visit father)",
+      "back": "besuchen ... (den Vater besuchen)",
+      "priority": 1.88,
+      "rank": 1330
+    },
+    {
+      "front": "wait",
+      "back": "warten",
+      "priority": 2.52,
+      "rank": 304
+    },
+    {
+      "front": "wake up",
+      "back": "aufwachen",
+      "priority": 1.53,
+      "rank": 2962
+    },
+    {
+      "front": "wash the dishes",
+      "back": "das Geschirr spülen / abwaschen",
+      "priority": 0.88,
+      "rank": 13167
+    },
+    {
+      "front": "watch",
+      "back": "ansehen / zuschauen",
+      "priority": 1.98,
+      "rank": 1044
+    },
+    {
+      "front": "work",
+      "back": "arbeiten",
+      "priority": 4.76,
+      "rank": 419
+    },
+    {
+      "front": "be named / be called",
+      "back": "heißen / genannt werden",
+      "priority": 2.09,
+      "rank": 810
+    },
+    {
+      "front": "drop",
+      "back": "fallen lassen",
+      "priority": 2.04,
+      "rank": 905
+    },
+    {
+      "front": "build",
+      "back": "bauen",
+      "priority": 1.81,
+      "rank": 1539
+    },
+    {
+      "front": "call (phone)",
+      "back": "anrufen (Telefon)",
+      "priority": 2.08,
+      "rank": 841
+    },
+    {
+      "front": "care",
+      "back": "sich kümmern (um)",
+      "priority": 2.11,
+      "rank": 777
+    },
+    {
+      "front": "close",
+      "back": "schließen / zumachen",
+      "priority": 1.83,
+      "rank": 1484
+    },
+    {
+      "front": "compare",
+      "back": "vergleichen",
+      "priority": 1.24,
+      "rank": 5801
+    },
+    {
+      "front": "differ (from)",
+      "back": "sich unterscheiden (von)",
+      "priority": 1.24,
+      "rank": 5689
+    },
+    {
+      "front": "dream",
+      "back": "träumen",
+      "priority": 1.61,
+      "rank": 2467
+    },
+    {
+      "front": "fill",
+      "back": "füllen",
+      "priority": 1.34,
+      "rank": 4550
+    },
+    {
+      "front": "follow",
+      "back": "folgen",
+      "priority": 2.04,
+      "rank": 916
+    },
+    {
+      "front": "happen",
+      "back": "passieren",
+      "priority": 2.1,
+      "rank": 787
+    },
+    {
+      "front": "hear",
+      "back": "hören",
+      "priority": 2.62,
+      "rank": 242
+    },
+    {
+      "front": "raise / increase",
+      "back": "erhöhen",
+      "priority": 1.29,
+      "rank": 5170
+    },
+    {
+      "front": "belong to ...",
+      "back": "gehören zu...",
+      "priority": 1.9,
+      "rank": 1272
+    },
+    {
+      "front": "keep in touch",
+      "back": "in Kontakt bleiben",
+      "priority": 1.91,
+      "rank": 1244
+    },
+    {
+      "front": "find out / inquire",
+      "back": "herausfinden / anfragen",
+      "priority": 1.87,
+      "rank": 1347
+    },
+    {
+      "front": "belong / originate",
+      "back": "gehören / stammen (aus)",
+      "priority": 1.9,
+      "rank": 1272
+    },
+    {
+      "front": "match / belong together",
+      "back": "zusammenpassen / zusammengehören",
+      "priority": 0.67,
+      "rank": 21296
+    },
+    {
+      "front": "help",
+      "back": "helfen",
+      "priority": 2.66,
+      "rank": 218
+    },
+    {
+      "front": "live",
+      "back": "leben",
+      "priority": 2.87,
+      "rank": 135
+    },
+    {
+      "front": "look for (a car)",
+      "back": "suchen (ein Auto suchen)",
+      "priority": 2.35,
+      "rank": 446
+    },
+    {
+      "front": "marry",
+      "back": "heiraten",
+      "priority": 2.13,
+      "rank": 734
+    },
+    {
+      "front": "put",
+      "back": "setzen",
+      "priority": 2.2,
+      "rank": 627
+    },
+    {
+      "front": "release / let go",
+      "back": "freilassen / loslassen",
+      "priority": 1.52,
+      "rank": 3021
+    },
+    {
+      "front": "send",
+      "back": "senden",
+      "priority": 1.43,
+      "rank": 3723
+    },
+    {
+      "front": "set",
+      "back": "einstellen",
+      "priority": 1.43,
+      "rank": 3718
+    },
+    {
+      "front": "smoke",
+      "back": "rauchen",
+      "priority": 1.67,
+      "rank": 2126
+    },
+    {
+      "front": "visit",
+      "back": "besuchen",
+      "priority": 1.88,
+      "rank": 1330
+    },
+    {
+      "front": "try",
+      "back": "versuchen",
+      "priority": 4.64,
+      "rank": 476
+    },
+    {
+      "front": "turn",
+      "back": "drehen / abbiegen",
+      "priority": 1.83,
+      "rank": 1479
+    },
+    {
+      "front": "use",
+      "back": "benutzen",
+      "priority": 1.98,
+      "rank": 1037
+    },
+    {
+      "front": "live (somewhere)",
+      "back": "wohnen (irgendwo)",
+      "priority": 1.89,
+      "rank": 1295
+    },
+    {
+      "front": "believe",
+      "back": "glauben",
+      "priority": 2.55,
+      "rank": 284
+    },
+    {
+      "front": "depend (on)",
+      "back": "abhängen (von)",
+      "priority": 1.22,
+      "rank": 6076
+    },
+    {
+      "front": "dress ~ undress",
+      "back": "sich anziehen ~ sich ausziehen",
+      "priority": 1.62,
+      "rank": 2381
+    },
+    {
+      "front": "change clothes",
+      "back": "sich umziehen",
+      "priority": 1.43,
+      "rank": 3680
+    },
+    {
+      "front": "want",
+      "back": "wollen",
+      "priority": 2.84,
+      "rank": 144
+    },
+    {
+      "front": "be able to / can",
+      "back": "in der Lage sein / können",
+      "priority": 3.03,
+      "rank": 94
+    },
+    {
+      "front": "be about to / shall",
+      "back": "im Begriff sein / sollen",
+      "priority": 2.6,
+      "rank": 253
+    },
+    {
+      "front": "lie (be in a horizontal position)",
+      "back": "liegen (waagerecht sein)",
+      "priority": 2.03,
+      "rank": 930
+    },
+    {
+      "front": "grow",
+      "back": "wachsen",
+      "priority": 1.53,
+      "rank": 2919
+    },
+    {
+      "front": "suggest",
+      "back": "vorschlagen",
+      "priority": 1.29,
+      "rank": 5078
+    },
+    {
+      "front": "sell",
+      "back": "verkaufen",
+      "priority": 2.03,
+      "rank": 931
+    },
+    {
+      "front": "do = make",
+      "back": "tun = machen",
+      "priority": 2.99,
+      "rank": 103
+    },
+    {
+      "front": "remake / redo (to ... - object)",
+      "back": "noch einmal machen / neu machen",
+      "priority": 2.51,
+      "rank": 309
+    },
+    {
+      "front": "lay / put (to some place)",
+      "back": "legen / stellen (irgendwohin)",
+      "priority": 2.24,
+      "rank": 580
+    },
+    {
+      "front": "memorize",
+      "back": "sich einprägen",
+      "priority": 0.5,
+      "rank": 41904
+    },
+    {
+      "front": "go to bed / lie down",
+      "back": "ins Bett gehen / sich hinlegen",
+      "priority": 2.26,
+      "rank": 554
+    },
+    {
+      "front": "fight",
+      "back": "kämpfen",
+      "priority": 2.07,
+      "rank": 855
+    },
+    {
+      "front": "hit / knock",
+      "back": "schlagen / klopfen",
+      "priority": 1.96,
+      "rank": 1099
+    },
+    {
+      "front": "go = walk",
+      "back": "gehen = zu Fuß gehen",
+      "priority": 1.91,
+      "rank": 1239
+    },
+    {
+      "front": "revert / return",
+      "back": "zurückkehren / zurückkommen",
+      "priority": 1.66,
+      "rank": 2208
+    },
+    {
+      "front": "get",
+      "back": "erhalten",
+      "priority": 1.87,
+      "rank": 1334
+    },
+    {
+      "front": "look = see",
+      "back": "schauen = sehen",
+      "priority": 2.06,
+      "rank": 871
+    },
+    {
+      "front": "look after",
+      "back": "sich kümmern um",
+      "priority": 2.11,
+      "rank": 777
+    },
+    {
+      "front": "appear .../look like ...",
+      "back": "erscheinen ... / aussehen wie ...",
+      "priority": 1.93,
+      "rank": 1173
+    },
+    {
+      "front": "pray (ask)",
+      "back": "bitten / beten",
+      "priority": 2.04,
+      "rank": 917
+    },
+    {
+      "front": "smile",
+      "back": "lächeln",
+      "priority": 1.77,
+      "rank": 1683
+    },
+    {
+      "front": "understand",
+      "back": "verstehen",
+      "priority": 2.34,
+      "rank": 455
+    },
+    {
+      "front": "misunderstand",
+      "back": "missverstehen",
+      "priority": 0.72,
+      "rank": 19140
+    },
+    {
+      "front": "consist of",
+      "back": "bestehen aus",
+      "priority": 1.5,
+      "rank": 3195
+    },
+    {
+      "front": "drag / pull",
+      "back": "schleppen / ziehen",
+      "priority": 2.15,
+      "rank": 711
+    },
+    {
+      "front": "fall",
+      "back": "fallen",
+      "priority": 2.04,
+      "rank": 905
+    },
+    {
+      "front": "travel",
+      "back": "reisen",
+      "priority": 3.43,
+      "rank": 1934
+    },
+    {
+      "front": "give",
+      "back": "geben",
+      "priority": 2.63,
+      "rank": 233
+    },
+    {
+      "front": "give up",
+      "back": "aufgeben",
+      "priority": 1.72,
+      "rank": 1896
+    },
+    {
+      "front": "publish",
+      "back": "publizieren",
+      "priority": 0.5
+    },
+    {
+      "front": "admit / concede",
+      "back": "zugeben / einräumen",
+      "priority": 1.57,
+      "rank": 2715
+    },
+    {
+      "front": "be",
+      "back": "sein",
+      "priority": 3.25,
+      "rank": 56
+    },
+    {
+      "front": "take",
+      "back": "nehmen",
+      "priority": 2.55,
+      "rank": 281
+    },
+    {
+      "front": "rest / take a nap",
+      "back": "ausruhen / ein Nickerchen machen",
+      "priority": 1.49,
+      "rank": 3211
+    },
+    {
+      "front": "repeat / say again",
+      "back": "wiederholen / noch einmal sagen",
+      "priority": 2.51,
+      "rank": 309
+    },
+    {
+      "front": "put on clothes",
+      "back": "sich anziehen",
+      "priority": 1.62,
+      "rank": 2381
+    },
+    {
+      "front": "bring",
+      "back": "bringen",
+      "priority": 2.55,
+      "rank": 285
+    },
+    {
+      "front": "die",
+      "back": "sterben",
+      "priority": 2.39,
+      "rank": 408
+    },
+    {
+      "front": "hold = keep",
+      "back": "halten = behalten",
+      "priority": 2.04,
+      "rank": 918
+    },
+    {
+      "front": "know",
+      "back": "wissen",
+      "priority": 2.92,
+      "rank": 119
+    },
+    {
+      "front": "receive",
+      "back": "erhalten",
+      "priority": 1.87,
+      "rank": 1334
+    },
+    {
+      "front": "choose",
+      "back": "wählen",
+      "priority": 1.67,
+      "rank": 2159
+    },
+    {
+      "front": "continue",
+      "back": "fortsetzen",
+      "priority": 1.07,
+      "rank": 8434
+    },
+    {
+      "front": "hide",
+      "back": "verbergen",
+      "priority": 1.47,
+      "rank": 3401
+    },
+    {
+      "front": "say",
+      "back": "sagen",
+      "priority": 3.02,
+      "rank": 96
+    },
+    {
+      "front": "carry",
+      "back": "tragen",
+      "priority": 2.08,
+      "rank": 823
+    },
+    {
+      "front": "steal",
+      "back": "stehlen",
+      "priority": 1.71,
+      "rank": 1937
+    },
+    {
+      "front": "cut",
+      "back": "schneiden",
+      "priority": 1.51,
+      "rank": 3098
+    },
+    {
+      "front": "cry",
+      "back": "weinen",
+      "priority": 1.78,
+      "rank": 1675
+    },
+    {
+      "front": "let",
+      "back": "lassen",
+      "priority": 2.79,
+      "rank": 163
+    },
+    {
+      "front": "eat",
+      "back": "essen",
+      "priority": 2.58,
+      "rank": 266
+    },
+    {
+      "front": "forgive",
+      "back": "verzeihen",
+      "priority": 1.84,
+      "rank": 1436
+    },
+    {
+      "front": "come",
+      "back": "kommen",
+      "priority": 2.85,
+      "rank": 140
+    },
+    {
+      "front": "come back",
+      "back": "zurückkommen",
+      "priority": 1.66,
+      "rank": 2208
+    },
+    {
+      "front": "disappear / get lost",
+      "back": "verschwinden / sich verlaufen",
+      "priority": 2.15,
+      "rank": 712
+    },
+    {
+      "front": "remember / recall",
+      "back": "sich erinnern / sich entsinnen",
+      "priority": 2.16,
+      "rank": 697
+    },
+    {
+      "front": "have",
+      "back": "haben",
+      "priority": 3.52,
+      "rank": 30
+    },
+    {
+      "front": "be in a hurry",
+      "back": "es eilig haben",
+      "priority": 1.56,
+      "rank": 2735
+    },
+    {
+      "front": "wear (clothes)",
+      "back": "tragen (Kleidung)",
+      "priority": 2.08,
+      "rank": 823
+    },
+    {
+      "front": "remember ...",
+      "back": "an ... denken",
+      "priority": 2.46,
+      "rank": 344
+    },
+    {
+      "front": "ride / take a transport",
+      "back": "fahren / ein Verkehrsmittel nehmen",
+      "priority": 2.43,
+      "rank": 372
+    },
+    {
+      "front": "oversleep",
+      "back": "verschlafen",
+      "priority": 0.93,
+      "rank": 11657
+    },
+    {
+      "front": "sleep",
+      "back": "schlafen",
+      "priority": 2.25,
+      "rank": 566
+    },
+    {
+      "front": "stand",
+      "back": "stehen",
+      "priority": 2.39,
+      "rank": 407
+    },
+    {
+      "front": "burn",
+      "back": "brennen",
+      "priority": 1.4,
+      "rank": 3993
+    },
+    {
+      "front": "disappear",
+      "back": "verschwinden",
+      "priority": 2.15,
+      "rank": 712
+    },
+    {
+      "front": "drink",
+      "back": "trinken",
+      "priority": 2.23,
+      "rank": 585
+    },
+    {
+      "front": "exist",
+      "back": "existieren",
+      "priority": 1.41,
+      "rank": 3920
+    },
+    {
+      "front": "have time to do",
+      "back": "Zeit haben (etwas zu tun)",
+      "priority": 2.86,
+      "rank": 137
+    },
+    {
+      "front": "run",
+      "back": "laufen / rennen",
+      "priority": 4.32,
+      "rank": 695
+    },
+    {
+      "front": "sit",
+      "back": "sitzen",
+      "priority": 2.11,
+      "rank": 781
+    },
+    {
+      "front": "win",
+      "back": "gewinnen",
+      "priority": 2.02,
+      "rank": 949
+    },
+    {
+      "front": "benefit from ...",
+      "back": "profitieren von ...",
+      "priority": 1.03,
+      "rank": 9378
+    },
+    {
+      "front": "avoid / escape",
+      "back": "vermeiden / entkommen",
+      "priority": 3.56,
+      "rank": 1665
+    },
+    {
+      "front": "find",
+      "back": "finden",
+      "priority": 5.32,
+      "rank": 220
+    },
+    {
+      "front": "escape (from object or punishment)",
+      "back": "fliehen / entkommen (einem Ort oder einer Strafe)",
+      "priority": 1.78,
+      "rank": 1665
+    },
+    {
+      "front": "become",
+      "back": "werden",
+      "priority": 3.11,
+      "rank": 78
+    },
+    {
+      "front": "bite",
+      "back": "beißen",
+      "priority": 1.35,
+      "rank": 4509
+    },
+    {
+      "front": "ride",
+      "back": "reiten",
+      "priority": 1.57,
+      "rank": 2695
+    },
+    {
+      "front": "run / operate some machine",
+      "back": "laufen / eine Maschine bedienen",
+      "priority": 2.16,
+      "rank": 695
+    },
+    {
+      "front": "write",
+      "back": "schreiben",
+      "priority": 2.1,
+      "rank": 797
+    },
+    {
+      "front": "rewrite",
+      "back": "umschreiben",
+      "priority": 0.63,
+      "rank": 23246
+    },
+    {
+      "front": "sign in",
+      "back": "sich einloggen / sich anmelden",
+      "priority": 0.94,
+      "rank": 11483
+    },
+    {
+      "front": "sign (an official paper)",
+      "back": "unterschreiben (ein offizielles Dokument)",
+      "priority": 1.63,
+      "rank": 2354
+    },
+    {
+      "front": "shout",
+      "back": "schreien",
+      "priority": 1.8,
+      "rank": 1601
+    },
+    {
+      "front": "disappoint",
+      "back": "enttäuschen",
+      "priority": 1.38,
+      "rank": 4153
+    },
+    {
+      "front": "break",
+      "back": "brechen / kaputt machen",
+      "priority": 1.89,
+      "rank": 1298
+    },
+    {
+      "front": "enjoy",
+      "back": "genießen",
+      "priority": 1.67,
+      "rank": 2151
+    },
+    {
+      "front": "fly",
+      "back": "fliegen",
+      "priority": 2.06,
+      "rank": 881
+    },
+    {
+      "front": "invite",
+      "back": "einladen",
+      "priority": 1.53,
+      "rank": 2960
+    },
+    {
+      "front": "sing",
+      "back": "singen",
+      "priority": 1.91,
+      "rank": 1228
+    },
+    {
+      "front": "shoot",
+      "back": "schießen",
+      "priority": 1.97,
+      "rank": 1082
+    },
+    {
+      "front": "lie (say not truth)",
+      "back": "lügen (die Unwahrheit sagen)",
+      "priority": 1.95,
+      "rank": 1134
+    },
+    {
+      "front": "cancel / delete",
+      "back": "stornieren / löschen",
+      "priority": 1.38,
+      "rank": 4204
+    },
+    {
+      "front": "iron",
+      "back": "bügeln",
+      "priority": 0.77,
+      "rank": 16924
+    },
+    {
+      "front": "connect / join",
+      "back": "verbinden / beitreten",
+      "priority": 1.44,
+      "rank": 3600
+    },
+    {
+      "front": "interrupt",
+      "back": "unterbrechen",
+      "priority": 1.36,
+      "rank": 4348
+    },
+    {
+      "front": "turn / twist",
+      "back": "drehen / verdrehen",
+      "priority": 1.83,
+      "rank": 1479
+    },
+    {
+      "front": "freeze",
+      "back": "einfrieren",
+      "priority": 0.83,
+      "rank": 14925
+    }
+  ]
+}

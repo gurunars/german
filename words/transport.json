@@ -1,0 +1,74 @@
+{
+  "name": "Transport",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "airplane",
+      "back": "das Flugzeug",
+      "priority": 1.89,
+      "rank": 1300
+    },
+    {
+      "front": "bicycle",
+      "back": "das Fahrrad",
+      "priority": 1.44,
+      "rank": 3640
+    },
+    {
+      "front": "boat",
+      "back": "das Boot",
+      "priority": 1.94,
+      "rank": 1156
+    },
+    {
+      "front": "bus",
+      "back": "der Bus",
+      "priority": 1.79,
+      "rank": 1605
+    },
+    {
+      "front": "car",
+      "back": "das Auto",
+      "priority": 2.4,
+      "rank": 402
+    },
+    {
+      "front": "moped",
+      "back": "das Moped",
+      "priority": 0.71,
+      "rank": 19468
+    },
+    {
+      "front": "motorcycle",
+      "back": "das Motorrad",
+      "priority": 1.38,
+      "rank": 4129
+    },
+    {
+      "front": "ship",
+      "back": "das Schiff",
+      "priority": 2.17,
+      "rank": 682
+    },
+    {
+      "front": "streetcar",
+      "back": "die Straßenbahn",
+      "priority": 0.72,
+      "rank": 18862
+    },
+    {
+      "front": "train",
+      "back": "der Zug",
+      "priority": 1.97,
+      "rank": 1072
+    },
+    {
+      "front": "truck",
+      "back": "der Lkw / der Lastwagen",
+      "priority": 1.27,
+      "rank": 5366
+    }
+  ]
+}

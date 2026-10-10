@@ -1,0 +1,431 @@
+{
+  "name": "Professions",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "actor",
+      "back": "der Schauspieler / die Schauspielerin",
+      "priority": 1.58,
+      "rank": 2612
+    },
+    {
+      "front": "actress",
+      "back": "die Schauspielerin",
+      "priority": 1.39,
+      "rank": 4099
+    },
+    {
+      "front": "author",
+      "back": "der Autor / die Autorin",
+      "priority": 1.33,
+      "rank": 4644
+    },
+    {
+      "front": "baker",
+      "back": "der Bäcker / die Bäckerin",
+      "priority": 0.87,
+      "rank": 13529
+    },
+    {
+      "front": "baker's shop",
+      "back": "die Bäckerei",
+      "priority": 0.94,
+      "rank": 11355
+    },
+    {
+      "front": "bookseller",
+      "back": "der Buchhändler / die Buchhändlerin",
+      "priority": 0.5
+    },
+    {
+      "front": "bookshop",
+      "back": "die Buchhandlung",
+      "priority": 0.6,
+      "rank": 25204
+    },
+    {
+      "front": "businessman",
+      "back": "der Geschäftsmann / die Geschäftsfrau",
+      "priority": 1.23,
+      "rank": 5837
+    },
+    {
+      "front": "butcher",
+      "back": "der Metzger / die Metzgerin",
+      "priority": 0.95,
+      "rank": 11310
+    },
+    {
+      "front": "pharmacist",
+      "back": "der Apotheker / die Apothekerin",
+      "priority": 0.83,
+      "rank": 14778
+    },
+    {
+      "front": "pharmacy",
+      "back": "die Apotheke",
+      "priority": 1.12,
+      "rank": 7610
+    },
+    {
+      "front": "cook",
+      "back": "der Koch / die Köchin",
+      "priority": 1.43,
+      "rank": 3701
+    },
+    {
+      "front": "customer",
+      "back": "der Kunde / die Kundin",
+      "priority": 1.4,
+      "rank": 3959
+    },
+    {
+      "front": "dentist",
+      "back": "der Zahnarzt / die Zahnärztin",
+      "priority": 1.24,
+      "rank": 5780
+    },
+    {
+      "front": "doctor",
+      "back": "der Arzt / die Ärztin",
+      "priority": 2.14,
+      "rank": 729
+    },
+    {
+      "front": "employee",
+      "back": "der Mitarbeiter / die Mitarbeiterin",
+      "priority": 1.49,
+      "rank": 3227
+    },
+    {
+      "front": "engineer",
+      "back": "der Ingenieur / die Ingenieurin",
+      "priority": 1.17,
+      "rank": 6770
+    },
+    {
+      "front": "fisherman",
+      "back": "der Fischer / die Fischerin",
+      "priority": 1.18,
+      "rank": 6616
+    },
+    {
+      "front": "gardener",
+      "back": "der Gärtner / die Gärtnerin",
+      "priority": 1.1,
+      "rank": 7930
+    },
+    {
+      "front": "hairdresser",
+      "back": "der Friseur / die Friseurin",
+      "priority": 1.12,
+      "rank": 7543
+    },
+    {
+      "front": "jeweler",
+      "back": "der Juwelier / die Juwelierin",
+      "priority": 0.82,
+      "rank": 15038
+    },
+    {
+      "front": "journalist",
+      "back": "der Journalist / die Journalistin",
+      "priority": 1.13,
+      "rank": 7493
+    },
+    {
+      "front": "judge",
+      "back": "der Richter / die Richterin",
+      "priority": 1.87,
+      "rank": 1339
+    },
+    {
+      "front": "lawyer",
+      "back": "der Anwalt / die Anwältin",
+      "priority": 2.0,
+      "rank": 1005
+    },
+    {
+      "front": "mechanic",
+      "back": "der Mechaniker / die Mechanikerin",
+      "priority": 1.09,
+      "rank": 8104
+    },
+    {
+      "front": "musician",
+      "back": "der Musiker / die Musikerin",
+      "priority": 1.26,
+      "rank": 5499
+    },
+    {
+      "front": "nurse",
+      "back": "der Krankenpfleger / die Krankenschwester",
+      "priority": 1.35,
+      "rank": 4456
+    },
+    {
+      "front": "official",
+      "back": "der Beamte / die Beamtin",
+      "priority": 1.07,
+      "rank": 8541
+    },
+    {
+      "front": "optician",
+      "back": "der Optiker / die Optikerin",
+      "priority": 0.5
+    },
+    {
+      "front": "painter",
+      "back": "der Maler / die Malerin",
+      "priority": 1.14,
+      "rank": 7169
+    },
+    {
+      "front": "photographer",
+      "back": "der Fotograf / die Fotografin",
+      "priority": 1.06,
+      "rank": 8623
+    },
+    {
+      "front": "policeman",
+      "back": "der Polizist / die Polizistin",
+      "priority": 1.79,
+      "rank": 1614
+    },
+    {
+      "front": "postman",
+      "back": "der Postbote / die Postbotin",
+      "priority": 0.76,
+      "rank": 17186
+    },
+    {
+      "front": "priest",
+      "back": "der Priester / die Priesterin",
+      "priority": 1.63,
+      "rank": 2333
+    },
+    {
+      "front": "publisher",
+      "back": "der Verleger / die Verlegerin",
+      "priority": 0.92,
+      "rank": 12122
+    },
+    {
+      "front": "scientist",
+      "back": "der Wissenschaftler / die Wissenschaftlerin",
+      "priority": 1.49,
+      "rank": 3222
+    },
+    {
+      "front": "shoemaker",
+      "back": "der Schuhmacher / die Schuhmacherin",
+      "priority": 0.5,
+      "rank": 43114
+    },
+    {
+      "front": "singer",
+      "back": "der Sänger / die Sängerin",
+      "priority": 1.09,
+      "rank": 8053
+    },
+    {
+      "front": "student",
+      "back": "der Student / die Studentin",
+      "priority": 1.12,
+      "rank": 7517
+    },
+    {
+      "front": "surgeon",
+      "back": "der Chirurg / die Chirurgin",
+      "priority": 1.09,
+      "rank": 8116
+    },
+    {
+      "front": "tailor",
+      "back": "der Schneider / die Schneiderin",
+      "priority": 1.23,
+      "rank": 5954
+    },
+    {
+      "front": "teacher",
+      "back": "der Lehrer / die Lehrerin",
+      "priority": 1.76,
+      "rank": 1745
+    },
+    {
+      "front": "translator",
+      "back": "der Übersetzer / die Übersetzerin",
+      "priority": 0.7,
+      "rank": 20004
+    },
+    {
+      "front": "workman",
+      "back": "der Arbeiter / die Arbeiterin",
+      "priority": 1.45,
+      "rank": 3582
+    },
+    {
+      "front": "shop assistant",
+      "back": "der Verkäufer / die Verkäuferin",
+      "priority": 1.13,
+      "rank": 7435
+    },
+    {
+      "front": "driver",
+      "back": "der Fahrer / die Fahrerin",
+      "priority": 1.66,
+      "rank": 2183
+    },
+    {
+      "front": "cashier",
+      "back": "der Kassierer / die Kassiererin",
+      "priority": 0.71,
+      "rank": 19602
+    },
+    {
+      "front": "employer",
+      "back": "der Arbeitgeber / die Arbeitgeberin",
+      "priority": 1.06,
+      "rank": 8701
+    },
+    {
+      "front": "programmer",
+      "back": "der Programmierer / die Programmiererin",
+      "priority": 0.6,
+      "rank": 25265
+    },
+    {
+      "front": "architect",
+      "back": "der Architekt / die Architektin",
+      "priority": 0.98,
+      "rank": 10429
+    },
+    {
+      "front": "stewardess",
+      "back": "die Stewardess / die Flugbegleiterin",
+      "priority": 0.81,
+      "rank": 15644
+    },
+    {
+      "front": "blacksmith",
+      "back": "der Schmied / die Schmiedin",
+      "priority": 0.86,
+      "rank": 13709
+    },
+    {
+      "front": "carpenter",
+      "back": "der Zimmermann",
+      "priority": 0.82,
+      "rank": 15194
+    },
+    {
+      "front": "manager",
+      "back": "der Manager / die Managerin",
+      "priority": 1.47,
+      "rank": 3427
+    },
+    {
+      "front": "leader",
+      "back": "der Anführer / die Anführerin",
+      "priority": 1.59,
+      "rank": 2564
+    },
+    {
+      "front": "crowd",
+      "back": "die Menge",
+      "priority": 2.19,
+      "rank": 653
+    },
+    {
+      "front": "artist",
+      "back": "der Künstler / die Künstlerin",
+      "priority": 1.53,
+      "rank": 2918
+    },
+    {
+      "front": "pilot",
+      "back": "der Pilot / die Pilotin",
+      "priority": 1.41,
+      "rank": 3886
+    },
+    {
+      "front": "guard",
+      "back": "der Wächter / die Wächterin",
+      "priority": 1.35,
+      "rank": 4448
+    },
+    {
+      "front": "bartender",
+      "back": "der Barkeeper / die Barkeeperin",
+      "priority": 1.13,
+      "rank": 7391
+    },
+    {
+      "front": "dancer",
+      "back": "der Tänzer / die Tänzerin",
+      "priority": 1.11,
+      "rank": 7758
+    },
+    {
+      "front": "composer",
+      "back": "der Komponist / die Komponistin",
+      "priority": 0.68,
+      "rank": 20965
+    },
+    {
+      "front": "writer",
+      "back": "der Schriftsteller / die Schriftstellerin",
+      "priority": 1.3,
+      "rank": 5048
+    },
+    {
+      "front": "movie director",
+      "back": "der Filmregisseur / die Filmregisseurin",
+      "priority": 0.5
+    },
+    {
+      "front": "sportsman",
+      "back": "der Sportler / die Sportlerin",
+      "priority": 0.94,
+      "rank": 11369
+    },
+    {
+      "front": "player",
+      "back": "der Spieler / die Spielerin",
+      "priority": 1.48,
+      "rank": 3293
+    },
+    {
+      "front": "buyer",
+      "back": "der Käufer / die Käuferin",
+      "priority": 1.23,
+      "rank": 5879
+    },
+    {
+      "front": "fireman",
+      "back": "der Feuerwehrmann / die Feuerwehrfrau",
+      "priority": 0.9,
+      "rank": 12681
+    },
+    {
+      "front": "magician",
+      "back": "der Zauberer / die Zauberin",
+      "priority": 1.4,
+      "rank": 3944
+    },
+    {
+      "front": "coach",
+      "back": "der Trainer / die Trainerin",
+      "priority": 1.38,
+      "rank": 4181
+    },
+    {
+      "front": "farmer",
+      "back": "der Landwirt / die Landwirtin",
+      "priority": 0.5,
+      "rank": 37322
+    }
+  ]
+}

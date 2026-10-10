@@ -1,0 +1,439 @@
+{
+  "name": "Parts of the body",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "ankle",
+      "back": "der Knöchel",
+      "priority": 1.16,
+      "rank": 6985
+    },
+    {
+      "front": "arm",
+      "back": "der Arm",
+      "priority": 1.99,
+      "rank": 1034
+    },
+    {
+      "front": "artery",
+      "back": "die Arterie",
+      "priority": 0.81,
+      "rank": 15570
+    },
+    {
+      "front": "back",
+      "back": "der Rücken",
+      "priority": 1.94,
+      "rank": 1150
+    },
+    {
+      "front": "beard",
+      "back": "der Bart",
+      "priority": 1.54,
+      "rank": 2886
+    },
+    {
+      "front": "belly",
+      "back": "der Bauch",
+      "priority": 1.62,
+      "rank": 2384
+    },
+    {
+      "front": "bladder",
+      "back": "die Blase",
+      "priority": 1.14,
+      "rank": 7204
+    },
+    {
+      "front": "blood",
+      "back": "das Blut",
+      "priority": 2.23,
+      "rank": 591
+    },
+    {
+      "front": "body",
+      "back": "der Körper",
+      "priority": 2.1,
+      "rank": 792
+    },
+    {
+      "front": "bone",
+      "back": "der Knochen",
+      "priority": 1.68,
+      "rank": 2111
+    },
+    {
+      "front": "brain",
+      "back": "das Gehirn",
+      "priority": 1.77,
+      "rank": 1715
+    },
+    {
+      "front": "breast",
+      "back": "die Brust",
+      "priority": 1.61,
+      "rank": 2447
+    },
+    {
+      "front": "breath",
+      "back": "der Atem",
+      "priority": 1.42,
+      "rank": 3845
+    },
+    {
+      "front": "calf",
+      "back": "die Wade",
+      "priority": 1.38,
+      "rank": 4126
+    },
+    {
+      "front": "cheek",
+      "back": "die Wange",
+      "priority": 1.04,
+      "rank": 9070
+    },
+    {
+      "front": "chest",
+      "back": "die Brust",
+      "priority": 1.61,
+      "rank": 2447
+    },
+    {
+      "front": "chin",
+      "back": "das Kinn",
+      "priority": 1.11,
+      "rank": 7697
+    },
+    {
+      "front": "ear",
+      "back": "das Ohr",
+      "priority": 1.65,
+      "rank": 2247
+    },
+    {
+      "front": "elbow",
+      "back": "der Ellbogen",
+      "priority": 0.91,
+      "rank": 12295
+    },
+    {
+      "front": "eye",
+      "back": "das Auge",
+      "priority": 2.01,
+      "rank": 968
+    },
+    {
+      "front": "eyebrow",
+      "back": "die Augenbraue",
+      "priority": 0.57,
+      "rank": 26683
+    },
+    {
+      "front": "eyelid",
+      "back": "das Augenlid",
+      "priority": 0.5
+    },
+    {
+      "front": "face",
+      "back": "das Gesicht",
+      "priority": 2.24,
+      "rank": 571
+    },
+    {
+      "front": "finger",
+      "back": "der Finger",
+      "priority": 1.99,
+      "rank": 1022
+    },
+    {
+      "front": "fist",
+      "back": "die Faust",
+      "priority": 1.31,
+      "rank": 4943
+    },
+    {
+      "front": "flesh",
+      "back": "das Fleisch",
+      "priority": 1.8,
+      "rank": 1582
+    },
+    {
+      "front": "foot",
+      "back": "der Fuß",
+      "priority": 1.91,
+      "rank": 1239
+    },
+    {
+      "front": "forehead",
+      "back": "die Stirn",
+      "priority": 1.31,
+      "rank": 4919
+    },
+    {
+      "front": "gum",
+      "back": "das Zahnfleisch",
+      "priority": 0.59,
+      "rank": 25527
+    },
+    {
+      "front": "hair",
+      "back": "das Haar",
+      "priority": 1.77,
+      "rank": 1702
+    },
+    {
+      "front": "hand",
+      "back": "die Hand",
+      "priority": 2.33,
+      "rank": 463
+    },
+    {
+      "front": "head",
+      "back": "der Kopf",
+      "priority": 2.43,
+      "rank": 375
+    },
+    {
+      "front": "health",
+      "back": "die Gesundheit",
+      "priority": 1.53,
+      "rank": 2967
+    },
+    {
+      "front": "heart",
+      "back": "das Herz",
+      "priority": 2.23,
+      "rank": 595
+    },
+    {
+      "front": "heel",
+      "back": "die Ferse",
+      "priority": 0.5,
+      "rank": 31645
+    },
+    {
+      "front": "hip",
+      "back": "die Hüfte",
+      "priority": 1.1,
+      "rank": 7865
+    },
+    {
+      "front": "intestines",
+      "back": "der Darm / die Därme (Pl.)",
+      "priority": 0.86,
+      "rank": 13725
+    },
+    {
+      "front": "jaw",
+      "back": "der Kiefer",
+      "priority": 1.02,
+      "rank": 9478
+    },
+    {
+      "front": "kidney",
+      "back": "die Niere",
+      "priority": 1.12,
+      "rank": 7634
+    },
+    {
+      "front": "knee",
+      "back": "das Knie",
+      "priority": 1.7,
+      "rank": 2001
+    },
+    {
+      "front": "leg",
+      "back": "das Bein",
+      "priority": 1.79,
+      "rank": 1627
+    },
+    {
+      "front": "lip",
+      "back": "die Lippe",
+      "priority": 0.88,
+      "rank": 13323
+    },
+    {
+      "front": "liver",
+      "back": "die Leber",
+      "priority": 1.31,
+      "rank": 4932
+    },
+    {
+      "front": "lung",
+      "back": "die Lunge",
+      "priority": 1.25,
+      "rank": 5599
+    },
+    {
+      "front": "moustache",
+      "back": "der Schnurrbart",
+      "priority": 1.08,
+      "rank": 8258
+    },
+    {
+      "front": "mouth",
+      "back": "der Mund",
+      "priority": 2.07,
+      "rank": 854
+    },
+    {
+      "front": "muscle",
+      "back": "der Muskel",
+      "priority": 0.78,
+      "rank": 16506
+    },
+    {
+      "front": "nail",
+      "back": "der Nagel",
+      "priority": 1.18,
+      "rank": 6583
+    },
+    {
+      "front": "neck",
+      "back": "der Hals",
+      "priority": 1.88,
+      "rank": 1328
+    },
+    {
+      "front": "nerve",
+      "back": "der Nerv",
+      "priority": 1.05,
+      "rank": 8879
+    },
+    {
+      "front": "nose",
+      "back": "die Nase",
+      "priority": 1.91,
+      "rank": 1226
+    },
+    {
+      "front": "pain",
+      "back": "der Schmerz",
+      "priority": 1.82,
+      "rank": 1499
+    },
+    {
+      "front": "pulse",
+      "back": "der Puls",
+      "priority": 1.39,
+      "rank": 4079
+    },
+    {
+      "front": "rib",
+      "back": "die Rippe",
+      "priority": 0.75,
+      "rank": 17856
+    },
+    {
+      "front": "shin",
+      "back": "das Schienbein",
+      "priority": 0.56,
+      "rank": 27288
+    },
+    {
+      "front": "shoulder",
+      "back": "die Schulter",
+      "priority": 1.53,
+      "rank": 2932
+    },
+    {
+      "front": "skeleton",
+      "back": "das Skelett",
+      "priority": 0.85,
+      "rank": 14133
+    },
+    {
+      "front": "skin",
+      "back": "die Haut",
+      "priority": 1.92,
+      "rank": 1193
+    },
+    {
+      "front": "skull",
+      "back": "der Schädel",
+      "priority": 1.52,
+      "rank": 2992
+    },
+    {
+      "front": "sole",
+      "back": "die Sohle",
+      "priority": 0.53,
+      "rank": 29708
+    },
+    {
+      "front": "spine",
+      "back": "die Wirbelsäule",
+      "priority": 0.91,
+      "rank": 12227
+    },
+    {
+      "front": "stomach",
+      "back": "der Magen",
+      "priority": 1.51,
+      "rank": 3064
+    },
+    {
+      "front": "temple",
+      "back": "die Schläfe",
+      "priority": 0.61,
+      "rank": 24782
+    },
+    {
+      "front": "thigh",
+      "back": "der Oberschenkel",
+      "priority": 0.81,
+      "rank": 15354
+    },
+    {
+      "front": "throat",
+      "back": "die Kehle",
+      "priority": 1.4,
+      "rank": 3967
+    },
+    {
+      "front": "thumb",
+      "back": "der Daumen",
+      "priority": 1.36,
+      "rank": 4382
+    },
+    {
+      "front": "toe",
+      "back": "der Zeh / die Zehe",
+      "priority": 0.95,
+      "rank": 11119
+    },
+    {
+      "front": "tongue",
+      "back": "die Zunge",
+      "priority": 1.59,
+      "rank": 2553
+    },
+    {
+      "front": "tooth",
+      "back": "der Zahn",
+      "priority": 1.31,
+      "rank": 4886
+    },
+    {
+      "front": "vein",
+      "back": "die Vene",
+      "priority": 0.61,
+      "rank": 24269
+    },
+    {
+      "front": "waist",
+      "back": "die Taille",
+      "priority": 0.79,
+      "rank": 16049
+    },
+    {
+      "front": "wrist",
+      "back": "das Handgelenk",
+      "priority": 1.11,
+      "rank": 7837
+    }
+  ]
+}

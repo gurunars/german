@@ -1,0 +1,4532 @@
+{
+  "name": "Core",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I / me",
+      "back": "ich (mich / mir)",
+      "priority": 4.0,
+      "rank": 1
+    },
+    {
+      "front": "she / they / formal you",
+      "back": "sie / Sie (ihr / ihnen / Ihnen)",
+      "priority": 4.0,
+      "rank": 2
+    },
+    {
+      "front": "the (definite article)",
+      "back": "der / die / das",
+      "priority": 4.0,
+      "rank": 3
+    },
+    {
+      "front": "you (informal singular)",
+      "back": "du (dich / dir)",
+      "priority": 4.0,
+      "rank": 5
+    },
+    {
+      "front": "it",
+      "back": "es",
+      "priority": 4.0,
+      "rank": 8
+    },
+    {
+      "front": "we / us",
+      "back": "wir (uns)",
+      "priority": 3.96,
+      "rank": 11
+    },
+    {
+      "front": "he / him",
+      "back": "er (ihn / ihm)",
+      "priority": 3.85,
+      "rank": 14
+    },
+    {
+      "front": "a / an",
+      "back": "ein / eine",
+      "priority": 3.82,
+      "rank": 15
+    },
+    {
+      "front": "yes",
+      "back": "ja",
+      "priority": 3.77,
+      "rank": 17
+    },
+    {
+      "front": "that (conjunction)",
+      "back": "dass",
+      "priority": 3.62,
+      "rank": 24
+    },
+    {
+      "front": "here",
+      "back": "hier",
+      "priority": 3.54,
+      "rank": 29
+    },
+    {
+      "front": "you (plural informal)",
+      "back": "ihr (euch)",
+      "priority": 3.43,
+      "rank": 37
+    },
+    {
+      "front": "no",
+      "back": "nein",
+      "priority": 3.42,
+      "rank": 38
+    },
+    {
+      "front": "there / then (da)",
+      "back": "da",
+      "priority": 3.36,
+      "rank": 44
+    },
+    {
+      "front": "oneself (reflexive)",
+      "back": "sich",
+      "priority": 3.34,
+      "rank": 46
+    },
+    {
+      "front": "already (schon)",
+      "back": "schon",
+      "priority": 3.27,
+      "rank": 54
+    },
+    {
+      "front": "his / its",
+      "back": "sein",
+      "priority": 3.25,
+      "rank": 56
+    },
+    {
+      "front": "once / just (softening particle)",
+      "back": "mal",
+      "priority": 3.24,
+      "rank": 57
+    },
+    {
+      "front": "my",
+      "back": "mein",
+      "priority": 3.18,
+      "rank": 66
+    },
+    {
+      "front": "yes (contradicting a negative)",
+      "back": "doch",
+      "priority": 3.17,
+      "rank": 68
+    },
+    {
+      "front": "no / not a",
+      "back": "kein / keine",
+      "priority": 3.15,
+      "rank": 71
+    },
+    {
+      "front": "nothing",
+      "back": "nichts",
+      "priority": 3.12,
+      "rank": 75
+    },
+    {
+      "front": "one / you (generic)",
+      "back": "man",
+      "priority": 3.12,
+      "rank": 76
+    },
+    {
+      "front": "where",
+      "back": "wo",
+      "priority": 3.09,
+      "rank": 82
+    },
+    {
+      "front": "so / well (therefore)",
+      "back": "also",
+      "priority": 3.06,
+      "rank": 87
+    },
+    {
+      "front": "please / you're welcome",
+      "back": "bitte",
+      "priority": 3.06,
+      "rank": 88
+    },
+    {
+      "front": "What's up? (los)",
+      "back": "los (Was ist los?)",
+      "priority": 3.03,
+      "rank": 93
+    },
+    {
+      "front": "again (wieder)",
+      "back": "wieder",
+      "priority": 3.02,
+      "rank": 95
+    },
+    {
+      "front": "very",
+      "back": "sehr",
+      "priority": 3.0,
+      "rank": 99
+    },
+    {
+      "front": "everyone / all (plural)",
+      "back": "alle",
+      "priority": 3.0,
+      "rank": 100
+    },
+    {
+      "front": "because / then (particle)",
+      "back": "denn",
+      "priority": 3.0,
+      "rank": 101
+    },
+    {
+      "front": "maybe",
+      "back": "vielleicht",
+      "priority": 2.97,
+      "rank": 108
+    },
+    {
+      "front": "her / their (possessive)",
+      "back": "ihr / ihre",
+      "priority": 3.43,
+      "rank": 37
+    },
+    {
+      "front": "this",
+      "back": "dieser / diese / dieses",
+      "priority": 2.95,
+      "rank": 112
+    },
+    {
+      "front": "there is / there are",
+      "back": "es gibt",
+      "priority": 2.93,
+      "rank": 117
+    },
+    {
+      "front": "your (informal)",
+      "back": "dein",
+      "priority": 2.85,
+      "rank": 141
+    },
+    {
+      "front": "away / gone",
+      "back": "weg",
+      "priority": 2.89,
+      "rank": 129
+    },
+    {
+      "front": "so that / with it",
+      "back": "damit",
+      "priority": 2.84,
+      "rank": 145
+    },
+    {
+      "front": "whole / quite",
+      "back": "ganz",
+      "priority": 2.84,
+      "rank": 146
+    },
+    {
+      "front": "now (well then)",
+      "back": "nun",
+      "priority": 2.81,
+      "rank": 154
+    },
+    {
+      "front": "to be sorry",
+      "back": "leidtun (Es tut mir leid)",
+      "priority": 0.82,
+      "rank": 15266
+    },
+    {
+      "front": "hello",
+      "back": "hallo",
+      "priority": 2.79,
+      "rank": 164
+    },
+    {
+      "front": "God",
+      "back": "der Gott",
+      "priority": 2.78,
+      "rank": 166
+    },
+    {
+      "front": "off / from (ab)",
+      "back": "ab",
+      "priority": 2.74,
+      "rank": 182
+    },
+    {
+      "front": "just now / straight",
+      "back": "gerade",
+      "priority": 2.74,
+      "rank": 183
+    },
+    {
+      "front": "well / presumably (wohl)",
+      "back": "wohl",
+      "priority": 2.73,
+      "rank": 187
+    },
+    {
+      "front": "love (noun)",
+      "back": "die Liebe",
+      "priority": 2.73,
+      "rank": 188
+    },
+    {
+      "front": "our",
+      "back": "unser",
+      "priority": 2.58,
+      "rank": 262
+    },
+    {
+      "front": "whether / if (ob)",
+      "back": "ob",
+      "priority": 2.71,
+      "rank": 195
+    },
+    {
+      "front": "out (towards speaker)",
+      "back": "raus / heraus",
+      "priority": 2.7,
+      "rank": 198
+    },
+    {
+      "front": "a few / a couple",
+      "back": "ein paar",
+      "priority": 2.7,
+      "rank": 200
+    },
+    {
+      "front": "why (wieso)",
+      "back": "wieso",
+      "priority": 2.69,
+      "rank": 206
+    },
+    {
+      "front": "here (towards speaker) / ago",
+      "back": "her",
+      "priority": 2.67,
+      "rank": 214
+    },
+    {
+      "front": "at all (gar nicht)",
+      "back": "gar",
+      "priority": 2.64,
+      "rank": 228
+    },
+    {
+      "front": "further / on (weiter)",
+      "back": "weiter",
+      "priority": 2.63,
+      "rank": 232
+    },
+    {
+      "front": "to be right",
+      "back": "Recht haben",
+      "priority": 2.63,
+      "rank": 237
+    },
+    {
+      "front": "order / all right",
+      "back": "die Ordnung (in Ordnung)",
+      "priority": 2.62,
+      "rank": 240
+    },
+    {
+      "front": "of it / from it",
+      "back": "davon",
+      "priority": 2.61,
+      "rank": 244
+    },
+    {
+      "front": "for it",
+      "back": "dafür",
+      "priority": 2.61,
+      "rank": 245
+    },
+    {
+      "front": "because of",
+      "back": "wegen",
+      "priority": 2.61,
+      "rank": 248
+    },
+    {
+      "front": "there (away from speaker)",
+      "back": "hin",
+      "priority": 2.6,
+      "rank": 252
+    },
+    {
+      "front": "three",
+      "back": "drei",
+      "priority": 2.59,
+      "rank": 258
+    },
+    {
+      "front": "human being / person",
+      "back": "der Mensch",
+      "priority": 2.24,
+      "rank": 578
+    },
+    {
+      "front": "may / to be allowed to",
+      "back": "dürfen",
+      "priority": 2.2,
+      "rank": 630
+    },
+    {
+      "front": "only / not until (erst)",
+      "back": "erst",
+      "priority": 2.56,
+      "rank": 278
+    },
+    {
+      "front": "in (towards speaker)",
+      "back": "rein / herein",
+      "priority": 2.55,
+      "rank": 279
+    },
+    {
+      "front": "to be correct",
+      "back": "stimmen (Das stimmt)",
+      "priority": 1.83,
+      "rank": 1488
+    },
+    {
+      "front": "otherwise / else",
+      "back": "sonst",
+      "priority": 2.53,
+      "rank": 294
+    },
+    {
+      "front": "music",
+      "back": "die Musik",
+      "priority": 2.53,
+      "rank": 295
+    },
+    {
+      "front": "Mr / gentleman",
+      "back": "der Herr",
+      "priority": 2.52,
+      "rank": 300
+    },
+    {
+      "front": "with it / present (dabei)",
+      "back": "dabei",
+      "priority": 2.52,
+      "rank": 301
+    },
+    {
+      "front": "nobody",
+      "back": "niemand",
+      "priority": 2.52,
+      "rank": 305
+    },
+    {
+      "front": "problem",
+      "back": "das Problem",
+      "priority": 2.51,
+      "rank": 310
+    },
+    {
+      "front": "ready / finished",
+      "back": "fertig",
+      "priority": 2.5,
+      "rank": 314
+    },
+    {
+      "front": "alone",
+      "back": "allein",
+      "priority": 2.5,
+      "rank": 316
+    },
+    {
+      "front": "every / each",
+      "back": "jeder / jede / jedes",
+      "priority": 2.49,
+      "rank": 326
+    },
+    {
+      "front": "to it / in addition",
+      "back": "dazu",
+      "priority": 2.47,
+      "rank": 340
+    },
+    {
+      "front": "rather / preferably",
+      "back": "lieber",
+      "priority": 2.46,
+      "rank": 348
+    },
+    {
+      "front": "doesn't matter",
+      "back": "egal",
+      "priority": 2.45,
+      "rank": 352
+    },
+    {
+      "front": "to know (be acquainted with)",
+      "back": "kennen",
+      "priority": 2.45,
+      "rank": 353
+    },
+    {
+      "front": "question",
+      "back": "die Frage",
+      "priority": 2.45,
+      "rank": 356
+    },
+    {
+      "front": "actually",
+      "back": "eigentlich",
+      "priority": 2.44,
+      "rank": 364
+    },
+    {
+      "front": "name",
+      "back": "der Name",
+      "priority": 2.36,
+      "rank": 440
+    },
+    {
+      "front": "to get / receive",
+      "back": "bekommen",
+      "priority": 2.43,
+      "rank": 374
+    },
+    {
+      "front": "luck / happiness",
+      "back": "das Glück",
+      "priority": 2.42,
+      "rank": 380
+    },
+    {
+      "front": "on it",
+      "back": "darauf",
+      "priority": 2.41,
+      "rank": 385
+    },
+    {
+      "front": "thing",
+      "back": "das Ding",
+      "priority": 2.23,
+      "rank": 588
+    },
+    {
+      "front": "great (toll)",
+      "back": "toll",
+      "priority": 2.41,
+      "rank": 392
+    },
+    {
+      "front": "one",
+      "back": "eins",
+      "priority": 2.41,
+      "rank": 393
+    },
+    {
+      "front": "ready (prepared)",
+      "back": "bereit",
+      "priority": 2.4,
+      "rank": 396
+    },
+    {
+      "front": "idea / clue",
+      "back": "die Ahnung",
+      "priority": 2.4,
+      "rank": 398
+    },
+    {
+      "front": "a bit",
+      "back": "ein bisschen",
+      "priority": 2.4,
+      "rank": 400
+    },
+    {
+      "front": "your (plural)",
+      "back": "euer",
+      "priority": 2.24,
+      "rank": 569
+    },
+    {
+      "front": "police",
+      "back": "die Polizei",
+      "priority": 2.39,
+      "rank": 406
+    },
+    {
+      "front": "over / past",
+      "back": "vorbei",
+      "priority": 2.38,
+      "rank": 414
+    },
+    {
+      "front": "on it / one's turn",
+      "back": "dran (Du bist dran)",
+      "priority": 2.38,
+      "rank": 417
+    },
+    {
+      "front": "crazy",
+      "back": "verrückt",
+      "priority": 2.38,
+      "rank": 421
+    },
+    {
+      "front": "only / single",
+      "back": "einzig",
+      "priority": 1.44,
+      "rank": 3635
+    },
+    {
+      "front": "that's why / about it",
+      "back": "darum",
+      "priority": 2.37,
+      "rank": 428
+    },
+    {
+      "front": "idea",
+      "back": "die Idee",
+      "priority": 2.37,
+      "rank": 431
+    },
+    {
+      "front": "in it",
+      "back": "darin / drin",
+      "priority": 2.36,
+      "rank": 433
+    },
+    {
+      "front": "even",
+      "back": "sogar",
+      "priority": 2.36,
+      "rank": 441
+    },
+    {
+      "front": "guy / bloke",
+      "back": "der Kerl",
+      "priority": 2.35,
+      "rank": 443
+    },
+    {
+      "front": "the more ... the more",
+      "back": "je ... desto",
+      "priority": 1.68,
+      "rank": 2079
+    },
+    {
+      "front": "where from",
+      "back": "woher",
+      "priority": 2.35,
+      "rank": 449
+    },
+    {
+      "front": "in general / at all (überhaupt)",
+      "back": "überhaupt",
+      "priority": 2.34,
+      "rank": 458
+    },
+    {
+      "front": "devil",
+      "back": "der Teufel",
+      "priority": 2.34,
+      "rank": 459
+    },
+    {
+      "front": "reason",
+      "back": "der Grund",
+      "priority": 2.33,
+      "rank": 464
+    },
+    {
+      "front": "mum",
+      "back": "die Mama",
+      "priority": 2.33,
+      "rank": 467
+    },
+    {
+      "front": "to hope",
+      "back": "hoffen",
+      "priority": 1.76,
+      "rank": 1746
+    },
+    {
+      "front": "kind / type",
+      "back": "die Art",
+      "priority": 2.32,
+      "rank": 477
+    },
+    {
+      "front": "treasure / sweetheart",
+      "back": "der Schatz",
+      "priority": 2.32,
+      "rank": 479
+    },
+    {
+      "front": "different / differently",
+      "back": "anders",
+      "priority": 2.31,
+      "rank": 487
+    },
+    {
+      "front": "five",
+      "back": "fünf",
+      "priority": 2.31,
+      "rank": 490
+    },
+    {
+      "front": "first",
+      "back": "erste",
+      "priority": 2.31,
+      "rank": 493
+    },
+    {
+      "front": "story / history",
+      "back": "die Geschichte",
+      "priority": 2.3,
+      "rank": 496
+    },
+    {
+      "front": "to fetch",
+      "back": "holen",
+      "priority": 2.3,
+      "rank": 498
+    },
+    {
+      "front": "to mean (signify)",
+      "back": "bedeuten",
+      "priority": 1.84,
+      "rank": 1459
+    },
+    {
+      "front": "nice",
+      "back": "nett",
+      "priority": 2.3,
+      "rank": 500
+    },
+    {
+      "front": "truth",
+      "back": "die Wahrheit",
+      "priority": 2.3,
+      "rank": 501
+    },
+    {
+      "front": "therefore",
+      "back": "deshalb",
+      "priority": 2.3,
+      "rank": 504
+    },
+    {
+      "front": "certainly / definitely",
+      "back": "bestimmt",
+      "priority": 2.3,
+      "rank": 506
+    },
+    {
+      "front": "age",
+      "back": "das Alter",
+      "priority": 2.29,
+      "rank": 508
+    },
+    {
+      "front": "car / wagon",
+      "back": "der Wagen",
+      "priority": 2.29,
+      "rank": 514
+    },
+    {
+      "front": "four",
+      "back": "vier",
+      "priority": 2.29,
+      "rank": 515
+    },
+    {
+      "front": "to please (be liked)",
+      "back": "gefallen",
+      "priority": 2.29,
+      "rank": 516
+    },
+    {
+      "front": "guilt / fault",
+      "back": "die Schuld",
+      "priority": 2.28,
+      "rank": 519
+    },
+    {
+      "front": "serious",
+      "back": "ernst",
+      "priority": 2.28,
+      "rank": 525
+    },
+    {
+      "front": "just / simply (eben)",
+      "back": "eben",
+      "priority": 2.27,
+      "rank": 536
+    },
+    {
+      "front": "game",
+      "back": "das Spiel",
+      "priority": 2.27,
+      "rank": 538
+    },
+    {
+      "front": "chance",
+      "back": "die Chance",
+      "priority": 2.27,
+      "rank": 542
+    },
+    {
+      "front": "war",
+      "back": "der Krieg",
+      "priority": 2.26,
+      "rank": 544
+    },
+    {
+      "front": "word",
+      "back": "das Wort",
+      "priority": 2.25,
+      "rank": 561
+    },
+    {
+      "front": "guy / type",
+      "back": "der Typ",
+      "priority": 2.25,
+      "rank": 565
+    },
+    {
+      "front": "in case",
+      "back": "falls",
+      "priority": 2.24,
+      "rank": 572
+    },
+    {
+      "front": "merely (bloß)",
+      "back": "bloß",
+      "priority": 2.24,
+      "rank": 574
+    },
+    {
+      "front": "below / downstairs",
+      "back": "unten",
+      "priority": 2.24,
+      "rank": 575
+    },
+    {
+      "front": "often",
+      "back": "oft",
+      "priority": 2.24,
+      "rank": 581
+    },
+    {
+      "front": "some / a few (einige)",
+      "back": "einige",
+      "priority": 2.23,
+      "rank": 586
+    },
+    {
+      "front": "to get (colloquial)",
+      "back": "kriegen",
+      "priority": 2.23,
+      "rank": 590
+    },
+    {
+      "front": "honest",
+      "back": "ehrlich",
+      "priority": 2.23,
+      "rank": 592
+    },
+    {
+      "front": "goodbye",
+      "back": "auf Wiedersehen",
+      "priority": 2.22,
+      "rank": 601
+    },
+    {
+      "front": "somehow",
+      "back": "irgendwie",
+      "priority": 2.22,
+      "rank": 606
+    },
+    {
+      "front": "to be enough",
+      "back": "reichen",
+      "priority": 1.8,
+      "rank": 1585
+    },
+    {
+      "front": "firm / tight",
+      "back": "fest",
+      "priority": 2.22,
+      "rank": 608
+    },
+    {
+      "front": "to sound",
+      "back": "klingen",
+      "priority": 1.47,
+      "rank": 3381
+    },
+    {
+      "front": "dad",
+      "back": "der Papa",
+      "priority": 2.21,
+      "rank": 617
+    },
+    {
+      "front": "number (phone / room)",
+      "back": "die Nummer",
+      "priority": 2.21,
+      "rank": 621
+    },
+    {
+      "front": "where to",
+      "back": "wohin",
+      "priority": 2.2,
+      "rank": 624
+    },
+    {
+      "front": "first (at first)",
+      "back": "zuerst",
+      "priority": 2.2,
+      "rank": 628
+    },
+    {
+      "front": "probably",
+      "back": "wahrscheinlich",
+      "priority": 2.2,
+      "rank": 629
+    },
+    {
+      "front": "welcome",
+      "back": "willkommen",
+      "priority": 2.2,
+      "rank": 636
+    },
+    {
+      "front": "to save / rescue",
+      "back": "retten",
+      "priority": 2.19,
+      "rank": 639
+    },
+    {
+      "front": "(to) here",
+      "back": "hierher",
+      "priority": 2.19,
+      "rank": 640
+    },
+    {
+      "front": "mistake",
+      "back": "der Fehler",
+      "priority": 2.19,
+      "rank": 643
+    },
+    {
+      "front": "ten",
+      "back": "zehn",
+      "priority": 2.19,
+      "rank": 646
+    },
+    {
+      "front": "six",
+      "back": "sechs",
+      "priority": 2.18,
+      "rank": 657
+    },
+    {
+      "front": "to manage",
+      "back": "schaffen",
+      "priority": 2.18,
+      "rank": 665
+    },
+    {
+      "front": "unfortunately",
+      "back": "leider",
+      "priority": 2.18,
+      "rank": 666
+    },
+    {
+      "front": "nevertheless",
+      "back": "trotzdem",
+      "priority": 2.17,
+      "rank": 669
+    },
+    {
+      "front": "everywhere",
+      "back": "überall",
+      "priority": 2.17,
+      "rank": 675
+    },
+    {
+      "front": "direct / directly",
+      "back": "direkt",
+      "priority": 2.17,
+      "rank": 678
+    },
+    {
+      "front": "king",
+      "back": "der König",
+      "priority": 2.16,
+      "rank": 685
+    },
+    {
+      "front": "to work (function)",
+      "back": "funktionieren",
+      "priority": 1.76,
+      "rank": 1743
+    },
+    {
+      "front": "to name / call",
+      "back": "nennen",
+      "priority": 2.16,
+      "rank": 692
+    },
+    {
+      "front": "fire",
+      "back": "das Feuer",
+      "priority": 2.16,
+      "rank": 694
+    },
+    {
+      "front": "completely",
+      "back": "völlig",
+      "priority": 2.16,
+      "rank": 698
+    },
+    {
+      "front": "place / position (job)",
+      "back": "die Stelle",
+      "priority": 2.15,
+      "rank": 701
+    },
+    {
+      "front": "mate / buddy",
+      "back": "der Kumpel",
+      "priority": 2.15,
+      "rank": 702
+    },
+    {
+      "front": "admittedly (zwar ... aber)",
+      "back": "zwar",
+      "priority": 2.14,
+      "rank": 720
+    },
+    {
+      "front": "worth",
+      "back": "wert",
+      "priority": 2.14,
+      "rank": 728
+    },
+    {
+      "front": "glad",
+      "back": "froh",
+      "priority": 2.14,
+      "rank": 730
+    },
+    {
+      "front": "to call / shout",
+      "back": "rufen",
+      "priority": 2.13,
+      "rank": 733
+    },
+    {
+      "front": "super",
+      "back": "super",
+      "priority": 2.13,
+      "rank": 735
+    },
+    {
+      "front": "totally",
+      "back": "total",
+      "priority": 2.13,
+      "rank": 741
+    },
+    {
+      "front": "to trust",
+      "back": "vertrauen",
+      "priority": 2.13,
+      "rank": 747
+    },
+    {
+      "front": "back then",
+      "back": "damals",
+      "priority": 2.13,
+      "rank": 748
+    },
+    {
+      "front": "feeling",
+      "back": "das Gefühl",
+      "priority": 2.12,
+      "rank": 753
+    },
+    {
+      "front": "piece",
+      "back": "das Stück",
+      "priority": 2.12,
+      "rank": 763
+    },
+    {
+      "front": "just as / exactly the same",
+      "back": "genauso",
+      "priority": 2.12,
+      "rank": 764
+    },
+    {
+      "front": "over there",
+      "back": "drüben",
+      "priority": 2.11,
+      "rank": 774
+    },
+    {
+      "front": "rest (remainder)",
+      "back": "der Rest",
+      "priority": 2.1,
+      "rank": 786
+    },
+    {
+      "front": "sooner / more likely",
+      "back": "eher",
+      "priority": 2.1,
+      "rank": 788
+    },
+    {
+      "front": "such",
+      "back": "solche / solch",
+      "priority": 2.1,
+      "rank": 793
+    },
+    {
+      "front": "crap / damn",
+      "back": "der Mist",
+      "priority": 2.1,
+      "rank": 794
+    },
+    {
+      "front": "evil / angry",
+      "back": "böse",
+      "priority": 2.1,
+      "rank": 798
+    },
+    {
+      "front": "of what / about what",
+      "back": "wovon",
+      "priority": 2.1,
+      "rank": 802
+    },
+    {
+      "front": "as soon as",
+      "back": "sobald",
+      "priority": 2.1,
+      "rank": 803
+    },
+    {
+      "front": "to hurt",
+      "back": "wehtun",
+      "priority": 1.62,
+      "rank": 2407
+    },
+    {
+      "front": "million",
+      "back": "die Million",
+      "priority": 1.68,
+      "rank": 2098
+    },
+    {
+      "front": "class / great (Klasse)",
+      "back": "die Klasse",
+      "priority": 2.09,
+      "rank": 815
+    },
+    {
+      "front": "sense / meaning",
+      "back": "der Sinn",
+      "priority": 2.09,
+      "rank": 818
+    },
+    {
+      "front": "besides / moreover",
+      "back": "außerdem",
+      "priority": 2.09,
+      "rank": 819
+    },
+    {
+      "front": "to find out (news)",
+      "back": "erfahren",
+      "priority": 2.09,
+      "rank": 822
+    },
+    {
+      "front": "at least (wenigstens)",
+      "back": "wenigstens",
+      "priority": 2.08,
+      "rank": 824
+    },
+    {
+      "front": "careful",
+      "back": "vorsichtig",
+      "priority": 2.08,
+      "rank": 825
+    },
+    {
+      "front": "proud",
+      "back": "stolz",
+      "priority": 2.08,
+      "rank": 827
+    },
+    {
+      "front": "to estimate / value",
+      "back": "schätzen",
+      "priority": 1.8,
+      "rank": 1575
+    },
+    {
+      "front": "great / magnificent",
+      "back": "großartig",
+      "priority": 2.08,
+      "rank": 839
+    },
+    {
+      "front": "to expect",
+      "back": "erwarten",
+      "priority": 1.93,
+      "rank": 1164
+    },
+    {
+      "front": "voice",
+      "back": "die Stimme",
+      "priority": 2.07,
+      "rank": 848
+    },
+    {
+      "front": "quiet / still",
+      "back": "still",
+      "priority": 2.07,
+      "rank": 850
+    },
+    {
+      "front": "safety / security",
+      "back": "die Sicherheit",
+      "priority": 2.07,
+      "rank": 851
+    },
+    {
+      "front": "stuff",
+      "back": "das Zeug",
+      "priority": 2.07,
+      "rank": 859
+    },
+    {
+      "front": "unbelievable",
+      "back": "unglaublich",
+      "priority": 2.06,
+      "rank": 866
+    },
+    {
+      "front": "shop",
+      "back": "der Laden",
+      "priority": 2.06,
+      "rank": 868
+    },
+    {
+      "front": "to lead",
+      "back": "führen",
+      "priority": 2.06,
+      "rank": 869
+    },
+    {
+      "front": "opinion",
+      "back": "die Meinung",
+      "priority": 2.06,
+      "rank": 872
+    },
+    {
+      "front": "team",
+      "back": "das Team",
+      "priority": 2.05,
+      "rank": 883
+    },
+    {
+      "front": "beforehand",
+      "back": "vorher",
+      "priority": 2.05,
+      "rank": 888
+    },
+    {
+      "front": "end / conclusion",
+      "back": "der Schluss",
+      "priority": 2.05,
+      "rank": 889
+    },
+    {
+      "front": "perfect",
+      "back": "perfekt",
+      "priority": 2.05,
+      "rank": 897
+    },
+    {
+      "front": "at the back",
+      "back": "hinten",
+      "priority": 2.05,
+      "rank": 900
+    },
+    {
+      "front": "eight",
+      "back": "acht",
+      "priority": 2.04,
+      "rank": 903
+    },
+    {
+      "front": "necessary",
+      "back": "nötig",
+      "priority": 2.04,
+      "rank": 907
+    },
+    {
+      "front": "impossible",
+      "back": "unmöglich",
+      "priority": 2.04,
+      "rank": 912
+    },
+    {
+      "front": "darling / favourite",
+      "back": "der Liebling",
+      "priority": 2.04,
+      "rank": 913
+    },
+    {
+      "front": "suddenly",
+      "back": "plötzlich",
+      "priority": 2.03,
+      "rank": 923
+    },
+    {
+      "front": "seven",
+      "back": "sieben",
+      "priority": 2.02,
+      "rank": 947
+    },
+    {
+      "front": "strange / funny (odd)",
+      "back": "komisch",
+      "priority": 2.02,
+      "rank": 948
+    },
+    {
+      "front": "on the way",
+      "back": "unterwegs",
+      "priority": 2.02,
+      "rank": 954
+    },
+    {
+      "front": "trouble / annoyance",
+      "back": "der Ärger",
+      "priority": 2.02,
+      "rank": 956
+    },
+    {
+      "front": "against it",
+      "back": "dagegen",
+      "priority": 2.02,
+      "rank": 961
+    },
+    {
+      "front": "rule",
+      "back": "die Regel",
+      "priority": 1.6,
+      "rank": 2510
+    },
+    {
+      "front": "to catch",
+      "back": "fangen",
+      "priority": 2.01,
+      "rank": 981
+    },
+    {
+      "front": "constantly",
+      "back": "ständig",
+      "priority": 2.01,
+      "rank": 983
+    },
+    {
+      "front": "danger",
+      "back": "die Gefahr",
+      "priority": 2.01,
+      "rank": 985
+    },
+    {
+      "front": "absolutely",
+      "back": "absolut",
+      "priority": 2.01,
+      "rank": 986
+    },
+    {
+      "front": "to let know",
+      "back": "Bescheid sagen",
+      "priority": 2.0,
+      "rank": 989
+    },
+    {
+      "front": "around (herum)",
+      "back": "herum / rum",
+      "priority": 2.0,
+      "rank": 990
+    },
+    {
+      "front": "thought",
+      "back": "der Gedanke",
+      "priority": 1.54,
+      "rank": 2870
+    },
+    {
+      "front": "to wish",
+      "back": "wünschen",
+      "priority": 1.78,
+      "rank": 1677
+    },
+    {
+      "front": "beginning",
+      "back": "der Anfang",
+      "priority": 2.0,
+      "rank": 1002
+    },
+    {
+      "front": "partner",
+      "back": "der Partner",
+      "priority": 1.99,
+      "rank": 1016
+    },
+    {
+      "front": "sweet / cute",
+      "back": "süß",
+      "priority": 1.99,
+      "rank": 1020
+    },
+    {
+      "front": "marriage",
+      "back": "die Ehe",
+      "priority": 1.99,
+      "rank": 1023
+    },
+    {
+      "front": "wedding",
+      "back": "die Hochzeit",
+      "priority": 1.99,
+      "rank": 1028
+    },
+    {
+      "front": "awake",
+      "back": "wach",
+      "priority": 1.99,
+      "rank": 1032
+    },
+    {
+      "front": "what for",
+      "back": "wozu",
+      "priority": 1.99,
+      "rank": 1033
+    },
+    {
+      "front": "boss",
+      "back": "der Chef",
+      "priority": 1.98,
+      "rank": 1036
+    },
+    {
+      "front": "information",
+      "back": "die Information",
+      "priority": 1.56,
+      "rank": 2770
+    },
+    {
+      "front": "to take care of / get done",
+      "back": "erledigen",
+      "priority": 1.9,
+      "rank": 1255
+    },
+    {
+      "front": "hopefully",
+      "back": "hoffentlich",
+      "priority": 1.98,
+      "rank": 1040
+    },
+    {
+      "front": "to dance",
+      "back": "tanzen",
+      "priority": 1.98,
+      "rank": 1043
+    },
+    {
+      "front": "wonderful",
+      "back": "wunderbar",
+      "priority": 1.98,
+      "rank": 1047
+    },
+    {
+      "front": "lady",
+      "back": "die Dame",
+      "priority": 1.98,
+      "rank": 1051
+    },
+    {
+      "front": "sometime",
+      "back": "irgendwann",
+      "priority": 1.98,
+      "rank": 1052
+    },
+    {
+      "front": "to put in / be stuck",
+      "back": "stecken",
+      "priority": 1.89,
+      "rank": 1284
+    },
+    {
+      "front": "in any case (jedenfalls)",
+      "back": "jedenfalls",
+      "priority": 1.98,
+      "rank": 1056
+    },
+    {
+      "front": "over (across)",
+      "back": "rüber / herüber",
+      "priority": 1.98,
+      "rank": 1059
+    },
+    {
+      "front": "bye",
+      "back": "tschüss",
+      "priority": 1.97,
+      "rank": 1060
+    },
+    {
+      "front": "room / space",
+      "back": "der Raum",
+      "priority": 1.97,
+      "rank": 1062
+    },
+    {
+      "front": "photo",
+      "back": "das Foto",
+      "priority": 1.97,
+      "rank": 1064
+    },
+    {
+      "front": "so far",
+      "back": "bisher",
+      "priority": 1.97,
+      "rank": 1069
+    },
+    {
+      "front": "definitely (must)",
+      "back": "unbedingt",
+      "priority": 1.97,
+      "rank": 1071
+    },
+    {
+      "front": "second (time unit)",
+      "back": "die Sekunde",
+      "priority": 1.92,
+      "rank": 1196
+    },
+    {
+      "front": "what for (wofür)",
+      "back": "wofür",
+      "priority": 1.97,
+      "rank": 1074
+    },
+    {
+      "front": "letter (mail)",
+      "back": "der Brief",
+      "priority": 1.96,
+      "rank": 1087
+    },
+    {
+      "front": "known / well-known",
+      "back": "bekannt",
+      "priority": 1.96,
+      "rank": 1090
+    },
+    {
+      "front": "accident",
+      "back": "der Unfall",
+      "priority": 1.96,
+      "rank": 1092
+    },
+    {
+      "front": "there (to that place)",
+      "back": "dahin",
+      "priority": 1.96,
+      "rank": 1093
+    },
+    {
+      "front": "control / check",
+      "back": "die Kontrolle",
+      "priority": 1.96,
+      "rank": 1094
+    },
+    {
+      "front": "the same (one)",
+      "back": "derselbe / dieselbe / dasselbe",
+      "priority": 1.96,
+      "rank": 1097
+    },
+    {
+      "front": "way / manner",
+      "back": "die Weise",
+      "priority": 1.96,
+      "rank": 1101
+    },
+    {
+      "front": "to be missing",
+      "back": "fehlen",
+      "priority": 1.66,
+      "rank": 2204
+    },
+    {
+      "front": "to prove",
+      "back": "beweisen",
+      "priority": 1.96,
+      "rank": 1109
+    },
+    {
+      "front": "pretty",
+      "back": "hübsch",
+      "priority": 1.95,
+      "rank": 1113
+    },
+    {
+      "front": "anyway",
+      "back": "sowieso",
+      "priority": 1.95,
+      "rank": 1119
+    },
+    {
+      "front": "strength / power",
+      "back": "die Kraft",
+      "priority": 1.95,
+      "rank": 1120
+    },
+    {
+      "front": "normal",
+      "back": "normal",
+      "priority": 1.95,
+      "rank": 1121
+    },
+    {
+      "front": "gift / present",
+      "back": "das Geschenk",
+      "priority": 1.95,
+      "rank": 1125
+    },
+    {
+      "front": "hunger",
+      "back": "der Hunger",
+      "priority": 1.95,
+      "rank": 1132
+    },
+    {
+      "front": "relationship",
+      "back": "die Beziehung",
+      "priority": 1.95,
+      "rank": 1135
+    },
+    {
+      "front": "price / prize",
+      "back": "der Preis",
+      "priority": 1.94,
+      "rank": 1141
+    },
+    {
+      "front": "joke",
+      "back": "der Witz",
+      "priority": 1.94,
+      "rank": 1142
+    },
+    {
+      "front": "ghost / mind",
+      "back": "der Geist",
+      "priority": 1.94,
+      "rank": 1145
+    },
+    {
+      "front": "company / firm",
+      "back": "die Firma",
+      "priority": 1.94,
+      "rank": 1148
+    },
+    {
+      "front": "terrible",
+      "back": "schrecklich",
+      "priority": 1.94,
+      "rank": 1151
+    },
+    {
+      "front": "in love",
+      "back": "verliebt",
+      "priority": 1.94,
+      "rank": 1153
+    },
+    {
+      "front": "strange",
+      "back": "seltsam",
+      "priority": 1.94,
+      "rank": 1157
+    },
+    {
+      "front": "sour / annoyed",
+      "back": "sauer",
+      "priority": 1.93,
+      "rank": 1167
+    },
+    {
+      "front": "presumably",
+      "back": "vermutlich",
+      "priority": 1.93,
+      "rank": 1168
+    },
+    {
+      "front": "born",
+      "back": "geboren",
+      "priority": 1.93,
+      "rank": 1181
+    },
+    {
+      "front": "to reach",
+      "back": "erreichen",
+      "priority": 1.93,
+      "rank": 1182
+    },
+    {
+      "front": "point / dot",
+      "back": "der Punkt",
+      "priority": 1.93,
+      "rank": 1183
+    },
+    {
+      "front": "to betray / reveal",
+      "back": "verraten",
+      "priority": 1.93,
+      "rank": 1186
+    },
+    {
+      "front": "order (command)",
+      "back": "der Befehl",
+      "priority": 1.93,
+      "rank": 1188
+    },
+    {
+      "front": "peace",
+      "back": "der Frieden",
+      "priority": 1.92,
+      "rank": 1207
+    },
+    {
+      "front": "this time",
+      "back": "diesmal",
+      "priority": 1.92,
+      "rank": 1211
+    },
+    {
+      "front": "a pity",
+      "back": "schade",
+      "priority": 1.92,
+      "rank": 1212
+    },
+    {
+      "front": "personal / in person",
+      "back": "persönlich",
+      "priority": 1.92,
+      "rank": 1213
+    },
+    {
+      "front": "dear / kind",
+      "back": "lieb",
+      "priority": 1.91,
+      "rank": 1219
+    },
+    {
+      "front": "namely / you see",
+      "back": "nämlich",
+      "priority": 1.91,
+      "rank": 1220
+    },
+    {
+      "front": "professor",
+      "back": "der Professor",
+      "priority": 1.91,
+      "rank": 1224
+    },
+    {
+      "front": "eternal / forever",
+      "back": "ewig",
+      "priority": 1.91,
+      "rank": 1227
+    },
+    {
+      "front": "busy",
+      "back": "beschäftigt",
+      "priority": 1.91,
+      "rank": 1230
+    },
+    {
+      "front": "obviously",
+      "back": "offensichtlich",
+      "priority": 1.91,
+      "rank": 1235
+    },
+    {
+      "front": "well (naja)",
+      "back": "naja",
+      "priority": 1.91,
+      "rank": 1236
+    },
+    {
+      "front": "surprise",
+      "back": "die Überraschung",
+      "priority": 1.91,
+      "rank": 1241
+    },
+    {
+      "front": "secret",
+      "back": "das Geheimnis",
+      "priority": 1.91,
+      "rank": 1242
+    },
+    {
+      "front": "away / distant",
+      "back": "entfernt",
+      "priority": 1.9,
+      "rank": 1252
+    },
+    {
+      "front": "some (manche)",
+      "back": "manche",
+      "priority": 1.9,
+      "rank": 1254
+    },
+    {
+      "front": "to feel like",
+      "back": "Lust haben",
+      "priority": 1.9,
+      "rank": 1259
+    },
+    {
+      "front": "funny (witty)",
+      "back": "witzig",
+      "priority": 1.9,
+      "rank": 1261
+    },
+    {
+      "front": "to destroy",
+      "back": "zerstören",
+      "priority": 1.86,
+      "rank": 1396
+    },
+    {
+      "front": "by the way",
+      "back": "übrigens",
+      "priority": 1.9,
+      "rank": 1264
+    },
+    {
+      "front": "look / view",
+      "back": "der Blick",
+      "priority": 1.89,
+      "rank": 1275
+    },
+    {
+      "front": "hope (noun)",
+      "back": "die Hoffnung",
+      "priority": 1.89,
+      "rank": 1283
+    },
+    {
+      "front": "by (doing)",
+      "back": "indem",
+      "priority": 1.89,
+      "rank": 1292
+    },
+    {
+      "front": "possibility",
+      "back": "die Möglichkeit",
+      "priority": 1.89,
+      "rank": 1297
+    },
+    {
+      "front": "past",
+      "back": "die Vergangenheit",
+      "priority": 1.89,
+      "rank": 1301
+    },
+    {
+      "front": "second (ordinal)",
+      "back": "zweite",
+      "priority": 1.89,
+      "rank": 1303
+    },
+    {
+      "front": "nervous",
+      "back": "nervös",
+      "priority": 1.88,
+      "rank": 1324
+    },
+    {
+      "front": "society / company",
+      "back": "die Gesellschaft",
+      "priority": 1.88,
+      "rank": 1325
+    },
+    {
+      "front": "to protect",
+      "back": "schützen",
+      "priority": 1.88,
+      "rank": 1329
+    },
+    {
+      "front": "to survive",
+      "back": "überleben",
+      "priority": 1.88,
+      "rank": 1333
+    },
+    {
+      "front": "sign",
+      "back": "das Zeichen",
+      "priority": 1.87,
+      "rank": 1338
+    },
+    {
+      "front": "worried",
+      "back": "besorgt",
+      "priority": 1.87,
+      "rank": 1340
+    },
+    {
+      "front": "pleasure",
+      "back": "das Vergnügen",
+      "priority": 1.87,
+      "rank": 1343
+    },
+    {
+      "front": "people (nation)",
+      "back": "das Volk",
+      "priority": 1.87,
+      "rank": 1345
+    },
+    {
+      "front": "situation",
+      "back": "die Situation",
+      "priority": 1.87,
+      "rank": 1351
+    },
+    {
+      "front": "however / though (allerdings)",
+      "back": "allerdings",
+      "priority": 1.87,
+      "rank": 1354
+    },
+    {
+      "front": "as far as",
+      "back": "soweit",
+      "priority": 1.87,
+      "rank": 1355
+    },
+    {
+      "front": "advice",
+      "back": "der Rat",
+      "priority": 1.86,
+      "rank": 1367
+    },
+    {
+      "front": "on what",
+      "back": "worauf",
+      "priority": 1.86,
+      "rank": 1368
+    },
+    {
+      "front": "camera",
+      "back": "die Kamera",
+      "priority": 1.86,
+      "rank": 1371
+    },
+    {
+      "front": "attention / watch out",
+      "back": "Achtung",
+      "priority": 1.86,
+      "rank": 1372
+    },
+    {
+      "front": "congratulations",
+      "back": "Herzlichen Glückwunsch",
+      "priority": 1.67,
+      "rank": 2141
+    },
+    {
+      "front": "to take over",
+      "back": "übernehmen",
+      "priority": 1.86,
+      "rank": 1381
+    },
+    {
+      "front": "area / region",
+      "back": "die Gegend",
+      "priority": 1.86,
+      "rank": 1382
+    },
+    {
+      "front": "to recognize",
+      "back": "erkennen",
+      "priority": 1.86,
+      "rank": 1388
+    },
+    {
+      "front": "responsible",
+      "back": "verantwortlich",
+      "priority": 1.86,
+      "rank": 1391
+    },
+    {
+      "front": "law",
+      "back": "das Gesetz",
+      "priority": 1.85,
+      "rank": 1401
+    },
+    {
+      "front": "step",
+      "back": "der Schritt",
+      "priority": 1.85,
+      "rank": 1406
+    },
+    {
+      "front": "to look (colloquial)",
+      "back": "gucken",
+      "priority": 1.6,
+      "rank": 2515
+    },
+    {
+      "front": "approximately",
+      "back": "ungefähr",
+      "priority": 1.85,
+      "rank": 1413
+    },
+    {
+      "front": "nine",
+      "back": "neun",
+      "priority": 1.85,
+      "rank": 1415
+    },
+    {
+      "front": "awful",
+      "back": "furchtbar",
+      "priority": 1.85,
+      "rank": 1416
+    },
+    {
+      "front": "indoors",
+      "back": "drinnen",
+      "priority": 1.85,
+      "rank": 1417
+    },
+    {
+      "front": "left over",
+      "back": "übrig",
+      "priority": 1.85,
+      "rank": 1422
+    },
+    {
+      "front": "to get in touch / report",
+      "back": "sich melden",
+      "priority": 1.85,
+      "rank": 1426
+    },
+    {
+      "front": "to throw",
+      "back": "werfen",
+      "priority": 1.85,
+      "rank": 1428
+    },
+    {
+      "front": "to hang",
+      "back": "hängen",
+      "priority": 1.81,
+      "rank": 1541
+    },
+    {
+      "front": "joy",
+      "back": "die Freude",
+      "priority": 1.84,
+      "rank": 1433
+    },
+    {
+      "front": "husband",
+      "back": "der Ehemann",
+      "priority": 1.84,
+      "rank": 1434
+    },
+    {
+      "front": "at the front",
+      "back": "vorne",
+      "priority": 1.84,
+      "rank": 1445
+    },
+    {
+      "front": "address",
+      "back": "die Adresse",
+      "priority": 1.84,
+      "rank": 1450
+    },
+    {
+      "front": "nonsense",
+      "back": "der Unsinn",
+      "priority": 1.84,
+      "rank": 1451
+    },
+    {
+      "front": "to afford",
+      "back": "sich leisten",
+      "priority": 1.84,
+      "rank": 1456
+    },
+    {
+      "front": "ball",
+      "back": "der Ball",
+      "priority": 1.84,
+      "rank": 1460
+    },
+    {
+      "front": "to take along",
+      "back": "mitnehmen",
+      "priority": 1.84,
+      "rank": 1461
+    },
+    {
+      "front": "half (noun)",
+      "back": "die Hälfte",
+      "priority": 1.83,
+      "rank": 1465
+    },
+    {
+      "front": "pregnant",
+      "back": "schwanger",
+      "priority": 1.83,
+      "rank": 1470
+    },
+    {
+      "front": "group",
+      "back": "die Gruppe",
+      "priority": 1.83,
+      "rank": 1471
+    },
+    {
+      "front": "to get / obtain",
+      "back": "besorgen",
+      "priority": 1.83,
+      "rank": 1485
+    },
+    {
+      "front": "about what",
+      "back": "worüber",
+      "priority": 1.83,
+      "rank": 1487
+    },
+    {
+      "front": "report",
+      "back": "der Bericht",
+      "priority": 1.83,
+      "rank": 1495
+    },
+    {
+      "front": "at night",
+      "back": "nachts",
+      "priority": 1.83,
+      "rank": 1496
+    },
+    {
+      "front": "to ring",
+      "back": "klingeln",
+      "priority": 1.32,
+      "rank": 4772
+    },
+    {
+      "front": "offer",
+      "back": "das Angebot",
+      "priority": 1.82,
+      "rank": 1511
+    },
+    {
+      "front": "song",
+      "back": "das Lied",
+      "priority": 1.82,
+      "rank": 1518
+    },
+    {
+      "front": "fantastic",
+      "back": "fantastisch",
+      "priority": 1.82,
+      "rank": 1522
+    },
+    {
+      "front": "hence / from there",
+      "back": "daher",
+      "priority": 1.82,
+      "rank": 1529
+    },
+    {
+      "front": "by chance",
+      "back": "zufällig",
+      "priority": 1.82,
+      "rank": 1530
+    },
+    {
+      "front": "in the middle of",
+      "back": "mitten in",
+      "priority": 1.81,
+      "rank": 1534
+    },
+    {
+      "front": "enemy",
+      "back": "der Feind",
+      "priority": 1.81,
+      "rank": 1536
+    },
+    {
+      "front": "agreed",
+      "back": "einverstanden",
+      "priority": 1.81,
+      "rank": 1537
+    },
+    {
+      "front": "to cost",
+      "back": "kosten",
+      "priority": 1.77,
+      "rank": 1698
+    },
+    {
+      "front": "freedom",
+      "back": "die Freiheit",
+      "priority": 1.81,
+      "rank": 1561
+    },
+    {
+      "front": "to chat",
+      "back": "sich unterhalten",
+      "priority": 1.81,
+      "rank": 1564
+    },
+    {
+      "front": "damage",
+      "back": "der Schaden",
+      "priority": 1.81,
+      "rank": 1566
+    },
+    {
+      "front": "ridiculous",
+      "back": "lächerlich",
+      "priority": 1.8,
+      "rank": 1572
+    },
+    {
+      "front": "energy",
+      "back": "die Energie",
+      "priority": 1.8,
+      "rank": 1581
+    },
+    {
+      "front": "drunk",
+      "back": "betrunken",
+      "priority": 1.8,
+      "rank": 1590
+    },
+    {
+      "front": "something like that",
+      "back": "so was",
+      "priority": 3.57,
+      "rank": 27
+    },
+    {
+      "front": "patient",
+      "back": "der Patient",
+      "priority": 1.52,
+      "rank": 3037
+    },
+    {
+      "front": "conversation",
+      "back": "das Gespräch",
+      "priority": 1.8,
+      "rank": 1593
+    },
+    {
+      "front": "to suffer",
+      "back": "leiden",
+      "priority": 1.8,
+      "rank": 1594
+    },
+    {
+      "front": "difference",
+      "back": "der Unterschied",
+      "priority": 1.8,
+      "rank": 1598
+    },
+    {
+      "front": "hole",
+      "back": "das Loch",
+      "priority": 1.79,
+      "rank": 1609
+    },
+    {
+      "front": "interest",
+      "back": "das Interesse",
+      "priority": 1.79,
+      "rank": 1610
+    },
+    {
+      "front": "to kick / step",
+      "back": "treten",
+      "priority": 1.79,
+      "rank": 1611
+    },
+    {
+      "front": "nonsense (Quatsch)",
+      "back": "der Quatsch",
+      "priority": 1.79,
+      "rank": 1612
+    },
+    {
+      "front": "metre",
+      "back": "der Meter",
+      "priority": 1.79,
+      "rank": 1635
+    },
+    {
+      "front": "to watch out",
+      "back": "aufpassen",
+      "priority": 1.79,
+      "rank": 1637
+    },
+    {
+      "front": "angel",
+      "back": "der Engel",
+      "priority": 1.78,
+      "rank": 1642
+    },
+    {
+      "front": "evidently",
+      "back": "offenbar",
+      "priority": 1.78,
+      "rank": 1643
+    },
+    {
+      "front": "opportunity",
+      "back": "die Gelegenheit",
+      "priority": 1.78,
+      "rank": 1644
+    },
+    {
+      "front": "to hurry",
+      "back": "sich beeilen",
+      "priority": 1.7,
+      "rank": 2000
+    },
+    {
+      "front": "point in time",
+      "back": "der Zeitpunkt",
+      "priority": 1.78,
+      "rank": 1653
+    },
+    {
+      "front": "pressure",
+      "back": "der Druck",
+      "priority": 1.78,
+      "rank": 1657
+    },
+    {
+      "front": "pile / heap",
+      "back": "der Haufen",
+      "priority": 1.78,
+      "rank": 1661
+    },
+    {
+      "front": "solution",
+      "back": "die Lösung",
+      "priority": 1.78,
+      "rank": 1668
+    },
+    {
+      "front": "responsibility",
+      "back": "die Verantwortung",
+      "priority": 1.77,
+      "rank": 1680
+    },
+    {
+      "front": "to come along",
+      "back": "mitkommen",
+      "priority": 1.77,
+      "rank": 1689
+    },
+    {
+      "front": "a moment ago",
+      "back": "vorhin",
+      "priority": 1.77,
+      "rank": 1690
+    },
+    {
+      "front": "drive / ride",
+      "back": "die Fahrt",
+      "priority": 1.77,
+      "rank": 1691
+    },
+    {
+      "front": "consequence / episode",
+      "back": "die Folge",
+      "priority": 1.77,
+      "rank": 1711
+    },
+    {
+      "front": "grateful",
+      "back": "dankbar",
+      "priority": 1.77,
+      "rank": 1714
+    },
+    {
+      "front": "courage",
+      "back": "der Mut",
+      "priority": 1.76,
+      "rank": 1718
+    },
+    {
+      "front": "system",
+      "back": "das System",
+      "priority": 1.76,
+      "rank": 1722
+    },
+    {
+      "front": "madness",
+      "back": "der Wahnsinn",
+      "priority": 1.76,
+      "rank": 1724
+    },
+    {
+      "front": "(to) there",
+      "back": "dorthin",
+      "priority": 1.76,
+      "rank": 1734
+    },
+    {
+      "front": "holiday / vacation",
+      "back": "der Urlaub",
+      "priority": 1.76,
+      "rank": 1735
+    },
+    {
+      "front": "to climb / rise",
+      "back": "steigen",
+      "priority": 1.73,
+      "rank": 1854
+    },
+    {
+      "front": "to check",
+      "back": "überprüfen",
+      "priority": 1.76,
+      "rank": 1738
+    },
+    {
+      "front": "seemingly",
+      "back": "anscheinend",
+      "priority": 1.76,
+      "rank": 1744
+    },
+    {
+      "front": "risk",
+      "back": "das Risiko",
+      "priority": 1.76,
+      "rank": 1751
+    },
+    {
+      "front": "to be valid",
+      "back": "gelten",
+      "priority": 1.22,
+      "rank": 5964
+    },
+    {
+      "front": "hero",
+      "back": "der Held",
+      "priority": 1.76,
+      "rank": 1756
+    },
+    {
+      "front": "from it",
+      "back": "daraus",
+      "priority": 1.76,
+      "rank": 1757
+    },
+    {
+      "front": "great (prima)",
+      "back": "prima",
+      "priority": 1.75,
+      "rank": 1761
+    },
+    {
+      "front": "gate / goal",
+      "back": "das Tor",
+      "priority": 1.75,
+      "rank": 1768
+    },
+    {
+      "front": "experience",
+      "back": "die Erfahrung",
+      "priority": 1.75,
+      "rank": 1769
+    },
+    {
+      "front": "round",
+      "back": "die Runde",
+      "priority": 1.75,
+      "rank": 1773
+    },
+    {
+      "front": "German (adjective)",
+      "back": "deutsch",
+      "priority": 1.32,
+      "rank": 4784
+    },
+    {
+      "front": "urgent",
+      "back": "dringend",
+      "priority": 1.75,
+      "rank": 1778
+    },
+    {
+      "front": "to disturb",
+      "back": "stören",
+      "priority": 1.75,
+      "rank": 1794
+    },
+    {
+      "front": "to breathe",
+      "back": "atmen",
+      "priority": 1.75,
+      "rank": 1796
+    },
+    {
+      "front": "to treat",
+      "back": "behandeln",
+      "priority": 1.67,
+      "rank": 2134
+    },
+    {
+      "front": "to consider",
+      "back": "sich überlegen",
+      "priority": 1.74,
+      "rank": 1806
+    },
+    {
+      "front": "argument / quarrel",
+      "back": "der Streit",
+      "priority": 1.74,
+      "rank": 1819
+    },
+    {
+      "front": "to kiss",
+      "back": "küssen",
+      "priority": 1.74,
+      "rank": 1820
+    },
+    {
+      "front": "long since",
+      "back": "längst",
+      "priority": 1.74,
+      "rank": 1822
+    },
+    {
+      "front": "to allow",
+      "back": "erlauben",
+      "priority": 1.66,
+      "rank": 2166
+    },
+    {
+      "front": "normally",
+      "back": "normalerweise",
+      "priority": 1.74,
+      "rank": 1831
+    },
+    {
+      "front": "flight",
+      "back": "der Flug",
+      "priority": 1.74,
+      "rank": 1834
+    },
+    {
+      "front": "to calm down",
+      "back": "sich beruhigen",
+      "priority": 1.74,
+      "rank": 1835
+    },
+    {
+      "front": "to discover",
+      "back": "entdecken",
+      "priority": 1.34,
+      "rank": 4525
+    },
+    {
+      "front": "at least (minimum)",
+      "back": "mindestens",
+      "priority": 1.73,
+      "rank": 1862
+    },
+    {
+      "front": "condition / state",
+      "back": "der Zustand",
+      "priority": 1.73,
+      "rank": 1870
+    },
+    {
+      "front": "to mention",
+      "back": "erwähnen",
+      "priority": 1.44,
+      "rank": 3670
+    },
+    {
+      "front": "colour",
+      "back": "die Farbe",
+      "priority": 1.73,
+      "rank": 1874
+    },
+    {
+      "front": "coincidence",
+      "back": "der Zufall",
+      "priority": 1.73,
+      "rank": 1877
+    },
+    {
+      "front": "apart from",
+      "back": "abgesehen von",
+      "priority": 1.73,
+      "rank": 1881
+    },
+    {
+      "front": "fair",
+      "back": "fair",
+      "priority": 1.73,
+      "rank": 1882
+    },
+    {
+      "front": "course",
+      "back": "der Kurs",
+      "priority": 1.72,
+      "rank": 1886
+    },
+    {
+      "front": "to seem / have an effect",
+      "back": "wirken",
+      "priority": 1.58,
+      "rank": 2638
+    },
+    {
+      "front": "since then",
+      "back": "seitdem",
+      "priority": 1.72,
+      "rank": 1890
+    },
+    {
+      "front": "to discuss",
+      "back": "besprechen",
+      "priority": 1.72,
+      "rank": 1905
+    },
+    {
+      "front": "row / series",
+      "back": "die Reihe",
+      "priority": 1.72,
+      "rank": 1906
+    },
+    {
+      "front": "with what",
+      "back": "womit",
+      "priority": 1.72,
+      "rank": 1921
+    },
+    {
+      "front": "later on (nachher)",
+      "back": "nachher",
+      "priority": 1.72,
+      "rank": 1925
+    },
+    {
+      "front": "convinced",
+      "back": "überzeugt",
+      "priority": 1.71,
+      "rank": 1928
+    },
+    {
+      "front": "appointment",
+      "back": "der Termin",
+      "priority": 1.71,
+      "rank": 1935
+    },
+    {
+      "front": "corridor / gear",
+      "back": "der Gang",
+      "priority": 1.71,
+      "rank": 1936
+    },
+    {
+      "front": "to notice",
+      "back": "bemerken",
+      "priority": 1.24,
+      "rank": 5803
+    },
+    {
+      "front": "radio",
+      "back": "das Radio",
+      "priority": 1.71,
+      "rank": 1943
+    },
+    {
+      "front": "contract",
+      "back": "der Vertrag",
+      "priority": 1.71,
+      "rank": 1946
+    },
+    {
+      "front": "service / duty",
+      "back": "der Dienst",
+      "priority": 1.71,
+      "rank": 1948
+    },
+    {
+      "front": "to count",
+      "back": "zählen",
+      "priority": 1.65,
+      "rank": 2232
+    },
+    {
+      "front": "about what (woran)",
+      "back": "woran",
+      "priority": 1.71,
+      "rank": 1955
+    },
+    {
+      "front": "mixed up",
+      "back": "durcheinander",
+      "priority": 1.71,
+      "rank": 1957
+    },
+    {
+      "front": "thereby / because of that",
+      "back": "dadurch",
+      "priority": 1.71,
+      "rank": 1963
+    },
+    {
+      "front": "memory (recollection)",
+      "back": "die Erinnerung",
+      "priority": 1.71,
+      "rank": 1970
+    },
+    {
+      "front": "to solve",
+      "back": "lösen",
+      "priority": 1.7,
+      "rank": 1973
+    },
+    {
+      "front": "doubt",
+      "back": "der Zweifel",
+      "priority": 1.7,
+      "rank": 1977
+    },
+    {
+      "front": "twice",
+      "back": "zweimal",
+      "priority": 1.7,
+      "rank": 1986
+    },
+    {
+      "front": "to pick up",
+      "back": "abholen",
+      "priority": 1.7,
+      "rank": 1987
+    },
+    {
+      "front": "colleague",
+      "back": "der Kollege",
+      "priority": 1.44,
+      "rank": 3654
+    },
+    {
+      "front": "the other day",
+      "back": "neulich",
+      "priority": 1.7,
+      "rank": 1999
+    },
+    {
+      "front": "to prevent",
+      "back": "verhindern",
+      "priority": 1.7,
+      "rank": 2013
+    },
+    {
+      "front": "video",
+      "back": "das Video",
+      "priority": 1.7,
+      "rank": 2015
+    },
+    {
+      "front": "outside of",
+      "back": "außerhalb",
+      "priority": 1.69,
+      "rank": 2020
+    },
+    {
+      "front": "of course (selbstverständlich)",
+      "back": "selbstverständlich",
+      "priority": 1.69,
+      "rank": 2022
+    },
+    {
+      "front": "to get up",
+      "back": "aufstehen",
+      "priority": 1.69,
+      "rank": 2023
+    },
+    {
+      "front": "debts",
+      "back": "die Schulden (Pl.)",
+      "priority": 1.69,
+      "rank": 2038
+    },
+    {
+      "front": "embarrassing",
+      "back": "peinlich",
+      "priority": 1.69,
+      "rank": 2044
+    },
+    {
+      "front": "to work out",
+      "back": "klappen",
+      "priority": 1.38,
+      "rank": 4121
+    },
+    {
+      "front": "form / shape",
+      "back": "die Form",
+      "priority": 1.69,
+      "rank": 2049
+    },
+    {
+      "front": "for free / in vain",
+      "back": "umsonst",
+      "priority": 1.69,
+      "rank": 2050
+    },
+    {
+      "front": "to get to know",
+      "back": "kennenlernen",
+      "priority": 1.56,
+      "rank": 2724
+    },
+    {
+      "front": "nowhere",
+      "back": "nirgendwo",
+      "priority": 1.69,
+      "rank": 2053
+    },
+    {
+      "front": "data",
+      "back": "die Daten (Pl.)",
+      "priority": 1.69,
+      "rank": 2059
+    },
+    {
+      "front": "to notice / keep in mind",
+      "back": "sich merken",
+      "priority": 1.69,
+      "rank": 2060
+    },
+    {
+      "front": "to act / deal",
+      "back": "handeln",
+      "priority": 1.68,
+      "rank": 2071
+    },
+    {
+      "front": "translation",
+      "back": "die Übersetzung",
+      "priority": 1.68,
+      "rank": 2076
+    },
+    {
+      "front": "art",
+      "back": "die Kunst",
+      "priority": 1.68,
+      "rank": 2077
+    },
+    {
+      "front": "to be silent",
+      "back": "schweigen",
+      "priority": 1.68,
+      "rank": 2081
+    },
+    {
+      "front": "illness",
+      "back": "die Krankheit",
+      "priority": 1.68,
+      "rank": 2082
+    },
+    {
+      "front": "fact",
+      "back": "die Tatsache",
+      "priority": 1.68,
+      "rank": 2086
+    },
+    {
+      "front": "to go there",
+      "back": "hingehen",
+      "priority": 1.68,
+      "rank": 2090
+    },
+    {
+      "front": "forbidden",
+      "back": "verboten",
+      "priority": 1.68,
+      "rank": 2091
+    },
+    {
+      "front": "dirt",
+      "back": "der Dreck",
+      "priority": 1.68,
+      "rank": 2105
+    },
+    {
+      "front": "effort",
+      "back": "die Mühe",
+      "priority": 1.68,
+      "rank": 2107
+    },
+    {
+      "front": "to check / control",
+      "back": "kontrollieren",
+      "priority": 1.68,
+      "rank": 2110
+    },
+    {
+      "front": "programme",
+      "back": "das Programm",
+      "priority": 1.67,
+      "rank": 2114
+    },
+    {
+      "front": "to go out",
+      "back": "ausgehen",
+      "priority": 1.67,
+      "rank": 2133
+    },
+    {
+      "front": "despite",
+      "back": "trotz",
+      "priority": 1.67,
+      "rank": 2135
+    },
+    {
+      "front": "to assume / accept",
+      "back": "annehmen",
+      "priority": 1.67,
+      "rank": 2140
+    },
+    {
+      "front": "jealous",
+      "back": "eifersüchtig",
+      "priority": 1.67,
+      "rank": 2152
+    },
+    {
+      "front": "to observe",
+      "back": "beobachten",
+      "priority": 1.62,
+      "rank": 2403
+    },
+    {
+      "front": "complete",
+      "back": "komplett",
+      "priority": 1.66,
+      "rank": 2169
+    },
+    {
+      "front": "panic",
+      "back": "die Panik",
+      "priority": 1.66,
+      "rank": 2170
+    },
+    {
+      "front": "conscious / aware",
+      "back": "bewusst",
+      "priority": 1.66,
+      "rank": 2172
+    },
+    {
+      "front": "ahead",
+      "back": "voraus",
+      "priority": 1.66,
+      "rank": 2174
+    },
+    {
+      "front": "to accompany",
+      "back": "begleiten",
+      "priority": 1.66,
+      "rank": 2177
+    },
+    {
+      "front": "to experience",
+      "back": "erleben",
+      "priority": 1.61,
+      "rank": 2481
+    },
+    {
+      "front": "to concentrate",
+      "back": "sich konzentrieren",
+      "priority": 1.66,
+      "rank": 2184
+    },
+    {
+      "front": "to argue",
+      "back": "sich streiten",
+      "priority": 1.66,
+      "rank": 2185
+    },
+    {
+      "front": "to convince",
+      "back": "überzeugen",
+      "priority": 1.66,
+      "rank": 2189
+    },
+    {
+      "front": "to translate",
+      "back": "übersetzen",
+      "priority": 1.05,
+      "rank": 8823
+    },
+    {
+      "front": "to carry on",
+      "back": "weitermachen",
+      "priority": 1.66,
+      "rank": 2197
+    },
+    {
+      "front": "excited",
+      "back": "aufgeregt",
+      "priority": 1.66,
+      "rank": 2205
+    },
+    {
+      "front": "some / any (irgendein)",
+      "back": "irgendein",
+      "priority": 1.66,
+      "rank": 2209
+    },
+    {
+      "front": "opposite",
+      "back": "das Gegenteil",
+      "priority": 1.65,
+      "rank": 2219
+    },
+    {
+      "front": "project",
+      "back": "das Projekt",
+      "priority": 1.65,
+      "rank": 2225
+    },
+    {
+      "front": "blind",
+      "back": "blind",
+      "priority": 1.65,
+      "rank": 2235
+    },
+    {
+      "front": "intention",
+      "back": "die Absicht",
+      "priority": 1.65,
+      "rank": 2240
+    },
+    {
+      "front": "last / lastly (zuletzt)",
+      "back": "zuletzt",
+      "priority": 1.65,
+      "rank": 2243
+    },
+    {
+      "front": "English (language)",
+      "back": "Englisch",
+      "priority": 1.65,
+      "rank": 2246
+    },
+    {
+      "front": "pupil",
+      "back": "der Schüler",
+      "priority": 1.65,
+      "rank": 2250
+    },
+    {
+      "front": "size",
+      "back": "die Größe",
+      "priority": 1.65,
+      "rank": 2257
+    },
+    {
+      "front": "to dare",
+      "back": "sich trauen",
+      "priority": 1.65,
+      "rank": 2259
+    },
+    {
+      "front": "twelve",
+      "back": "zwölf",
+      "priority": 1.64,
+      "rank": 2268
+    },
+    {
+      "front": "to come in",
+      "back": "reinkommen / hereinkommen",
+      "priority": 1.64,
+      "rank": 2271
+    },
+    {
+      "front": "bill / invoice",
+      "back": "die Rechnung",
+      "priority": 1.64,
+      "rank": 2275
+    },
+    {
+      "front": "fresh",
+      "back": "frisch",
+      "priority": 1.64,
+      "rank": 2285
+    },
+    {
+      "front": "lonely",
+      "back": "einsam",
+      "priority": 1.64,
+      "rank": 2291
+    },
+    {
+      "front": "barely / scarce",
+      "back": "knapp",
+      "priority": 1.64,
+      "rank": 2294
+    },
+    {
+      "front": "article",
+      "back": "der Artikel",
+      "priority": 1.64,
+      "rank": 2297
+    },
+    {
+      "front": "any time",
+      "back": "jederzeit",
+      "priority": 1.64,
+      "rank": 2299
+    },
+    {
+      "front": "complicated",
+      "back": "kompliziert",
+      "priority": 1.64,
+      "rank": 2300
+    },
+    {
+      "front": "to sense",
+      "back": "spüren",
+      "priority": 1.64,
+      "rank": 2301
+    },
+    {
+      "front": "percent",
+      "back": "das Prozent",
+      "priority": 1.64,
+      "rank": 2313
+    },
+    {
+      "front": "to pack",
+      "back": "packen",
+      "priority": 1.63,
+      "rank": 2335
+    },
+    {
+      "front": "third",
+      "back": "dritte",
+      "priority": 1.63,
+      "rank": 2336
+    },
+    {
+      "front": "meanwhile",
+      "back": "inzwischen",
+      "priority": 1.63,
+      "rank": 2337
+    },
+    {
+      "front": "patience",
+      "back": "die Geduld",
+      "priority": 1.63,
+      "rank": 2345
+    },
+    {
+      "front": "stage",
+      "back": "die Bühne",
+      "priority": 1.63,
+      "rank": 2346
+    },
+    {
+      "front": "to press",
+      "back": "drücken",
+      "priority": 1.63,
+      "rank": 2356
+    },
+    {
+      "front": "medicine (field)",
+      "back": "die Medizin",
+      "priority": 1.63,
+      "rank": 2361
+    },
+    {
+      "front": "foreign / strange (fremd)",
+      "back": "fremd",
+      "priority": 1.2,
+      "rank": 6298
+    },
+    {
+      "front": "to land",
+      "back": "landen",
+      "priority": 1.62,
+      "rank": 2392
+    },
+    {
+      "front": "impression",
+      "back": "der Eindruck",
+      "priority": 1.62,
+      "rank": 2404
+    },
+    {
+      "front": "device",
+      "back": "das Gerät",
+      "priority": 1.62,
+      "rank": 2416
+    },
+    {
+      "front": "friendship",
+      "back": "die Freundschaft",
+      "priority": 1.61,
+      "rank": 2432
+    },
+    {
+      "front": "profession",
+      "back": "der Beruf",
+      "priority": 1.61,
+      "rank": 2437
+    },
+    {
+      "front": "however",
+      "back": "jedoch",
+      "priority": 1.61,
+      "rank": 2440
+    },
+    {
+      "front": "cheers",
+      "back": "prost",
+      "priority": 1.61,
+      "rank": 2446
+    },
+    {
+      "front": "to order",
+      "back": "bestellen",
+      "priority": 1.53,
+      "rank": 2976
+    },
+    {
+      "front": "to come here",
+      "back": "herkommen",
+      "priority": 1.61,
+      "rank": 2452
+    },
+    {
+      "front": "poison",
+      "back": "das Gift",
+      "priority": 1.61,
+      "rank": 2461
+    },
+    {
+      "front": "sound / tone",
+      "back": "der Ton",
+      "priority": 1.61,
+      "rank": 2462
+    },
+    {
+      "front": "to arrive",
+      "back": "ankommen",
+      "priority": 1.36,
+      "rank": 4346
+    },
+    {
+      "front": "clear / distinct",
+      "back": "deutlich",
+      "priority": 1.61,
+      "rank": 2466
+    },
+    {
+      "front": "confused",
+      "back": "verwirrt",
+      "priority": 1.61,
+      "rank": 2468
+    },
+    {
+      "front": "rubbish (trash)",
+      "back": "der Müll",
+      "priority": 1.61,
+      "rank": 2476
+    },
+    {
+      "front": "middle",
+      "back": "die Mitte",
+      "priority": 1.61,
+      "rank": 2480
+    },
+    {
+      "front": "birth",
+      "back": "die Geburt",
+      "priority": 1.61,
+      "rank": 2482
+    },
+    {
+      "front": "way / path",
+      "back": "der Weg",
+      "priority": 2.89,
+      "rank": 129
+    },
+    {
+      "front": "to be located",
+      "back": "sich befinden",
+      "priority": 1.55,
+      "rank": 2797
+    },
+    {
+      "front": "state",
+      "back": "der Staat",
+      "priority": 1.56,
+      "rank": 2779
+    },
+    {
+      "front": "to clarify",
+      "back": "klären",
+      "priority": 1.59,
+      "rank": 2550
+    },
+    {
+      "front": "practical",
+      "back": "praktisch",
+      "priority": 1.59,
+      "rank": 2551
+    },
+    {
+      "front": "emergency",
+      "back": "der Notfall",
+      "priority": 1.59,
+      "rank": 2554
+    },
+    {
+      "front": "meaning",
+      "back": "die Bedeutung",
+      "priority": 1.59,
+      "rank": 2575
+    },
+    {
+      "front": "electricity / current",
+      "back": "der Strom",
+      "priority": 1.59,
+      "rank": 2576
+    },
+    {
+      "front": "mean (nasty)",
+      "back": "gemein",
+      "priority": 1.59,
+      "rank": 2578
+    },
+    {
+      "front": "whose",
+      "back": "wessen",
+      "priority": 1.59,
+      "rank": 2579
+    },
+    {
+      "front": "number (numeral)",
+      "back": "die Zahl",
+      "priority": 1.59,
+      "rank": 2583
+    },
+    {
+      "front": "excellent",
+      "back": "ausgezeichnet",
+      "priority": 1.59,
+      "rank": 2591
+    },
+    {
+      "front": "bad luck",
+      "back": "das Pech",
+      "priority": 1.58,
+      "rank": 2610
+    },
+    {
+      "front": "to meet (by chance)",
+      "back": "begegnen",
+      "priority": 1.31,
+      "rank": 4934
+    },
+    {
+      "front": "to cheat",
+      "back": "betrügen",
+      "priority": 1.33,
+      "rank": 4638
+    },
+    {
+      "front": "Germany",
+      "back": "Deutschland",
+      "priority": 1.58,
+      "rank": 2625
+    },
+    {
+      "front": "to get rid of",
+      "back": "loswerden",
+      "priority": 1.58,
+      "rank": 2627
+    },
+    {
+      "front": "zero",
+      "back": "null",
+      "priority": 1.58,
+      "rank": 2635
+    },
+    {
+      "front": "to hold on",
+      "back": "festhalten",
+      "priority": 1.58,
+      "rank": 2642
+    },
+    {
+      "front": "various / different",
+      "back": "verschieden",
+      "priority": 1.15,
+      "rank": 7134
+    },
+    {
+      "front": "hungry",
+      "back": "hungrig",
+      "priority": 1.58,
+      "rank": 2653
+    },
+    {
+      "front": "to support",
+      "back": "unterstützen",
+      "priority": 1.58,
+      "rank": 2658
+    },
+    {
+      "front": "in time",
+      "back": "rechtzeitig",
+      "priority": 1.57,
+      "rank": 2668
+    },
+    {
+      "front": "strict",
+      "back": "streng",
+      "priority": 1.57,
+      "rank": 2669
+    },
+    {
+      "front": "medicine (drug)",
+      "back": "das Medikament",
+      "priority": 1.16,
+      "rank": 6936
+    },
+    {
+      "front": "kilometre",
+      "back": "der Kilometer",
+      "priority": 1.57,
+      "rank": 2692
+    },
+    {
+      "front": "supposedly",
+      "back": "angeblich",
+      "priority": 1.57,
+      "rank": 2694
+    },
+    {
+      "front": "to go for a walk",
+      "back": "spazieren gehen",
+      "priority": 1.57,
+      "rank": 2702
+    },
+    {
+      "front": "thousand",
+      "back": "tausend",
+      "priority": 1.57,
+      "rank": 2709
+    },
+    {
+      "front": "means / remedy",
+      "back": "das Mittel",
+      "priority": 1.57,
+      "rank": 2716
+    },
+    {
+      "front": "curious",
+      "back": "neugierig",
+      "priority": 1.57,
+      "rank": 2722
+    },
+    {
+      "front": "apart",
+      "back": "auseinander",
+      "priority": 1.56,
+      "rank": 2729
+    },
+    {
+      "front": "to eat (animals)",
+      "back": "fressen",
+      "priority": 1.56,
+      "rank": 2730
+    },
+    {
+      "front": "fabric / material",
+      "back": "der Stoff",
+      "priority": 1.56,
+      "rank": 2733
+    },
+    {
+      "front": "sensible",
+      "back": "vernünftig",
+      "priority": 1.56,
+      "rank": 2756
+    },
+    {
+      "front": "fine",
+      "back": "fein",
+      "priority": 1.56,
+      "rank": 2757
+    },
+    {
+      "front": "member",
+      "back": "das Mitglied",
+      "priority": 1.56,
+      "rank": 2763
+    },
+    {
+      "front": "certain",
+      "back": "gewiss",
+      "priority": 1.51,
+      "rank": 3103
+    },
+    {
+      "front": "to claim",
+      "back": "behaupten",
+      "priority": 1.56,
+      "rank": 2781
+    },
+    {
+      "front": "to warn",
+      "back": "warnen",
+      "priority": 1.56,
+      "rank": 2785
+    },
+    {
+      "front": "to suppose",
+      "back": "vermuten",
+      "priority": 1.21,
+      "rank": 6103
+    },
+    {
+      "front": "tasty",
+      "back": "lecker",
+      "priority": 1.55,
+      "rank": 2794
+    },
+    {
+      "front": "internet",
+      "back": "das Internet",
+      "priority": 1.55,
+      "rank": 2803
+    },
+    {
+      "front": "politics",
+      "back": "die Politik",
+      "priority": 1.55,
+      "rank": 2806
+    },
+    {
+      "front": "to remove",
+      "back": "entfernen",
+      "priority": 1.55,
+      "rank": 2827
+    },
+    {
+      "front": "tear (crying)",
+      "back": "die Träne",
+      "priority": 0.82,
+      "rank": 15190
+    },
+    {
+      "front": "homeland",
+      "back": "die Heimat",
+      "priority": 1.55,
+      "rank": 2841
+    },
+    {
+      "front": "to confirm",
+      "back": "bestätigen",
+      "priority": 1.54,
+      "rank": 2856
+    },
+    {
+      "front": "purpose",
+      "back": "der Zweck",
+      "priority": 1.54,
+      "rank": 2863
+    },
+    {
+      "front": "divorce",
+      "back": "die Scheidung",
+      "priority": 1.54,
+      "rank": 2885
+    },
+    {
+      "front": "enthusiastic",
+      "back": "begeistert",
+      "priority": 1.54,
+      "rank": 2891
+    },
+    {
+      "front": "impressed",
+      "back": "beeindruckt",
+      "priority": 1.54,
+      "rank": 2898
+    },
+    {
+      "front": "due to",
+      "back": "aufgrund",
+      "priority": 1.54,
+      "rank": 2901
+    },
+    {
+      "front": "at the moment",
+      "back": "momentan",
+      "priority": 1.54,
+      "rank": 2902
+    },
+    {
+      "front": "mostly",
+      "back": "meistens",
+      "priority": 1.54,
+      "rank": 2904
+    },
+    {
+      "front": "stress",
+      "back": "der Stress",
+      "priority": 1.54,
+      "rank": 2905
+    },
+    {
+      "front": "atmosphere / mood",
+      "back": "die Stimmung",
+      "priority": 1.54,
+      "rank": 2913
+    },
+    {
+      "front": "noise / sound",
+      "back": "das Geräusch",
+      "priority": 1.54,
+      "rank": 2917
+    },
+    {
+      "front": "to offer",
+      "back": "anbieten",
+      "priority": 1.53,
+      "rank": 2937
+    },
+    {
+      "front": "to congratulate",
+      "back": "gratulieren",
+      "priority": 1.18,
+      "rank": 6552
+    },
+    {
+      "front": "lessons / class",
+      "back": "der Unterricht",
+      "priority": 1.53,
+      "rank": 2944
+    },
+    {
+      "front": "to pay attention to",
+      "back": "achten auf",
+      "priority": 1.53,
+      "rank": 2954
+    },
+    {
+      "front": "adventure",
+      "back": "das Abenteuer",
+      "priority": 1.53,
+      "rank": 2968
+    },
+    {
+      "front": "voluntary",
+      "back": "freiwillig",
+      "priority": 1.53,
+      "rank": 2977
+    },
+    {
+      "front": "to give (as a gift)",
+      "back": "schenken",
+      "priority": 1.52,
+      "rank": 2991
+    },
+    {
+      "front": "well-behaved",
+      "back": "brav",
+      "priority": 1.52,
+      "rank": 2996
+    },
+    {
+      "front": "to deliver",
+      "back": "liefern",
+      "priority": 1.52,
+      "rank": 3009
+    },
+    {
+      "front": "to owe",
+      "back": "schulden",
+      "priority": 1.69,
+      "rank": 2038
+    },
+    {
+      "front": "to report",
+      "back": "berichten",
+      "priority": 1.52,
+      "rank": 3022
+    },
+    {
+      "front": "to say goodbye",
+      "back": "sich verabschieden",
+      "priority": 1.52,
+      "rank": 3023
+    },
+    {
+      "front": "to behave",
+      "back": "sich benehmen",
+      "priority": 1.52,
+      "rank": 3027
+    },
+    {
+      "front": "to stink",
+      "back": "stinken",
+      "priority": 1.0,
+      "rank": 10102
+    },
+    {
+      "front": "owner",
+      "back": "der Besitzer",
+      "priority": 1.51,
+      "rank": 3055
+    },
+    {
+      "front": "hint / clue",
+      "back": "der Hinweis",
+      "priority": 1.51,
+      "rank": 3060
+    },
+    {
+      "front": "eleven",
+      "back": "elf",
+      "priority": 1.51,
+      "rank": 3087
+    },
+    {
+      "front": "to own",
+      "back": "besitzen",
+      "priority": 1.44,
+      "rank": 3613
+    },
+    {
+      "front": "to collect",
+      "back": "sammeln",
+      "priority": 1.51,
+      "rank": 3099
+    },
+    {
+      "front": "science",
+      "back": "die Wissenschaft",
+      "priority": 1.51,
+      "rank": 3101
+    },
+    {
+      "front": "cause",
+      "back": "die Ursache",
+      "priority": 1.51,
+      "rank": 3102
+    },
+    {
+      "front": "area / field",
+      "back": "der Bereich",
+      "priority": 1.51,
+      "rank": 3104
+    },
+    {
+      "front": "for all I care",
+      "back": "meinetwegen",
+      "priority": 1.51,
+      "rank": 3106
+    },
+    {
+      "front": "novel",
+      "back": "der Roman",
+      "priority": 1.51,
+      "rank": 3116
+    },
+    {
+      "front": "reception",
+      "back": "der Empfang",
+      "priority": 1.51,
+      "rank": 3124
+    },
+    {
+      "front": "style",
+      "back": "der Stil",
+      "priority": 1.5,
+      "rank": 3129
+    },
+    {
+      "front": "to save (money)",
+      "back": "sparen",
+      "priority": 1.5,
+      "rank": 3137
+    },
+    {
+      "front": "amazing",
+      "back": "erstaunlich",
+      "priority": 1.5,
+      "rank": 3141
+    },
+    {
+      "front": "next to it",
+      "back": "daneben",
+      "priority": 1.5,
+      "rank": 3145
+    },
+    {
+      "front": "to test / examine",
+      "back": "prüfen",
+      "priority": 1.5,
+      "rank": 3149
+    },
+    {
+      "front": "hundred",
+      "back": "hundert",
+      "priority": 1.5,
+      "rank": 3151
+    },
+    {
+      "front": "matter / affair",
+      "back": "die Angelegenheit",
+      "priority": 1.5,
+      "rank": 3157
+    },
+    {
+      "front": "advantage",
+      "back": "der Vorteil",
+      "priority": 1.5,
+      "rank": 3175
+    },
+    {
+      "front": "memory (ability)",
+      "back": "das Gedächtnis",
+      "priority": 1.5,
+      "rank": 3188
+    },
+    {
+      "front": "reality",
+      "back": "die Wirklichkeit",
+      "priority": 1.5,
+      "rank": 3189
+    },
+    {
+      "front": "circle / district",
+      "back": "der Kreis",
+      "priority": 1.5,
+      "rank": 3191
+    },
+    {
+      "front": "pure / clean",
+      "back": "rein",
+      "priority": 2.55,
+      "rank": 279
+    },
+    {
+      "front": "cigarette",
+      "back": "die Zigarette",
+      "priority": 1.49,
+      "rank": 3209
+    },
+    {
+      "front": "brave",
+      "back": "mutig",
+      "priority": 1.49,
+      "rank": 3210
+    },
+    {
+      "front": "circumstances",
+      "back": "die Umstände (Pl.)",
+      "priority": 1.49,
+      "rank": 3215
+    },
+    {
+      "front": "misfortune",
+      "back": "das Unglück",
+      "priority": 1.49,
+      "rank": 3217
+    },
+    {
+      "front": "to react",
+      "back": "reagieren",
+      "priority": 1.43,
+      "rank": 3719
+    },
+    {
+      "front": "fever",
+      "back": "das Fieber",
+      "priority": 1.49,
+      "rank": 3237
+    },
+    {
+      "front": "creepy",
+      "back": "unheimlich",
+      "priority": 1.49,
+      "rank": 3242
+    },
+    {
+      "front": "century",
+      "back": "das Jahrhundert",
+      "priority": 1.49,
+      "rank": 3244
+    },
+    {
+      "front": "ID card",
+      "back": "der Ausweis",
+      "priority": 1.49,
+      "rank": 3249
+    },
+    {
+      "front": "sport",
+      "back": "der Sport",
+      "priority": 1.49,
+      "rank": 3251
+    },
+    {
+      "front": "text",
+      "back": "der Text",
+      "priority": 1.49,
+      "rank": 3258
+    },
+    {
+      "front": "next door",
+      "back": "nebenan",
+      "priority": 1.49,
+      "rank": 3260
+    },
+    {
+      "front": "recently (vor kurzem)",
+      "back": "vor kurzem",
+      "priority": 1.48,
+      "rank": 3280
+    },
+    {
+      "front": "to go shopping",
+      "back": "einkaufen",
+      "priority": 1.48,
+      "rank": 3282
+    },
+    {
+      "front": "to regret",
+      "back": "bereuen",
+      "priority": 1.48,
+      "rank": 3292
+    },
+    {
+      "front": "date (appointment)",
+      "back": "die Verabredung",
+      "priority": 1.48,
+      "rank": 3302
+    },
+    {
+      "front": "kilo",
+      "back": "das Kilo",
+      "priority": 1.48,
+      "rank": 3308
+    },
+    {
+      "front": "sign (board)",
+      "back": "das Schild",
+      "priority": 1.48,
+      "rank": 3311
+    },
+    {
+      "front": "to waste",
+      "back": "verschwenden",
+      "priority": 1.48,
+      "rank": 3348
+    },
+    {
+      "front": "childhood",
+      "back": "die Kindheit",
+      "priority": 1.47,
+      "rank": 3357
+    },
+    {
+      "front": "pleasant",
+      "back": "angenehm",
+      "priority": 1.47,
+      "rank": 3375
+    },
+    {
+      "front": "smell",
+      "back": "der Geruch",
+      "priority": 1.47,
+      "rank": 3379
+    },
+    {
+      "front": "to reject / decline",
+      "back": "ablehnen",
+      "priority": 1.25,
+      "rank": 5609
+    },
+    {
+      "front": "firstly",
+      "back": "erstens",
+      "priority": 1.47,
+      "rank": 3389
+    },
+    {
+      "front": "appetite",
+      "back": "der Appetit",
+      "priority": 1.47,
+      "rank": 3391
+    },
+    {
+      "front": "to go in",
+      "back": "reingehen / hineingehen",
+      "priority": 1.47,
+      "rank": 3409
+    },
+    {
+      "front": "to enter",
+      "back": "betreten",
+      "priority": 1.47,
+      "rank": 3414
+    },
+    {
+      "front": "reward",
+      "back": "die Belohnung",
+      "priority": 1.46,
+      "rank": 3439
+    },
+    {
+      "front": "to greet",
+      "back": "grüßen",
+      "priority": 1.35,
+      "rank": 4516
+    },
+    {
+      "front": "to inform",
+      "back": "informieren",
+      "priority": 1.46,
+      "rank": 3464
+    },
+    {
+      "front": "youth",
+      "back": "die Jugend",
+      "priority": 1.46,
+      "rank": 3465
+    },
+    {
+      "front": "petrol",
+      "back": "das Benzin",
+      "priority": 1.46,
+      "rank": 3469
+    },
+    {
+      "front": "wing",
+      "back": "der Flügel",
+      "priority": 1.46,
+      "rank": 3478
+    },
+    {
+      "front": "degree / graduation",
+      "back": "der Abschluss",
+      "priority": 1.46,
+      "rank": 3481
+    },
+    {
+      "front": "technology / technique",
+      "back": "die Technik",
+      "priority": 1.46,
+      "rank": 3490
+    },
+    {
+      "front": "result",
+      "back": "das Ergebnis",
+      "priority": 1.46,
+      "rank": 3499
+    },
+    {
+      "front": "condition (requirement)",
+      "back": "die Bedingung",
+      "priority": 1.26,
+      "rank": 5522
+    },
+    {
+      "front": "inside",
+      "back": "innen",
+      "priority": 1.45,
+      "rank": 3508
+    },
+    {
+      "front": "in agreement",
+      "back": "sich einig",
+      "priority": 1.45,
+      "rank": 3510
+    },
+    {
+      "front": "useful",
+      "back": "nützlich",
+      "priority": 1.45,
+      "rank": 3513
+    },
+    {
+      "front": "rope",
+      "back": "das Seil",
+      "priority": 1.45,
+      "rank": 3524
+    },
+    {
+      "front": "recently",
+      "back": "kürzlich",
+      "priority": 1.45,
+      "rank": 3536
+    },
+    {
+      "front": "material",
+      "back": "das Material",
+      "priority": 1.45,
+      "rank": 3537
+    },
+    {
+      "front": "to occur to (someone)",
+      "back": "einfallen",
+      "priority": 1.45,
+      "rank": 3542
+    },
+    {
+      "front": "imagination",
+      "back": "die Fantasie",
+      "priority": 1.45,
+      "rank": 3544
+    },
+    {
+      "front": "sentence",
+      "back": "der Satz",
+      "priority": 1.45,
+      "rank": 3546
+    },
+    {
+      "front": "to welcome",
+      "back": "begrüßen",
+      "priority": 1.45,
+      "rank": 3553
+    },
+    {
+      "front": "documents",
+      "back": "die Unterlagen (Pl.)",
+      "priority": 1.45,
+      "rank": 3568
+    },
+    {
+      "front": "chain / necklace",
+      "back": "die Kette",
+      "priority": 1.45,
+      "rank": 3571
+    },
+    {
+      "front": "noise (din)",
+      "back": "der Lärm",
+      "priority": 1.45,
+      "rank": 3579
+    },
+    {
+      "front": "to grow up",
+      "back": "aufwachsen",
+      "priority": 1.0,
+      "rank": 9887
+    },
+    {
+      "front": "humour",
+      "back": "der Humor",
+      "priority": 1.45,
+      "rank": 3584
+    },
+    {
+      "front": "to go away",
+      "back": "weggehen",
+      "priority": 1.44,
+      "rank": 3594
+    },
+    {
+      "front": "laundry",
+      "back": "die Wäsche",
+      "priority": 1.44,
+      "rank": 3604
+    },
+    {
+      "front": "puzzle / riddle",
+      "back": "das Rätsel",
+      "priority": 1.44,
+      "rank": 3605
+    },
+    {
+      "front": "copy",
+      "back": "die Kopie",
+      "priority": 1.44,
+      "rank": 3612
+    },
+    {
+      "front": "height",
+      "back": "die Höhe",
+      "priority": 1.44,
+      "rank": 3619
+    },
+    {
+      "front": "to describe",
+      "back": "beschreiben",
+      "priority": 1.44,
+      "rank": 3621
+    },
+    {
+      "front": "to ignore",
+      "back": "ignorieren",
+      "priority": 1.44,
+      "rank": 3625
+    },
+    {
+      "front": "at most",
+      "back": "höchstens",
+      "priority": 1.44,
+      "rank": 3630
+    },
+    {
+      "front": "under it",
+      "back": "darunter",
+      "priority": 1.44,
+      "rank": 3633
+    },
+    {
+      "front": "comfortable",
+      "back": "bequem",
+      "priority": 1.44,
+      "rank": 3644
+    },
+    {
+      "front": "account",
+      "back": "das Konto",
+      "priority": 1.44,
+      "rank": 3659
+    },
+    {
+      "front": "background",
+      "back": "der Hintergrund",
+      "priority": 1.44,
+      "rank": 3669
+    },
+    {
+      "front": "to move house",
+      "back": "umziehen",
+      "priority": 1.43,
+      "rank": 3680
+    },
+    {
+      "front": "typical",
+      "back": "typisch",
+      "priority": 1.43,
+      "rank": 3683
+    },
+    {
+      "front": "rude",
+      "back": "unhöflich",
+      "priority": 1.43,
+      "rank": 3695
+    },
+    {
+      "front": "to lift",
+      "back": "heben",
+      "priority": 1.43,
+      "rank": 3700
+    },
+    {
+      "front": "exam",
+      "back": "die Prüfung",
+      "priority": 1.43,
+      "rank": 3706
+    },
+    {
+      "front": "insurance",
+      "back": "die Versicherung",
+      "priority": 1.43,
+      "rank": 3710
+    },
+    {
+      "front": "wife",
+      "back": "die Ehefrau",
+      "priority": 1.43,
+      "rank": 3712
+    },
+    {
+      "front": "to join in",
+      "back": "mitmachen",
+      "priority": 1.43,
+      "rank": 3713
+    },
+    {
+      "front": "weight",
+      "back": "das Gewicht",
+      "priority": 1.43,
+      "rank": 3742
+    },
+    {
+      "front": "to push",
+      "back": "schieben",
+      "priority": 1.43,
+      "rank": 3745
+    },
+    {
+      "front": "exhausted",
+      "back": "erschöpft",
+      "priority": 1.43,
+      "rank": 3752
+    },
+    {
+      "front": "concert",
+      "back": "das Konzert",
+      "priority": 1.42,
+      "rank": 3762
+    },
+    {
+      "front": "double",
+      "back": "doppelt",
+      "priority": 1.42,
+      "rank": 3765
+    },
+    {
+      "front": "warm / cordial",
+      "back": "herzlich",
+      "priority": 1.42,
+      "rank": 3769
+    },
+    {
+      "front": "visitor",
+      "back": "der Besucher",
+      "priority": 1.42,
+      "rank": 3773
+    },
+    {
+      "front": "generous",
+      "back": "großzügig",
+      "priority": 1.42,
+      "rank": 3775
+    },
+    {
+      "front": "attitude",
+      "back": "die Einstellung",
+      "priority": 1.42,
+      "rank": 3780
+    },
+    {
+      "front": "temper / humour (Laune)",
+      "back": "die Laune",
+      "priority": 1.42,
+      "rank": 3792
+    },
+    {
+      "front": "doll",
+      "back": "die Puppe",
+      "priority": 1.42,
+      "rank": 3804
+    },
+    {
+      "front": "exercise",
+      "back": "die Übung",
+      "priority": 1.42,
+      "rank": 3809
+    },
+    {
+      "front": "expression",
+      "back": "der Ausdruck",
+      "priority": 1.42,
+      "rank": 3821
+    },
+    {
+      "front": "broke (no money)",
+      "back": "pleite",
+      "priority": 1.42,
+      "rank": 3822
+    },
+    {
+      "front": "offended",
+      "back": "beleidigt",
+      "priority": 1.42,
+      "rank": 3823
+    },
+    {
+      "front": "secretly",
+      "back": "heimlich",
+      "priority": 1.42,
+      "rank": 3836
+    },
+    {
+      "front": "wheel / bike",
+      "back": "das Rad",
+      "priority": 1.42,
+      "rank": 3838
+    },
+    {
+      "front": "pointless",
+      "back": "sinnlos",
+      "priority": 1.42,
+      "rank": 3842
+    },
+    {
+      "front": "surroundings",
+      "back": "die Umgebung",
+      "priority": 1.41,
+      "rank": 3849
+    },
+    {
+      "front": "to bring along",
+      "back": "mitbringen",
+      "priority": 1.41,
+      "rank": 3850
+    },
+    {
+      "front": "to develop",
+      "back": "entwickeln",
+      "priority": 1.41,
+      "rank": 3853
+    },
+    {
+      "front": "romantic",
+      "back": "romantisch",
+      "priority": 1.41,
+      "rank": 3880
+    },
+    {
+      "front": "to shower",
+      "back": "duschen",
+      "priority": 1.41,
+      "rank": 3902
+    },
+    {
+      "front": "headache",
+      "back": "die Kopfschmerzen (Pl.)",
+      "priority": 1.41,
+      "rank": 3903
+    },
+    {
+      "front": "by mistake",
+      "back": "aus Versehen",
+      "priority": 1.41,
+      "rank": 3910
+    },
+    {
+      "front": "loyal",
+      "back": "treu",
+      "priority": 1.41,
+      "rank": 3912
+    },
+    {
+      "front": "nightmare",
+      "back": "der Albtraum",
+      "priority": 1.41,
+      "rank": 3916
+    },
+    {
+      "front": "engaged (to marry)",
+      "back": "verlobt",
+      "priority": 1.41,
+      "rank": 3918
+    },
+    {
+      "front": "to wake (someone)",
+      "back": "wecken",
+      "priority": 1.41,
+      "rank": 3929
+    },
+    {
+      "front": "tidy / proper",
+      "back": "ordentlich",
+      "priority": 1.4,
+      "rank": 3937
+    },
+    {
+      "front": "to run away",
+      "back": "weglaufen",
+      "priority": 1.4,
+      "rank": 3938
+    },
+    {
+      "front": "distance",
+      "back": "der Abstand",
+      "priority": 1.4,
+      "rank": 3949
+    },
+    {
+      "front": "to lose weight / take off",
+      "back": "abnehmen",
+      "priority": 1.4,
+      "rank": 3954
+    },
+    {
+      "front": "unpleasant",
+      "back": "unangenehm",
+      "priority": 1.4,
+      "rank": 3962
+    },
+    {
+      "front": "chapter",
+      "back": "das Kapitel",
+      "priority": 1.4,
+      "rank": 3982
+    },
+    {
+      "front": "thirst",
+      "back": "der Durst",
+      "priority": 1.4,
+      "rank": 3995
+    },
+    {
+      "front": "to replace",
+      "back": "ersetzen",
+      "priority": 1.4,
+      "rank": 4000
+    }
+  ]
+}

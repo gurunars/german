@@ -1,0 +1,146 @@
+{
+  "name": "Crime and money",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "murder",
+      "back": "der Mord",
+      "priority": 2.04,
+      "rank": 909
+    },
+    {
+      "front": "theft",
+      "back": "der Diebstahl",
+      "priority": 1.3,
+      "rank": 4981
+    },
+    {
+      "front": "robbery",
+      "back": "der Raub",
+      "priority": 1.18,
+      "rank": 6638
+    },
+    {
+      "front": "kidnapping",
+      "back": "die Entführung",
+      "priority": 1.36,
+      "rank": 4321
+    },
+    {
+      "front": "blackmail",
+      "back": "die Erpressung",
+      "priority": 1.21,
+      "rank": 6121
+    },
+    {
+      "front": "bribery",
+      "back": "die Bestechung",
+      "priority": 0.97,
+      "rank": 10746
+    },
+    {
+      "front": "thief",
+      "back": "der Dieb",
+      "priority": 1.59,
+      "rank": 2600
+    },
+    {
+      "front": "prison",
+      "back": "das Gefängnis",
+      "priority": 2.1,
+      "rank": 790
+    },
+    {
+      "front": "court",
+      "back": "das Gericht",
+      "priority": 1.91,
+      "rank": 1225
+    },
+    {
+      "front": "justice",
+      "back": "die Gerechtigkeit",
+      "priority": 1.63,
+      "rank": 2350
+    },
+    {
+      "front": "revenge",
+      "back": "die Rache",
+      "priority": 1.71,
+      "rank": 1939
+    },
+    {
+      "front": "gun",
+      "back": "die Pistole",
+      "priority": 1.67,
+      "rank": 2145
+    },
+    {
+      "front": "machine gun",
+      "back": "das Maschinengewehr",
+      "priority": 0.81,
+      "rank": 15453
+    },
+    {
+      "front": "sword",
+      "back": "das Schwert",
+      "priority": 1.73,
+      "rank": 1852
+    },
+    {
+      "front": "shield",
+      "back": "der Schild",
+      "priority": 1.48,
+      "rank": 3311
+    },
+    {
+      "front": "cage",
+      "back": "der Käfig",
+      "priority": 1.45,
+      "rank": 3543
+    },
+    {
+      "front": "verdict",
+      "back": "das Urteil",
+      "priority": 1.53,
+      "rank": 2923
+    },
+    {
+      "front": "money",
+      "back": "das Geld",
+      "priority": 2.71,
+      "rank": 193
+    },
+    {
+      "front": "bargain",
+      "back": "das Schnäppchen",
+      "priority": 0.74,
+      "rank": 18381
+    },
+    {
+      "front": "tax",
+      "back": "die Steuer",
+      "priority": 1.39,
+      "rank": 4051
+    },
+    {
+      "front": "profit",
+      "back": "der Gewinn",
+      "priority": 1.37,
+      "rank": 4251
+    },
+    {
+      "front": "loss",
+      "back": "der Verlust",
+      "priority": 1.53,
+      "rank": 2927
+    },
+    {
+      "front": "deal",
+      "back": "der Deal / das Geschäft",
+      "priority": 2.06,
+      "rank": 878
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "name": "Critical",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "why?",
+      "back": "warum?",
+      "priority": 3.04,
+      "rank": 91
+    },
+    {
+      "front": "when?",
+      "back": "wann?",
+      "priority": 2.51,
+      "rank": 312
+    },
+    {
+      "front": "who?",
+      "back": "wer?",
+      "priority": 2.96,
+      "rank": 110
+    },
+    {
+      "front": "what?",
+      "back": "was?",
+      "priority": 3.92,
+      "rank": 12
+    },
+    {
+      "front": "how?",
+      "back": "wie?",
+      "priority": 3.7,
+      "rank": 20
+    },
+    {
+      "front": "which? (n/m/f)",
+      "back": "welches? / welcher? / welche?",
+      "priority": 2.3,
+      "rank": 505
+    },
+    {
+      "front": "how long?",
+      "back": "wie lange?",
+      "priority": 2.65,
+      "rank": 224
+    },
+    {
+      "front": "something/anything/any",
+      "back": "etwas / irgendetwas",
+      "priority": 3.08,
+      "rank": 83
+    },
+    {
+      "front": "elsewhere (location)",
+      "back": "woanders (Standort)",
+      "priority": 1.7,
+      "rank": 2010
+    },
+    {
+      "front": "somewhere (location)",
+      "back": "irgendwo (Ort)",
+      "priority": 2.12,
+      "rank": 762
+    },
+    {
+      "front": "somewhere (direction)",
+      "back": "irgendwohin (Richtung)",
+      "priority": 1.3,
+      "rank": 4972
+    },
+    {
+      "front": "because",
+      "back": "weil",
+      "priority": 2.86,
+      "rank": 138
+    },
+    {
+      "front": "through",
+      "back": "durch",
+      "priority": 2.71,
+      "rank": 194
+    },
+    {
+      "front": "in",
+      "back": "in",
+      "priority": 3.8,
+      "rank": 16
+    },
+    {
+      "front": "next to ...",
+      "back": "neben...",
+      "priority": 1.94,
+      "rank": 1146
+    },
+    {
+      "front": "that’s why",
+      "back": "deswegen",
+      "priority": 2.16,
+      "rank": 690
+    },
+    {
+      "front": "on",
+      "back": "auf",
+      "priority": 3.64,
+      "rank": 23
+    },
+    {
+      "front": "back (come)",
+      "back": "zurück (kommen)",
+      "priority": 2.79,
+      "rank": 162
+    },
+    {
+      "front": "and",
+      "back": "und",
+      "priority": 4.0,
+      "rank": 9
+    },
+    {
+      "front": "(go to) right (of)",
+      "back": "(geh) nach rechts / rechts von (dem Theater)",
+      "priority": 1.89,
+      "rank": 1286
+    },
+    {
+      "front": "(go to) left (of)",
+      "back": "(geh) nach links / links von (dem Theater)",
+      "priority": 1.93,
+      "rank": 1177
+    },
+    {
+      "front": "A … than B",
+      "back": "A... als B",
+      "priority": 1.61,
+      "rank": 2471
+    },
+    {
+      "front": "if",
+      "back": "wenn",
+      "priority": 3.46,
+      "rank": 35
+    },
+    {
+      "front": "from",
+      "back": "von (from a doctor) / aus (from inside a house)",
+      "priority": 3.47,
+      "rank": 34
+    },
+    {
+      "front": "on (turn on)",
+      "back": "ein (einschalten (прибор))",
+      "priority": 3.82,
+      "rank": 15
+    },
+    {
+      "front": "off (turn off)",
+      "back": "aus (ausschalten (прибор) / ausmachen (свет))",
+      "priority": 3.21,
+      "rank": 61
+    },
+    {
+      "front": "quite",
+      "back": "ziemlich",
+      "priority": 2.36,
+      "rank": 438
+    },
+    {
+      "front": "but",
+      "back": "aber",
+      "priority": 3.6,
+      "rank": 25
+    },
+    {
+      "front": "against (versus)",
+      "back": "gegen",
+      "priority": 2.54,
+      "rank": 290
+    },
+    {
+      "front": "about | around (proximity)",
+      "back": "über | rund (Nähe)",
+      "priority": 1.49,
+      "rank": 3235
+    },
+    {
+      "front": "plus",
+      "back": "plus",
+      "priority": 1.48,
+      "rank": 3339
+    },
+    {
+      "front": "minus",
+      "back": "minus",
+      "priority": 1.22,
+      "rank": 5977
+    },
+    {
+      "front": "under",
+      "back": "unter",
+      "priority": 2.57,
+      "rank": 271
+    },
+    {
+      "front": "over",
+      "back": "über",
+      "priority": 2.94,
+      "rank": 116
+    },
+    {
+      "front": "as (A as ... as B)",
+      "back": "wie",
+      "priority": 3.7,
+      "rank": 20
+    },
+    {
+      "front": "near (some object)",
+      "back": "nah / 'in der Nähe' (ein Objekt)",
+      "priority": 2.04,
+      "rank": 919
+    },
+    {
+      "front": "for",
+      "back": "für",
+      "priority": 3.51,
+      "rank": 31
+    },
+    {
+      "front": "far",
+      "back": "weit",
+      "priority": 2.4,
+      "rank": 397
+    },
+    {
+      "front": "with",
+      "back": "mit",
+      "priority": 3.72,
+      "rank": 19
+    },
+    {
+      "front": "gladly",
+      "back": "gerne",
+      "priority": 2.38,
+      "rank": 416
+    },
+    {
+      "front": "without",
+      "back": "ohne",
+      "priority": 2.67,
+      "rank": 212
+    },
+    {
+      "front": "each other / meet each other / say bye to each other",
+      "back": "einander / miteinander / voneinander",
+      "priority": 1.89,
+      "rank": 1289
+    },
+    {
+      "front": "towards",
+      "back": "in Richtung",
+      "priority": 1.95,
+      "rank": 1117
+    },
+    {
+      "front": "also (not) / same to you",
+      "back": "auch (nicht) / ebenfalls",
+      "priority": 3.28,
+      "rank": 53
+    },
+    {
+      "front": "behind",
+      "back": "hinter",
+      "priority": 2.37,
+      "rank": 424
+    },
+    {
+      "front": "in front of",
+      "back": "vor",
+      "priority": 3.04,
+      "rank": 92
+    },
+    {
+      "front": "over (over two)",
+      "back": "über (mehr als zwei)",
+      "priority": 2.94,
+      "rank": 116
+    },
+    {
+      "front": "never",
+      "back": "nie",
+      "priority": 2.91,
+      "rank": 124
+    },
+    {
+      "front": "to",
+      "back": "zu (к бабушке) / nach (в страну) / auf (на остров) / an (на пляж)",
+      "priority": 3.89,
+      "rank": 13
+    },
+    {
+      "front": "above (above the table)",
+      "back": "über (über dem Tisch)",
+      "priority": 2.94,
+      "rank": 116
+    },
+    {
+      "front": "near",
+      "back": "in der Nähe",
+      "priority": 2.04,
+      "rank": 919
+    },
+    {
+      "front": "by (done by)",
+      "back": "von",
+      "priority": 3.47,
+      "rank": 34
+    },
+    {
+      "front": "between",
+      "back": "zwischen",
+      "priority": 2.27,
+      "rank": 535
+    },
+    {
+      "front": "next",
+      "back": "nächste (der nächste)",
+      "priority": 2.19,
+      "rank": 649
+    },
+    {
+      "front": "like (similar to)",
+      "back": "wie (ähnlich)",
+      "priority": 3.7,
+      "rank": 20
+    },
+    {
+      "front": "among",
+      "back": "unter",
+      "priority": 2.57,
+      "rank": 271
+    },
+    {
+      "front": "previous",
+      "back": "vorherig / vorig",
+      "priority": 0.5
+    },
+    {
+      "front": "including",
+      "back": "inkl.",
+      "priority": 0.5
+    },
+    {
+      "front": "excluding (apart from / except)",
+      "back": "außer",
+      "priority": 2.2,
+      "rank": 625
+    },
+    {
+      "front": "exclusively",
+      "back": "ausschließlich",
+      "priority": 1.01,
+      "rank": 9724
+    },
+    {
+      "front": "across (across the street)",
+      "back": "gegenüber (auf der anderen Straßenseite)",
+      "priority": 1.9,
+      "rank": 1257
+    },
+    {
+      "front": "last (last apple",
+      "back": "most recent), der letzte",
+      "priority": 2.42,
+      "rank": 381
+    },
+    {
+      "front": "along (along the line)",
+      "back": "entlang (entlang der Linie)",
+      "priority": 1.81,
+      "rank": 1557
+    },
+    {
+      "front": "after",
+      "back": "nach",
+      "priority": 3.14,
+      "rank": 73
+    },
+    {
+      "front": "according to (book)",
+      "back": "laut (Buch)",
+      "priority": 2.11,
+      "rank": 778
+    },
+    {
+      "front": "out",
+      "back": "aus",
+      "priority": 3.21,
+      "rank": 61
+    },
+    {
+      "front": "almost",
+      "back": "fast",
+      "priority": 2.39,
+      "rank": 412
+    },
+    {
+      "front": "must",
+      "back": "müssen",
+      "priority": 2.92,
+      "rank": 121
+    },
+    {
+      "front": "all",
+      "back": "alles",
+      "priority": 3.16,
+      "rank": 69
+    },
+    {
+      "front": "then",
+      "back": "dann",
+      "priority": 3.22,
+      "rank": 60
+    },
+    {
+      "front": "now",
+      "back": "jetzt",
+      "priority": 3.24,
+      "rank": 58
+    },
+    {
+      "front": "again",
+      "back": "nochmal",
+      "priority": 2.09,
+      "rank": 804
+    },
+    {
+      "front": "soonish",
+      "back": "bald, gleich (прим ща)",
+      "priority": 2.63,
+      "rank": 235
+    },
+    {
+      "front": "quickly",
+      "back": "schnell",
+      "priority": 2.56,
+      "rank": 273
+    },
+    {
+      "front": "punctual",
+      "back": "pünktlich",
+      "priority": 1.51,
+      "rank": 3117
+    },
+    {
+      "front": "precisely (you are right! Точно!)",
+      "back": "genau",
+      "priority": 2.77,
+      "rank": 171
+    },
+    {
+      "front": "so",
+      "back": "so",
+      "priority": 3.57,
+      "rank": 27
+    },
+    {
+      "front": "at someone's place",
+      "back": "bei jemandem zu Hause",
+      "priority": 2.0,
+      "rank": 996
+    },
+    {
+      "front": "too (long)",
+      "back": "zu (lang)",
+      "priority": 3.89,
+      "rank": 13
+    },
+    {
+      "front": "forward",
+      "back": "vorwärts",
+      "priority": 1.76,
+      "rank": 1737
+    },
+    {
+      "front": "together",
+      "back": "zusammen",
+      "priority": 2.57,
+      "rank": 269
+    },
+    {
+      "front": "of course",
+      "back": "natürlich",
+      "priority": 2.65,
+      "rank": 225
+    },
+    {
+      "front": "although",
+      "back": "obwohl",
+      "priority": 2.02,
+      "rank": 946
+    },
+    {
+      "front": "usually",
+      "back": "gewöhnlich",
+      "priority": 1.45,
+      "rank": 3523
+    },
+    {
+      "front": "opposite to ...",
+      "back": "gegenüber...",
+      "priority": 1.9,
+      "rank": 1257
+    },
+    {
+      "front": "after that",
+      "back": "danach",
+      "priority": 2.16,
+      "rank": 686
+    },
+    {
+      "front": "outside (not inside of ...) / on the street",
+      "back": "außen / draußen",
+      "priority": 2.39,
+      "rank": 410
+    },
+    {
+      "front": "only",
+      "back": "nur",
+      "priority": 3.37,
+      "rank": 43
+    },
+    {
+      "front": "instead",
+      "back": "stattdessen",
+      "priority": 1.54,
+      "rank": 2910
+    },
+    {
+      "front": "possible",
+      "back": "möglich",
+      "priority": 2.22,
+      "rank": 605
+    },
+    {
+      "front": "important",
+      "back": "wichtig",
+      "priority": 2.26,
+      "rank": 551
+    },
+    {
+      "front": "especially",
+      "back": "besonders (wichtig)",
+      "priority": 2.08,
+      "rank": 832
+    },
+    {
+      "front": "approximately",
+      "back": "ca.",
+      "priority": 0.65,
+      "rank": 22633
+    },
+    {
+      "front": "both",
+      "back": "beides",
+      "priority": 1.56,
+      "rank": 2731
+    },
+    {
+      "front": "common (feature)",
+      "back": "gemeinsam",
+      "priority": 1.85,
+      "rank": 1402
+    },
+    {
+      "front": "actually",
+      "back": "tatsächlich",
+      "priority": 2.04,
+      "rank": 915
+    },
+    {
+      "front": "own",
+      "back": "eigen (mein eigenes Auto)",
+      "priority": 0.94,
+      "rank": 11383
+    },
+    {
+      "front": "majority",
+      "back": "die Mehrheit / die meisten",
+      "priority": 2.05,
+      "rank": 894
+    },
+    {
+      "front": "before",
+      "back": "vor",
+      "priority": 3.04,
+      "rank": 92
+    }
+  ]
+}
