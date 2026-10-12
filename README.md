@@ -52,6 +52,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 4 · Saying no: nicht and kein](lessons/04-negation.json) — 37 cards
 - [Lesson 5 · Asking: W-questions and yes/no questions](lessons/05-questions.json) — 38 cards
 - [Lesson 6 · Counting: numbers 0–20, prices and age](lessons/06-numbers.json) — 32 cards
+- [Lesson 7 · Verbs that change their vowel: fahren, essen, lesen, sehen…](lessons/07-stem-change.json) — 37 cards
 
 ## Decks
 

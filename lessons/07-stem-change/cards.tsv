@@ -1,0 +1,38 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+present.stemchange	fahren	pres.ich	I **drive**.	Ich **fahre** Auto.	ich keeps the vowel of the infinitive: fahre. Auto fahren, with no article, means to drive.
+present.stemchange	fahren	pres.du	**Are** you **driving** today? (one friend)	**Fährst** du heute?	fahren adds an umlaut in the du form: a becomes ä.
+present.stemchange	fahren	pres.er	He **drives** a lot.	Er **fährt** viel Auto.	The er form changes too: fährt. Only du and er/sie/es change.
+present.stemchange	fahren	pres.er	The train **is leaving** now.	Der Zug **fährt** jetzt.	A train fährt: fahren is any travel by vehicle, including the vehicle itself.
+present.stemchange	fahren	pres.ihr	Where **are** you **going**? (several friends)	Wohin **fahrt** ihr?	ihr keeps the plain vowel: fahrt, no umlaut.
+present.stemchange	fahren	pres.er	The bus **isn't running** today.	Der Bus **fährt** heute nicht.	der Bus → fährt, with the umlaut.
+present.stemchange	essen	pres.ich	I **eat** fish.	Ich **esse** Fisch.	ich esse: no change in the ich form.
+present.stemchange	essen	pres.du	You **don't eat** meat. (one friend)	Du **isst** kein Fleisch.	essen changes e to i: du isst. The stem ends in s, so only -t is added.
+present.stemchange	essen	pres.er	He likes **eating** soup.	Er **isst** gern Suppe.	er isst: the same form as du.
+present.stemchange	essen	pres.du	**Do** you **eat** meat? (one friend)	**Isst** du Fleisch?	isst du: the changed vowel stays when the verb moves to the front.
+present.stemchange	essen	pres.wir	We **are eating** fish today.	Wir **essen** heute Fisch.	wir essen: wir never changes the vowel.
+present.stemchange	essen	pres.ihr	You **eat** a lot. (several friends)	Ihr **esst** viel.	ihr esst: the plain e, and just -t after the s.
+present.stemchange	lesen	pres.er	She **is reading** the newspaper.	Sie **liest** die Zeitung.	lesen changes e to ie: sie liest.
+present.stemchange	lesen	pres.du	**Do** you like **reading**? (one friend)	**Liest** du gern?	du liest: the stem ends in s, so the s of -st is swallowed.
+present.stemchange	lesen	pres.ich	I **am reading** a book.	Ich **lese** ein Buch.	ich lese: no change.
+present.stemchange	lesen	pres.er	The teacher **reads** a lot.	Der Lehrer **liest** viel.	er liest, with ie.
+present.stemchange	sehen	pres.er	He **is watching** a film.	Er **sieht** einen Film.	sehen changes e to ie: er sieht. einen Film: the object.
+present.stemchange	sehen	pres.du	**Can** you **see** the bus? (one friend)	**Siehst** du den Bus?	du siehst. German uses the plain verb where English adds can.
+present.stemchange	sehen	pres.wir	We **see** the train.	Wir **sehen** den Zug.	wir sehen: no change.
+present.stemchange	sehen	pres.ihr	**Do** you **see** the station? (several friends)	**Seht** ihr den Bahnhof?	ihr seht: no change for ihr.
+present.stemchange	nehmen	pres.ich	I'**ll have** the fish.	Ich **nehme** den Fisch.	Ordering food, German says I take: ich nehme.
+present.stemchange	nehmen	pres.du	You **take** the bus. (one friend)	Du **nimmst** den Bus.	nehmen changes more than its vowel: du nimmst, with mm and no h.
+present.stemchange	nehmen	pres.er	She **is having** the soup.	Sie **nimmt** die Suppe.	sie nimmt: i, a double m, no h.
+present.stemchange	nehmen	pres.du	**Do** you **take** milk? (one friend)	**Nimmst** du Milch?	nimmst du: asking about coffee, nehmen means to take.
+present.stemchange	sprechen	pres.du	**Do** you **speak** English? (one friend)	**Sprichst** du Englisch?	sprechen changes e to i: du sprichst.
+present.stemchange	sprechen	pres.er	She **speaks** German.	Sie **spricht** Deutsch.	sie spricht: e becomes i. Languages take no article.
+present.stemchange	sprechen	pres.ich	I **speak** English.	Ich **spreche** Englisch.	ich spreche: no change.
+present.stemchange	sprechen	pres.wir	We **speak** German.	Wir **sprechen** Deutsch.	wir sprechen: no change.
+present.stemchange	schlafen	pres.er	The child **is sleeping**.	Das Kind **schläft**.	schlafen adds an umlaut: es schläft.
+present.stemchange	schlafen	pres.du	**Are** you **sleeping**? (one friend)	**Schläfst** du?	du schläfst: a becomes ä.
+present.stemchange	schlafen	pres.er	He **sleeps** in late today.	Er **schläft** heute lange.	er schläft. lange schlafen: to sleep for a long time, to sleep in.
+present.stemchange	schlafen	pres.wir	We **sleep** a lot.	Wir **schlafen** viel.	wir schlafen: no umlaut.
+present.stemchange	geben	pres.du	You **give** the money, and I buy the bread. (one friend)	Du **gibst** das Geld, und ich kaufe das Brot.	geben changes e to i: du gibst.
+present.stemchange	geben	pres.er	Who **is giving** the money?	Wer **gibt** das Geld?	wer takes the er form: gibt.
+present.stemchange	sehen	pres.er	Today the woman **is watching** a film.	Heute **sieht** die Frau einen Film.	The changed vowel stays wherever the verb stands: heute sieht die Frau.
+present.stemchange	essen	pres.er	The dog **doesn't eat** fish.	Der Hund **isst** keinen Fisch.	er isst; der Fisch → keinen Fisch as the object.
+present.stemchange	lesen	pres.er	Why **is** he **reading** the newspaper?	Warum **liest** er die Zeitung?	er liest, second after warum.

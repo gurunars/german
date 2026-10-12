@@ -1,0 +1,230 @@
+{
+  "name": "Lesson 7 · Verbs that change their vowel: fahren, essen, lesen, sehen…",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **drive**.",
+      "back": "Ich **fahre** Auto.",
+      "note": "Stem-changing verbs: du and er change the vowel. ich keeps the vowel of the infinitive: fahre. Auto fahren, with no article, means to drive.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **driving** today? (one friend)",
+      "back": "**Fährst** du heute?",
+      "note": "Stem-changing verbs: du and er change the vowel. fahren adds an umlaut in the du form: a becomes ä.",
+      "priority": 1
+    },
+    {
+      "front": "He **drives** a lot.",
+      "back": "Er **fährt** viel Auto.",
+      "note": "Stem-changing verbs: du and er change the vowel. The er form changes too: fährt. Only du and er/sie/es change.",
+      "priority": 1
+    },
+    {
+      "front": "The train **is leaving** now.",
+      "back": "Der Zug **fährt** jetzt.",
+      "note": "Stem-changing verbs: du and er change the vowel. A train fährt: fahren is any travel by vehicle, including the vehicle itself.",
+      "priority": 1
+    },
+    {
+      "front": "Where **are** you **going**? (several friends)",
+      "back": "Wohin **fahrt** ihr?",
+      "note": "Stem-changing verbs: du and er change the vowel. ihr keeps the plain vowel: fahrt, no umlaut.",
+      "priority": 1
+    },
+    {
+      "front": "The bus **isn't running** today.",
+      "back": "Der Bus **fährt** heute nicht.",
+      "note": "Stem-changing verbs: du and er change the vowel. der Bus → fährt, with the umlaut.",
+      "priority": 1
+    },
+    {
+      "front": "I **eat** fish.",
+      "back": "Ich **esse** Fisch.",
+      "note": "Stem-changing verbs: du and er change the vowel. ich esse: no change in the ich form.",
+      "priority": 1
+    },
+    {
+      "front": "You **don't eat** meat. (one friend)",
+      "back": "Du **isst** kein Fleisch.",
+      "note": "Stem-changing verbs: du and er change the vowel. essen changes e to i: du isst. The stem ends in s, so only -t is added.",
+      "priority": 1
+    },
+    {
+      "front": "He likes **eating** soup.",
+      "back": "Er **isst** gern Suppe.",
+      "note": "Stem-changing verbs: du and er change the vowel. er isst: the same form as du.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **eat** meat? (one friend)",
+      "back": "**Isst** du Fleisch?",
+      "note": "Stem-changing verbs: du and er change the vowel. isst du: the changed vowel stays when the verb moves to the front.",
+      "priority": 1
+    },
+    {
+      "front": "We **are eating** fish today.",
+      "back": "Wir **essen** heute Fisch.",
+      "note": "Stem-changing verbs: du and er change the vowel. wir essen: wir never changes the vowel.",
+      "priority": 1
+    },
+    {
+      "front": "You **eat** a lot. (several friends)",
+      "back": "Ihr **esst** viel.",
+      "note": "Stem-changing verbs: du and er change the vowel. ihr esst: the plain e, and just -t after the s.",
+      "priority": 1
+    },
+    {
+      "front": "She **is reading** the newspaper.",
+      "back": "Sie **liest** die Zeitung.",
+      "note": "Stem-changing verbs: du and er change the vowel. lesen changes e to ie: sie liest.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you like **reading**? (one friend)",
+      "back": "**Liest** du gern?",
+      "note": "Stem-changing verbs: du and er change the vowel. du liest: the stem ends in s, so the s of -st is swallowed.",
+      "priority": 1
+    },
+    {
+      "front": "I **am reading** a book.",
+      "back": "Ich **lese** ein Buch.",
+      "note": "Stem-changing verbs: du and er change the vowel. ich lese: no change.",
+      "priority": 1
+    },
+    {
+      "front": "The teacher **reads** a lot.",
+      "back": "Der Lehrer **liest** viel.",
+      "note": "Stem-changing verbs: du and er change the vowel. er liest, with ie.",
+      "priority": 1
+    },
+    {
+      "front": "He **is watching** a film.",
+      "back": "Er **sieht** einen Film.",
+      "note": "Stem-changing verbs: du and er change the vowel. sehen changes e to ie: er sieht. einen Film: the object.",
+      "priority": 1
+    },
+    {
+      "front": "**Can** you **see** the bus? (one friend)",
+      "back": "**Siehst** du den Bus?",
+      "note": "Stem-changing verbs: du and er change the vowel. du siehst. German uses the plain verb where English adds can.",
+      "priority": 1
+    },
+    {
+      "front": "We **see** the train.",
+      "back": "Wir **sehen** den Zug.",
+      "note": "Stem-changing verbs: du and er change the vowel. wir sehen: no change.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **see** the station? (several friends)",
+      "back": "**Seht** ihr den Bahnhof?",
+      "note": "Stem-changing verbs: du and er change the vowel. ihr seht: no change for ihr.",
+      "priority": 1
+    },
+    {
+      "front": "I'**ll have** the fish.",
+      "back": "Ich **nehme** den Fisch.",
+      "note": "Stem-changing verbs: du and er change the vowel. Ordering food, German says I take: ich nehme.",
+      "priority": 1
+    },
+    {
+      "front": "You **take** the bus. (one friend)",
+      "back": "Du **nimmst** den Bus.",
+      "note": "Stem-changing verbs: du and er change the vowel. nehmen changes more than its vowel: du nimmst, with mm and no h.",
+      "priority": 1
+    },
+    {
+      "front": "She **is having** the soup.",
+      "back": "Sie **nimmt** die Suppe.",
+      "note": "Stem-changing verbs: du and er change the vowel. sie nimmt: i, a double m, no h.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **take** milk? (one friend)",
+      "back": "**Nimmst** du Milch?",
+      "note": "Stem-changing verbs: du and er change the vowel. nimmst du: asking about coffee, nehmen means to take.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **speak** English? (one friend)",
+      "back": "**Sprichst** du Englisch?",
+      "note": "Stem-changing verbs: du and er change the vowel. sprechen changes e to i: du sprichst.",
+      "priority": 1
+    },
+    {
+      "front": "She **speaks** German.",
+      "back": "Sie **spricht** Deutsch.",
+      "note": "Stem-changing verbs: du and er change the vowel. sie spricht: e becomes i. Languages take no article.",
+      "priority": 1
+    },
+    {
+      "front": "I **speak** English.",
+      "back": "Ich **spreche** Englisch.",
+      "note": "Stem-changing verbs: du and er change the vowel. ich spreche: no change.",
+      "priority": 1
+    },
+    {
+      "front": "We **speak** German.",
+      "back": "Wir **sprechen** Deutsch.",
+      "note": "Stem-changing verbs: du and er change the vowel. wir sprechen: no change.",
+      "priority": 1
+    },
+    {
+      "front": "The child **is sleeping**.",
+      "back": "Das Kind **schläft**.",
+      "note": "Stem-changing verbs: du and er change the vowel. schlafen adds an umlaut: es schläft.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **sleeping**? (one friend)",
+      "back": "**Schläfst** du?",
+      "note": "Stem-changing verbs: du and er change the vowel. du schläfst: a becomes ä.",
+      "priority": 1
+    },
+    {
+      "front": "He **sleeps** in late today.",
+      "back": "Er **schläft** heute lange.",
+      "note": "Stem-changing verbs: du and er change the vowel. er schläft. lange schlafen: to sleep for a long time, to sleep in.",
+      "priority": 1
+    },
+    {
+      "front": "We **sleep** a lot.",
+      "back": "Wir **schlafen** viel.",
+      "note": "Stem-changing verbs: du and er change the vowel. wir schlafen: no umlaut.",
+      "priority": 1
+    },
+    {
+      "front": "You **give** the money, and I buy the bread. (one friend)",
+      "back": "Du **gibst** das Geld, und ich kaufe das Brot.",
+      "note": "Stem-changing verbs: du and er change the vowel. geben changes e to i: du gibst.",
+      "priority": 1
+    },
+    {
+      "front": "Who **is giving** the money?",
+      "back": "Wer **gibt** das Geld?",
+      "note": "Stem-changing verbs: du and er change the vowel. wer takes the er form: gibt.",
+      "priority": 1
+    },
+    {
+      "front": "Today the woman **is watching** a film.",
+      "back": "Heute **sieht** die Frau einen Film.",
+      "note": "Stem-changing verbs: du and er change the vowel. The changed vowel stays wherever the verb stands: heute sieht die Frau.",
+      "priority": 1
+    },
+    {
+      "front": "The dog **doesn't eat** fish.",
+      "back": "Der Hund **isst** keinen Fisch.",
+      "note": "Stem-changing verbs: du and er change the vowel. er isst; der Fisch → keinen Fisch as the object.",
+      "priority": 1
+    },
+    {
+      "front": "Why **is** he **reading** the newspaper?",
+      "back": "Warum **liest** er die Zeitung?",
+      "note": "Stem-changing verbs: du and er change the vowel. er liest, second after warum.",
+      "priority": 1
+    }
+  ]
+}

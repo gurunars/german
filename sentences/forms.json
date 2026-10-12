@@ -238,6 +238,38 @@
    ]
   }
  },
+ "Bus": {
+  "all": [
+   "Bus",
+   "Busse",
+   "Bussen",
+   "Busses"
+  ],
+  "english": "bus",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Bus"
+   ],
+   "dat.pl": [
+    "Bussen"
+   ],
+   "dat.sg": [
+    "Bus",
+    "Busse"
+   ],
+   "gen.sg": [
+    "Busses"
+   ],
+   "nom.pl": [
+    "Busse"
+   ],
+   "nom.sg": [
+    "Bus"
+   ]
+  }
+ },
  "Computer": {
   "all": [
    "Computer",
@@ -361,6 +393,110 @@
    ],
    "nom.sg": [
     "Familie"
+   ]
+  }
+ },
+ "Film": {
+  "all": [
+   "Film",
+   "Filmchen",
+   "Filme",
+   "Filmen",
+   "Filmes",
+   "Films"
+  ],
+  "english": "film",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Film"
+   ],
+   "dat.pl": [
+    "Filmen"
+   ],
+   "dat.sg": [
+    "Film",
+    "Filme"
+   ],
+   "gen.sg": [
+    "Filmes",
+    "Films"
+   ],
+   "nom.pl": [
+    "Filme"
+   ],
+   "nom.sg": [
+    "Film"
+   ]
+  }
+ },
+ "Fisch": {
+  "all": [
+   "Fisch",
+   "Fischchen",
+   "Fische",
+   "Fischen",
+   "Fischerl",
+   "Fisches",
+   "Fischin",
+   "Fischlein",
+   "Fischs"
+  ],
+  "english": "fish",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Fisch"
+   ],
+   "dat.pl": [
+    "Fischen"
+   ],
+   "dat.sg": [
+    "Fisch",
+    "Fische"
+   ],
+   "gen.sg": [
+    "Fisches",
+    "Fischs"
+   ],
+   "nom.pl": [
+    "Fische"
+   ],
+   "nom.sg": [
+    "Fisch"
+   ]
+  }
+ },
+ "Fleisch": {
+  "all": [
+   "Flaisch",
+   "Fleisch",
+   "Fleische",
+   "Fleisches",
+   "Fleischs",
+   "Fläisch",
+   "flaisch",
+   "fläisch"
+  ],
+  "english": "meat",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Fleisch"
+   ],
+   "dat.sg": [
+    "Fleisch",
+    "Fleische"
+   ],
+   "gen.sg": [
+    "Fleisches",
+    "Fleischs"
+   ],
+   "nom.sg": [
+    "Fleisch"
    ]
   }
  },
@@ -1415,6 +1551,37 @@
    ]
   }
  },
+ "Suppe": {
+  "all": [
+   "Suppe",
+   "Suppen",
+   "Supperl",
+   "Süppchen"
+  ],
+  "english": "soup",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Suppe"
+   ],
+   "dat.pl": [
+    "Suppen"
+   ],
+   "dat.sg": [
+    "Suppe"
+   ],
+   "gen.sg": [
+    "Suppe"
+   ],
+   "nom.pl": [
+    "Suppen"
+   ],
+   "nom.sg": [
+    "Suppe"
+   ]
+  }
+ },
  "Tag": {
   "all": [
    "Tag",
@@ -1747,6 +1914,35 @@
    ]
   }
  },
+ "Zeitung": {
+  "all": [
+   "Zeitung",
+   "Zeitungen"
+  ],
+  "english": "newspaper",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Zeitung"
+   ],
+   "dat.pl": [
+    "Zeitungen"
+   ],
+   "dat.sg": [
+    "Zeitung"
+   ],
+   "gen.sg": [
+    "Zeitung"
+   ],
+   "nom.pl": [
+    "Zeitungen"
+   ],
+   "nom.sg": [
+    "Zeitung"
+   ]
+  }
+ },
  "Zimmer": {
   "all": [
    "Zimmer",
@@ -1775,6 +1971,41 @@
    ],
    "nom.sg": [
     "Zimmer"
+   ]
+  }
+ },
+ "Zug": {
+  "all": [
+   "Zug",
+   "Zuge",
+   "Zuges",
+   "Zugs",
+   "Züge",
+   "Zügen"
+  ],
+  "english": "train",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Zug"
+   ],
+   "dat.pl": [
+    "Zügen"
+   ],
+   "dat.sg": [
+    "Zug",
+    "Zuge"
+   ],
+   "gen.sg": [
+    "Zuges",
+    "Zugs"
+   ],
+   "nom.pl": [
+    "Züge"
+   ],
+   "nom.sg": [
+    "Zug"
    ]
   }
  },
@@ -2245,6 +2476,67 @@
    ],
    "pret.er": [
     "aß"
+   ]
+  }
+ },
+ "fahren": {
+  "all": [
+   "fahr",
+   "fahre",
+   "fahren",
+   "fahrend",
+   "fahrest",
+   "fahret",
+   "fahrt",
+   "fuhr",
+   "fuhren",
+   "fuhrst",
+   "fuhrt",
+   "fährst",
+   "fährt",
+   "führe",
+   "führen",
+   "führest",
+   "führet",
+   "führst",
+   "führt",
+   "gefahren",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to drive, to go (by vehicle)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "fahr",
+    "fahre"
+   ],
+   "perf.er": [
+    "hat gefahren",
+    "ist gefahren"
+   ],
+   "pres.du": [
+    "fährst"
+   ],
+   "pres.er": [
+    "fährt"
+   ],
+   "pres.ich": [
+    "fahre"
+   ],
+   "pres.ihr": [
+    "fahrt"
+   ],
+   "pres.wir": [
+    "fahren"
+   ],
+   "pret.er": [
+    "fuhr"
    ]
   }
  },
@@ -3954,6 +4246,60 @@
    ]
   }
  },
+ "lesen": {
+  "all": [
+   "gelesen",
+   "haben",
+   "habest",
+   "habet",
+   "las",
+   "lasen",
+   "lasest",
+   "last",
+   "lese",
+   "lesen",
+   "lesend",
+   "lesest",
+   "leset",
+   "lest",
+   "lies",
+   "liest",
+   "läse",
+   "läsen",
+   "läsest",
+   "läset",
+   "läst",
+   "werdest"
+  ],
+  "english": "to read",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lies"
+   ],
+   "perf.er": [
+    "hat gelesen"
+   ],
+   "pres.du": [
+    "liest"
+   ],
+   "pres.er": [
+    "liest"
+   ],
+   "pres.ich": [
+    "lese"
+   ],
+   "pres.ihr": [
+    "lest"
+   ],
+   "pres.wir": [
+    "lesen"
+   ],
+   "pret.er": [
+    "las"
+   ]
+  }
+ },
  "machen": {
   "all": [
    "gemacht",
@@ -4582,6 +4928,60 @@
    ]
   }
  },
+ "schlafen": {
+  "all": [
+   "geschlafen",
+   "haben",
+   "habest",
+   "habet",
+   "schlaf",
+   "schlafe",
+   "schlafen",
+   "schlafend",
+   "schlafest",
+   "schlafet",
+   "schlaft",
+   "schlief",
+   "schliefe",
+   "schliefen",
+   "schliefest",
+   "schliefet",
+   "schliefst",
+   "schlieft",
+   "schläfst",
+   "schläft",
+   "werdest"
+  ],
+  "english": "to sleep",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schlaf",
+    "schlafe"
+   ],
+   "perf.er": [
+    "hat geschlafen"
+   ],
+   "pres.du": [
+    "schläfst"
+   ],
+   "pres.er": [
+    "schläft"
+   ],
+   "pres.ich": [
+    "schlafe"
+   ],
+   "pres.ihr": [
+    "schlaft"
+   ],
+   "pres.wir": [
+    "schlafen"
+   ],
+   "pret.er": [
+    "schlief"
+   ]
+  }
+ },
  "schlecht": {
   "all": [
    "am",
@@ -4997,6 +5397,65 @@
    ]
   }
  },
+ "sehen": {
+  "all": [
+   "gesehen",
+   "haben",
+   "habest",
+   "habet",
+   "sah",
+   "sahen",
+   "sahst",
+   "saht",
+   "sehe",
+   "sehen",
+   "sehend",
+   "sehest",
+   "sehet",
+   "sehn",
+   "seht",
+   "sieh",
+   "siehe",
+   "siehst",
+   "sieht",
+   "sähe",
+   "sähen",
+   "sähest",
+   "sähet",
+   "sähst",
+   "säht",
+   "werdest"
+  ],
+  "english": "to see",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "sieh",
+    "siehe"
+   ],
+   "perf.er": [
+    "hat gesehen"
+   ],
+   "pres.du": [
+    "siehst"
+   ],
+   "pres.er": [
+    "sieht"
+   ],
+   "pres.ich": [
+    "sehe"
+   ],
+   "pres.ihr": [
+    "seht"
+   ],
+   "pres.wir": [
+    "sehen"
+   ],
+   "pret.er": [
+    "sah"
+   ]
+  }
+ },
  "sein": {
   "all": [
    "Brant",
@@ -5107,6 +5566,62 @@
    ],
    "pret.er": [
     "spielte"
+   ]
+  }
+ },
+ "sprechen": {
+  "all": [
+   "gesprochen",
+   "haben",
+   "habest",
+   "habet",
+   "sprach",
+   "sprachen",
+   "sprachst",
+   "spracht",
+   "spreche",
+   "sprechen",
+   "sprechend",
+   "sprechest",
+   "sprechet",
+   "sprecht",
+   "sprich",
+   "sprichst",
+   "spricht",
+   "spräche",
+   "sprächen",
+   "sprächest",
+   "sprächet",
+   "sprächst",
+   "sprächt",
+   "werdest"
+  ],
+  "english": "to speak",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "sprich"
+   ],
+   "perf.er": [
+    "hat gesprochen"
+   ],
+   "pres.du": [
+    "sprichst"
+   ],
+   "pres.er": [
+    "spricht"
+   ],
+   "pres.ich": [
+    "spreche"
+   ],
+   "pres.ihr": [
+    "sprecht"
+   ],
+   "pres.wir": [
+    "sprechen"
+   ],
+   "pret.er": [
+    "sprach"
    ]
   }
  },

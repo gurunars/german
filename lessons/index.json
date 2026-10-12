@@ -30,6 +30,11 @@
       "name": "Lesson 6 · Counting: numbers 0–20, prices and age",
       "url": "06-numbers.json",
       "cards": 32
+    },
+    {
+      "name": "Lesson 7 · Verbs that change their vowel: fahren, essen, lesen, sehen…",
+      "url": "07-stem-change.json",
+      "cards": 37
     }
   ]
 }
