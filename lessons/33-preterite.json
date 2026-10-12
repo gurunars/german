@@ -1,0 +1,224 @@
+{
+  "name": "Lesson 33 · Once upon a time: konnte, musste, wollte; ging, kam, gab, sagte",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **couldn't** come yesterday.",
+      "back": "Ich **konnte** gestern nicht kommen.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. The modals lose their umlaut in the past and add -te: können → konnte. ich and er have no extra ending.",
+      "priority": 1
+    },
+    {
+      "front": "**Could** you sleep? (one friend)",
+      "back": "**Konntest** du schlafen?",
+      "note": "The simple past of the modals: konnte, musste, wollte…. du konntest: konnte + -st.",
+      "priority": 1
+    },
+    {
+      "front": "They **couldn't** find the hotel.",
+      "back": "Sie **konnten** das Hotel nicht finden.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. sie konnten: konnte + -n.",
+      "priority": 1
+    },
+    {
+      "front": "He **had to** work.",
+      "back": "Er **musste** arbeiten.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. müssen → musste: no umlaut. In speech, the modals are used in this simple past, not the perfect.",
+      "priority": 1
+    },
+    {
+      "front": "We **had to** wait a long time.",
+      "back": "Wir **mussten** lange warten.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. wir mussten.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **have to** pay? (several friends)",
+      "back": "**Musstet** ihr bezahlen?",
+      "note": "The simple past of the modals: konnte, musste, wollte…. ihr musstet: musste + -t.",
+      "priority": 1
+    },
+    {
+      "front": "I **had to** get up early.",
+      "back": "Ich **musste** früh aufstehen.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. ich musste; the infinitive aufstehen at the end, in one word.",
+      "priority": 1
+    },
+    {
+      "front": "I **wanted** to call you. (one friend)",
+      "back": "Ich **wollte** dich anrufen.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. wollen → wollte.",
+      "priority": 1
+    },
+    {
+      "front": "She **wanted** a dog.",
+      "back": "Sie **wollte** einen Hund.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. sie wollte, no ending.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **want** to come along? (one friend)",
+      "back": "**Wolltest** du mitkommen?",
+      "note": "The simple past of the modals: konnte, musste, wollte…. du wolltest.",
+      "priority": 1
+    },
+    {
+      "front": "Why **did** you **want** to leave? (one friend)",
+      "back": "Warum **wolltest** du gehen?",
+      "note": "The simple past of the modals: konnte, musste, wollte…. The modal second, the infinitive last.",
+      "priority": 1
+    },
+    {
+      "front": "As a child I **wasn't allowed** to watch TV.",
+      "back": "Als Kind **durfte** ich nicht fernsehen.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. dürfen → durfte: the umlaut goes.",
+      "priority": 1
+    },
+    {
+      "front": "We **were supposed to** bring a cake.",
+      "back": "Wir **sollten** einen Kuchen mitbringen.",
+      "note": "The simple past of the modals: konnte, musste, wollte…. sollen → sollte.",
+      "priority": 1
+    },
+    {
+      "front": "He **said** that he was tired.",
+      "back": "Er **sagte**, dass er müde war.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. Regular verbs add -te to the stem: sagte. Stories and news use this simple past.",
+      "priority": 1
+    },
+    {
+      "front": "We **made** a cake.",
+      "back": "Wir **machten** einen Kuchen.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. mach + te + n: machten.",
+      "priority": 1
+    },
+    {
+      "front": "He **asked** me again.",
+      "back": "Er **fragte** mich wieder.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. frag + te: fragte.",
+      "priority": 1
+    },
+    {
+      "front": "Once upon a time there **was** a king.",
+      "back": "Es **war** einmal ein König.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. Every fairy tale starts this way: Es war einmal…",
+      "priority": 1
+    },
+    {
+      "front": "The king **had** a daughter.",
+      "back": "Der König **hatte** eine Tochter.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. hatte, as in lesson 22.",
+      "priority": 1
+    },
+    {
+      "front": "She **went** into the forest.",
+      "back": "Sie **ging** in den Wald.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. Irregular verbs change their vowel and add no -te: gehen → ging.",
+      "priority": 1
+    },
+    {
+      "front": "Suddenly a man **came**.",
+      "back": "Plötzlich **kam** ein Mann.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. kommen → kam. plötzlich first, kam second.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **come** alone? (one friend)",
+      "back": "**Kamst** du allein?",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. du kamst: kam + -st.",
+      "priority": 1
+    },
+    {
+      "front": "He **gave** her an apple.",
+      "back": "Er **gab** ihr einen Apfel.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. geben → gab.",
+      "priority": 1
+    },
+    {
+      "front": "She **saw** an animal.",
+      "back": "Sie **sah** ein Tier.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. sehen → sah.",
+      "priority": 1
+    },
+    {
+      "front": "The children **ran** home.",
+      "back": "Die Kinder **liefen** nach Hause.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. laufen → lief, plural liefen.",
+      "priority": 1
+    },
+    {
+      "front": "He **called** his dog.",
+      "back": "Er **rief** seinen Hund.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. rufen → rief.",
+      "priority": 1
+    },
+    {
+      "front": "The apple **fell** from the tree.",
+      "back": "Der Apfel **fiel** vom Baum.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. fallen → fiel.",
+      "priority": 1
+    },
+    {
+      "front": "The queen **was sitting** in the castle.",
+      "back": "Die Königin **saß** im Schloss.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. sitzen → saß.",
+      "priority": 1
+    },
+    {
+      "front": "The animal **was standing** in the garden.",
+      "back": "Das Tier **stand** im Garten.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. stehen → stand.",
+      "priority": 1
+    },
+    {
+      "front": "At last we **found** the key.",
+      "back": "Endlich **fanden** wir den Schlüssel.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. finden → fand, plural fanden.",
+      "priority": 1
+    },
+    {
+      "front": "I **knew** that.",
+      "back": "Das **wusste** ich.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. wissen is mixed: a new stem and -te, wusste.",
+      "priority": 1
+    },
+    {
+      "front": "I **thought** that you were coming today. (one friend)",
+      "back": "Ich **dachte**, dass du heute kommst.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. denken → dachte, mixed like bringen → brachte.",
+      "priority": 1
+    },
+    {
+      "front": "He **wrote** her a letter.",
+      "back": "Er **schrieb** ihr einen Brief.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. schreiben → schrieb.",
+      "priority": 1
+    },
+    {
+      "front": "She **took** the train.",
+      "back": "Sie **nahm** den Zug.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. nehmen → nahm.",
+      "priority": 1
+    },
+    {
+      "front": "We **drove** to Italy.",
+      "back": "Wir **fuhren** nach Italien.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. fahren → fuhr, plural fuhren.",
+      "priority": 1
+    },
+    {
+      "front": "He **drank** a coffee and left at once.",
+      "back": "Er **trank** einen Kaffee und ging sofort.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. trinken → trank.",
+      "priority": 1
+    },
+    {
+      "front": "I **got** a message.",
+      "back": "Ich **bekam** eine Nachricht.",
+      "note": "The simple past of other verbs: sagte, ging, kam, gab. bekommen → bekam, like kommen → kam.",
+      "priority": 1
+    }
+  ]
+}

@@ -4008,6 +4008,75 @@
    ]
   }
  },
+ "König": {
+  "all": [
+   "König",
+   "Könige",
+   "Königen",
+   "Königes",
+   "Königs"
+  ],
+  "english": "king",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Könige"
+   ],
+   "acc.sg": [
+    "König"
+   ],
+   "dat.pl": [
+    "Königen"
+   ],
+   "dat.sg": [
+    "König",
+    "Könige"
+   ],
+   "gen.sg": [
+    "Königs",
+    "Königes"
+   ],
+   "nom.pl": [
+    "Könige"
+   ],
+   "nom.sg": [
+    "König"
+   ]
+  }
+ },
+ "Königin": {
+  "all": [
+   "Königin",
+   "Königinnen"
+  ],
+  "english": "queen",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Königinnen"
+   ],
+   "acc.sg": [
+    "Königin"
+   ],
+   "dat.pl": [
+    "Königinnen"
+   ],
+   "dat.sg": [
+    "Königin"
+   ],
+   "gen.sg": [
+    "Königin"
+   ],
+   "nom.pl": [
+    "Königinnen"
+   ],
+   "nom.sg": [
+    "Königin"
+   ]
+  }
+ },
  "Küche": {
   "all": [
    "Küche",
@@ -4930,6 +4999,38 @@
    ],
    "nom.sg": [
     "Nachbarin"
+   ]
+  }
+ },
+ "Nachricht": {
+  "all": [
+   "Nachricht",
+   "Nachrichten"
+  ],
+  "english": "message; news",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Nachrichten"
+   ],
+   "acc.sg": [
+    "Nachricht"
+   ],
+   "dat.pl": [
+    "Nachrichten"
+   ],
+   "dat.sg": [
+    "Nachricht"
+   ],
+   "gen.sg": [
+    "Nachricht"
+   ],
+   "nom.pl": [
+    "Nachrichten"
+   ],
+   "nom.sg": [
+    "Nachricht"
    ]
   }
  },
@@ -5886,6 +5987,46 @@
    ],
    "nom.sg": [
     "Samstag"
+   ]
+  }
+ },
+ "Schloss": {
+  "all": [
+   "Schloss",
+   "Schlosse",
+   "Schlosserl",
+   "Schlosses",
+   "Schloß",
+   "Schlösschen",
+   "Schlösser",
+   "Schlössern",
+   "Schlösslein"
+  ],
+  "english": "castle",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Schlösser"
+   ],
+   "acc.sg": [
+    "Schloss"
+   ],
+   "dat.pl": [
+    "Schlössern"
+   ],
+   "dat.sg": [
+    "Schloss",
+    "Schlosse"
+   ],
+   "gen.sg": [
+    "Schlosses"
+   ],
+   "nom.pl": [
+    "Schlösser"
+   ],
+   "nom.sg": [
+    "Schloss"
    ]
   }
  },
@@ -7043,6 +7184,46 @@
    ],
    "nom.sg": [
     "Termin"
+   ]
+  }
+ },
+ "Tier": {
+  "all": [
+   "Thier",
+   "Tier",
+   "Tierchen",
+   "Tiere",
+   "Tieren",
+   "Tieres",
+   "Tierlein",
+   "Tiers"
+  ],
+  "english": "animal",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Tiere"
+   ],
+   "acc.sg": [
+    "Tier"
+   ],
+   "dat.pl": [
+    "Tieren"
+   ],
+   "dat.sg": [
+    "Tier",
+    "Tiere"
+   ],
+   "gen.sg": [
+    "Tieres",
+    "Tiers"
+   ],
+   "nom.pl": [
+    "Tiere"
+   ],
+   "nom.sg": [
+    "Tier"
    ]
   }
  },
@@ -13103,6 +13284,103 @@
    ],
    "pret.wir": [
     "fuhren"
+   ]
+  }
+ },
+ "fallen": {
+  "all": [
+   "fall",
+   "falle",
+   "fallen",
+   "fallend",
+   "fallest",
+   "fallet",
+   "fallt",
+   "fiel",
+   "fiele",
+   "fielen",
+   "fielest",
+   "fielet",
+   "fielst",
+   "fielt",
+   "fällst",
+   "fällt",
+   "gefallen",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to fall",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "fall",
+    "falle"
+   ],
+   "imp.ihr": [
+    "fallt"
+   ],
+   "konj2.du": [
+    "fielest",
+    "fielst"
+   ],
+   "konj2.er": [
+    "fiele"
+   ],
+   "konj2.ich": [
+    "fiele"
+   ],
+   "konj2.ihr": [
+    "fielet",
+    "fielt"
+   ],
+   "konj2.wir": [
+    "fielen"
+   ],
+   "perf.du": [
+    "bist gefallen"
+   ],
+   "perf.er": [
+    "ist gefallen"
+   ],
+   "perf.ich": [
+    "bin gefallen"
+   ],
+   "perf.ihr": [
+    "seid gefallen"
+   ],
+   "perf.wir": [
+    "sind gefallen"
+   ],
+   "pres.du": [
+    "fällst"
+   ],
+   "pres.er": [
+    "fällt"
+   ],
+   "pres.ich": [
+    "falle"
+   ],
+   "pres.ihr": [
+    "fallt"
+   ],
+   "pres.wir": [
+    "fallen"
+   ],
+   "pret.du": [
+    "fielst"
+   ],
+   "pret.er": [
+    "fiel"
+   ],
+   "pret.ich": [
+    "fiel"
+   ],
+   "pret.ihr": [
+    "fielt"
+   ],
+   "pret.wir": [
+    "fielen"
    ]
   }
  },
@@ -26497,6 +26775,86 @@
    ],
    "weak.nom.pl": [
     "die roten"
+   ]
+  }
+ },
+ "rufen": {
+  "all": [
+   "gerufen",
+   "haben",
+   "habest",
+   "habet",
+   "rief",
+   "riefe",
+   "riefen",
+   "riefest",
+   "riefet",
+   "riefst",
+   "rieft",
+   "ruf",
+   "rufe",
+   "rufen",
+   "rufend",
+   "rufest",
+   "rufet",
+   "rufst",
+   "ruft",
+   "werdest"
+  ],
+  "english": "to call",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "ruf",
+    "rufe"
+   ],
+   "imp.ihr": [
+    "ruft"
+   ],
+   "perf.du": [
+    "hast gerufen"
+   ],
+   "perf.er": [
+    "hat gerufen"
+   ],
+   "perf.ich": [
+    "habe gerufen"
+   ],
+   "perf.ihr": [
+    "habt gerufen"
+   ],
+   "perf.wir": [
+    "haben gerufen"
+   ],
+   "pres.du": [
+    "rufst"
+   ],
+   "pres.er": [
+    "ruft"
+   ],
+   "pres.ich": [
+    "rufe"
+   ],
+   "pres.ihr": [
+    "ruft"
+   ],
+   "pres.wir": [
+    "rufen"
+   ],
+   "pret.du": [
+    "riefst"
+   ],
+   "pret.er": [
+    "rief"
+   ],
+   "pret.ich": [
+    "rief"
+   ],
+   "pret.ihr": [
+    "rieft"
+   ],
+   "pret.wir": [
+    "riefen"
    ]
   }
  },
