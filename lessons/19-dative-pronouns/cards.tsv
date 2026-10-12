@@ -1,0 +1,37 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+pronoun.dat	-	-	Can you help **me**? (one friend)	Kannst du **mir** helfen?	helfen takes the dative, so ich becomes mir.
+pronoun.dat	-	-	**I** like the dress.	Das Kleid gefällt **mir**.	With gefallen, the one who likes is in the dative: mir.
+pronoun.dat	-	-	How are **you**? (one friend)	Wie geht es **dir**?	Literally how goes it to you: du becomes dir.
+pronoun.dat	-	-	**I**'m fine, thanks.	Es geht **mir** gut, danke.	The answer keeps the dative: es geht mir gut.
+pronoun.dat	-	-	Do **you** like the soup? (one friend)	Schmeckt **dir** die Suppe?	schmecken + dative: dir.
+pronoun.dat	-	-	The book belongs to **him**.	Das Buch gehört **ihm**.	er becomes ihm in the dative.
+pronoun.dat	-	-	I'm helping **her**.	Ich helfe **ihr**.	sie (she) becomes ihr in the dative.
+pronoun.dat	-	-	We thank **you**. (formal)	Wir danken **Ihnen**.	Sie becomes Ihnen, with a capital I.
+pronoun.dat	-	-	Does that belong to **you**? (several friends)	Gehört das **euch**?	ihr becomes euch, the same as in the accusative.
+pronoun.dat	-	-	**We** like the flat.	Die Wohnung gefällt **uns**.	wir becomes uns, the same as in the accusative.
+pronoun.dat	-	-	I'm giving **them** the money.	Ich gebe **ihnen** das Geld.	sie (they) becomes ihnen in the dative.
+pronoun.dat	-	-	**My** head hurts.	**Mir** tut der Kopf weh.	wehtun: the person who is hurting is in the dative, and German uses no possessive for the body part.
+pronoun.dat	-	-	Does **your** stomach hurt? (one friend)	Tut **dir** der Bauch weh?	tut … weh splits like other separable verbs; dir says whose stomach.
+pronoun.dat	-	-	The trousers fit **me**.	Die Hose passt **mir**.	passen + dative: mir.
+pronoun.dat	-	-	The dress fits **you** well. (formal)	Das Kleid passt **Ihnen** gut.	Ihnen: the formal dative.
+pronoun.dat	-	-	Can you lend **me** your bike? (one friend)	Kannst du **mir** dein Fahrrad leihen?	leihen: to lend; the one who gets it is in the dative.
+es.gibt	-	-	**Is there** a restaurant here?	**Gibt es** hier ein Restaurant?	es gibt means there is; in a question the verb comes first: gibt es.
+es.gibt	-	-	**There is** no sugar.	**Es gibt** keinen Zucker.	es gibt takes the accusative: keinen Zucker.
+es.gibt	-	-	**There are** a lot of restaurants here.	**Es gibt** hier viele Restaurants.	es gibt stays singular, even for many things.
+es.gibt	-	-	**Is there** fish today?	**Gibt es** heute Fisch?	Gibt es…? asks whether something is available.
+es.gibt	-	-	**Is there** a toilet here?	**Gibt es** hier eine Toilette?	gibt es + accusative: eine Toilette.
+es.gibt	-	-	**There is** a problem.	**Es gibt** ein Problem.	es gibt ein Problem: there's a problem.
+es.gibt	-	-	There **is** no hotel here.	Hier **gibt es** kein Hotel.	hier first, the verb second: gibt es.
+objects.order	-	-	I'm giving **him** the apple.	Ich gebe **ihm** den Apfel.	A pronoun goes before a noun: ihm (dative), then den Apfel.
+objects.order	-	-	I'm giving **it** to the child.	Ich gebe **ihn** dem Kind.	der Apfel → ihn. An accusative pronoun goes before the dative noun.
+objects.order	-	-	I'm giving **it to him**.	Ich gebe **ihn ihm**.	Two pronouns: the accusative first, then the dative.
+objects.order	Mutter	dat.sg	She shows **her mother** the photos.	Sie zeigt **ihrer Mutter** die Fotos.	Two nouns: the dative before the accusative.
+objects.order	-	-	Can you show **me** the way? (one friend)	Kannst du **mir** den Weg zeigen?	mir before den Weg: the pronoun first.
+objects.order	-	-	He explains the question to **us**.	Er erklärt **uns** die Frage.	uns (dative pronoun) before die Frage (accusative noun).
+objects.order	Oma	dat.sg	We're giving **our grandma** flowers.	Wir schenken **unserer Oma** Blumen.	Dative noun first, then the accusative noun: unserer Oma Blumen.
+objects.order	Bruder	dat.sg	I'm giving **my brother** the book.	Ich schenke **meinem Bruder** das Buch.	schenken: to give as a present. Dative noun, then accusative noun.
+objects.order	-	-	I'm giving **it** to my brother.	Ich schenke **es** meinem Bruder.	das Buch → es. The pronoun jumps ahead of the dative noun.
+objects.order	-	-	I'm bringing **you** the key. (one friend)	Ich bringe **dir** den Schlüssel.	dir before den Schlüssel: pronoun before noun.
+objects.order	-	-	I'll bring **it to you**. (the key; one friend)	Ich bringe **ihn dir**.	der Schlüssel → ihn. Two pronouns: accusative, then dative.
+objects.order	-	-	The photos? I'll show **them to you**. (one friend)	Die Fotos? Ich zeige **sie dir**.	die Fotos → sie (accusative), then dir.
+objects.order	-	-	Can you explain **it to me**? (the question; one friend)	Kannst du **sie mir** erklären?	die Frage → sie, then mir, then the infinitive.

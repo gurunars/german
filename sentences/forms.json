@@ -321,6 +321,46 @@
    ]
   }
  },
+ "Bauch": {
+  "all": [
+   "Bauch",
+   "Bauche",
+   "Bauches",
+   "Bauchs",
+   "Bäuche",
+   "Bäuchelchen",
+   "Bäuchen",
+   "Bäuchlein"
+  ],
+  "english": "stomach, belly",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Bäuche"
+   ],
+   "acc.sg": [
+    "Bauch"
+   ],
+   "dat.pl": [
+    "Bäuchen"
+   ],
+   "dat.sg": [
+    "Bauch",
+    "Bauche"
+   ],
+   "gen.sg": [
+    "Bauches",
+    "Bauchs"
+   ],
+   "nom.pl": [
+    "Bäuche"
+   ],
+   "nom.sg": [
+    "Bauch"
+   ]
+  }
+ },
  "Baum": {
   "all": [
    "Baum",
@@ -2145,6 +2185,38 @@
    ],
    "nom.sg": [
     "Hose"
+   ]
+  }
+ },
+ "Hotel": {
+  "all": [
+   "Hotel",
+   "Hotels"
+  ],
+  "english": "hotel",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Hotels"
+   ],
+   "acc.sg": [
+    "Hotel"
+   ],
+   "dat.pl": [
+    "Hotels"
+   ],
+   "dat.sg": [
+    "Hotel"
+   ],
+   "gen.sg": [
+    "Hotels"
+   ],
+   "nom.pl": [
+    "Hotels"
+   ],
+   "nom.sg": [
+    "Hotel"
    ]
   }
  },
@@ -4024,6 +4096,38 @@
    ]
   }
  },
+ "Restaurant": {
+  "all": [
+   "Restaurant",
+   "Restaurants"
+  ],
+  "english": "restaurant",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Restaurants"
+   ],
+   "acc.sg": [
+    "Restaurant"
+   ],
+   "dat.pl": [
+    "Restaurants"
+   ],
+   "dat.sg": [
+    "Restaurant"
+   ],
+   "gen.sg": [
+    "Restaurants"
+   ],
+   "nom.pl": [
+    "Restaurants"
+   ],
+   "nom.sg": [
+    "Restaurant"
+   ]
+  }
+ },
  "Salat": {
   "all": [
    "Salat",
@@ -4096,6 +4200,41 @@
    ],
    "nom.sg": [
     "Samstag"
+   ]
+  }
+ },
+ "Schlüssel": {
+  "all": [
+   "Schlüssel",
+   "Schlüsselchen",
+   "Schlüssellein",
+   "Schlüsseln",
+   "Schlüssels"
+  ],
+  "english": "key",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Schlüssel"
+   ],
+   "acc.sg": [
+    "Schlüssel"
+   ],
+   "dat.pl": [
+    "Schlüsseln"
+   ],
+   "dat.sg": [
+    "Schlüssel"
+   ],
+   "gen.sg": [
+    "Schlüssels"
+   ],
+   "nom.pl": [
+    "Schlüssel"
+   ],
+   "nom.sg": [
+    "Schlüssel"
    ]
   }
  },
@@ -4886,6 +5025,38 @@
    ],
    "nom.sg": [
     "Tochter"
+   ]
+  }
+ },
+ "Toilette": {
+  "all": [
+   "Toilette",
+   "Toiletten"
+  ],
+  "english": "toilet",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Toiletten"
+   ],
+   "acc.sg": [
+    "Toilette"
+   ],
+   "dat.pl": [
+    "Toiletten"
+   ],
+   "dat.sg": [
+    "Toilette"
+   ],
+   "gen.sg": [
+    "Toilette"
+   ],
+   "nom.pl": [
+    "Toiletten"
+   ],
+   "nom.sg": [
+    "Toilette"
    ]
   }
  },
@@ -7032,6 +7203,58 @@
    "pret.er": [
     "kaufte ein",
     "einkaufte"
+   ]
+  }
+ },
+ "erklären": {
+  "all": [
+   "erklär",
+   "erkläre",
+   "erklären",
+   "erklärend",
+   "erklärest",
+   "erkläret",
+   "erklärst",
+   "erklärt",
+   "erklärte",
+   "erklärten",
+   "erklärtest",
+   "erklärtet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to explain",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "erklär",
+    "erkläre"
+   ],
+   "imp.ihr": [
+    "erklärt"
+   ],
+   "perf.er": [
+    "hat erklärt"
+   ],
+   "pres.du": [
+    "erklärst"
+   ],
+   "pres.er": [
+    "erklärt"
+   ],
+   "pres.ich": [
+    "erkläre"
+   ],
+   "pres.ihr": [
+    "erklärt"
+   ],
+   "pres.wir": [
+    "erklären"
+   ],
+   "pret.er": [
+    "erklärte"
    ]
   }
  },
@@ -9753,6 +9976,62 @@
    ]
   }
  },
+ "leihen": {
+  "all": [
+   "geliehen",
+   "haben",
+   "habest",
+   "habet",
+   "leih",
+   "leihe",
+   "leihen",
+   "leihend",
+   "leihest",
+   "leihet",
+   "leihst",
+   "leiht",
+   "lieh",
+   "liehe",
+   "liehen",
+   "liehest",
+   "liehet",
+   "liehst",
+   "lieht",
+   "werdest"
+  ],
+  "english": "to lend",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "leih",
+    "leihe"
+   ],
+   "imp.ihr": [
+    "leiht"
+   ],
+   "perf.er": [
+    "hat geliehen"
+   ],
+   "pres.du": [
+    "leihst"
+   ],
+   "pres.er": [
+    "leiht"
+   ],
+   "pres.ich": [
+    "leihe"
+   ],
+   "pres.ihr": [
+    "leiht"
+   ],
+   "pres.wir": [
+    "leihen"
+   ],
+   "pret.er": [
+    "lieh"
+   ]
+  }
+ },
  "leise": {
   "all": [
    "am",
@@ -10752,6 +11031,58 @@
    ]
   }
  },
+ "passen": {
+  "all": [
+   "gepasst",
+   "haben",
+   "habest",
+   "habet",
+   "pass",
+   "passe",
+   "passen",
+   "passend",
+   "passest",
+   "passet",
+   "passt",
+   "passte",
+   "passten",
+   "passtest",
+   "passtet",
+   "werdest"
+  ],
+  "english": "to fit",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "pass",
+    "passe"
+   ],
+   "imp.ihr": [
+    "passt"
+   ],
+   "perf.er": [
+    "hat gepasst"
+   ],
+   "pres.du": [
+    "passt"
+   ],
+   "pres.er": [
+    "passt"
+   ],
+   "pres.ich": [
+    "passe"
+   ],
+   "pres.ihr": [
+    "passt"
+   ],
+   "pres.wir": [
+    "passen"
+   ],
+   "pret.er": [
+    "passte"
+   ]
+  }
+ },
  "rauchen": {
   "all": [
    "geraucht",
@@ -10941,6 +11272,59 @@
    ],
    "pret.er": [
     "sagte"
+   ]
+  }
+ },
+ "schenken": {
+  "all": [
+   "geschenkt",
+   "haben",
+   "habest",
+   "habet",
+   "schenk",
+   "schenke",
+   "schenken",
+   "schenkend",
+   "schenkest",
+   "schenket",
+   "schenkst",
+   "schenkt",
+   "schenkte",
+   "schenkten",
+   "schenktest",
+   "schenktet",
+   "werdest"
+  ],
+  "english": "to give (as a present)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schenk",
+    "schenke"
+   ],
+   "imp.ihr": [
+    "schenkt"
+   ],
+   "perf.er": [
+    "hat geschenkt"
+   ],
+   "pres.du": [
+    "schenkst"
+   ],
+   "pres.er": [
+    "schenkt"
+   ],
+   "pres.ich": [
+    "schenke"
+   ],
+   "pres.ihr": [
+    "schenkt"
+   ],
+   "pres.wir": [
+    "schenken"
+   ],
+   "pret.er": [
+    "schenkte"
    ]
   }
  },
@@ -12695,6 +13079,109 @@
    ]
   }
  },
+ "wehtun": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "tat",
+   "taten",
+   "tatest",
+   "tatet",
+   "tatst",
+   "tu",
+   "tue",
+   "tuen",
+   "tuest",
+   "tuet",
+   "tun",
+   "tust",
+   "tut",
+   "täte",
+   "täten",
+   "tätest",
+   "tätet",
+   "weh",
+   "wehgetan",
+   "wehtat",
+   "wehtaten",
+   "wehtatest",
+   "wehtatet",
+   "wehtatst",
+   "wehtue",
+   "wehtuen",
+   "wehtuend",
+   "wehtuest",
+   "wehtuet",
+   "wehtun",
+   "wehtust",
+   "wehtut",
+   "wehtäte",
+   "wehtäten",
+   "wehtätest",
+   "wehtätet",
+   "wehzutun",
+   "werdest"
+  ],
+  "english": "to hurt",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "tu weh",
+    "tue weh"
+   ],
+   "imp.ihr": [
+    "tut weh"
+   ],
+   "konj2.du": [
+    "tätest weh",
+    "wehtätest"
+   ],
+   "konj2.er": [
+    "täte weh",
+    "wehtäte"
+   ],
+   "konj2.ich": [
+    "täte weh",
+    "wehtäte"
+   ],
+   "konj2.ihr": [
+    "tätet weh",
+    "wehtätet"
+   ],
+   "konj2.wir": [
+    "täten weh",
+    "wehtäten"
+   ],
+   "perf.er": [
+    "hat wehgetan"
+   ],
+   "pres.du": [
+    "tust weh",
+    "wehtust"
+   ],
+   "pres.er": [
+    "tut weh",
+    "wehtut"
+   ],
+   "pres.ich": [
+    "tue weh",
+    "wehtue"
+   ],
+   "pres.ihr": [
+    "tut weh",
+    "wehtut"
+   ],
+   "pres.wir": [
+    "tun weh",
+    "wehtun"
+   ],
+   "pret.er": [
+    "tat weh",
+    "wehtat"
+   ]
+  }
+ },
  "weit": {
   "all": [
    "am",
@@ -13174,6 +13661,59 @@
    ],
    "pret.er": [
     "wollte"
+   ]
+  }
+ },
+ "zeigen": {
+  "all": [
+   "gezeigt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest",
+   "zeig",
+   "zeige",
+   "zeigen",
+   "zeigend",
+   "zeigest",
+   "zeiget",
+   "zeigst",
+   "zeigt",
+   "zeigte",
+   "zeigten",
+   "zeigtest",
+   "zeigtet"
+  ],
+  "english": "to show",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "zeig",
+    "zeige"
+   ],
+   "imp.ihr": [
+    "zeigt"
+   ],
+   "perf.er": [
+    "hat gezeigt"
+   ],
+   "pres.du": [
+    "zeigst"
+   ],
+   "pres.er": [
+    "zeigt"
+   ],
+   "pres.ich": [
+    "zeige"
+   ],
+   "pres.ihr": [
+    "zeigt"
+   ],
+   "pres.wir": [
+    "zeigen"
+   ],
+   "pret.er": [
+    "zeigte"
    ]
   }
  },

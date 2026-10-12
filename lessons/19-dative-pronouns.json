@@ -1,0 +1,224 @@
+{
+  "name": "Lesson 19 · To me, to you: dative pronouns, es gibt, two objects",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "Can you help **me**? (one friend)",
+      "back": "Kannst du **mir** helfen?",
+      "note": "Dative pronouns: mir, dir, ihm…. helfen takes the dative, so ich becomes mir.",
+      "priority": 1
+    },
+    {
+      "front": "**I** like the dress.",
+      "back": "Das Kleid gefällt **mir**.",
+      "note": "Dative pronouns: mir, dir, ihm…. With gefallen, the one who likes is in the dative: mir.",
+      "priority": 1
+    },
+    {
+      "front": "How are **you**? (one friend)",
+      "back": "Wie geht es **dir**?",
+      "note": "Dative pronouns: mir, dir, ihm…. Literally how goes it to you: du becomes dir.",
+      "priority": 1
+    },
+    {
+      "front": "**I**'m fine, thanks.",
+      "back": "Es geht **mir** gut, danke.",
+      "note": "Dative pronouns: mir, dir, ihm…. The answer keeps the dative: es geht mir gut.",
+      "priority": 1
+    },
+    {
+      "front": "Do **you** like the soup? (one friend)",
+      "back": "Schmeckt **dir** die Suppe?",
+      "note": "Dative pronouns: mir, dir, ihm…. schmecken + dative: dir.",
+      "priority": 1
+    },
+    {
+      "front": "The book belongs to **him**.",
+      "back": "Das Buch gehört **ihm**.",
+      "note": "Dative pronouns: mir, dir, ihm…. er becomes ihm in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "I'm helping **her**.",
+      "back": "Ich helfe **ihr**.",
+      "note": "Dative pronouns: mir, dir, ihm…. sie (she) becomes ihr in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "We thank **you**. (formal)",
+      "back": "Wir danken **Ihnen**.",
+      "note": "Dative pronouns: mir, dir, ihm…. Sie becomes Ihnen, with a capital I.",
+      "priority": 1
+    },
+    {
+      "front": "Does that belong to **you**? (several friends)",
+      "back": "Gehört das **euch**?",
+      "note": "Dative pronouns: mir, dir, ihm…. ihr becomes euch, the same as in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "**We** like the flat.",
+      "back": "Die Wohnung gefällt **uns**.",
+      "note": "Dative pronouns: mir, dir, ihm…. wir becomes uns, the same as in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "I'm giving **them** the money.",
+      "back": "Ich gebe **ihnen** das Geld.",
+      "note": "Dative pronouns: mir, dir, ihm…. sie (they) becomes ihnen in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "**My** head hurts.",
+      "back": "**Mir** tut der Kopf weh.",
+      "note": "Dative pronouns: mir, dir, ihm…. wehtun: the person who is hurting is in the dative, and German uses no possessive for the body part.",
+      "priority": 1
+    },
+    {
+      "front": "Does **your** stomach hurt? (one friend)",
+      "back": "Tut **dir** der Bauch weh?",
+      "note": "Dative pronouns: mir, dir, ihm…. tut … weh splits like other separable verbs; dir says whose stomach.",
+      "priority": 1
+    },
+    {
+      "front": "The trousers fit **me**.",
+      "back": "Die Hose passt **mir**.",
+      "note": "Dative pronouns: mir, dir, ihm…. passen + dative: mir.",
+      "priority": 1
+    },
+    {
+      "front": "The dress fits **you** well. (formal)",
+      "back": "Das Kleid passt **Ihnen** gut.",
+      "note": "Dative pronouns: mir, dir, ihm…. Ihnen: the formal dative.",
+      "priority": 1
+    },
+    {
+      "front": "Can you lend **me** your bike? (one friend)",
+      "back": "Kannst du **mir** dein Fahrrad leihen?",
+      "note": "Dative pronouns: mir, dir, ihm…. leihen: to lend; the one who gets it is in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "**Is there** a restaurant here?",
+      "back": "**Gibt es** hier ein Restaurant?",
+      "note": "es gibt: there is, there are. es gibt means there is; in a question the verb comes first: gibt es.",
+      "priority": 1
+    },
+    {
+      "front": "**There is** no sugar.",
+      "back": "**Es gibt** keinen Zucker.",
+      "note": "es gibt: there is, there are. es gibt takes the accusative: keinen Zucker.",
+      "priority": 1
+    },
+    {
+      "front": "**There are** a lot of restaurants here.",
+      "back": "**Es gibt** hier viele Restaurants.",
+      "note": "es gibt: there is, there are. es gibt stays singular, even for many things.",
+      "priority": 1
+    },
+    {
+      "front": "**Is there** fish today?",
+      "back": "**Gibt es** heute Fisch?",
+      "note": "es gibt: there is, there are. Gibt es…? asks whether something is available.",
+      "priority": 1
+    },
+    {
+      "front": "**Is there** a toilet here?",
+      "back": "**Gibt es** hier eine Toilette?",
+      "note": "es gibt: there is, there are. gibt es + accusative: eine Toilette.",
+      "priority": 1
+    },
+    {
+      "front": "**There is** a problem.",
+      "back": "**Es gibt** ein Problem.",
+      "note": "es gibt: there is, there are. es gibt ein Problem: there's a problem.",
+      "priority": 1
+    },
+    {
+      "front": "There **is** no hotel here.",
+      "back": "Hier **gibt es** kein Hotel.",
+      "note": "es gibt: there is, there are. hier first, the verb second: gibt es.",
+      "priority": 1
+    },
+    {
+      "front": "I'm giving **him** the apple.",
+      "back": "Ich gebe **ihm** den Apfel.",
+      "note": "Two objects: which comes first. A pronoun goes before a noun: ihm (dative), then den Apfel.",
+      "priority": 1
+    },
+    {
+      "front": "I'm giving **it** to the child.",
+      "back": "Ich gebe **ihn** dem Kind.",
+      "note": "Two objects: which comes first. der Apfel → ihn. An accusative pronoun goes before the dative noun.",
+      "priority": 1
+    },
+    {
+      "front": "I'm giving **it to him**.",
+      "back": "Ich gebe **ihn ihm**.",
+      "note": "Two objects: which comes first. Two pronouns: the accusative first, then the dative.",
+      "priority": 1
+    },
+    {
+      "front": "She shows **her mother** the photos.",
+      "back": "Sie zeigt **ihrer Mutter** die Fotos.",
+      "note": "Two objects: which comes first. Two nouns: the dative before the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "Can you show **me** the way? (one friend)",
+      "back": "Kannst du **mir** den Weg zeigen?",
+      "note": "Two objects: which comes first. mir before den Weg: the pronoun first.",
+      "priority": 1
+    },
+    {
+      "front": "He explains the question to **us**.",
+      "back": "Er erklärt **uns** die Frage.",
+      "note": "Two objects: which comes first. uns (dative pronoun) before die Frage (accusative noun).",
+      "priority": 1
+    },
+    {
+      "front": "We're giving **our grandma** flowers.",
+      "back": "Wir schenken **unserer Oma** Blumen.",
+      "note": "Two objects: which comes first. Dative noun first, then the accusative noun: unserer Oma Blumen.",
+      "priority": 1
+    },
+    {
+      "front": "I'm giving **my brother** the book.",
+      "back": "Ich schenke **meinem Bruder** das Buch.",
+      "note": "Two objects: which comes first. schenken: to give as a present. Dative noun, then accusative noun.",
+      "priority": 1
+    },
+    {
+      "front": "I'm giving **it** to my brother.",
+      "back": "Ich schenke **es** meinem Bruder.",
+      "note": "Two objects: which comes first. das Buch → es. The pronoun jumps ahead of the dative noun.",
+      "priority": 1
+    },
+    {
+      "front": "I'm bringing **you** the key. (one friend)",
+      "back": "Ich bringe **dir** den Schlüssel.",
+      "note": "Two objects: which comes first. dir before den Schlüssel: pronoun before noun.",
+      "priority": 1
+    },
+    {
+      "front": "I'll bring **it to you**. (the key; one friend)",
+      "back": "Ich bringe **ihn dir**.",
+      "note": "Two objects: which comes first. der Schlüssel → ihn. Two pronouns: accusative, then dative.",
+      "priority": 1
+    },
+    {
+      "front": "The photos? I'll show **them to you**. (one friend)",
+      "back": "Die Fotos? Ich zeige **sie dir**.",
+      "note": "Two objects: which comes first. die Fotos → sie (accusative), then dir.",
+      "priority": 1
+    },
+    {
+      "front": "Can you explain **it to me**? (the question; one friend)",
+      "back": "Kannst du **sie mir** erklären?",
+      "note": "Two objects: which comes first. die Frage → sie, then mir, then the infinitive.",
+      "priority": 1
+    }
+  ]
+}

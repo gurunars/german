@@ -33,3 +33,6 @@ dative	17	The dative: the one who receives
 dative.verbs	17	Verbs with the dative: helfen, gefallen, gehören, danken, schmecken
 prep.dat	18	Prepositions with the dative: mit, nach, bei, von, zu, aus, seit
 prep.contraction	18	zum, zur, beim, vom: preposition + article in one word
+pronoun.dat	19	Dative pronouns: mir, dir, ihm…
+es.gibt	19	es gibt: there is, there are
+objects.order	19	Two objects: which comes first
