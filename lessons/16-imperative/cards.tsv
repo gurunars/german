@@ -1,0 +1,33 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+imperative	mitkommen	imp.du	**Come along**! (one friend)	**Komm mit**!	The du imperative is the stem with no du and no -st; a separable prefix still goes to the end.
+imperative	aufstehen	imp.du	**Get up**! It's late. (one friend)	**Steh auf**! Es ist spät.	steh auf: the bare stem, prefix last. Steh is what is said; the -e of stehe is optional.
+imperative	nehmen	imp.du	**Take** the bus! (one friend)	**Nimm** den Bus!	Verbs that change e to i keep it in the imperative: du nimmst → nimm.
+imperative	essen	imp.du	**Eat** your soup! (one friend)	**Iss** deine Suppe!	du isst → iss: the e→i change stays.
+imperative	lesen	imp.du	**Read** the letter! (one friend)	**Lies** den Brief!	du liest → lies.
+imperative	vergessen	imp.du	**Don't forget** the bread! (one friend)	**Vergiss** das Brot nicht!	du vergisst → vergiss. nicht at the end makes it don't.
+imperative	fahren	imp.du	**Drive** slowly! (one friend)	**Fahr** langsam!	The umlaut of du fährst is dropped: fahr, never fähr.
+imperative	warten	imp.du	**Wait** a moment! (one friend)	**Warte** einen Moment!	A stem in -t keeps the -e: warte. einen Moment: accusative of time.
+imperative	sein	imp.du	**Be** quiet, please! (one friend)	**Sei** bitte leise!	sein has its own imperative: sei. bitte goes right after the verb.
+imperative	anrufen	imp.du	**Call** me! (one friend)	**Ruf** mich **an**!	ruf … an: the stem first, the prefix at the end.
+imperative	aufmachen	imp.du	**Open** the window, please. (one friend)	**Mach** bitte das Fenster **auf**.	mach … auf. bitte softens the order.
+imperative	ausmachen	imp.du	**Switch off** the light! (one friend)	**Mach** das Licht **aus**!	ausmachen: mach … aus.
+imperative	öffnen	imp.du	Don't **open** the door! (one friend)	**Öffne** die Tür nicht!	A stem like öffn- needs the -e to be sayable: öffne.
+imperative	sagen	imp.du	**Tell** me, where do you live? (one friend)	**Sag** mal, wo wohnst du?	Sag mal… is the everyday way to start a question: say, tell me.
+imperative	sehen	imp.du	**Look**! The train is coming. (one friend)	**Sieh** mal! Der Zug kommt.	du siehst → sieh. mal makes it casual: just look.
+imperative	mitkommen	imp.ihr	**Come along**! (several friends)	**Kommt mit**!	The ihr imperative is the ihr form without ihr: ihr kommt → kommt.
+imperative	sein	imp.ihr	**Be** quiet, children!	**Seid** leise, Kinder!	ihr seid → seid.
+imperative	essen	imp.ihr	**Eat** your vegetables! (several friends)	**Esst** euer Gemüse!	ihr esst → esst; no vowel change for ihr.
+imperative	warten	imp.ihr	**Wait** here! (several friends)	**Wartet** hier!	ihr wartet → wartet.
+imperative	mitbringen	imp.ihr	**Bring** a cake **along**! (several friends)	**Bringt** einen Kuchen **mit**!	mitbringen: bringt … mit.
+imperative	aufräumen	imp.ihr	**Tidy up** your room! (several friends)	**Räumt** euer Zimmer **auf**!	räumt … auf.
+imperative	sprechen	imp.ihr	**Speak** loudly, please! (several friends)	**Sprecht** bitte laut!	ihr sprecht → sprecht.
+imperative	nehmen	pres.wir	**Take** a seat, please. (formal)	**Nehmen** Sie bitte Platz.	The Sie imperative is the Sie form with the verb first: nehmen Sie.
+imperative	warten	pres.wir	**Wait** a moment, please. (formal)	**Warten** Sie bitte einen Moment.	Verb first, then Sie: warten Sie.
+imperative	wiederholen	pres.wir	**Repeat** that, please. (formal)	**Wiederholen** Sie das bitte.	wiederholen does not split: wieder- here is not a separable prefix.
+imperative	sprechen	pres.wir	**Speak** slowly, please. (formal)	**Sprechen** Sie bitte langsam.	The formal imperative keeps the infinitive's vowel: sprechen Sie.
+imperative	ausfüllen	pres.wir	**Fill in** the form, please. (formal)	**Füllen** Sie bitte das Formular **aus**.	füllen Sie … aus: the prefix still goes last.
+imperative	schließen	pres.wir	**Close** the door, please. (formal)	**Schließen** Sie bitte die Tür.	schließen Sie: the polite way to tell a stranger.
+imperative	anrufen	pres.wir	**Call** me tomorrow! (formal)	**Rufen** Sie mich morgen **an**!	rufen Sie … an.
+imperative	-	-	**Be** careful! (formal)	**Seien** Sie vorsichtig!	sein is the one exception: seien Sie, not sind Sie.
+imperative	-	-	A water, **please**.	Ein Wasser, **bitte**.	bitte at the end turns an order into a polite request.
+imperative	-	-	**Excuse me**, where is the station?	**Entschuldigung**, wo ist der Bahnhof?	Entschuldigung: excuse me, to start a question to a stranger.

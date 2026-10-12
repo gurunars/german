@@ -916,6 +916,38 @@
    ]
   }
  },
+ "Entschuldigung": {
+  "all": [
+   "Entschuldigung",
+   "Entschuldigungen"
+  ],
+  "english": "excuse me; apology",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Entschuldigungen"
+   ],
+   "acc.sg": [
+    "Entschuldigung"
+   ],
+   "dat.pl": [
+    "Entschuldigungen"
+   ],
+   "dat.sg": [
+    "Entschuldigung"
+   ],
+   "gen.sg": [
+    "Entschuldigung"
+   ],
+   "nom.pl": [
+    "Entschuldigungen"
+   ],
+   "nom.sg": [
+    "Entschuldigung"
+   ]
+  }
+ },
  "Euro": {
   "all": [
    "Euro",
@@ -1238,6 +1270,40 @@
    ],
    "nom.sg": [
     "Fleisch"
+   ]
+  }
+ },
+ "Formular": {
+  "all": [
+   "Formular",
+   "Formulare",
+   "Formularen",
+   "Formulars"
+  ],
+  "english": "form (to fill in)",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Formulare"
+   ],
+   "acc.sg": [
+    "Formular"
+   ],
+   "dat.pl": [
+    "Formularen"
+   ],
+   "dat.sg": [
+    "Formular"
+   ],
+   "gen.sg": [
+    "Formulars"
+   ],
+   "nom.pl": [
+    "Formulare"
+   ],
+   "nom.sg": [
+    "Formular"
    ]
   }
  },
@@ -2621,6 +2687,52 @@
    ]
   }
  },
+ "Licht": {
+  "all": [
+   "Licht",
+   "Lichtchen",
+   "Lichte",
+   "Lichten",
+   "Lichter",
+   "Lichtern",
+   "Lichtes",
+   "Lichtlein",
+   "Lichts",
+   "Liecht",
+   "Liicht"
+  ],
+  "english": "light",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Lichter",
+    "Lichte"
+   ],
+   "acc.sg": [
+    "Licht"
+   ],
+   "dat.pl": [
+    "Lichtern",
+    "Lichten"
+   ],
+   "dat.sg": [
+    "Licht",
+    "Lichte"
+   ],
+   "gen.sg": [
+    "Lichtes",
+    "Lichts"
+   ],
+   "nom.pl": [
+    "Lichter",
+    "Lichte"
+   ],
+   "nom.sg": [
+    "Licht"
+   ]
+  }
+ },
  "Mai": {
   "all": [
    "Mai",
@@ -2810,6 +2922,45 @@
    ],
    "nom.sg": [
     "Mittwoch"
+   ]
+  }
+ },
+ "Moment": {
+  "all": [
+   "Moment",
+   "Momentchen",
+   "Momente",
+   "Momenten",
+   "Momenterl",
+   "Momentes",
+   "Moments"
+  ],
+  "english": "moment",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Momente"
+   ],
+   "acc.sg": [
+    "Moment"
+   ],
+   "dat.pl": [
+    "Momenten"
+   ],
+   "dat.sg": [
+    "Moment",
+    "Momente"
+   ],
+   "gen.sg": [
+    "Momentes",
+    "Moments"
+   ],
+   "nom.pl": [
+    "Momente"
+   ],
+   "nom.sg": [
+    "Moment"
    ]
   }
  },
@@ -3411,6 +3562,46 @@
    ],
    "nom.sg": [
     "Pause"
+   ]
+  }
+ },
+ "Platz": {
+  "all": [
+   "Platz",
+   "Platze",
+   "Platzerl",
+   "Platzes",
+   "Plaꜩ",
+   "Plätzchen",
+   "Plätze",
+   "Plätzen",
+   "Plätzlein"
+  ],
+  "english": "seat; square; space",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Plätze"
+   ],
+   "acc.sg": [
+    "Platz"
+   ],
+   "dat.pl": [
+    "Plätzen"
+   ],
+   "dat.sg": [
+    "Platz",
+    "Platze"
+   ],
+   "gen.sg": [
+    "Platzes"
+   ],
+   "nom.pl": [
+    "Plätze"
+   ],
+   "nom.sg": [
+    "Platz"
    ]
   }
  },
@@ -4196,6 +4387,44 @@
    ]
   }
  },
+ "Tür": {
+  "all": [
+   "Thür",
+   "Thüre",
+   "Tür",
+   "Türchen",
+   "Türe",
+   "Türen",
+   "Türl",
+   "Türlein"
+  ],
+  "english": "door",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Türen"
+   ],
+   "acc.sg": [
+    "Tür"
+   ],
+   "dat.pl": [
+    "Türen"
+   ],
+   "dat.sg": [
+    "Tür"
+   ],
+   "gen.sg": [
+    "Tür"
+   ],
+   "nom.pl": [
+    "Türen"
+   ],
+   "nom.sg": [
+    "Tür"
+   ]
+  }
+ },
  "Uhr": {
   "all": [
    "Uhr",
@@ -4765,6 +4994,9 @@
     "hol ab",
     "hole ab"
    ],
+   "imp.ihr": [
+    "holt ab"
+   ],
    "perf.er": [
     "hat abgeholt"
    ],
@@ -4931,6 +5163,9 @@
     "fang an",
     "fange an"
    ],
+   "imp.ihr": [
+    "fangt an"
+   ],
    "perf.er": [
     "hat angefangen"
    ],
@@ -5005,6 +5240,9 @@
     "ruf an",
     "rufe an"
    ],
+   "imp.ihr": [
+    "ruft an"
+   ],
    "perf.er": [
     "hat angerufen"
    ],
@@ -5058,6 +5296,9 @@
    "imp.du": [
     "arbeit",
     "arbeite"
+   ],
+   "imp.ihr": [
+    "arbeitet"
    ],
    "perf.er": [
     "hat gearbeitet"
@@ -5120,6 +5361,9 @@
    "imp.du": [
     "mach auf",
     "mache auf"
+   ],
+   "imp.ihr": [
+    "macht auf"
    ],
    "perf.er": [
     "hat aufgemacht"
@@ -5188,6 +5432,9 @@
    "imp.du": [
     "räum auf",
     "räume auf"
+   ],
+   "imp.ihr": [
+    "räumt auf"
    ],
    "perf.er": [
     "hat aufgeräumt"
@@ -5278,6 +5525,9 @@
     "steh auf",
     "stehe auf"
    ],
+   "imp.ihr": [
+    "steht auf"
+   ],
    "konj2.du": [
     "ständest auf",
     "stündest auf",
@@ -5338,6 +5588,148 @@
    ]
   }
  },
+ "ausfüllen": {
+  "all": [
+   "aus",
+   "ausfülle",
+   "ausfüllen",
+   "ausfüllend",
+   "ausfüllest",
+   "ausfüllet",
+   "ausfüllst",
+   "ausfüllt",
+   "ausfüllte",
+   "ausfüllten",
+   "ausfülltest",
+   "ausfülltet",
+   "ausgefüllt",
+   "auszufüllen",
+   "füll",
+   "fülle",
+   "füllen",
+   "füllest",
+   "füllet",
+   "füllst",
+   "füllt",
+   "füllte",
+   "füllten",
+   "fülltest",
+   "fülltet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to fill in",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "füll aus",
+    "fülle aus"
+   ],
+   "imp.ihr": [
+    "füllt aus"
+   ],
+   "perf.er": [
+    "hat ausgefüllt"
+   ],
+   "pres.du": [
+    "füllst aus",
+    "ausfüllst"
+   ],
+   "pres.er": [
+    "füllt aus",
+    "ausfüllt"
+   ],
+   "pres.ich": [
+    "fülle aus",
+    "ausfülle"
+   ],
+   "pres.ihr": [
+    "füllt aus",
+    "ausfüllt"
+   ],
+   "pres.wir": [
+    "füllen aus",
+    "ausfüllen"
+   ],
+   "pret.er": [
+    "füllte aus",
+    "ausfüllte"
+   ]
+  }
+ },
+ "ausmachen": {
+  "all": [
+   "aus",
+   "ausgemacht",
+   "ausmache",
+   "ausmachen",
+   "ausmachend",
+   "ausmachest",
+   "ausmachet",
+   "ausmachst",
+   "ausmacht",
+   "ausmachte",
+   "ausmachten",
+   "ausmachtest",
+   "ausmachtet",
+   "auszumachen",
+   "haben",
+   "habest",
+   "habet",
+   "mach",
+   "mache",
+   "machen",
+   "machest",
+   "machet",
+   "machst",
+   "macht",
+   "machte",
+   "machten",
+   "machtest",
+   "machtet",
+   "werdest"
+  ],
+  "english": "to switch off",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "mach aus",
+    "mache aus"
+   ],
+   "imp.ihr": [
+    "macht aus"
+   ],
+   "perf.er": [
+    "hat ausgemacht"
+   ],
+   "pres.du": [
+    "machst aus",
+    "ausmachst"
+   ],
+   "pres.er": [
+    "macht aus",
+    "ausmacht"
+   ],
+   "pres.ich": [
+    "mache aus",
+    "ausmache"
+   ],
+   "pres.ihr": [
+    "macht aus",
+    "ausmacht"
+   ],
+   "pres.wir": [
+    "machen aus",
+    "ausmachen"
+   ],
+   "pret.er": [
+    "machte aus",
+    "ausmachte"
+   ]
+  }
+ },
  "besuchen": {
   "all": [
    "besuch",
@@ -5363,6 +5755,9 @@
    "imp.du": [
     "besuch",
     "besuche"
+   ],
+   "imp.ihr": [
+    "besucht"
    ],
    "perf.er": [
     "hat besucht"
@@ -5412,6 +5807,9 @@
    "imp.du": [
     "bezahl",
     "bezahle"
+   ],
+   "imp.ihr": [
+    "bezahlt"
    ],
    "perf.er": [
     "hat bezahlt"
@@ -5552,6 +5950,9 @@
     "bleib",
     "bleibe"
    ],
+   "imp.ihr": [
+    "bleibt"
+   ],
    "konj2.du": [
     "bliebest",
     "bliebst"
@@ -5622,6 +6023,9 @@
    "imp.du": [
     "brauch",
     "brauche"
+   ],
+   "imp.ihr": [
+    "braucht"
    ],
    "konj2.du": [
     "brauchtest",
@@ -5696,6 +6100,9 @@
    "imp.du": [
     "bring",
     "bringe"
+   ],
+   "imp.ihr": [
+    "bringt"
    ],
    "konj2.du": [
     "brächtest"
@@ -5924,6 +6331,9 @@
     "kauf ein",
     "kaufe ein"
    ],
+   "imp.ihr": [
+    "kauft ein"
+   ],
    "perf.er": [
     "hat eingekauft"
    ],
@@ -5985,6 +6395,9 @@
    "imp.du": [
     "iss"
    ],
+   "imp.ihr": [
+    "esst"
+   ],
    "perf.er": [
     "hat gegessen"
    ],
@@ -6044,6 +6457,9 @@
    "imp.du": [
     "fahr",
     "fahre"
+   ],
+   "imp.ihr": [
+    "fahrt"
    ],
    "perf.er": [
     "hat gefahren",
@@ -6122,6 +6538,9 @@
    "imp.du": [
     "sieh fern",
     "siehe fern"
+   ],
+   "imp.ihr": [
+    "seht fern"
    ],
    "konj2.du": [
     "sähest fern",
@@ -6206,6 +6625,9 @@
     "find",
     "finde"
    ],
+   "imp.ihr": [
+    "findet"
+   ],
    "konj2.du": [
     "fändest"
    ],
@@ -6282,6 +6704,9 @@
    "imp.du": [
     "frag",
     "frage"
+   ],
+   "imp.ihr": [
+    "fragt"
    ],
    "perf.er": [
     "hat gefragt"
@@ -6558,6 +6983,9 @@
     "frühstück",
     "frühstücke"
    ],
+   "imp.ihr": [
+    "frühstückt"
+   ],
    "perf.er": [
     "hat gefrühstückt"
    ],
@@ -6613,6 +7041,9 @@
   "slots": {
    "imp.du": [
     "gib"
+   ],
+   "imp.ihr": [
+    "gebt"
    ],
    "konj2.du": [
     "gäbest",
@@ -6684,6 +7115,9 @@
     "geh",
     "gehe"
    ],
+   "imp.ihr": [
+    "geht"
+   ],
    "konj2.du": [
     "gingest",
     "gingst"
@@ -6752,6 +7186,9 @@
    "imp.du": [
     "glaub",
     "glaube"
+   ],
+   "imp.ihr": [
+    "glaubt"
    ],
    "perf.er": [
     "hat geglaubt"
@@ -7098,6 +7535,9 @@
     "hab",
     "habe"
    ],
+   "imp.ihr": [
+    "habt"
+   ],
    "konj2.du": [
     "hättest"
    ],
@@ -7197,6 +7637,9 @@
     "heiß",
     "heiße"
    ],
+   "imp.ihr": [
+    "heißt"
+   ],
    "konj2.du": [
     "hießest",
     "hießt"
@@ -7270,6 +7713,9 @@
    "imp.du": [
     "hilf"
    ],
+   "imp.ihr": [
+    "helft"
+   ],
    "perf.er": [
     "hat geholfen"
    ],
@@ -7319,6 +7765,9 @@
    "imp.du": [
     "hör",
     "höre"
+   ],
+   "imp.ihr": [
+    "hört"
    ],
    "perf.er": [
     "hat gehört"
@@ -7458,6 +7907,9 @@
     "kauf",
     "kaufe"
    ],
+   "imp.ihr": [
+    "kauft"
+   ],
    "perf.er": [
     "hat gekauft"
    ],
@@ -7511,6 +7963,9 @@
    "imp.du": [
     "kenn",
     "kenne"
+   ],
+   "imp.ihr": [
+    "kennt"
    ],
    "perf.er": [
     "hat gekannt"
@@ -7734,6 +8189,9 @@
     "koch",
     "koche"
    ],
+   "imp.ihr": [
+    "kocht"
+   ],
    "perf.er": [
     "hat gekocht"
    ],
@@ -7791,6 +8249,9 @@
    "imp.du": [
     "komm",
     "komme"
+   ],
+   "imp.ihr": [
+    "kommt"
    ],
    "konj2.du": [
     "kämest",
@@ -7856,6 +8317,9 @@
    "imp.du": [
     "kost",
     "koste"
+   ],
+   "imp.ihr": [
+    "kostet"
    ],
    "perf.er": [
     "hat gekostet"
@@ -8137,6 +8601,92 @@
    ]
   }
  },
+ "langsam": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "langsam",
+   "langsame",
+   "langsamem",
+   "langsamen",
+   "langsamer",
+   "langsamere",
+   "langsamerem",
+   "langsameren",
+   "langsamerer",
+   "langsameres",
+   "langsames",
+   "langsamste",
+   "langsamstem",
+   "langsamsten",
+   "langsamster",
+   "langsamstes"
+  ],
+  "english": "slow",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "langsamer",
+    "langsamerer",
+    "langsamere",
+    "langsameres",
+    "langsameren",
+    "langsamerem",
+    "der langsamere",
+    "die langsamere",
+    "das langsamere",
+    "die langsameren",
+    "des langsameren",
+    "der langsameren",
+    "dem langsameren",
+    "den langsameren",
+    "ein langsamerer",
+    "eine langsamere",
+    "ein langsameres",
+    "eines langsameren",
+    "einer langsameren",
+    "einem langsameren",
+    "einen langsameren"
+   ],
+   "mixed.acc.m": [
+    "einen langsamen"
+   ],
+   "mixed.nom.n": [
+    "ein langsames"
+   ],
+   "strong.dat.f": [
+    "langsamer"
+   ],
+   "superlative": [
+    "am langsamsten",
+    "langsamster",
+    "langsamste",
+    "langsamstes",
+    "langsamsten",
+    "langsamstem",
+    "der langsamste",
+    "die langsamste",
+    "das langsamste",
+    "die langsamsten",
+    "des langsamsten",
+    "der langsamsten",
+    "dem langsamsten",
+    "den langsamsten",
+    "ein langsamster",
+    "eine langsamste",
+    "ein langsamstes",
+    "eines langsamsten",
+    "einer langsamsten",
+    "einem langsamsten",
+    "einen langsamsten"
+   ],
+   "weak.nom.m": [
+    "der langsame"
+   ]
+  }
+ },
  "lassen": {
   "all": [
    "gelassen",
@@ -8166,6 +8716,9 @@
    "imp.du": [
     "lass",
     "lasse"
+   ],
+   "imp.ihr": [
+    "lasst"
    ],
    "konj2.du": [
     "ließest",
@@ -8237,6 +8790,9 @@
    "imp.du": [
     "lauf",
     "laufe"
+   ],
+   "imp.ihr": [
+    "lauft"
    ],
    "konj2.du": [
     "liefest",
@@ -8391,6 +8947,9 @@
     "leb",
     "lebe"
    ],
+   "imp.ihr": [
+    "lebt"
+   ],
    "perf.er": [
     "hat gelebt"
    ],
@@ -8411,6 +8970,92 @@
    ],
    "pret.er": [
     "lebte"
+   ]
+  }
+ },
+ "leise": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "leis",
+   "leise",
+   "leisem",
+   "leisen",
+   "leiser",
+   "leisere",
+   "leiserem",
+   "leiseren",
+   "leiserer",
+   "leiseres",
+   "leises",
+   "leiseste",
+   "leisestem",
+   "leisesten",
+   "leisester",
+   "leisestes"
+  ],
+  "english": "quiet",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "leiser",
+    "leiserer",
+    "leisere",
+    "leiseres",
+    "leiseren",
+    "leiserem",
+    "der leisere",
+    "die leisere",
+    "das leisere",
+    "die leiseren",
+    "des leiseren",
+    "der leiseren",
+    "dem leiseren",
+    "den leiseren",
+    "ein leiserer",
+    "eine leisere",
+    "ein leiseres",
+    "eines leiseren",
+    "einer leiseren",
+    "einem leiseren",
+    "einen leiseren"
+   ],
+   "mixed.acc.m": [
+    "einen leisen"
+   ],
+   "mixed.nom.n": [
+    "ein leises"
+   ],
+   "strong.dat.f": [
+    "leiser"
+   ],
+   "superlative": [
+    "am leisesten",
+    "leisester",
+    "leiseste",
+    "leisestes",
+    "leisesten",
+    "leisestem",
+    "der leiseste",
+    "die leiseste",
+    "das leiseste",
+    "die leisesten",
+    "des leisesten",
+    "der leisesten",
+    "dem leisesten",
+    "den leisesten",
+    "ein leisester",
+    "eine leiseste",
+    "ein leisestes",
+    "eines leisesten",
+    "einer leisesten",
+    "einem leisesten",
+    "einen leisesten"
+   ],
+   "weak.nom.m": [
+    "der leise"
    ]
   }
  },
@@ -8440,6 +9085,9 @@
    "imp.du": [
     "lern",
     "lerne"
+   ],
+   "imp.ihr": [
+    "lernt"
    ],
    "perf.er": [
     "hat gelernt"
@@ -8495,6 +9143,9 @@
    "imp.du": [
     "lies"
    ],
+   "imp.ihr": [
+    "lest"
+   ],
    "perf.er": [
     "hat gelesen"
    ],
@@ -8544,6 +9195,9 @@
    "imp.du": [
     "lieb",
     "liebe"
+   ],
+   "imp.ihr": [
+    "liebt"
    ],
    "perf.er": [
     "hat geliebt"
@@ -8595,6 +9249,9 @@
     "mach",
     "mache"
    ],
+   "imp.ihr": [
+    "macht"
+   ],
    "perf.er": [
     "hat gemacht"
    ],
@@ -8615,6 +9272,105 @@
    ],
    "pret.er": [
     "machte"
+   ]
+  }
+ },
+ "mitbringen": {
+  "all": [
+   "brachte",
+   "brachten",
+   "brachtest",
+   "brachtet",
+   "bring",
+   "bringe",
+   "bringen",
+   "bringest",
+   "bringet",
+   "bringst",
+   "bringt",
+   "brächte",
+   "brächten",
+   "brächtest",
+   "brächtet",
+   "haben",
+   "habest",
+   "habet",
+   "mit",
+   "mitbrachte",
+   "mitbrachten",
+   "mitbrachtest",
+   "mitbrachtet",
+   "mitbringe",
+   "mitbringen",
+   "mitbringend",
+   "mitbringest",
+   "mitbringet",
+   "mitbringst",
+   "mitbringt",
+   "mitbrächte",
+   "mitbrächten",
+   "mitbrächtest",
+   "mitbrächtet",
+   "mitgebracht",
+   "mitzubringen",
+   "werdest"
+  ],
+  "english": "to bring along",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "bring mit",
+    "bringe mit"
+   ],
+   "imp.ihr": [
+    "bringt mit"
+   ],
+   "konj2.du": [
+    "brächtest mit",
+    "mitbrächtest"
+   ],
+   "konj2.er": [
+    "brächte mit",
+    "mitbrächte"
+   ],
+   "konj2.ich": [
+    "brächte mit",
+    "mitbrächte"
+   ],
+   "konj2.ihr": [
+    "brächtet mit",
+    "mitbrächtet"
+   ],
+   "konj2.wir": [
+    "brächten mit",
+    "mitbrächten"
+   ],
+   "perf.er": [
+    "hat mitgebracht"
+   ],
+   "pres.du": [
+    "bringst mit",
+    "mitbringst"
+   ],
+   "pres.er": [
+    "bringt mit",
+    "mitbringt"
+   ],
+   "pres.ich": [
+    "bringe mit",
+    "mitbringe"
+   ],
+   "pres.ihr": [
+    "bringt mit",
+    "mitbringt"
+   ],
+   "pres.wir": [
+    "bringen mit",
+    "mitbringen"
+   ],
+   "pret.er": [
+    "brachte mit",
+    "mitbrachte"
    ]
   }
  },
@@ -8667,6 +9423,9 @@
    "imp.du": [
     "komm mit",
     "komme mit"
+   ],
+   "imp.ihr": [
+    "kommt mit"
    ],
    "konj2.du": [
     "kämest mit",
@@ -8970,6 +9729,9 @@
    "imp.du": [
     "nimm"
    ],
+   "imp.ihr": [
+    "nehmt"
+   ],
    "konj2.du": [
     "nähmest",
     "nähmst"
@@ -9237,6 +9999,9 @@
     "rauch",
     "rauche"
    ],
+   "imp.ihr": [
+    "raucht"
+   ],
    "perf.er": [
     "hat geraucht"
    ],
@@ -9373,6 +10138,9 @@
     "sag",
     "sage"
    ],
+   "imp.ihr": [
+    "sagt"
+   ],
    "perf.er": [
     "hat gesagt"
    ],
@@ -9426,6 +10194,9 @@
    "imp.du": [
     "schlaf",
     "schlafe"
+   ],
+   "imp.ihr": [
+    "schlaft"
    ],
    "perf.er": [
     "hat geschlafen"
@@ -9533,6 +10304,64 @@
    ],
    "weak.nom.m": [
     "der schlechte"
+   ]
+  }
+ },
+ "schließen": {
+  "all": [
+   "geschlossen",
+   "haben",
+   "habest",
+   "habet",
+   "schliessen",
+   "schließ",
+   "schließe",
+   "schließen",
+   "schließend",
+   "schließest",
+   "schließet",
+   "schließt",
+   "schloss",
+   "schlossen",
+   "schlossest",
+   "schlosst",
+   "schlösse",
+   "schlössen",
+   "schlössest",
+   "schlösset",
+   "schlösst",
+   "werdest"
+  ],
+  "english": "to close",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schließ",
+    "schließe"
+   ],
+   "imp.ihr": [
+    "schließt"
+   ],
+   "perf.er": [
+    "hat geschlossen"
+   ],
+   "pres.du": [
+    "schließt"
+   ],
+   "pres.er": [
+    "schließt"
+   ],
+   "pres.ich": [
+    "schließe"
+   ],
+   "pres.ihr": [
+    "schließt"
+   ],
+   "pres.wir": [
+    "schließen"
+   ],
+   "pret.er": [
+    "schloss"
    ]
   }
  },
@@ -9651,6 +10480,9 @@
    "imp.du": [
     "schreib",
     "schreibe"
+   ],
+   "imp.ihr": [
+    "schreibt"
    ],
    "perf.er": [
     "hat geschrieben"
@@ -9807,6 +10639,9 @@
     "schwimm",
     "schwimme"
    ],
+   "imp.ihr": [
+    "schwimmt"
+   ],
    "perf.er": [
     "ist geschwommen",
     "hat geschwommen"
@@ -9954,6 +10789,9 @@
     "sieh",
     "siehe"
    ],
+   "imp.ihr": [
+    "seht"
+   ],
    "konj2.du": [
     "sähest",
     "sähst"
@@ -10034,6 +10872,9 @@
    "imp.du": [
     "sei"
    ],
+   "imp.ihr": [
+    "seid"
+   ],
    "konj2.du": [
     "wärst",
     "wärest"
@@ -10106,6 +10947,9 @@
    "imp.du": [
     "sing",
     "singe"
+   ],
+   "imp.ihr": [
+    "singt"
    ],
    "perf.er": [
     "hat gesungen"
@@ -10218,6 +11062,9 @@
     "spiel",
     "spiele"
    ],
+   "imp.ihr": [
+    "spielt"
+   ],
    "perf.er": [
     "hat gespielt"
    ],
@@ -10273,6 +11120,9 @@
   "slots": {
    "imp.du": [
     "sprich"
+   ],
+   "imp.ihr": [
+    "sprecht"
    ],
    "perf.er": [
     "hat gesprochen"
@@ -10411,6 +11261,9 @@
    "imp.du": [
     "tanz",
     "tanze"
+   ],
+   "imp.ihr": [
+    "tanzt"
    ],
    "perf.er": [
     "hat getanzt",
@@ -10642,6 +11495,9 @@
     "trink",
     "trinke"
    ],
+   "imp.ihr": [
+    "trinkt"
+   ],
    "perf.er": [
     "hat getrunken"
    ],
@@ -10662,6 +11518,62 @@
    ],
    "pret.er": [
     "trank"
+   ]
+  }
+ },
+ "vergessen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "vergaß",
+   "vergaßen",
+   "vergaßest",
+   "vergaßt",
+   "vergesse",
+   "vergessen",
+   "vergessend",
+   "vergessest",
+   "vergesset",
+   "vergesst",
+   "vergiss",
+   "vergisst",
+   "vergäße",
+   "vergäßen",
+   "vergäßest",
+   "vergäßet",
+   "vergäßt",
+   "werdest"
+  ],
+  "english": "to forget",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "vergiss"
+   ],
+   "imp.ihr": [
+    "vergesst"
+   ],
+   "perf.er": [
+    "hat vergessen"
+   ],
+   "pres.du": [
+    "vergisst"
+   ],
+   "pres.er": [
+    "vergisst"
+   ],
+   "pres.ich": [
+    "vergesse"
+   ],
+   "pres.ihr": [
+    "vergesst"
+   ],
+   "pres.wir": [
+    "vergessen"
+   ],
+   "pret.er": [
+    "vergaß"
    ]
   }
  },
@@ -10700,6 +11612,9 @@
     "versteh",
     "verstehe"
    ],
+   "imp.ihr": [
+    "versteht"
+   ],
    "perf.er": [
     "hat verstanden"
    ],
@@ -10720,6 +11635,92 @@
    ],
    "pret.er": [
     "verstand"
+   ]
+  }
+ },
+ "vorsichtig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "vorsichtig",
+   "vorsichtige",
+   "vorsichtigem",
+   "vorsichtigen",
+   "vorsichtiger",
+   "vorsichtigere",
+   "vorsichtigerem",
+   "vorsichtigeren",
+   "vorsichtigerer",
+   "vorsichtigeres",
+   "vorsichtiges",
+   "vorsichtigste",
+   "vorsichtigstem",
+   "vorsichtigsten",
+   "vorsichtigster",
+   "vorsichtigstes"
+  ],
+  "english": "careful",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "vorsichtiger",
+    "vorsichtigerer",
+    "vorsichtigere",
+    "vorsichtigeres",
+    "vorsichtigeren",
+    "vorsichtigerem",
+    "der vorsichtigere",
+    "die vorsichtigere",
+    "das vorsichtigere",
+    "die vorsichtigeren",
+    "des vorsichtigeren",
+    "der vorsichtigeren",
+    "dem vorsichtigeren",
+    "den vorsichtigeren",
+    "ein vorsichtigerer",
+    "eine vorsichtigere",
+    "ein vorsichtigeres",
+    "eines vorsichtigeren",
+    "einer vorsichtigeren",
+    "einem vorsichtigeren",
+    "einen vorsichtigeren"
+   ],
+   "mixed.acc.m": [
+    "einen vorsichtigen"
+   ],
+   "mixed.nom.n": [
+    "ein vorsichtiges"
+   ],
+   "strong.dat.f": [
+    "vorsichtiger"
+   ],
+   "superlative": [
+    "am vorsichtigsten",
+    "vorsichtigster",
+    "vorsichtigste",
+    "vorsichtigstes",
+    "vorsichtigsten",
+    "vorsichtigstem",
+    "der vorsichtigste",
+    "die vorsichtigste",
+    "das vorsichtigste",
+    "die vorsichtigsten",
+    "des vorsichtigsten",
+    "der vorsichtigsten",
+    "dem vorsichtigsten",
+    "den vorsichtigsten",
+    "ein vorsichtigster",
+    "eine vorsichtigste",
+    "ein vorsichtigstes",
+    "eines vorsichtigsten",
+    "einer vorsichtigsten",
+    "einem vorsichtigsten",
+    "einen vorsichtigsten"
+   ],
+   "weak.nom.m": [
+    "der vorsichtige"
    ]
   }
  },
@@ -10834,6 +11835,9 @@
    "imp.du": [
     "wart",
     "warte"
+   ],
+   "imp.ihr": [
+    "wartet"
    ],
    "perf.er": [
     "hat gewartet"
@@ -10976,6 +11980,9 @@
     "werd",
     "werde"
    ],
+   "imp.ihr": [
+    "werdet"
+   ],
    "konj2.du": [
     "würdest"
    ],
@@ -11100,6 +12107,58 @@
    ]
   }
  },
+ "wiederholen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "werdest",
+   "wiederhol",
+   "wiederhole",
+   "wiederholen",
+   "wiederholend",
+   "wiederholest",
+   "wiederholet",
+   "wiederholst",
+   "wiederholt",
+   "wiederholte",
+   "wiederholten",
+   "wiederholtest",
+   "wiederholtet"
+  ],
+  "english": "to repeat",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "wiederhol",
+    "wiederhole"
+   ],
+   "imp.ihr": [
+    "wiederholt"
+   ],
+   "perf.er": [
+    "hat wiederholt"
+   ],
+   "pres.du": [
+    "wiederholst"
+   ],
+   "pres.er": [
+    "wiederholt"
+   ],
+   "pres.ich": [
+    "wiederhole"
+   ],
+   "pres.ihr": [
+    "wiederholt"
+   ],
+   "pres.wir": [
+    "wiederholen"
+   ],
+   "pret.er": [
+    "wiederholte"
+   ]
+  }
+ },
  "wissen": {
   "all": [
    "gewusst",
@@ -11129,6 +12188,9 @@
   "slots": {
    "imp.du": [
     "wisse"
+   ],
+   "imp.ihr": [
+    "wisst"
    ],
    "konj2.du": [
     "wüsstest"
@@ -11194,6 +12256,9 @@
    "imp.du": [
     "wohn",
     "wohne"
+   ],
+   "imp.ihr": [
+    "wohnt"
    ],
    "perf.er": [
     "hat gewohnt"
@@ -11317,6 +12382,9 @@
     "mach zu",
     "mache zu"
    ],
+   "imp.ihr": [
+    "macht zu"
+   ],
    "perf.er": [
     "hat zugemacht"
    ],
@@ -11343,6 +12411,55 @@
    "pret.er": [
     "machte zu",
     "zumachte"
+   ]
+  }
+ },
+ "öffnen": {
+  "all": [
+   "geöffnet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest",
+   "öffne",
+   "öffnen",
+   "öffnend",
+   "öffnest",
+   "öffnet",
+   "öffnete",
+   "öffneten",
+   "öffnetest",
+   "öffnetet"
+  ],
+  "english": "to open",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "öffne"
+   ],
+   "imp.ihr": [
+    "öffnet"
+   ],
+   "perf.er": [
+    "hat geöffnet"
+   ],
+   "pres.du": [
+    "öffnest"
+   ],
+   "pres.er": [
+    "öffnet"
+   ],
+   "pres.ich": [
+    "öffne"
+   ],
+   "pres.ihr": [
+    "öffnet"
+   ],
+   "pres.wir": [
+    "öffnen"
+   ],
+   "pret.er": [
+    "öffnete"
    ]
   }
  }

@@ -37,6 +37,7 @@ SLOTS = {
         "pret.er": ({"preterite", "indicative", "third-person", "singular"}, "simple past (Präteritum), er/sie/es"),
         "perf.er": ({"perfect", "indicative", "third-person", "singular"}, "perfect, er/sie/es"),
         "imp.du": ({"imperative", "second-person", "singular"}, "imperative, du"),
+        "imp.ihr": ({"imperative", "second-person", "plural"}, "imperative, ihr"),
         # Konjunktiv II in one word: möchte, hätte, wäre, könnte.
         **_persons("konj2", {"subjunctive", "subjunctive-ii"}, "Konjunktiv II"),
     },

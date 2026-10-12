@@ -1,0 +1,200 @@
+{
+  "name": "Lesson 16 · Asking and telling: the imperative, bitte",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**Come along**! (one friend)",
+      "back": "**Komm mit**!",
+      "note": "The imperative: du, ihr, Sie. The du imperative is the stem with no du and no -st; a separable prefix still goes to the end.",
+      "priority": 1
+    },
+    {
+      "front": "**Get up**! It's late. (one friend)",
+      "back": "**Steh auf**! Es ist spät.",
+      "note": "The imperative: du, ihr, Sie. steh auf: the bare stem, prefix last. Steh is what is said; the -e of stehe is optional.",
+      "priority": 1
+    },
+    {
+      "front": "**Take** the bus! (one friend)",
+      "back": "**Nimm** den Bus!",
+      "note": "The imperative: du, ihr, Sie. Verbs that change e to i keep it in the imperative: du nimmst → nimm.",
+      "priority": 1
+    },
+    {
+      "front": "**Eat** your soup! (one friend)",
+      "back": "**Iss** deine Suppe!",
+      "note": "The imperative: du, ihr, Sie. du isst → iss: the e→i change stays.",
+      "priority": 1
+    },
+    {
+      "front": "**Read** the letter! (one friend)",
+      "back": "**Lies** den Brief!",
+      "note": "The imperative: du, ihr, Sie. du liest → lies.",
+      "priority": 1
+    },
+    {
+      "front": "**Don't forget** the bread! (one friend)",
+      "back": "**Vergiss** das Brot nicht!",
+      "note": "The imperative: du, ihr, Sie. du vergisst → vergiss. nicht at the end makes it don't.",
+      "priority": 1
+    },
+    {
+      "front": "**Drive** slowly! (one friend)",
+      "back": "**Fahr** langsam!",
+      "note": "The imperative: du, ihr, Sie. The umlaut of du fährst is dropped: fahr, never fähr.",
+      "priority": 1
+    },
+    {
+      "front": "**Wait** a moment! (one friend)",
+      "back": "**Warte** einen Moment!",
+      "note": "The imperative: du, ihr, Sie. A stem in -t keeps the -e: warte. einen Moment: accusative of time.",
+      "priority": 1
+    },
+    {
+      "front": "**Be** quiet, please! (one friend)",
+      "back": "**Sei** bitte leise!",
+      "note": "The imperative: du, ihr, Sie. sein has its own imperative: sei. bitte goes right after the verb.",
+      "priority": 1
+    },
+    {
+      "front": "**Call** me! (one friend)",
+      "back": "**Ruf** mich **an**!",
+      "note": "The imperative: du, ihr, Sie. ruf … an: the stem first, the prefix at the end.",
+      "priority": 1
+    },
+    {
+      "front": "**Open** the window, please. (one friend)",
+      "back": "**Mach** bitte das Fenster **auf**.",
+      "note": "The imperative: du, ihr, Sie. mach … auf. bitte softens the order.",
+      "priority": 1
+    },
+    {
+      "front": "**Switch off** the light! (one friend)",
+      "back": "**Mach** das Licht **aus**!",
+      "note": "The imperative: du, ihr, Sie. ausmachen: mach … aus.",
+      "priority": 1
+    },
+    {
+      "front": "Don't **open** the door! (one friend)",
+      "back": "**Öffne** die Tür nicht!",
+      "note": "The imperative: du, ihr, Sie. A stem like öffn- needs the -e to be sayable: öffne.",
+      "priority": 1
+    },
+    {
+      "front": "**Tell** me, where do you live? (one friend)",
+      "back": "**Sag** mal, wo wohnst du?",
+      "note": "The imperative: du, ihr, Sie. Sag mal… is the everyday way to start a question: say, tell me.",
+      "priority": 1
+    },
+    {
+      "front": "**Look**! The train is coming. (one friend)",
+      "back": "**Sieh** mal! Der Zug kommt.",
+      "note": "The imperative: du, ihr, Sie. du siehst → sieh. mal makes it casual: just look.",
+      "priority": 1
+    },
+    {
+      "front": "**Come along**! (several friends)",
+      "back": "**Kommt mit**!",
+      "note": "The imperative: du, ihr, Sie. The ihr imperative is the ihr form without ihr: ihr kommt → kommt.",
+      "priority": 1
+    },
+    {
+      "front": "**Be** quiet, children!",
+      "back": "**Seid** leise, Kinder!",
+      "note": "The imperative: du, ihr, Sie. ihr seid → seid.",
+      "priority": 1
+    },
+    {
+      "front": "**Eat** your vegetables! (several friends)",
+      "back": "**Esst** euer Gemüse!",
+      "note": "The imperative: du, ihr, Sie. ihr esst → esst; no vowel change for ihr.",
+      "priority": 1
+    },
+    {
+      "front": "**Wait** here! (several friends)",
+      "back": "**Wartet** hier!",
+      "note": "The imperative: du, ihr, Sie. ihr wartet → wartet.",
+      "priority": 1
+    },
+    {
+      "front": "**Bring** a cake **along**! (several friends)",
+      "back": "**Bringt** einen Kuchen **mit**!",
+      "note": "The imperative: du, ihr, Sie. mitbringen: bringt … mit.",
+      "priority": 1
+    },
+    {
+      "front": "**Tidy up** your room! (several friends)",
+      "back": "**Räumt** euer Zimmer **auf**!",
+      "note": "The imperative: du, ihr, Sie. räumt … auf.",
+      "priority": 1
+    },
+    {
+      "front": "**Speak** loudly, please! (several friends)",
+      "back": "**Sprecht** bitte laut!",
+      "note": "The imperative: du, ihr, Sie. ihr sprecht → sprecht.",
+      "priority": 1
+    },
+    {
+      "front": "**Take** a seat, please. (formal)",
+      "back": "**Nehmen** Sie bitte Platz.",
+      "note": "The imperative: du, ihr, Sie. The Sie imperative is the Sie form with the verb first: nehmen Sie.",
+      "priority": 1
+    },
+    {
+      "front": "**Wait** a moment, please. (formal)",
+      "back": "**Warten** Sie bitte einen Moment.",
+      "note": "The imperative: du, ihr, Sie. Verb first, then Sie: warten Sie.",
+      "priority": 1
+    },
+    {
+      "front": "**Repeat** that, please. (formal)",
+      "back": "**Wiederholen** Sie das bitte.",
+      "note": "The imperative: du, ihr, Sie. wiederholen does not split: wieder- here is not a separable prefix.",
+      "priority": 1
+    },
+    {
+      "front": "**Speak** slowly, please. (formal)",
+      "back": "**Sprechen** Sie bitte langsam.",
+      "note": "The imperative: du, ihr, Sie. The formal imperative keeps the infinitive's vowel: sprechen Sie.",
+      "priority": 1
+    },
+    {
+      "front": "**Fill in** the form, please. (formal)",
+      "back": "**Füllen** Sie bitte das Formular **aus**.",
+      "note": "The imperative: du, ihr, Sie. füllen Sie … aus: the prefix still goes last.",
+      "priority": 1
+    },
+    {
+      "front": "**Close** the door, please. (formal)",
+      "back": "**Schließen** Sie bitte die Tür.",
+      "note": "The imperative: du, ihr, Sie. schließen Sie: the polite way to tell a stranger.",
+      "priority": 1
+    },
+    {
+      "front": "**Call** me tomorrow! (formal)",
+      "back": "**Rufen** Sie mich morgen **an**!",
+      "note": "The imperative: du, ihr, Sie. rufen Sie … an.",
+      "priority": 1
+    },
+    {
+      "front": "**Be** careful! (formal)",
+      "back": "**Seien** Sie vorsichtig!",
+      "note": "The imperative: du, ihr, Sie. sein is the one exception: seien Sie, not sind Sie.",
+      "priority": 1
+    },
+    {
+      "front": "A water, **please**.",
+      "back": "Ein Wasser, **bitte**.",
+      "note": "The imperative: du, ihr, Sie. bitte at the end turns an order into a polite request.",
+      "priority": 1
+    },
+    {
+      "front": "**Excuse me**, where is the station?",
+      "back": "**Entschuldigung**, wo ist der Bahnhof?",
+      "note": "The imperative: du, ihr, Sie. Entschuldigung: excuse me, to start a question to a stranger.",
+      "priority": 1
+    }
+  ]
+}
