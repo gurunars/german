@@ -1,0 +1,212 @@
+{
+  "name": "Lesson 17 · To whom: the dative, helfen, gefallen, gehören",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I'm giving **the child** an apple.",
+      "back": "Ich gebe **dem Kind** einen Apfel.",
+      "note": "The dative: the one who receives. The one who receives is in the dative: das Kind → dem Kind. The thing given stays accusative.",
+      "priority": 1
+    },
+    {
+      "front": "She gives **the man** the money.",
+      "back": "Sie gibt **dem Mann** das Geld.",
+      "note": "The dative: the one who receives. der and das both become dem in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "We're buying **the woman** flowers.",
+      "back": "Wir kaufen **der Frau** Blumen.",
+      "note": "The dative: the one who receives. die becomes der in the dative: der Frau.",
+      "priority": 1
+    },
+    {
+      "front": "I'm writing **my brother** a letter.",
+      "back": "Ich schreibe **meinem Bruder** einen Brief.",
+      "note": "The dative: the one who receives. Possessives take the dative endings of ein: meinem for der- and das-words.",
+      "priority": 1
+    },
+    {
+      "front": "She gives **her daughter** an ice cream.",
+      "back": "Sie gibt **ihrer Tochter** ein Eis.",
+      "note": "The dative: the one who receives. die-words take -er: ihrer Tochter.",
+      "priority": 1
+    },
+    {
+      "front": "We give **our dog** water.",
+      "back": "Wir geben **unserem Hund** Wasser.",
+      "note": "The dative: the one who receives. unser + em: unserem Hund.",
+      "priority": 1
+    },
+    {
+      "front": "You're buying **your sister** a present. (one friend)",
+      "back": "Du kaufst **deiner Schwester** ein Geschenk.",
+      "note": "The dative: the one who receives. deiner: dein + er for a die-word.",
+      "priority": 1
+    },
+    {
+      "front": "**Who** are you giving the book to? (one friend)",
+      "back": "**Wem** gibst du das Buch?",
+      "note": "The dative: the one who receives. wer becomes wem in the dative: to whom.",
+      "priority": 1
+    },
+    {
+      "front": "I'm giving **the children** chocolate.",
+      "back": "Ich gebe **den Kindern** Schokolade.",
+      "note": "The dative: the one who receives. The dative plural is den, and the noun adds -n: den Kindern.",
+      "priority": 1
+    },
+    {
+      "front": "He gives **his parents** money.",
+      "back": "Er gibt **seinen Eltern** Geld.",
+      "note": "The dative: the one who receives. Plural dative: seinen. Eltern already ends in -n, so nothing is added.",
+      "priority": 1
+    },
+    {
+      "front": "I'm helping **the man**.",
+      "back": "Ich helfe **dem Mann**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. helfen takes the dative, not the accusative: dem Mann.",
+      "priority": 1
+    },
+    {
+      "front": "He **helps** his neighbour.",
+      "back": "Er **hilft** seinem Nachbarn.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. helfen changes e to i: er hilft.",
+      "priority": 1
+    },
+    {
+      "front": "He helps **his neighbour**.",
+      "back": "Er hilft **seinem Nachbarn**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. der Nachbar adds -n in every case but the nominative: seinem Nachbarn.",
+      "priority": 1
+    },
+    {
+      "front": "Can you help **the woman**? (one friend)",
+      "back": "Kannst du **der Frau** helfen?",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. helfen + dative: der Frau.",
+      "priority": 1
+    },
+    {
+      "front": "We help **our neighbour**. (a woman)",
+      "back": "Wir helfen **unserer Nachbarin**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. unser + er: unserer Nachbarin.",
+      "priority": 1
+    },
+    {
+      "front": "**My mother** likes the dress.",
+      "back": "Das Kleid gefällt **meiner Mutter**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. gefallen turns the sentence round: the dress pleases my mother. The person who likes it is in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "**Does** your sister **like** the flat? (one friend)",
+      "back": "**Gefällt** deiner Schwester die Wohnung?",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. gefallen changes a to ä: es gefällt. The thing liked is the subject.",
+      "priority": 1
+    },
+    {
+      "front": "**The children** don't like the film.",
+      "back": "Der Film gefällt **den Kindern** nicht.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. The film is the subject, so gefällt; den Kindern is the dative.",
+      "priority": 1
+    },
+    {
+      "front": "The car belongs to **my father**.",
+      "back": "Das Auto gehört **meinem Vater**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. gehören + dative: meinem Vater. No word for to.",
+      "priority": 1
+    },
+    {
+      "front": "**Who** does the bag belong to?",
+      "back": "**Wem** gehört die Tasche?",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. gehören asks wem: to whom.",
+      "priority": 1
+    },
+    {
+      "front": "The house belongs to **a woman**.",
+      "back": "Das Haus gehört **einer Frau**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. ein becomes einer for a die-word in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "The trousers belong to **my brother**.",
+      "back": "Die Hose gehört **meinem Bruder**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. die Hose is one pair, singular in German: gehört.",
+      "priority": 1
+    },
+    {
+      "front": "The shoes belong to **a child**.",
+      "back": "Die Schuhe gehören **einem Kind**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. ein becomes einem for das-words. Several shoes, so gehören.",
+      "priority": 1
+    },
+    {
+      "front": "I thank **the teacher**. (a woman)",
+      "back": "Ich danke **der Lehrerin**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. danken takes the dative: der Lehrerin.",
+      "priority": 1
+    },
+    {
+      "front": "I'm thanking **my colleague**. (a woman)",
+      "back": "Ich danke **meiner Kollegin**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. danken + dative: meiner.",
+      "priority": 1
+    },
+    {
+      "front": "We thank **our guests**.",
+      "back": "Wir danken **unseren Gästen**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. der Gast → Gäste; in the dative plural, Gästen with -n.",
+      "priority": 1
+    },
+    {
+      "front": "**The child** likes the soup.",
+      "back": "Die Suppe schmeckt **dem Kind**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. schmecken: the food is the subject and tastes good to someone in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "**Does** your father **like** the cake? (one friend)",
+      "back": "**Schmeckt** deinem Vater der Kuchen?",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. The verb first; deinem Vater in the dative, der Kuchen the subject.",
+      "priority": 1
+    },
+    {
+      "front": "**The guest** doesn't like the fish.",
+      "back": "Der Fisch schmeckt **dem Gast** nicht.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. dem Gast; nicht at the end.",
+      "priority": 1
+    },
+    {
+      "front": "**No child** likes vegetables.",
+      "back": "Gemüse schmeckt **keinem Kind**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. kein takes the endings of ein: keinem Kind.",
+      "priority": 1
+    },
+    {
+      "front": "Please answer **the boss**. (formal)",
+      "back": "Antworten Sie bitte **dem Chef**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. antworten takes the dative: dem Chef.",
+      "priority": 1
+    },
+    {
+      "front": "Why don't you answer **your colleague**? (one friend)",
+      "back": "Warum antwortest du **deinem Kollegen** nicht?",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. der Kollege adds -n outside the nominative: deinem Kollegen.",
+      "priority": 1
+    },
+    {
+      "front": "Why **don't** you **answer** your colleague? (one friend)",
+      "back": "Warum **antwortest** du deinem Kollegen nicht?",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. A stem in -t takes -est: du antwortest.",
+      "priority": 1
+    },
+    {
+      "front": "The boss helps **the colleague**.",
+      "back": "Der Chef hilft **dem Kollegen**.",
+      "note": "Verbs with the dative: helfen, gefallen, gehören, danken, schmecken. dem Kollegen: the -n of der Kollege again.",
+      "priority": 1
+    }
+  ]
+}

@@ -29,3 +29,5 @@ verb.bracket	13	The verb bracket: the infinitive at the end
 modal.2	14	Modal verbs: dürfen, sollen, möchten; mögen
 separable	15	Separable verbs: the prefix goes to the end
 imperative	16	The imperative: du, ihr, Sie
+dative	17	The dative: the one who receives
+dative.verbs	17	Verbs with the dative: helfen, gefallen, gehören, danken, schmecken

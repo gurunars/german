@@ -1,0 +1,35 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+dative	Kind	dat.sg	I'm giving **the child** an apple.	Ich gebe **dem Kind** einen Apfel.	The one who receives is in the dative: das Kind → dem Kind. The thing given stays accusative.
+dative	Mann	dat.sg	She gives **the man** the money.	Sie gibt **dem Mann** das Geld.	der and das both become dem in the dative.
+dative	Frau	dat.sg	We're buying **the woman** flowers.	Wir kaufen **der Frau** Blumen.	die becomes der in the dative: der Frau.
+dative	Bruder	dat.sg	I'm writing **my brother** a letter.	Ich schreibe **meinem Bruder** einen Brief.	Possessives take the dative endings of ein: meinem for der- and das-words.
+dative	Tochter	dat.sg	She gives **her daughter** an ice cream.	Sie gibt **ihrer Tochter** ein Eis.	die-words take -er: ihrer Tochter.
+dative	Hund	dat.sg	We give **our dog** water.	Wir geben **unserem Hund** Wasser.	unser + em: unserem Hund.
+dative	Schwester	dat.sg	You're buying **your sister** a present. (one friend)	Du kaufst **deiner Schwester** ein Geschenk.	deiner: dein + er for a die-word.
+dative	-	-	**Who** are you giving the book to? (one friend)	**Wem** gibst du das Buch?	wer becomes wem in the dative: to whom.
+dative	Kind	dat.pl	I'm giving **the children** chocolate.	Ich gebe **den Kindern** Schokolade.	The dative plural is den, and the noun adds -n: den Kindern.
+dative	Eltern	dat.pl	He gives **his parents** money.	Er gibt **seinen Eltern** Geld.	Plural dative: seinen. Eltern already ends in -n, so nothing is added.
+dative.verbs	Mann	dat.sg	I'm helping **the man**.	Ich helfe **dem Mann**.	helfen takes the dative, not the accusative: dem Mann.
+dative.verbs	helfen	pres.er	He **helps** his neighbour.	Er **hilft** seinem Nachbarn.	helfen changes e to i: er hilft.
+dative.verbs	Nachbar	dat.sg	He helps **his neighbour**.	Er hilft **seinem Nachbarn**.	der Nachbar adds -n in every case but the nominative: seinem Nachbarn.
+dative.verbs	Frau	dat.sg	Can you help **the woman**? (one friend)	Kannst du **der Frau** helfen?	helfen + dative: der Frau.
+dative.verbs	Nachbarin	dat.sg	We help **our neighbour**. (a woman)	Wir helfen **unserer Nachbarin**.	unser + er: unserer Nachbarin.
+dative.verbs	Mutter	dat.sg	**My mother** likes the dress.	Das Kleid gefällt **meiner Mutter**.	gefallen turns the sentence round: the dress pleases my mother. The person who likes it is in the dative.
+dative.verbs	gefallen	pres.er	**Does** your sister **like** the flat? (one friend)	**Gefällt** deiner Schwester die Wohnung?	gefallen changes a to ä: es gefällt. The thing liked is the subject.
+dative.verbs	Kind	dat.pl	**The children** don't like the film.	Der Film gefällt **den Kindern** nicht.	The film is the subject, so gefällt; den Kindern is the dative.
+dative.verbs	Vater	dat.sg	The car belongs to **my father**.	Das Auto gehört **meinem Vater**.	gehören + dative: meinem Vater. No word for to.
+dative.verbs	-	-	**Who** does the bag belong to?	**Wem** gehört die Tasche?	gehören asks wem: to whom.
+dative.verbs	Frau	dat.sg	The house belongs to **a woman**.	Das Haus gehört **einer Frau**.	ein becomes einer for a die-word in the dative.
+dative.verbs	Bruder	dat.sg	The trousers belong to **my brother**.	Die Hose gehört **meinem Bruder**.	die Hose is one pair, singular in German: gehört.
+dative.verbs	Kind	dat.sg	The shoes belong to **a child**.	Die Schuhe gehören **einem Kind**.	ein becomes einem for das-words. Several shoes, so gehören.
+dative.verbs	Lehrerin	dat.sg	I thank **the teacher**. (a woman)	Ich danke **der Lehrerin**.	danken takes the dative: der Lehrerin.
+dative.verbs	Kollegin	dat.sg	I'm thanking **my colleague**. (a woman)	Ich danke **meiner Kollegin**.	danken + dative: meiner.
+dative.verbs	Gast	dat.pl	We thank **our guests**.	Wir danken **unseren Gästen**.	der Gast → Gäste; in the dative plural, Gästen with -n.
+dative.verbs	Kind	dat.sg	**The child** likes the soup.	Die Suppe schmeckt **dem Kind**.	schmecken: the food is the subject and tastes good to someone in the dative.
+dative.verbs	schmecken	pres.er	**Does** your father **like** the cake? (one friend)	**Schmeckt** deinem Vater der Kuchen?	The verb first; deinem Vater in the dative, der Kuchen the subject.
+dative.verbs	Gast	dat.sg	**The guest** doesn't like the fish.	Der Fisch schmeckt **dem Gast** nicht.	dem Gast; nicht at the end.
+dative.verbs	Kind	dat.sg	**No child** likes vegetables.	Gemüse schmeckt **keinem Kind**.	kein takes the endings of ein: keinem Kind.
+dative.verbs	Chef	dat.sg	Please answer **the boss**. (formal)	Antworten Sie bitte **dem Chef**.	antworten takes the dative: dem Chef.
+dative.verbs	Kollege	dat.sg	Why don't you answer **your colleague**? (one friend)	Warum antwortest du **deinem Kollegen** nicht?	der Kollege adds -n outside the nominative: deinem Kollegen.
+dative.verbs	antworten	pres.du	Why **don't** you **answer** your colleague? (one friend)	Warum **antwortest** du deinem Kollegen nicht?	A stem in -t takes -est: du antwortest.
+dative.verbs	Kollege	dat.sg	The boss helps **the colleague**.	Der Chef hilft **dem Kollegen**.	dem Kollegen: the -n of der Kollege again.

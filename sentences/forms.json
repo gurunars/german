@@ -635,6 +635,40 @@
    ]
   }
  },
+ "Chef": {
+  "all": [
+   "Chef",
+   "Cheffin",
+   "Chefin",
+   "Chefs"
+  ],
+  "english": "boss",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Chefs"
+   ],
+   "acc.sg": [
+    "Chef"
+   ],
+   "dat.pl": [
+    "Chefs"
+   ],
+   "dat.sg": [
+    "Chef"
+   ],
+   "gen.sg": [
+    "Chefs"
+   ],
+   "nom.pl": [
+    "Chefs"
+   ],
+   "nom.sg": [
+    "Chef"
+   ]
+  }
+ },
  "Computer": {
   "all": [
    "Computer",
@@ -1598,6 +1632,46 @@
    ]
   }
  },
+ "Gast": {
+  "all": [
+   "Gast",
+   "Gaste",
+   "Gastes",
+   "Gastin",
+   "Gasts",
+   "Gäste",
+   "Gästen",
+   "Gästin"
+  ],
+  "english": "guest",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Gäste"
+   ],
+   "acc.sg": [
+    "Gast"
+   ],
+   "dat.pl": [
+    "Gästen"
+   ],
+   "dat.sg": [
+    "Gast",
+    "Gaste"
+   ],
+   "gen.sg": [
+    "Gastes",
+    "Gasts"
+   ],
+   "nom.pl": [
+    "Gäste"
+   ],
+   "nom.sg": [
+    "Gast"
+   ]
+  }
+ },
  "Geburtstag": {
   "all": [
    "Geburtstag",
@@ -1972,6 +2046,41 @@
    ],
    "nom.sg": [
     "Hausaufgabe"
+   ]
+  }
+ },
+ "Hose": {
+  "all": [
+   "Hose",
+   "Hosen",
+   "Hoserl",
+   "Höschen",
+   "Höslein"
+  ],
+  "english": "trousers",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Hosen"
+   ],
+   "acc.sg": [
+    "Hose"
+   ],
+   "dat.pl": [
+    "Hosen"
+   ],
+   "dat.sg": [
+    "Hose"
+   ],
+   "gen.sg": [
+    "Hose"
+   ],
+   "nom.pl": [
+    "Hosen"
+   ],
+   "nom.sg": [
+    "Hose"
    ]
   }
  },
@@ -2427,6 +2536,113 @@
    ],
    "nom.sg": [
     "Kino"
+   ]
+  }
+ },
+ "Kleid": {
+  "all": [
+   "Kleid",
+   "Kleidchen",
+   "Kleide",
+   "Kleider",
+   "Kleiderl",
+   "Kleidern",
+   "Kleides",
+   "Kleidlein",
+   "Kleids"
+  ],
+  "english": "dress",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kleider"
+   ],
+   "acc.sg": [
+    "Kleid"
+   ],
+   "dat.pl": [
+    "Kleidern"
+   ],
+   "dat.sg": [
+    "Kleid",
+    "Kleide"
+   ],
+   "gen.sg": [
+    "Kleides",
+    "Kleids"
+   ],
+   "nom.pl": [
+    "Kleider"
+   ],
+   "nom.sg": [
+    "Kleid"
+   ]
+  }
+ },
+ "Kollege": {
+  "all": [
+   "Kollega",
+   "Kollege",
+   "Kollegen",
+   "Kollegin"
+  ],
+  "english": "colleague (male)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kollegen"
+   ],
+   "acc.sg": [
+    "Kollegen"
+   ],
+   "dat.pl": [
+    "Kollegen"
+   ],
+   "dat.sg": [
+    "Kollegen"
+   ],
+   "gen.sg": [
+    "Kollegen"
+   ],
+   "nom.pl": [
+    "Kollegen"
+   ],
+   "nom.sg": [
+    "Kollege"
+   ]
+  }
+ },
+ "Kollegin": {
+  "all": [
+   "Kollegin",
+   "Kolleginnen"
+  ],
+  "english": "colleague (female)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kolleginnen"
+   ],
+   "acc.sg": [
+    "Kollegin"
+   ],
+   "dat.pl": [
+    "Kolleginnen"
+   ],
+   "dat.sg": [
+    "Kollegin"
+   ],
+   "gen.sg": [
+    "Kollegin"
+   ],
+   "nom.pl": [
+    "Kolleginnen"
+   ],
+   "nom.sg": [
+    "Kollegin"
    ]
   }
  },
@@ -3219,6 +3435,78 @@
    ]
   }
  },
+ "Nachbar": {
+  "all": [
+   "Nachbar",
+   "Nachbarin",
+   "Nachbarn",
+   "Nachbars",
+   "Nachbauer",
+   "Nachbaur"
+  ],
+  "english": "neighbour (male)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Nachbarn"
+   ],
+   "acc.sg": [
+    "Nachbarn",
+    "Nachbar"
+   ],
+   "dat.pl": [
+    "Nachbarn"
+   ],
+   "dat.sg": [
+    "Nachbarn",
+    "Nachbar"
+   ],
+   "gen.sg": [
+    "Nachbarn",
+    "Nachbars"
+   ],
+   "nom.pl": [
+    "Nachbarn"
+   ],
+   "nom.sg": [
+    "Nachbar"
+   ]
+  }
+ },
+ "Nachbarin": {
+  "all": [
+   "Nachbar",
+   "Nachbarin",
+   "Nachbarinnen"
+  ],
+  "english": "neighbour (female)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Nachbarinnen"
+   ],
+   "acc.sg": [
+    "Nachbarin"
+   ],
+   "dat.pl": [
+    "Nachbarinnen"
+   ],
+   "dat.sg": [
+    "Nachbarin"
+   ],
+   "gen.sg": [
+    "Nachbarin"
+   ],
+   "nom.pl": [
+    "Nachbarinnen"
+   ],
+   "nom.sg": [
+    "Nachbarin"
+   ]
+  }
+ },
  "Nacht": {
   "all": [
    "Nacht",
@@ -3780,6 +4068,49 @@
    ],
    "nom.sg": [
     "Schokolade"
+   ]
+  }
+ },
+ "Schuh": {
+  "all": [
+   "Schuch",
+   "Schuh",
+   "Schuhe",
+   "Schuhen",
+   "Schuhes",
+   "Schuhs",
+   "Schühchen",
+   "Schühlein"
+  ],
+  "english": "shoe",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Schuhe",
+    "Schuh"
+   ],
+   "acc.sg": [
+    "Schuh"
+   ],
+   "dat.pl": [
+    "Schuhen",
+    "Schuh"
+   ],
+   "dat.sg": [
+    "Schuh",
+    "Schuhe"
+   ],
+   "gen.sg": [
+    "Schuhes",
+    "Schuhs"
+   ],
+   "nom.pl": [
+    "Schuhe",
+    "Schuh"
+   ],
+   "nom.sg": [
+    "Schuh"
    ]
   }
  },
@@ -5272,6 +5603,57 @@
    ]
   }
  },
+ "antworten": {
+  "all": [
+   "antwort",
+   "antworte",
+   "antworten",
+   "antwortend",
+   "antwortest",
+   "antwortet",
+   "antwortete",
+   "antworteten",
+   "antwortetest",
+   "antwortetet",
+   "geantwortet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to answer",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "antwort",
+    "antworte"
+   ],
+   "imp.ihr": [
+    "antwortet"
+   ],
+   "perf.er": [
+    "hat geantwortet"
+   ],
+   "pres.du": [
+    "antwortest"
+   ],
+   "pres.er": [
+    "antwortet"
+   ],
+   "pres.ich": [
+    "antworte"
+   ],
+   "pres.ihr": [
+    "antwortet"
+   ],
+   "pres.wir": [
+    "antworten"
+   ],
+   "pret.er": [
+    "antwortete"
+   ]
+  }
+ },
  "arbeiten": {
   "all": [
    "arbeit",
@@ -6139,6 +6521,59 @@
    ],
    "pret.er": [
     "brachte"
+   ]
+  }
+ },
+ "danken": {
+  "all": [
+   "dank",
+   "danke",
+   "danken",
+   "dankend",
+   "dankest",
+   "danket",
+   "dankst",
+   "dankt",
+   "dankte",
+   "dankten",
+   "danktest",
+   "danktet",
+   "gedankt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to thank",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "dank",
+    "danke"
+   ],
+   "imp.ihr": [
+    "dankt"
+   ],
+   "perf.er": [
+    "hat gedankt"
+   ],
+   "pres.du": [
+    "dankst"
+   ],
+   "pres.er": [
+    "dankt"
+   ],
+   "pres.ich": [
+    "danke"
+   ],
+   "pres.ihr": [
+    "dankt"
+   ],
+   "pres.wir": [
+    "danken"
+   ],
+   "pret.er": [
+    "dankte"
    ]
   }
  },
@@ -7085,6 +7520,62 @@
    ]
   }
  },
+ "gefallen": {
+  "all": [
+   "gefall",
+   "gefalle",
+   "gefallen",
+   "gefallend",
+   "gefallest",
+   "gefallet",
+   "gefallt",
+   "gefiel",
+   "gefiele",
+   "gefielen",
+   "gefielest",
+   "gefielet",
+   "gefielst",
+   "gefielt",
+   "gefällst",
+   "gefällt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to please; X gefällt mir: I like X",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "gefall",
+    "gefalle"
+   ],
+   "imp.ihr": [
+    "gefallt"
+   ],
+   "perf.er": [
+    "hat gefallen"
+   ],
+   "pres.du": [
+    "gefällst"
+   ],
+   "pres.er": [
+    "gefällt"
+   ],
+   "pres.ich": [
+    "gefalle"
+   ],
+   "pres.ihr": [
+    "gefallt"
+   ],
+   "pres.wir": [
+    "gefallen"
+   ],
+   "pret.er": [
+    "gefiel"
+   ]
+  }
+ },
  "gehen": {
   "all": [
    "gegangen",
@@ -7155,6 +7646,58 @@
    ],
    "pret.er": [
     "ging"
+   ]
+  }
+ },
+ "gehören": {
+  "all": [
+   "gehör",
+   "gehöre",
+   "gehören",
+   "gehörend",
+   "gehörest",
+   "gehöret",
+   "gehörst",
+   "gehört",
+   "gehörte",
+   "gehörten",
+   "gehörtest",
+   "gehörtet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to belong to",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "gehör",
+    "gehöre"
+   ],
+   "imp.ihr": [
+    "gehört"
+   ],
+   "perf.er": [
+    "hat gehört"
+   ],
+   "pres.du": [
+    "gehörst"
+   ],
+   "pres.er": [
+    "gehört"
+   ],
+   "pres.ich": [
+    "gehöre"
+   ],
+   "pres.ihr": [
+    "gehört"
+   ],
+   "pres.wir": [
+    "gehören"
+   ],
+   "pret.er": [
+    "gehörte"
    ]
   }
  },
@@ -10362,6 +10905,59 @@
    ],
    "pret.er": [
     "schloss"
+   ]
+  }
+ },
+ "schmecken": {
+  "all": [
+   "geschmeckt",
+   "haben",
+   "habest",
+   "habet",
+   "schmeck",
+   "schmecke",
+   "schmecken",
+   "schmeckend",
+   "schmeckest",
+   "schmecket",
+   "schmeckst",
+   "schmeckt",
+   "schmeckte",
+   "schmeckten",
+   "schmecktest",
+   "schmecktet",
+   "werdest"
+  ],
+  "english": "to taste (good)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schmeck",
+    "schmecke"
+   ],
+   "imp.ihr": [
+    "schmeckt"
+   ],
+   "perf.er": [
+    "hat geschmeckt"
+   ],
+   "pres.du": [
+    "schmeckst"
+   ],
+   "pres.er": [
+    "schmeckt"
+   ],
+   "pres.ich": [
+    "schmecke"
+   ],
+   "pres.ihr": [
+    "schmeckt"
+   ],
+   "pres.wir": [
+    "schmecken"
+   ],
+   "pret.er": [
+    "schmeckte"
    ]
   }
  },
