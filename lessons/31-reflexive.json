@@ -1,0 +1,194 @@
+{
+  "name": "Lesson 31 · Myself: reflexive verbs, sich freuen, sich waschen",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I'm **glad**.",
+      "back": "Ich freue **mich**.",
+      "note": "Reflexive verbs: mich, dich, sich…. sich freuen: to be glad. The pronoun points back to the subject: ich → mich.",
+      "priority": 1
+    },
+    {
+      "front": "Are you **glad**? (one friend)",
+      "back": "Freust du **dich**?",
+      "note": "Reflexive verbs: mich, dich, sich…. du → dich, the same form as the accusative pronoun.",
+      "priority": 1
+    },
+    {
+      "front": "She is very **glad**.",
+      "back": "Sie freut **sich** sehr.",
+      "note": "Reflexive verbs: mich, dich, sich…. er, sie, es and sie (they) all take sich.",
+      "priority": 1
+    },
+    {
+      "front": "We're **glad** that you're here. (one friend)",
+      "back": "Wir freuen **uns**, dass du hier bist.",
+      "note": "Reflexive verbs: mich, dich, sich…. wir → uns.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **interested** in art.",
+      "back": "Ich interessiere **mich** für Kunst.",
+      "note": "Reflexive verbs: mich, dich, sich…. sich interessieren für + accusative: to be interested in.",
+      "priority": 1
+    },
+    {
+      "front": "He's **interested** in politics.",
+      "back": "Er interessiert **sich** für Politik.",
+      "note": "Reflexive verbs: mich, dich, sich…. er → sich.",
+      "priority": 1
+    },
+    {
+      "front": "Are you **interested** in football? (several friends)",
+      "back": "Interessiert ihr **euch** für Fußball?",
+      "note": "Reflexive verbs: mich, dich, sich…. ihr → euch.",
+      "priority": 1
+    },
+    {
+      "front": "Please **sit down**. (formal)",
+      "back": "Setzen Sie **sich** bitte.",
+      "note": "Reflexive verbs: mich, dich, sich…. Formal Sie takes sich, with a small s.",
+      "priority": 1
+    },
+    {
+      "front": "**Sit down**! (one friend)",
+      "back": "Setz **dich**!",
+      "note": "Reflexive verbs: mich, dich, sich…. The du imperative keeps the reflexive pronoun: dich.",
+      "priority": 1
+    },
+    {
+      "front": "We have to **hurry**.",
+      "back": "Wir müssen **uns** beeilen.",
+      "note": "Reflexive verbs: mich, dich, sich…. The pronoun stays near the modal; the infinitive goes to the end.",
+      "priority": 1
+    },
+    {
+      "front": "**Hurry up**! (one friend)",
+      "back": "Beeil **dich**!",
+      "note": "Reflexive verbs: mich, dich, sich…. sich beeilen: to hurry. English needs no pronoun; German does.",
+      "priority": 1
+    },
+    {
+      "front": "How do you **feel**? (one friend)",
+      "back": "Wie fühlst du **dich**?",
+      "note": "Reflexive verbs: mich, dich, sich…. sich fühlen: to feel (well, ill, tired).",
+      "priority": 1
+    },
+    {
+      "front": "I don't **feel** well.",
+      "back": "Ich fühle **mich** nicht wohl.",
+      "note": "Reflexive verbs: mich, dich, sich…. sich wohl fühlen: to feel well. nicht before wohl.",
+      "priority": 1
+    },
+    {
+      "front": "We're **meeting** at the station.",
+      "back": "Wir treffen **uns** am Bahnhof.",
+      "note": "Reflexive verbs: mich, dich, sich…. sich treffen: to meet up with each other.",
+      "priority": 1
+    },
+    {
+      "front": "They're **meeting** tomorrow.",
+      "back": "Sie treffen **sich** morgen.",
+      "note": "Reflexive verbs: mich, dich, sich…. sie (they) → sich.",
+      "priority": 1
+    },
+    {
+      "front": "Where are you **meeting**? (several friends)",
+      "back": "Wo trefft ihr **euch**?",
+      "note": "Reflexive verbs: mich, dich, sich…. ihr → euch.",
+      "priority": 1
+    },
+    {
+      "front": "He **is meeting** his friend.",
+      "back": "Er **trifft** sich mit seinem Freund.",
+      "note": "Reflexive verbs: mich, dich, sich…. treffen changes e to i: er trifft. sich treffen mit + dative: to meet with someone.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **having a wash**.",
+      "back": "Ich wasche **mich**.",
+      "note": "Reflexive verbs: mich, dich, sich…. Without another object, sich waschen takes the accusative: mich.",
+      "priority": 1
+    },
+    {
+      "front": "The child is **getting dressed**.",
+      "back": "Das Kind zieht **sich** an.",
+      "note": "Reflexive verbs: mich, dich, sich…. sich anziehen: to get dressed. sich after the verb, an at the end.",
+      "priority": 1
+    },
+    {
+      "front": "I have to **rest**.",
+      "back": "Ich muss **mich** ausruhen.",
+      "note": "Reflexive verbs: mich, dich, sich…. sich ausruhen: to rest.",
+      "priority": 1
+    },
+    {
+      "front": "She **is resting**.",
+      "back": "Sie **ruht** sich **aus**.",
+      "note": "Reflexive verbs: mich, dich, sich…. ausruhen splits: ruht … aus, with sich in between.",
+      "priority": 1
+    },
+    {
+      "front": "I was very **glad**.",
+      "back": "Ich habe **mich** sehr gefreut.",
+      "note": "Reflexive verbs: mich, dich, sich…. Reflexive verbs make their perfect with haben; the pronoun follows haben.",
+      "priority": 1
+    },
+    {
+      "front": "We **sat down**.",
+      "back": "Wir haben **uns** gesetzt.",
+      "note": "Reflexive verbs: mich, dich, sich…. haben … gesetzt, with uns after haben.",
+      "priority": 1
+    },
+    {
+      "front": "I'm washing **my** hands.",
+      "back": "Ich wasche **mir** die Hände.",
+      "note": "The dative reflexive: ich wasche mir die Hände. When there is another object, the reflexive pronoun is dative: mir. German says the hands, not my hands.",
+      "priority": 1
+    },
+    {
+      "front": "I'm washing **my** hair.",
+      "back": "Ich wasche **mir** die Haare.",
+      "note": "The dative reflexive: ich wasche mir die Hände. die Haare, plural in German. mir says whose.",
+      "priority": 1
+    },
+    {
+      "front": "Brush **your** teeth! (one friend)",
+      "back": "Putz **dir** die Zähne!",
+      "note": "The dative reflexive: ich wasche mir die Hände. sich die Zähne putzen: dir in the dative, die Zähne in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "He's brushing **his** teeth.",
+      "back": "Er putzt **sich** die Zähne.",
+      "note": "The dative reflexive: ich wasche mir die Hände. sich serves the dative too: er putzt sich die Zähne.",
+      "priority": 1
+    },
+    {
+      "front": "Are you washing **your** face? (one friend)",
+      "back": "Wäschst du **dir** das Gesicht?",
+      "note": "The dative reflexive: ich wasche mir die Hände. waschen: du wäschst. dir, because das Gesicht is the object.",
+      "priority": 1
+    },
+    {
+      "front": "I'm putting on **my** jacket.",
+      "back": "Ich ziehe **mir** die Jacke an.",
+      "note": "The dative reflexive: ich wasche mir die Hände. With a piece of clothing as the object: mir.",
+      "priority": 1
+    },
+    {
+      "front": "Put on **your** coat! (one friend)",
+      "back": "Zieh **dir** den Mantel an!",
+      "note": "The dative reflexive: ich wasche mir die Hände. dir in the dative, den Mantel in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "We're washing **our** hands.",
+      "back": "Wir waschen **uns** die Hände.",
+      "note": "The dative reflexive: ich wasche mir die Hände. uns is both accusative and dative.",
+      "priority": 1
+    }
+  ]
+}

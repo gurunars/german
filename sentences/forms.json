@@ -2592,6 +2592,47 @@
    ]
   }
  },
+ "Gesicht": {
+  "all": [
+   "Gesicht",
+   "Gesichtchen",
+   "Gesichte",
+   "Gesichter",
+   "Gesichterl",
+   "Gesichtern",
+   "Gesichtes",
+   "Gesichtlein",
+   "Gesichts"
+  ],
+  "english": "face",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Gesichter"
+   ],
+   "acc.sg": [
+    "Gesicht"
+   ],
+   "dat.pl": [
+    "Gesichtern"
+   ],
+   "dat.sg": [
+    "Gesicht",
+    "Gesichte"
+   ],
+   "gen.sg": [
+    "Gesichtes",
+    "Gesichts"
+   ],
+   "nom.pl": [
+    "Gesichter"
+   ],
+   "nom.sg": [
+    "Gesicht"
+   ]
+  }
+ },
  "Gitarre": {
   "all": [
    "Gitarre",
@@ -2789,6 +2830,80 @@
    ],
    "nom.sg": [
     "Gruß"
+   ]
+  }
+ },
+ "Haar": {
+  "all": [
+   "Haar",
+   "Haare",
+   "Haaren",
+   "Haares",
+   "Haars",
+   "Härchen"
+  ],
+  "english": "hair",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Haare"
+   ],
+   "acc.sg": [
+    "Haar"
+   ],
+   "dat.pl": [
+    "Haaren"
+   ],
+   "dat.sg": [
+    "Haar",
+    "Haare"
+   ],
+   "gen.sg": [
+    "Haares",
+    "Haars"
+   ],
+   "nom.pl": [
+    "Haare"
+   ],
+   "nom.sg": [
+    "Haar"
+   ]
+  }
+ },
+ "Hand": {
+  "all": [
+   "Hand",
+   "Handerl",
+   "Händchen",
+   "Hände",
+   "Händen",
+   "Händlein"
+  ],
+  "english": "hand",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Hände"
+   ],
+   "acc.sg": [
+    "Hand"
+   ],
+   "dat.pl": [
+    "Händen"
+   ],
+   "dat.sg": [
+    "Hand"
+   ],
+   "gen.sg": [
+    "Hand"
+   ],
+   "nom.pl": [
+    "Hände"
+   ],
+   "nom.sg": [
+    "Hand"
    ]
   }
  },
@@ -3755,6 +3870,39 @@
    ],
    "nom.sg": [
     "Kuchen"
+   ]
+  }
+ },
+ "Kunst": {
+  "all": [
+   "Kunst",
+   "Künste",
+   "Künsten"
+  ],
+  "english": "art",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Künste"
+   ],
+   "acc.sg": [
+    "Kunst"
+   ],
+   "dat.pl": [
+    "Künsten"
+   ],
+   "dat.sg": [
+    "Kunst"
+   ],
+   "gen.sg": [
+    "Kunst"
+   ],
+   "nom.pl": [
+    "Künste"
+   ],
+   "nom.sg": [
+    "Kunst"
    ]
   }
  },
@@ -5205,6 +5353,38 @@
    ],
    "nom.sg": [
     "Platz"
+   ]
+  }
+ },
+ "Politik": {
+  "all": [
+   "Politik",
+   "Politiken"
+  ],
+  "english": "politics",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Politiken"
+   ],
+   "acc.sg": [
+    "Politik"
+   ],
+   "dat.pl": [
+    "Politiken"
+   ],
+   "dat.sg": [
+    "Politik"
+   ],
+   "gen.sg": [
+    "Politik"
+   ],
+   "nom.pl": [
+    "Politiken"
+   ],
+   "nom.sg": [
+    "Politik"
    ]
   }
  },
@@ -7643,6 +7823,47 @@
    ]
   }
  },
+ "Zahn": {
+  "all": [
+   "Zahn",
+   "Zahnderl",
+   "Zahne",
+   "Zahnes",
+   "Zahns",
+   "Zähnchen",
+   "Zähne",
+   "Zähnen",
+   "Zähnlein"
+  ],
+  "english": "tooth",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Zähne"
+   ],
+   "acc.sg": [
+    "Zahn"
+   ],
+   "dat.pl": [
+    "Zähnen"
+   ],
+   "dat.sg": [
+    "Zahn",
+    "Zahne"
+   ],
+   "gen.sg": [
+    "Zahnes",
+    "Zahns"
+   ],
+   "nom.pl": [
+    "Zähne"
+   ],
+   "nom.sg": [
+    "Zahn"
+   ]
+  }
+ },
  "Zeit": {
   "all": [
    "Zeid",
@@ -9525,6 +9746,181 @@
    "pret.wir": [
     "machten aus",
     "ausmachten"
+   ]
+  }
+ },
+ "ausruhen": {
+  "all": [
+   "aus",
+   "ausgeruht",
+   "ausruhe",
+   "ausruhen",
+   "ausruhend",
+   "ausruhest",
+   "ausruhet",
+   "ausruhst",
+   "ausruht",
+   "ausruhte",
+   "ausruhten",
+   "ausruhtest",
+   "ausruhtet",
+   "auszuruhen",
+   "haben",
+   "habest",
+   "habet",
+   "ruh",
+   "ruhe",
+   "ruhen",
+   "ruhest",
+   "ruhet",
+   "ruhst",
+   "ruht",
+   "ruhte",
+   "ruhten",
+   "ruhtest",
+   "ruhtet",
+   "werdest"
+  ],
+  "english": "sich ausruhen: to rest",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "ruh aus",
+    "ruhe aus"
+   ],
+   "imp.ihr": [
+    "ruht aus"
+   ],
+   "perf.du": [
+    "hast ausgeruht"
+   ],
+   "perf.er": [
+    "hat ausgeruht"
+   ],
+   "perf.ich": [
+    "habe ausgeruht"
+   ],
+   "perf.ihr": [
+    "habt ausgeruht"
+   ],
+   "perf.wir": [
+    "haben ausgeruht"
+   ],
+   "pres.du": [
+    "ruhst aus",
+    "ausruhst"
+   ],
+   "pres.er": [
+    "ruht aus",
+    "ausruht"
+   ],
+   "pres.ich": [
+    "ruhe aus",
+    "ausruhe"
+   ],
+   "pres.ihr": [
+    "ruht aus",
+    "ausruht"
+   ],
+   "pres.wir": [
+    "ruhen aus",
+    "ausruhen"
+   ],
+   "pret.du": [
+    "ruhtest aus",
+    "ausruhtest"
+   ],
+   "pret.er": [
+    "ruhte aus",
+    "ausruhte"
+   ],
+   "pret.ich": [
+    "ruhte aus",
+    "ausruhte"
+   ],
+   "pret.ihr": [
+    "ruhtet aus",
+    "ausruhtet"
+   ],
+   "pret.wir": [
+    "ruhten aus",
+    "ausruhten"
+   ]
+  }
+ },
+ "beeilen": {
+  "all": [
+   "beeil",
+   "beeile",
+   "beeilen",
+   "beeilend",
+   "beeilest",
+   "beeilet",
+   "beeilst",
+   "beeilt",
+   "beeilte",
+   "beeilten",
+   "beeiltest",
+   "beeiltet",
+   "haben",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "sich beeilen: to hurry",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "beeil",
+    "beeile"
+   ],
+   "imp.ihr": [
+    "beeilt"
+   ],
+   "perf.du": [
+    "bist beeilt"
+   ],
+   "perf.er": [
+    "ist beeilt"
+   ],
+   "perf.ich": [
+    "bin beeilt"
+   ],
+   "perf.ihr": [
+    "seid beeilt"
+   ],
+   "perf.wir": [
+    "sind beeilt"
+   ],
+   "pres.du": [
+    "beeilst"
+   ],
+   "pres.er": [
+    "beeilt"
+   ],
+   "pres.ich": [
+    "beeile"
+   ],
+   "pres.ihr": [
+    "beeilt"
+   ],
+   "pres.wir": [
+    "beeilen"
+   ],
+   "pret.du": [
+    "beeiltest"
+   ],
+   "pret.er": [
+    "beeilte"
+   ],
+   "pret.ich": [
+    "beeilte"
+   ],
+   "pret.ihr": [
+    "beeiltet"
+   ],
+   "pret.wir": [
+    "beeilten"
    ]
   }
  },
@@ -13165,6 +13561,83 @@
    ]
   }
  },
+ "freuen": {
+  "all": [
+   "freu",
+   "freue",
+   "freuen",
+   "freuend",
+   "freuest",
+   "freuet",
+   "freust",
+   "freut",
+   "freute",
+   "freuten",
+   "freutest",
+   "freutet",
+   "gefreut",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "sich freuen: to be glad",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "freu",
+    "freue"
+   ],
+   "imp.ihr": [
+    "freut"
+   ],
+   "perf.du": [
+    "hast gefreut"
+   ],
+   "perf.er": [
+    "hat gefreut"
+   ],
+   "perf.ich": [
+    "habe gefreut"
+   ],
+   "perf.ihr": [
+    "habt gefreut"
+   ],
+   "perf.wir": [
+    "haben gefreut"
+   ],
+   "pres.du": [
+    "freust"
+   ],
+   "pres.er": [
+    "freut"
+   ],
+   "pres.ich": [
+    "freue"
+   ],
+   "pres.ihr": [
+    "freut"
+   ],
+   "pres.wir": [
+    "freuen"
+   ],
+   "pret.du": [
+    "freutest"
+   ],
+   "pret.er": [
+    "freute"
+   ],
+   "pret.ich": [
+    "freute"
+   ],
+   "pret.ihr": [
+    "freutet"
+   ],
+   "pret.wir": [
+    "freuten"
+   ]
+  }
+ },
  "freundlich": {
   "all": [
    "am",
@@ -13965,6 +14438,83 @@
    ],
    "pret.wir": [
     "frühstückten"
+   ]
+  }
+ },
+ "fühlen": {
+  "all": [
+   "fühl",
+   "fühle",
+   "fühlen",
+   "fühlend",
+   "fühlest",
+   "fühlet",
+   "fühlst",
+   "fühlt",
+   "fühlte",
+   "fühlten",
+   "fühltest",
+   "fühltet",
+   "gefühlt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "sich fühlen: to feel",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "fühl",
+    "fühle"
+   ],
+   "imp.ihr": [
+    "fühlt"
+   ],
+   "perf.du": [
+    "hast gefühlt"
+   ],
+   "perf.er": [
+    "hat gefühlt"
+   ],
+   "perf.ich": [
+    "habe gefühlt"
+   ],
+   "perf.ihr": [
+    "habt gefühlt"
+   ],
+   "perf.wir": [
+    "haben gefühlt"
+   ],
+   "pres.du": [
+    "fühlst"
+   ],
+   "pres.er": [
+    "fühlt"
+   ],
+   "pres.ich": [
+    "fühle"
+   ],
+   "pres.ihr": [
+    "fühlt"
+   ],
+   "pres.wir": [
+    "fühlen"
+   ],
+   "pret.du": [
+    "fühltest"
+   ],
+   "pret.er": [
+    "fühlte"
+   ],
+   "pret.ich": [
+    "fühlte"
+   ],
+   "pret.ihr": [
+    "fühltet"
+   ],
+   "pret.wir": [
+    "fühlten"
    ]
   }
  },
@@ -17729,6 +18279,82 @@
    ],
    "weak.nom.pl": [
     "die interessanten"
+   ]
+  }
+ },
+ "interessieren": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "interessier",
+   "interessiere",
+   "interessieren",
+   "interessierend",
+   "interessierest",
+   "interessieret",
+   "interessierst",
+   "interessiert",
+   "interessierte",
+   "interessierten",
+   "interessiertest",
+   "interessiertet",
+   "werdest"
+  ],
+  "english": "sich interessieren für: to be interested in",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "interessier",
+    "interessiere"
+   ],
+   "imp.ihr": [
+    "interessiert"
+   ],
+   "perf.du": [
+    "hast interessiert"
+   ],
+   "perf.er": [
+    "hat interessiert"
+   ],
+   "perf.ich": [
+    "habe interessiert"
+   ],
+   "perf.ihr": [
+    "habt interessiert"
+   ],
+   "perf.wir": [
+    "haben interessiert"
+   ],
+   "pres.du": [
+    "interessierst"
+   ],
+   "pres.er": [
+    "interessiert"
+   ],
+   "pres.ich": [
+    "interessiere"
+   ],
+   "pres.ihr": [
+    "interessiert"
+   ],
+   "pres.wir": [
+    "interessieren"
+   ],
+   "pret.du": [
+    "interessiertest"
+   ],
+   "pret.er": [
+    "interessierte"
+   ],
+   "pret.ich": [
+    "interessierte"
+   ],
+   "pret.ihr": [
+    "interessiertet"
+   ],
+   "pret.wir": [
+    "interessierten"
    ]
   }
  },
@@ -28831,6 +29457,83 @@
    ]
   }
  },
+ "setzen": {
+  "all": [
+   "gesetzt",
+   "haben",
+   "habest",
+   "habet",
+   "sein",
+   "setz",
+   "setze",
+   "setzen",
+   "setzend",
+   "setzest",
+   "setzet",
+   "setzt",
+   "setzte",
+   "setzten",
+   "setztest",
+   "setztet",
+   "werdest"
+  ],
+  "english": "sich setzen: to sit down",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "setz",
+    "setze"
+   ],
+   "imp.ihr": [
+    "setzt"
+   ],
+   "perf.du": [
+    "hast gesetzt"
+   ],
+   "perf.er": [
+    "hat gesetzt"
+   ],
+   "perf.ich": [
+    "habe gesetzt"
+   ],
+   "perf.ihr": [
+    "habt gesetzt"
+   ],
+   "perf.wir": [
+    "haben gesetzt"
+   ],
+   "pres.du": [
+    "setzt"
+   ],
+   "pres.er": [
+    "setzt"
+   ],
+   "pres.ich": [
+    "setze"
+   ],
+   "pres.ihr": [
+    "setzt"
+   ],
+   "pres.wir": [
+    "setzen"
+   ],
+   "pret.du": [
+    "setztest"
+   ],
+   "pret.er": [
+    "setzte"
+   ],
+   "pret.ich": [
+    "setzte"
+   ],
+   "pret.ihr": [
+    "setztet"
+   ],
+   "pret.wir": [
+    "setzten"
+   ]
+  }
+ },
  "sicher": {
   "all": [
    "am",
@@ -31444,6 +32147,89 @@
    ],
    "weak.nom.pl": [
     "die traurigen"
+   ]
+  }
+ },
+ "treffen": {
+  "all": [
+   "getroffen",
+   "haben",
+   "habest",
+   "habet",
+   "traf",
+   "trafen",
+   "trafst",
+   "traft",
+   "treffe",
+   "treffen",
+   "treffend",
+   "treffest",
+   "treffet",
+   "trefft",
+   "triff",
+   "triffst",
+   "trifft",
+   "träfe",
+   "träfen",
+   "träfest",
+   "träfet",
+   "träfst",
+   "träft",
+   "werdest"
+  ],
+  "english": "to meet; sich treffen: to meet up",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "triff"
+   ],
+   "imp.ihr": [
+    "trefft"
+   ],
+   "perf.du": [
+    "hast getroffen"
+   ],
+   "perf.er": [
+    "hat getroffen"
+   ],
+   "perf.ich": [
+    "habe getroffen"
+   ],
+   "perf.ihr": [
+    "habt getroffen"
+   ],
+   "perf.wir": [
+    "haben getroffen"
+   ],
+   "pres.du": [
+    "triffst"
+   ],
+   "pres.er": [
+    "trifft"
+   ],
+   "pres.ich": [
+    "treffe"
+   ],
+   "pres.ihr": [
+    "trefft"
+   ],
+   "pres.wir": [
+    "treffen"
+   ],
+   "pret.du": [
+    "trafst"
+   ],
+   "pret.er": [
+    "traf"
+   ],
+   "pret.ich": [
+    "traf"
+   ],
+   "pret.ihr": [
+    "traft"
+   ],
+   "pret.wir": [
+    "trafen"
    ]
   }
  },
