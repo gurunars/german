@@ -1,0 +1,224 @@
+{
+  "name": "Lesson 13 · Can, must, want: können, müssen, wollen",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **can** swim.",
+      "back": "Ich **kann** schwimmen.",
+      "note": "Modal verbs: können, müssen, wollen. ich kann: modal verbs have no -e in the ich form, and the vowel changes in the singular.",
+      "priority": 1
+    },
+    {
+      "front": "**Can** you sing? (one friend)",
+      "back": "**Kannst** du singen?",
+      "note": "Modal verbs: können, müssen, wollen. du kannst: a, not ö, in the singular.",
+      "priority": 1
+    },
+    {
+      "front": "She **can** play the guitar well.",
+      "back": "Sie **kann** gut Gitarre spielen.",
+      "note": "Modal verbs: können, müssen, wollen. er/sie kann: no -t, the same as ich kann.",
+      "priority": 1
+    },
+    {
+      "front": "We **can** wait.",
+      "back": "Wir **können** warten.",
+      "note": "Modal verbs: können, müssen, wollen. wir können: the plural keeps the ö of the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "**Can** you dance? (several friends)",
+      "back": "**Könnt** ihr tanzen?",
+      "note": "Modal verbs: können, müssen, wollen. ihr könnt: ö plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "**Can** you understand me? (formal)",
+      "back": "**Können** Sie mich verstehen?",
+      "note": "Modal verbs: können, müssen, wollen. Sie können, then the infinitive at the end.",
+      "priority": 1
+    },
+    {
+      "front": "Unfortunately I **can't** come today.",
+      "back": "Ich **kann** heute leider nicht kommen.",
+      "note": "Modal verbs: können, müssen, wollen. nicht goes just before the infinitive at the end.",
+      "priority": 1
+    },
+    {
+      "front": "I **have to** work today.",
+      "back": "Ich **muss** heute arbeiten.",
+      "note": "Modal verbs: können, müssen, wollen. ich muss: no -e, and ü becomes u in the singular.",
+      "priority": 1
+    },
+    {
+      "front": "You **have to** pay the bill. (one friend)",
+      "back": "Du **musst** die Rechnung bezahlen.",
+      "note": "Modal verbs: können, müssen, wollen. du musst: u, and -st.",
+      "priority": 1
+    },
+    {
+      "front": "He **has to** write a letter.",
+      "back": "Er **muss** einen Brief schreiben.",
+      "note": "Modal verbs: können, müssen, wollen. er muss, the same as ich muss.",
+      "priority": 1
+    },
+    {
+      "front": "She **has to** ask a doctor.",
+      "back": "Sie **muss** einen Arzt fragen.",
+      "note": "Modal verbs: können, müssen, wollen. sie muss + the infinitive fragen at the end.",
+      "priority": 1
+    },
+    {
+      "front": "We **have to** wait.",
+      "back": "Wir **müssen** warten.",
+      "note": "Modal verbs: können, müssen, wollen. wir müssen: the plural keeps the ü.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **have to** work tomorrow? (several friends)",
+      "back": "**Müsst** ihr morgen arbeiten?",
+      "note": "Modal verbs: können, müssen, wollen. ihr müsst: ü plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "You **don't have to** come. (one friend)",
+      "back": "Du **musst** nicht kommen.",
+      "note": "Modal verbs: können, müssen, wollen. nicht müssen means don't have to, never mustn't.",
+      "priority": 1
+    },
+    {
+      "front": "I **want to** dance.",
+      "back": "Ich **will** tanzen.",
+      "note": "Modal verbs: können, müssen, wollen. ich will means I want: not the English future will.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **want to** stay? (one friend)",
+      "back": "**Willst** du bleiben?",
+      "note": "Modal verbs: können, müssen, wollen. du willst: o becomes i in the singular.",
+      "priority": 1
+    },
+    {
+      "front": "He **wants** a car.",
+      "back": "Er **will** ein Auto.",
+      "note": "Modal verbs: können, müssen, wollen. er will, no -t. wollen can take just an object, with no infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "My son **wants to** play football.",
+      "back": "Mein Sohn **will** Fußball spielen.",
+      "note": "Modal verbs: können, müssen, wollen. er will + spielen at the end.",
+      "priority": 1
+    },
+    {
+      "front": "We **want to** go on holiday.",
+      "back": "Wir **wollen** Urlaub machen.",
+      "note": "Modal verbs: können, müssen, wollen. wir wollen. Urlaub machen: to go on holiday.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **want to** sing? (several friends)",
+      "back": "**Wollt** ihr singen?",
+      "note": "Modal verbs: können, müssen, wollen. ihr wollt: o plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "They **want to** stay here.",
+      "back": "Sie **wollen** hier bleiben.",
+      "note": "Modal verbs: können, müssen, wollen. sie wollen: the plural keeps the o.",
+      "priority": 1
+    },
+    {
+      "front": "I can **swim** well.",
+      "back": "Ich kann gut **schwimmen**.",
+      "note": "The verb bracket: the infinitive at the end. The modal stands second and the infinitive goes to the very end; together they bracket the sentence.",
+      "priority": 1
+    },
+    {
+      "front": "We have to **buy** bread today.",
+      "back": "Wir müssen heute Brot **kaufen**.",
+      "note": "The verb bracket: the infinitive at the end. Everything else goes inside the bracket: müssen … kaufen.",
+      "priority": 1
+    },
+    {
+      "front": "She wants to **visit** her grandma on Sunday.",
+      "back": "Sie will am Sonntag ihre Oma **besuchen**.",
+      "note": "The verb bracket: the infinitive at the end. The infinitive comes last, after the time and the object.",
+      "priority": 1
+    },
+    {
+      "front": "Today I have to **write** a letter.",
+      "back": "Heute muss ich einen Brief **schreiben**.",
+      "note": "The verb bracket: the infinitive at the end. heute first, the modal second, ich third, the infinitive last.",
+      "priority": 1
+    },
+    {
+      "front": "Can you **understand** the question? (one friend)",
+      "back": "Kannst du die Frage **verstehen**?",
+      "note": "The verb bracket: the infinitive at the end. In a yes/no question the modal opens and the infinitive closes.",
+      "priority": 1
+    },
+    {
+      "front": "Why do you want to **stay**? (one friend)",
+      "back": "Warum willst du **bleiben**?",
+      "note": "The verb bracket: the infinitive at the end. Question word, modal, subject, then the infinitive at the end.",
+      "priority": 1
+    },
+    {
+      "front": "I don't want to **wait**.",
+      "back": "Ich will nicht **warten**.",
+      "note": "The verb bracket: the infinitive at the end. nicht stays before the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "The work can **wait**.",
+      "back": "Die Arbeit kann **warten**.",
+      "note": "The verb bracket: the infinitive at the end. kann second, warten last.",
+      "priority": 1
+    },
+    {
+      "front": "On Monday we have to **work** at eight.",
+      "back": "Am Montag müssen wir um acht **arbeiten**.",
+      "note": "The verb bracket: the infinitive at the end. The day first, the modal second, wir, the time, then the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "Do you want to **go** on holiday in July? (formal)",
+      "back": "Wollen Sie im Juli Urlaub **machen**?",
+      "note": "The verb bracket: the infinitive at the end. Urlaub machen splits: Urlaub inside the bracket, machen at the end.",
+      "priority": 1
+    },
+    {
+      "front": "He can't **read** the letter.",
+      "back": "Er kann den Brief nicht **lesen**.",
+      "note": "The verb bracket: the infinitive at the end. nicht after the definite object, before the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "We have to **pay** the bill.",
+      "back": "Wir müssen die Rechnung **bezahlen**.",
+      "note": "The verb bracket: the infinitive at the end. müssen second, bezahlen last.",
+      "priority": 1
+    },
+    {
+      "front": "My father wants to **sing** today.",
+      "back": "Mein Vater will heute **singen**.",
+      "note": "The verb bracket: the infinitive at the end. The infinitive is never in second place: it waits for the end.",
+      "priority": 1
+    },
+    {
+      "front": "Who can **dance**?",
+      "back": "Wer kann **tanzen**?",
+      "note": "The verb bracket: the infinitive at the end. wer, the modal, then the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "The child can **read**.",
+      "back": "Das Kind kann **lesen**.",
+      "note": "The verb bracket: the infinitive at the end. The infinitive keeps its plain form: lesen, never liest.",
+      "priority": 1
+    }
+  ]
+}

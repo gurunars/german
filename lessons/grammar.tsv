@@ -24,3 +24,5 @@ time.months	11	The months, and im for a month
 date.ordinal	11	Dates: der dritte Mai, am dritten Mai
 prep.acc	12	Prepositions with the accusative: für, ohne, durch, gegen, um
 pronoun.acc	12	Accusative pronouns: mich, dich, ihn…
+modal.1	13	Modal verbs: können, müssen, wollen
+verb.bracket	13	The verb bracket: the infinitive at the end

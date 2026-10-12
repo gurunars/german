@@ -107,6 +107,78 @@
    ]
   }
  },
+ "Arbeit": {
+  "all": [
+   "Arbeit",
+   "Arbeiten"
+  ],
+  "english": "work",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Arbeiten"
+   ],
+   "acc.sg": [
+    "Arbeit"
+   ],
+   "dat.pl": [
+    "Arbeiten"
+   ],
+   "dat.sg": [
+    "Arbeit"
+   ],
+   "gen.sg": [
+    "Arbeit"
+   ],
+   "nom.pl": [
+    "Arbeiten"
+   ],
+   "nom.sg": [
+    "Arbeit"
+   ]
+  }
+ },
+ "Arzt": {
+  "all": [
+   "Artzt",
+   "Arzt",
+   "Arzte",
+   "Arztes",
+   "Arzts",
+   "Ärzte",
+   "Ärzten",
+   "Ärztin"
+  ],
+  "english": "doctor",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Ärzte"
+   ],
+   "acc.sg": [
+    "Arzt"
+   ],
+   "dat.pl": [
+    "Ärzten"
+   ],
+   "dat.sg": [
+    "Arzt",
+    "Arzte"
+   ],
+   "gen.sg": [
+    "Arztes",
+    "Arzts"
+   ],
+   "nom.pl": [
+    "Ärzte"
+   ],
+   "nom.sg": [
+    "Arzt"
+   ]
+  }
+ },
  "August": {
   "all": [
    "August",
@@ -328,6 +400,46 @@
    ],
    "nom.sg": [
     "Blume"
+   ]
+  }
+ },
+ "Brief": {
+  "all": [
+   "Brief",
+   "Briefchen",
+   "Briefe",
+   "Briefen",
+   "Brieferl",
+   "Briefes",
+   "Brieflein",
+   "Briefs"
+  ],
+  "english": "letter",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Briefe"
+   ],
+   "acc.sg": [
+    "Brief"
+   ],
+   "dat.pl": [
+    "Briefen"
+   ],
+   "dat.sg": [
+    "Brief",
+    "Briefe"
+   ],
+   "gen.sg": [
+    "Briefes",
+    "Briefs"
+   ],
+   "nom.pl": [
+    "Briefe"
+   ],
+   "nom.sg": [
+    "Brief"
    ]
   }
  },
@@ -1448,6 +1560,39 @@
    ],
    "nom.sg": [
     "Geschwister"
+   ]
+  }
+ },
+ "Gitarre": {
+  "all": [
+   "Gitarre",
+   "Gitarren",
+   "Guitarre"
+  ],
+  "english": "guitar",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Gitarren"
+   ],
+   "acc.sg": [
+    "Gitarre"
+   ],
+   "dat.pl": [
+    "Gitarren"
+   ],
+   "dat.sg": [
+    "Gitarre"
+   ],
+   "gen.sg": [
+    "Gitarre"
+   ],
+   "nom.pl": [
+    "Gitarren"
+   ],
+   "nom.sg": [
+    "Gitarre"
    ]
   }
  },
@@ -2992,6 +3137,38 @@
    ]
   }
  },
+ "Rechnung": {
+  "all": [
+   "Rechnung",
+   "Rechnungen"
+  ],
+  "english": "bill",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Rechnungen"
+   ],
+   "acc.sg": [
+    "Rechnung"
+   ],
+   "dat.pl": [
+    "Rechnungen"
+   ],
+   "dat.sg": [
+    "Rechnung"
+   ],
+   "gen.sg": [
+    "Rechnung"
+   ],
+   "nom.pl": [
+    "Rechnungen"
+   ],
+   "nom.sg": [
+    "Rechnung"
+   ]
+  }
+ },
  "Samstag": {
   "all": [
    "Samstag",
@@ -3634,6 +3811,43 @@
    ]
   }
  },
+ "Urlaub": {
+  "all": [
+   "Urlaub",
+   "Urlaube",
+   "Urlauben",
+   "Urlaubes",
+   "Urlaubs"
+  ],
+  "english": "holiday, vacation",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Urlaube"
+   ],
+   "acc.sg": [
+    "Urlaub"
+   ],
+   "dat.pl": [
+    "Urlauben"
+   ],
+   "dat.sg": [
+    "Urlaub",
+    "Urlaube"
+   ],
+   "gen.sg": [
+    "Urlaubes",
+    "Urlaubs"
+   ],
+   "nom.pl": [
+    "Urlaube"
+   ],
+   "nom.sg": [
+    "Urlaub"
+   ]
+  }
+ },
  "Vater": {
   "all": [
    "Vater",
@@ -4241,6 +4455,55 @@
    ]
   }
  },
+ "bezahlen": {
+  "all": [
+   "bezahl",
+   "bezahle",
+   "bezahlen",
+   "bezahlend",
+   "bezahlest",
+   "bezahlet",
+   "bezahlst",
+   "bezahlt",
+   "bezahlte",
+   "bezahlten",
+   "bezahltest",
+   "bezahltet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to pay",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "bezahl",
+    "bezahle"
+   ],
+   "perf.er": [
+    "hat bezahlt"
+   ],
+   "pres.du": [
+    "bezahlst"
+   ],
+   "pres.er": [
+    "bezahlt"
+   ],
+   "pres.ich": [
+    "bezahle"
+   ],
+   "pres.ihr": [
+    "bezahlt"
+   ],
+   "pres.wir": [
+    "bezahlen"
+   ],
+   "pret.er": [
+    "bezahlte"
+   ]
+  }
+ },
  "billig": {
   "all": [
    "am",
@@ -4324,6 +4587,59 @@
    ],
    "weak.nom.m": [
     "der billige"
+   ]
+  }
+ },
+ "bleiben": {
+  "all": [
+   "beleiben",
+   "bleib",
+   "bleibe",
+   "bleiben",
+   "bleibend",
+   "bleibest",
+   "bleibet",
+   "bleibst",
+   "bleibt",
+   "blieb",
+   "bliebe",
+   "blieben",
+   "bliebest",
+   "bliebet",
+   "bliebst",
+   "bliebt",
+   "geblieben",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to stay",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "bleib",
+    "bleibe"
+   ],
+   "perf.er": [
+    "ist geblieben"
+   ],
+   "pres.du": [
+    "bleibst"
+   ],
+   "pres.er": [
+    "bleibt"
+   ],
+   "pres.ich": [
+    "bleibe"
+   ],
+   "pres.ihr": [
+    "bleibt"
+   ],
+   "pres.wir": [
+    "bleiben"
+   ],
+   "pret.er": [
+    "blieb"
    ]
   }
  },
@@ -6272,6 +6588,57 @@
    ]
   }
  },
+ "können": {
+  "all": [
+   "gekonnt",
+   "haben",
+   "habest",
+   "habet",
+   "kann",
+   "kannst",
+   "konnte",
+   "konnten",
+   "konntest",
+   "konntet",
+   "könne",
+   "können",
+   "könnend",
+   "könnest",
+   "könnet",
+   "könnt",
+   "könnte",
+   "könnten",
+   "könntest",
+   "könntet",
+   "werdest"
+  ],
+  "english": "can, to be able to",
+  "pos": "verb",
+  "slots": {
+   "perf.er": [
+    "hat gekonnt",
+    "hat können"
+   ],
+   "pres.du": [
+    "kannst"
+   ],
+   "pres.er": [
+    "kann"
+   ],
+   "pres.ich": [
+    "kann"
+   ],
+   "pres.ihr": [
+    "könnt"
+   ],
+   "pres.wir": [
+    "können"
+   ],
+   "pret.er": [
+    "konnte"
+   ]
+  }
+ },
  "lassen": {
   "all": [
    "gelassen",
@@ -7437,6 +7804,59 @@
    ]
   }
  },
+ "schreiben": {
+  "all": [
+   "geschrieben",
+   "haben",
+   "habest",
+   "habet",
+   "schreib",
+   "schreibe",
+   "schreiben",
+   "schreibend",
+   "schreibest",
+   "schreibet",
+   "schreibst",
+   "schreibt",
+   "schrieb",
+   "schriebe",
+   "schrieben",
+   "schriebest",
+   "schriebet",
+   "schriebst",
+   "schriebt",
+   "werdest"
+  ],
+  "english": "to write",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schreib",
+    "schreibe"
+   ],
+   "perf.er": [
+    "hat geschrieben"
+   ],
+   "pres.du": [
+    "schreibst"
+   ],
+   "pres.er": [
+    "schreibt"
+   ],
+   "pres.ich": [
+    "schreibe"
+   ],
+   "pres.ihr": [
+    "schreibt"
+   ],
+   "pres.wir": [
+    "schreiben"
+   ],
+   "pret.er": [
+    "schrieb"
+   ]
+  }
+ },
  "schwierig": {
   "all": [
    "am",
@@ -7802,6 +8222,62 @@
    ]
   }
  },
+ "singen": {
+  "all": [
+   "gesungen",
+   "haben",
+   "habest",
+   "habet",
+   "sang",
+   "sangen",
+   "sangst",
+   "sangt",
+   "sing",
+   "singe",
+   "singen",
+   "singend",
+   "singest",
+   "singet",
+   "singst",
+   "singt",
+   "sänge",
+   "sängen",
+   "sängest",
+   "sänget",
+   "sängst",
+   "sängt",
+   "werdest"
+  ],
+  "english": "to sing",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "sing",
+    "singe"
+   ],
+   "perf.er": [
+    "hat gesungen"
+   ],
+   "pres.du": [
+    "singst"
+   ],
+   "pres.er": [
+    "singt"
+   ],
+   "pres.ich": [
+    "singe"
+   ],
+   "pres.ihr": [
+    "singt"
+   ],
+   "pres.wir": [
+    "singen"
+   ],
+   "pret.er": [
+    "sang"
+   ]
+  }
+ },
  "spielen": {
   "all": [
    "gespielt",
@@ -7991,6 +8467,59 @@
    ],
    "weak.nom.m": [
     "der späte"
+   ]
+  }
+ },
+ "tanzen": {
+  "all": [
+   "getanzt",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "tanz",
+   "tanze",
+   "tanzen",
+   "tanzend",
+   "tanzest",
+   "tanzet",
+   "tanzt",
+   "tanzte",
+   "tanzten",
+   "tanztest",
+   "tanztet",
+   "werdest"
+  ],
+  "english": "to dance",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "tanz",
+    "tanze"
+   ],
+   "perf.er": [
+    "hat getanzt",
+    "ist getanzt"
+   ],
+   "pres.du": [
+    "tanzt"
+   ],
+   "pres.er": [
+    "tanzt"
+   ],
+   "pres.ich": [
+    "tanze"
+   ],
+   "pres.ihr": [
+    "tanzt"
+   ],
+   "pres.wir": [
+    "tanzen"
+   ],
+   "pret.er": [
+    "tanzte"
    ]
   }
  },
@@ -8223,6 +8752,64 @@
    ]
   }
  },
+ "verstehen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "verstand",
+   "verstanden",
+   "verstandest",
+   "verstandet",
+   "verstandst",
+   "versteh",
+   "verstehe",
+   "verstehen",
+   "verstehend",
+   "verstehest",
+   "verstehet",
+   "verstehst",
+   "versteht",
+   "verstände",
+   "verständen",
+   "verständest",
+   "verständet",
+   "verstünde",
+   "verstünden",
+   "verstündest",
+   "verstündet",
+   "werdest"
+  ],
+  "english": "to understand",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "versteh",
+    "verstehe"
+   ],
+   "perf.er": [
+    "hat verstanden"
+   ],
+   "pres.du": [
+    "verstehst"
+   ],
+   "pres.er": [
+    "versteht"
+   ],
+   "pres.ich": [
+    "verstehe"
+   ],
+   "pres.ihr": [
+    "versteht"
+   ],
+   "pres.wir": [
+    "verstehen"
+   ],
+   "pret.er": [
+    "verstand"
+   ]
+  }
+ },
  "warm": {
   "all": [
    "am",
@@ -8307,6 +8894,54 @@
    ],
    "weak.nom.m": [
     "der warme"
+   ]
+  }
+ },
+ "warten": {
+  "all": [
+   "gewartet",
+   "haben",
+   "habest",
+   "habet",
+   "wart",
+   "warte",
+   "warten",
+   "wartend",
+   "wartest",
+   "wartet",
+   "wartete",
+   "warteten",
+   "wartetest",
+   "wartetet",
+   "werdest"
+  ],
+  "english": "to wait",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "wart",
+    "warte"
+   ],
+   "perf.er": [
+    "hat gewartet"
+   ],
+   "pres.du": [
+    "wartest"
+   ],
+   "pres.er": [
+    "wartet"
+   ],
+   "pres.ich": [
+    "warte"
+   ],
+   "pres.ihr": [
+    "wartet"
+   ],
+   "pres.wir": [
+    "warten"
+   ],
+   "pret.er": [
+    "wartete"
    ]
   }
  },

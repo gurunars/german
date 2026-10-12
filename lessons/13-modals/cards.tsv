@@ -1,0 +1,37 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+modal.1	können	pres.ich	I **can** swim.	Ich **kann** schwimmen.	ich kann: modal verbs have no -e in the ich form, and the vowel changes in the singular.
+modal.1	können	pres.du	**Can** you sing? (one friend)	**Kannst** du singen?	du kannst: a, not ö, in the singular.
+modal.1	können	pres.er	She **can** play the guitar well.	Sie **kann** gut Gitarre spielen.	er/sie kann: no -t, the same as ich kann.
+modal.1	können	pres.wir	We **can** wait.	Wir **können** warten.	wir können: the plural keeps the ö of the infinitive.
+modal.1	können	pres.ihr	**Can** you dance? (several friends)	**Könnt** ihr tanzen?	ihr könnt: ö plus -t.
+modal.1	können	pres.wir	**Can** you understand me? (formal)	**Können** Sie mich verstehen?	Sie können, then the infinitive at the end.
+modal.1	können	pres.ich	Unfortunately I **can't** come today.	Ich **kann** heute leider nicht kommen.	nicht goes just before the infinitive at the end.
+modal.1	müssen	pres.ich	I **have to** work today.	Ich **muss** heute arbeiten.	ich muss: no -e, and ü becomes u in the singular.
+modal.1	müssen	pres.du	You **have to** pay the bill. (one friend)	Du **musst** die Rechnung bezahlen.	du musst: u, and -st.
+modal.1	müssen	pres.er	He **has to** write a letter.	Er **muss** einen Brief schreiben.	er muss, the same as ich muss.
+modal.1	müssen	pres.er	She **has to** ask a doctor.	Sie **muss** einen Arzt fragen.	sie muss + the infinitive fragen at the end.
+modal.1	müssen	pres.wir	We **have to** wait.	Wir **müssen** warten.	wir müssen: the plural keeps the ü.
+modal.1	müssen	pres.ihr	**Do** you **have to** work tomorrow? (several friends)	**Müsst** ihr morgen arbeiten?	ihr müsst: ü plus -t.
+modal.1	müssen	pres.du	You **don't have to** come. (one friend)	Du **musst** nicht kommen.	nicht müssen means don't have to, never mustn't.
+modal.1	wollen	pres.ich	I **want to** dance.	Ich **will** tanzen.	ich will means I want: not the English future will.
+modal.1	wollen	pres.du	**Do** you **want to** stay? (one friend)	**Willst** du bleiben?	du willst: o becomes i in the singular.
+modal.1	wollen	pres.er	He **wants** a car.	Er **will** ein Auto.	er will, no -t. wollen can take just an object, with no infinitive.
+modal.1	wollen	pres.er	My son **wants to** play football.	Mein Sohn **will** Fußball spielen.	er will + spielen at the end.
+modal.1	wollen	pres.wir	We **want to** go on holiday.	Wir **wollen** Urlaub machen.	wir wollen. Urlaub machen: to go on holiday.
+modal.1	wollen	pres.ihr	**Do** you **want to** sing? (several friends)	**Wollt** ihr singen?	ihr wollt: o plus -t.
+modal.1	wollen	pres.wir	They **want to** stay here.	Sie **wollen** hier bleiben.	sie wollen: the plural keeps the o.
+verb.bracket	-	-	I can **swim** well.	Ich kann gut **schwimmen**.	The modal stands second and the infinitive goes to the very end; together they bracket the sentence.
+verb.bracket	-	-	We have to **buy** bread today.	Wir müssen heute Brot **kaufen**.	Everything else goes inside the bracket: müssen … kaufen.
+verb.bracket	-	-	She wants to **visit** her grandma on Sunday.	Sie will am Sonntag ihre Oma **besuchen**.	The infinitive comes last, after the time and the object.
+verb.bracket	-	-	Today I have to **write** a letter.	Heute muss ich einen Brief **schreiben**.	heute first, the modal second, ich third, the infinitive last.
+verb.bracket	-	-	Can you **understand** the question? (one friend)	Kannst du die Frage **verstehen**?	In a yes/no question the modal opens and the infinitive closes.
+verb.bracket	-	-	Why do you want to **stay**? (one friend)	Warum willst du **bleiben**?	Question word, modal, subject, then the infinitive at the end.
+verb.bracket	-	-	I don't want to **wait**.	Ich will nicht **warten**.	nicht stays before the infinitive.
+verb.bracket	-	-	The work can **wait**.	Die Arbeit kann **warten**.	kann second, warten last.
+verb.bracket	-	-	On Monday we have to **work** at eight.	Am Montag müssen wir um acht **arbeiten**.	The day first, the modal second, wir, the time, then the infinitive.
+verb.bracket	-	-	Do you want to **go** on holiday in July? (formal)	Wollen Sie im Juli Urlaub **machen**?	Urlaub machen splits: Urlaub inside the bracket, machen at the end.
+verb.bracket	-	-	He can't **read** the letter.	Er kann den Brief nicht **lesen**.	nicht after the definite object, before the infinitive.
+verb.bracket	-	-	We have to **pay** the bill.	Wir müssen die Rechnung **bezahlen**.	müssen second, bezahlen last.
+verb.bracket	-	-	My father wants to **sing** today.	Mein Vater will heute **singen**.	The infinitive is never in second place: it waits for the end.
+verb.bracket	-	-	Who can **dance**?	Wer kann **tanzen**?	wer, the modal, then the infinitive.
+verb.bracket	-	-	The child can **read**.	Das Kind kann **lesen**.	The infinitive keeps its plain form: lesen, never liest.
