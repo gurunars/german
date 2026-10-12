@@ -1296,6 +1296,25 @@
    ]
   }
  },
+ "Ferien": {
+  "all": [
+   "Ferien"
+  ],
+  "english": "holidays",
+  "gender": "pl",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Ferien"
+   ],
+   "dat.pl": [
+    "Ferien"
+   ],
+   "nom.pl": [
+    "Ferien"
+   ]
+  }
+ },
  "Film": {
   "all": [
    "Film",
@@ -1440,6 +1459,43 @@
    ],
    "nom.sg": [
     "Fleisch"
+   ]
+  }
+ },
+ "Flugzeug": {
+  "all": [
+   "Flugzeug",
+   "Flugzeuge",
+   "Flugzeugen",
+   "Flugzeuges",
+   "Flugzeugs"
+  ],
+  "english": "aeroplane",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Flugzeuge"
+   ],
+   "acc.sg": [
+    "Flugzeug"
+   ],
+   "dat.pl": [
+    "Flugzeugen"
+   ],
+   "dat.sg": [
+    "Flugzeug",
+    "Flugzeuge"
+   ],
+   "gen.sg": [
+    "Flugzeuges",
+    "Flugzeugs"
+   ],
+   "nom.pl": [
+    "Flugzeuge"
+   ],
+   "nom.sg": [
+    "Flugzeug"
    ]
   }
  },
@@ -1987,6 +2043,42 @@
    ],
    "nom.sg": [
     "Geschenk"
+   ]
+  }
+ },
+ "Geschichte": {
+  "all": [
+   "Geschichtchen",
+   "Geschichte",
+   "Geschichten",
+   "Geschichterl",
+   "Geschichtl",
+   "Geschichtlein"
+  ],
+  "english": "story; history",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Geschichten"
+   ],
+   "acc.sg": [
+    "Geschichte"
+   ],
+   "dat.pl": [
+    "Geschichten"
+   ],
+   "dat.sg": [
+    "Geschichte"
+   ],
+   "gen.sg": [
+    "Geschichte"
+   ],
+   "nom.pl": [
+    "Geschichten"
+   ],
+   "nom.sg": [
+    "Geschichte"
    ]
   }
  },
@@ -5866,6 +5958,111 @@
    ]
   }
  },
+ "abfahren": {
+  "all": [
+   "ab",
+   "abfahre",
+   "abfahren",
+   "abfahrend",
+   "abfahrest",
+   "abfahret",
+   "abfahrt",
+   "abfuhr",
+   "abfuhren",
+   "abfuhrst",
+   "abfuhrt",
+   "abfährst",
+   "abfährt",
+   "abführe",
+   "abführen",
+   "abführest",
+   "abführet",
+   "abführst",
+   "abführt",
+   "abgefahren",
+   "abzufahren",
+   "fahr",
+   "fahre",
+   "fahren",
+   "fahrest",
+   "fahret",
+   "fahrt",
+   "fuhr",
+   "fuhren",
+   "fuhrst",
+   "fuhrt",
+   "fährst",
+   "fährt",
+   "führe",
+   "führen",
+   "führest",
+   "führet",
+   "führst",
+   "führt",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to leave, to depart",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "fahr ab",
+    "fahre ab"
+   ],
+   "imp.ihr": [
+    "fahrt ab"
+   ],
+   "perf.du": [
+    "hast abgefahren",
+    "bist abgefahren"
+   ],
+   "perf.er": [
+    "hat abgefahren",
+    "ist abgefahren"
+   ],
+   "perf.ich": [
+    "habe abgefahren",
+    "bin abgefahren"
+   ],
+   "perf.ihr": [
+    "habt abgefahren",
+    "seid abgefahren"
+   ],
+   "perf.wir": [
+    "haben abgefahren",
+    "sind abgefahren"
+   ],
+   "pres.du": [
+    "fährst ab",
+    "abfährst"
+   ],
+   "pres.er": [
+    "fährt ab",
+    "abfährt"
+   ],
+   "pres.ich": [
+    "fahre ab",
+    "abfahre"
+   ],
+   "pres.ihr": [
+    "fahrt ab",
+    "abfahrt"
+   ],
+   "pres.wir": [
+    "fahren ab",
+    "abfahren"
+   ],
+   "pret.er": [
+    "fuhr ab",
+    "abfuhr"
+   ]
+  }
+ },
  "abholen": {
   "all": [
    "ab",
@@ -6127,6 +6324,124 @@
    "pret.er": [
     "fing an",
     "anfing"
+   ]
+  }
+ },
+ "ankommen": {
+  "all": [
+   "an",
+   "angekommen",
+   "ankam",
+   "ankamen",
+   "ankamst",
+   "ankamt",
+   "ankomme",
+   "ankommen",
+   "ankommend",
+   "ankommest",
+   "ankommet",
+   "ankommst",
+   "ankommt",
+   "ankäme",
+   "ankämen",
+   "ankämest",
+   "ankämet",
+   "ankämst",
+   "ankämt",
+   "anzukommen",
+   "kam",
+   "kamen",
+   "kamst",
+   "kamt",
+   "komm",
+   "komme",
+   "kommen",
+   "kommest",
+   "kommet",
+   "kommst",
+   "kommt",
+   "käme",
+   "kämen",
+   "kämest",
+   "kämet",
+   "kämst",
+   "kämt",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to arrive",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "komm an",
+    "komme an"
+   ],
+   "imp.ihr": [
+    "kommt an"
+   ],
+   "konj2.du": [
+    "kämest an",
+    "kämst an",
+    "ankämest",
+    "ankämst"
+   ],
+   "konj2.er": [
+    "käme an",
+    "ankäme"
+   ],
+   "konj2.ich": [
+    "käme an",
+    "ankäme"
+   ],
+   "konj2.ihr": [
+    "kämet an",
+    "kämt an",
+    "ankämet",
+    "ankämt"
+   ],
+   "konj2.wir": [
+    "kämen an",
+    "ankämen"
+   ],
+   "perf.du": [
+    "bist angekommen"
+   ],
+   "perf.er": [
+    "ist angekommen"
+   ],
+   "perf.ich": [
+    "bin angekommen"
+   ],
+   "perf.ihr": [
+    "seid angekommen"
+   ],
+   "perf.wir": [
+    "sind angekommen"
+   ],
+   "pres.du": [
+    "kommst an",
+    "ankommst"
+   ],
+   "pres.er": [
+    "kommt an",
+    "ankommt"
+   ],
+   "pres.ich": [
+    "komme an",
+    "ankomme"
+   ],
+   "pres.ihr": [
+    "kommt an",
+    "ankommt"
+   ],
+   "pres.wir": [
+    "kommen an",
+    "ankommen"
+   ],
+   "pret.er": [
+    "kam an",
+    "ankam"
    ]
   }
  },
@@ -6650,6 +6965,88 @@
    ]
   }
  },
+ "aufwachen": {
+  "all": [
+   "auf",
+   "aufgewacht",
+   "aufwache",
+   "aufwachen",
+   "aufwachend",
+   "aufwachest",
+   "aufwachet",
+   "aufwachst",
+   "aufwacht",
+   "aufwachte",
+   "aufwachten",
+   "aufwachtest",
+   "aufwachtet",
+   "aufzuwachen",
+   "sein",
+   "seist",
+   "wach",
+   "wache",
+   "wachen",
+   "wachest",
+   "wachet",
+   "wachst",
+   "wacht",
+   "wachte",
+   "wachten",
+   "wachtest",
+   "wachtet",
+   "werdest"
+  ],
+  "english": "to wake up",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "wach auf",
+    "wache auf"
+   ],
+   "imp.ihr": [
+    "wacht auf"
+   ],
+   "perf.du": [
+    "bist aufgewacht"
+   ],
+   "perf.er": [
+    "ist aufgewacht"
+   ],
+   "perf.ich": [
+    "bin aufgewacht"
+   ],
+   "perf.ihr": [
+    "seid aufgewacht"
+   ],
+   "perf.wir": [
+    "sind aufgewacht"
+   ],
+   "pres.du": [
+    "wachst auf",
+    "aufwachst"
+   ],
+   "pres.er": [
+    "wacht auf",
+    "aufwacht"
+   ],
+   "pres.ich": [
+    "wache auf",
+    "aufwache"
+   ],
+   "pres.ihr": [
+    "wacht auf",
+    "aufwacht"
+   ],
+   "pres.wir": [
+    "wachen auf",
+    "aufwachen"
+   ],
+   "pret.er": [
+    "wachte auf",
+    "aufwachte"
+   ]
+  }
+ },
  "ausfüllen": {
   "all": [
    "aus",
@@ -6813,6 +7210,84 @@
    "pret.er": [
     "machte aus",
     "ausmachte"
+   ]
+  }
+ },
+ "bekommen": {
+  "all": [
+   "bekam",
+   "bekamen",
+   "bekamst",
+   "bekamt",
+   "bekomm",
+   "bekomme",
+   "bekommen",
+   "bekommend",
+   "bekommest",
+   "bekommet",
+   "bekommst",
+   "bekommt",
+   "bekäme",
+   "bekämen",
+   "bekämest",
+   "bekämet",
+   "bekämst",
+   "bekämt",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to get, to receive",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "bekomm",
+    "bekomme"
+   ],
+   "imp.ihr": [
+    "bekommt"
+   ],
+   "perf.du": [
+    "hast bekommen",
+    "bist bekommen"
+   ],
+   "perf.er": [
+    "hat bekommen",
+    "ist bekommen"
+   ],
+   "perf.ich": [
+    "habe bekommen",
+    "bin bekommen"
+   ],
+   "perf.ihr": [
+    "habt bekommen",
+    "seid bekommen"
+   ],
+   "perf.wir": [
+    "haben bekommen",
+    "sind bekommen"
+   ],
+   "pres.du": [
+    "bekommst"
+   ],
+   "pres.er": [
+    "bekommt"
+   ],
+   "pres.ich": [
+    "bekomme"
+   ],
+   "pres.ihr": [
+    "bekommt"
+   ],
+   "pres.wir": [
+    "bekommen"
+   ],
+   "pret.er": [
+    "bekam"
    ]
   }
  },
@@ -7667,6 +8142,95 @@
    ]
   }
  },
+ "einschlafen": {
+  "all": [
+   "eingeschlafen",
+   "einschlafe",
+   "einschlafen",
+   "einschlafend",
+   "einschlafest",
+   "einschlafet",
+   "einschlaft",
+   "einschlief",
+   "einschliefe",
+   "einschliefen",
+   "einschliefest",
+   "einschliefet",
+   "einschliefst",
+   "einschlieft",
+   "einschläfst",
+   "einschläft",
+   "einzuschlafen",
+   "schlaf",
+   "schlafe",
+   "schlafen",
+   "schlafest",
+   "schlafet",
+   "schlaft",
+   "schlief",
+   "schliefe",
+   "schliefen",
+   "schliefest",
+   "schliefet",
+   "schliefst",
+   "schlieft",
+   "schläfst",
+   "schläft",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to fall asleep",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schlaf ein",
+    "schlafe ein"
+   ],
+   "imp.ihr": [
+    "schlaft ein"
+   ],
+   "perf.du": [
+    "bist eingeschlafen"
+   ],
+   "perf.er": [
+    "ist eingeschlafen"
+   ],
+   "perf.ich": [
+    "bin eingeschlafen"
+   ],
+   "perf.ihr": [
+    "seid eingeschlafen"
+   ],
+   "perf.wir": [
+    "sind eingeschlafen"
+   ],
+   "pres.du": [
+    "schläfst ein",
+    "einschläfst"
+   ],
+   "pres.er": [
+    "schläft ein",
+    "einschläft"
+   ],
+   "pres.ich": [
+    "schlafe ein",
+    "einschlafe"
+   ],
+   "pres.ihr": [
+    "schlaft ein",
+    "einschlaft"
+   ],
+   "pres.wir": [
+    "schlafen ein",
+    "einschlafen"
+   ],
+   "pret.er": [
+    "schlief ein",
+    "einschlief"
+   ]
+  }
+ },
  "erklären": {
   "all": [
    "erklär",
@@ -7728,6 +8292,70 @@
    ],
    "pret.er": [
     "erklärte"
+   ]
+  }
+ },
+ "erzählen": {
+  "all": [
+   "erzähl",
+   "erzähle",
+   "erzählen",
+   "erzählend",
+   "erzählest",
+   "erzählet",
+   "erzählst",
+   "erzählt",
+   "erzählte",
+   "erzählten",
+   "erzähltest",
+   "erzähltet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to tell (a story)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "erzähl",
+    "erzähle"
+   ],
+   "imp.ihr": [
+    "erzählt"
+   ],
+   "perf.du": [
+    "hast erzählt"
+   ],
+   "perf.er": [
+    "hat erzählt"
+   ],
+   "perf.ich": [
+    "habe erzählt"
+   ],
+   "perf.ihr": [
+    "habt erzählt"
+   ],
+   "perf.wir": [
+    "haben erzählt"
+   ],
+   "pres.du": [
+    "erzählst"
+   ],
+   "pres.er": [
+    "erzählt"
+   ],
+   "pres.ich": [
+    "erzähle"
+   ],
+   "pres.ihr": [
+    "erzählt"
+   ],
+   "pres.wir": [
+    "erzählen"
+   ],
+   "pret.er": [
+    "erzählte"
    ]
   }
  },
@@ -8083,6 +8711,85 @@
    ],
    "pret.er": [
     "fand"
+   ]
+  }
+ },
+ "fliegen": {
+  "all": [
+   "flieg",
+   "fliege",
+   "fliegen",
+   "fliegend",
+   "fliegest",
+   "flieget",
+   "fliegst",
+   "fliegt",
+   "flog",
+   "flogen",
+   "flogst",
+   "flogt",
+   "flöge",
+   "flögen",
+   "flögest",
+   "flöget",
+   "flögst",
+   "flögt",
+   "geflogen",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to fly",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "flieg",
+    "fliege"
+   ],
+   "imp.ihr": [
+    "fliegt"
+   ],
+   "perf.du": [
+    "hast geflogen",
+    "bist geflogen"
+   ],
+   "perf.er": [
+    "hat geflogen",
+    "ist geflogen"
+   ],
+   "perf.ich": [
+    "habe geflogen",
+    "bin geflogen"
+   ],
+   "perf.ihr": [
+    "habt geflogen",
+    "seid geflogen"
+   ],
+   "perf.wir": [
+    "haben geflogen",
+    "sind geflogen"
+   ],
+   "pres.du": [
+    "fliegst"
+   ],
+   "pres.er": [
+    "fliegt"
+   ],
+   "pres.ich": [
+    "fliege"
+   ],
+   "pres.ihr": [
+    "fliegt"
+   ],
+   "pres.wir": [
+    "fliegen"
+   ],
+   "pret.er": [
+    "flog"
    ]
   }
  },
@@ -12053,6 +12760,78 @@
    ]
   }
  },
+ "passieren": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "passier",
+   "passiere",
+   "passieren",
+   "passierend",
+   "passierest",
+   "passieret",
+   "passierst",
+   "passiert",
+   "passierte",
+   "passierten",
+   "passiertest",
+   "passiertet",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to happen",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "passier",
+    "passiere"
+   ],
+   "imp.ihr": [
+    "passiert"
+   ],
+   "perf.du": [
+    "hast passiert",
+    "bist passiert"
+   ],
+   "perf.er": [
+    "hat passiert",
+    "ist passiert"
+   ],
+   "perf.ich": [
+    "habe passiert",
+    "bin passiert"
+   ],
+   "perf.ihr": [
+    "habt passiert",
+    "seid passiert"
+   ],
+   "perf.wir": [
+    "haben passiert",
+    "sind passiert"
+   ],
+   "pres.du": [
+    "passierst"
+   ],
+   "pres.er": [
+    "passiert"
+   ],
+   "pres.ich": [
+    "passiere"
+   ],
+   "pres.ihr": [
+    "passiert"
+   ],
+   "pres.wir": [
+    "passieren"
+   ],
+   "pret.er": [
+    "passierte"
+   ]
+  }
+ },
  "putzen": {
   "all": [
    "geputzt",
@@ -12240,6 +13019,69 @@
    ],
    "pret.er": [
     "regnete"
+   ]
+  }
+ },
+ "reisen": {
+  "all": [
+   "gereist",
+   "reis",
+   "reise",
+   "reisen",
+   "reisend",
+   "reisest",
+   "reiset",
+   "reist",
+   "reiste",
+   "reisten",
+   "reistest",
+   "reistet",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to travel",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "reis",
+    "reise"
+   ],
+   "imp.ihr": [
+    "reist"
+   ],
+   "perf.du": [
+    "bist gereist"
+   ],
+   "perf.er": [
+    "ist gereist"
+   ],
+   "perf.ich": [
+    "bin gereist"
+   ],
+   "perf.ihr": [
+    "seid gereist"
+   ],
+   "perf.wir": [
+    "sind gereist"
+   ],
+   "pres.du": [
+    "reist"
+   ],
+   "pres.er": [
+    "reist"
+   ],
+   "pres.ich": [
+    "reise"
+   ],
+   "pres.ihr": [
+    "reist"
+   ],
+   "pres.wir": [
+    "reisen"
+   ],
+   "pret.er": [
+    "reiste"
    ]
   }
  },
@@ -14098,6 +14940,109 @@
    ]
   }
  },
+ "umziehen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "um",
+   "umgezogen",
+   "umziehe",
+   "umziehen",
+   "umziehend",
+   "umziehest",
+   "umziehet",
+   "umziehst",
+   "umzieht",
+   "umzog",
+   "umzogen",
+   "umzogst",
+   "umzogt",
+   "umzuziehen",
+   "umzöge",
+   "umzögen",
+   "umzögest",
+   "umzöget",
+   "umzögst",
+   "umzögt",
+   "werdest",
+   "zieh",
+   "ziehe",
+   "ziehen",
+   "ziehest",
+   "ziehet",
+   "ziehst",
+   "zieht",
+   "zog",
+   "zogen",
+   "zogst",
+   "zogt",
+   "zöge",
+   "zögen",
+   "zögest",
+   "zöget",
+   "zögst",
+   "zögt"
+  ],
+  "english": "to move (house)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "zieh um",
+    "ziehe um"
+   ],
+   "imp.ihr": [
+    "zieht um"
+   ],
+   "perf.du": [
+    "hast umgezogen",
+    "bist umgezogen"
+   ],
+   "perf.er": [
+    "hat umgezogen",
+    "ist umgezogen"
+   ],
+   "perf.ich": [
+    "habe umgezogen",
+    "bin umgezogen"
+   ],
+   "perf.ihr": [
+    "habt umgezogen",
+    "seid umgezogen"
+   ],
+   "perf.wir": [
+    "haben umgezogen",
+    "sind umgezogen"
+   ],
+   "pres.du": [
+    "ziehst um",
+    "umziehst"
+   ],
+   "pres.er": [
+    "zieht um",
+    "umzieht"
+   ],
+   "pres.ich": [
+    "ziehe um",
+    "umziehe"
+   ],
+   "pres.ihr": [
+    "zieht um",
+    "umzieht"
+   ],
+   "pres.wir": [
+    "ziehen um",
+    "umziehen"
+   ],
+   "pret.er": [
+    "zog um",
+    "umzog"
+   ]
+  }
+ },
  "vergessen": {
   "all": [
    "haben",
@@ -14163,6 +15108,140 @@
    ],
    "pret.er": [
     "vergaß"
+   ]
+  }
+ },
+ "verkaufen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "verkauf",
+   "verkaufe",
+   "verkaufen",
+   "verkaufend",
+   "verkaufest",
+   "verkaufet",
+   "verkaufst",
+   "verkauft",
+   "verkaufte",
+   "verkauften",
+   "verkauftest",
+   "verkauftet",
+   "werdest"
+  ],
+  "english": "to sell",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "verkauf",
+    "verkaufe"
+   ],
+   "imp.ihr": [
+    "verkauft"
+   ],
+   "perf.du": [
+    "hast verkauft"
+   ],
+   "perf.er": [
+    "hat verkauft"
+   ],
+   "perf.ich": [
+    "habe verkauft"
+   ],
+   "perf.ihr": [
+    "habt verkauft"
+   ],
+   "perf.wir": [
+    "haben verkauft"
+   ],
+   "pres.du": [
+    "verkaufst"
+   ],
+   "pres.er": [
+    "verkauft"
+   ],
+   "pres.ich": [
+    "verkaufe"
+   ],
+   "pres.ihr": [
+    "verkauft"
+   ],
+   "pres.wir": [
+    "verkaufen"
+   ],
+   "pret.er": [
+    "verkaufte"
+   ]
+  }
+ },
+ "verlieren": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "verlier",
+   "verliere",
+   "verlieren",
+   "verlierend",
+   "verlierest",
+   "verlieret",
+   "verlierst",
+   "verliert",
+   "verlor",
+   "verloren",
+   "verlorst",
+   "verlort",
+   "verlöre",
+   "verlören",
+   "verlörest",
+   "verlöret",
+   "verlörst",
+   "verlört",
+   "werdest"
+  ],
+  "english": "to lose",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "verlier",
+    "verliere"
+   ],
+   "imp.ihr": [
+    "verliert"
+   ],
+   "perf.du": [
+    "hast verloren"
+   ],
+   "perf.er": [
+    "hat verloren"
+   ],
+   "perf.ich": [
+    "habe verloren"
+   ],
+   "perf.ihr": [
+    "habt verloren"
+   ],
+   "perf.wir": [
+    "haben verloren"
+   ],
+   "pres.du": [
+    "verlierst"
+   ],
+   "pres.er": [
+    "verliert"
+   ],
+   "pres.ich": [
+    "verliere"
+   ],
+   "pres.ihr": [
+    "verliert"
+   ],
+   "pres.wir": [
+    "verlieren"
+   ],
+   "pret.er": [
+    "verlor"
    ]
   }
  },
@@ -14322,6 +15401,80 @@
    ],
    "weak.nom.m": [
     "der vorsichtige"
+   ]
+  }
+ },
+ "wandern": {
+  "all": [
+   "gewandert",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "wander",
+   "wandere",
+   "wanderest",
+   "wanderet",
+   "wandern",
+   "wandernd",
+   "wanderst",
+   "wandert",
+   "wanderte",
+   "wanderten",
+   "wandertest",
+   "wandertet",
+   "wandre",
+   "wandrest",
+   "wandret",
+   "werdest"
+  ],
+  "english": "to hike",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "wandre",
+    "wander",
+    "wandere"
+   ],
+   "imp.ihr": [
+    "wandert"
+   ],
+   "perf.du": [
+    "bist gewandert"
+   ],
+   "perf.er": [
+    "ist gewandert"
+   ],
+   "perf.ich": [
+    "bin gewandert"
+   ],
+   "perf.ihr": [
+    "seid gewandert"
+   ],
+   "perf.wir": [
+    "sind gewandert"
+   ],
+   "pres.du": [
+    "wanderst"
+   ],
+   "pres.er": [
+    "wandert"
+   ],
+   "pres.ich": [
+    "wandre",
+    "wandere",
+    "wander"
+   ],
+   "pres.ihr": [
+    "wandert"
+   ],
+   "pres.wir": [
+    "wandern"
+   ],
+   "pret.er": [
+    "wanderte"
    ]
   }
  },

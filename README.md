@@ -66,6 +66,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 18 · Getting around: mit, nach, bei, von, zu, aus, seit](lessons/18-dative-prep.json) — 35 cards
 - [Lesson 19 · To me, to you: dative pronouns, es gibt, two objects](lessons/19-dative-pronouns.json) — 36 cards
 - [Lesson 20 · What I did: the perfect with haben](lessons/20-perfect-haben.json) — 37 cards
+- [Lesson 21 · Where I went: the perfect with sein; aufgestanden, verstanden](lessons/21-perfect-sein.json) — 33 cards
 
 ## Decks
 

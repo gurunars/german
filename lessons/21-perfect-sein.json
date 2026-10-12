@@ -1,0 +1,206 @@
+{
+  "name": "Lesson 21 · Where I went: the perfect with sein; aufgestanden, verstanden",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **went** home.",
+      "back": "Ich **bin** nach Hause **gegangen**.",
+      "note": "The perfect with sein: moving and changing. Verbs of moving from one place to another make their perfect with sein: bin … gegangen.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **come** by train? (one friend)",
+      "back": "**Bist** du mit dem Zug **gekommen**?",
+      "note": "The perfect with sein: moving and changing. kommen is movement, so sein: bist … gekommen.",
+      "priority": 1
+    },
+    {
+      "front": "She **flew** to Spain.",
+      "back": "Sie **ist** nach Spanien **geflogen**.",
+      "note": "The perfect with sein: moving and changing. fliegen: ist … geflogen.",
+      "priority": 1
+    },
+    {
+      "front": "We **travelled** to Italy.",
+      "back": "Wir **sind** nach Italien **gereist**.",
+      "note": "The perfect with sein: moving and changing. reisen is regular, ge…t, but it is movement, so sein.",
+      "priority": 1
+    },
+    {
+      "front": "We **drove** to Berlin.",
+      "back": "Wir **sind** mit dem Auto nach Berlin **gefahren**.",
+      "note": "The perfect with sein: moving and changing. fahren to somewhere takes sein. Only with an object (das Auto fahren) does it take haben.",
+      "priority": 1
+    },
+    {
+      "front": "They **ran** through the park.",
+      "back": "Sie **sind** durch den Park **gelaufen**.",
+      "note": "The perfect with sein: moving and changing. laufen: sind … gelaufen.",
+      "priority": 1
+    },
+    {
+      "front": "We **went hiking** at the weekend.",
+      "back": "Am Wochenende **sind** wir **gewandert**.",
+      "note": "The perfect with sein: moving and changing. wandern is moving on foot: sind gewandert.",
+      "priority": 1
+    },
+    {
+      "front": "I **have** never **flown**.",
+      "back": "Ich **bin** nie **geflogen**.",
+      "note": "The perfect with sein: moving and changing. nie inside the bracket, then geflogen.",
+      "priority": 1
+    },
+    {
+      "front": "We **flew**.",
+      "back": "Wir **sind** mit dem Flugzeug **geflogen**.",
+      "note": "The perfect with sein: moving and changing. mit dem Flugzeug: by plane. sind … geflogen.",
+      "priority": 1
+    },
+    {
+      "front": "He **stayed** at home.",
+      "back": "Er **ist** zu Hause **geblieben**.",
+      "note": "The perfect with sein: moving and changing. bleiben takes sein too, though nothing moves.",
+      "priority": 1
+    },
+    {
+      "front": "Where **have** you **been**? (several friends)",
+      "back": "Wo **seid** ihr **gewesen**?",
+      "note": "The perfect with sein: moving and changing. sein makes its own perfect with sein: seid … gewesen.",
+      "priority": 1
+    },
+    {
+      "front": "The holidays **were** lovely.",
+      "back": "Die Ferien **sind** schön **gewesen**.",
+      "note": "The perfect with sein: moving and changing. die Ferien is plural: sind gewesen.",
+      "priority": 1
+    },
+    {
+      "front": "What **happened**?",
+      "back": "Was **ist passiert**?",
+      "note": "The perfect with sein: moving and changing. passieren is a change of state, so sein; verbs in -ieren have no ge-.",
+      "priority": 1
+    },
+    {
+      "front": "I **got up** at six.",
+      "back": "Ich **bin** um sechs **aufgestanden**.",
+      "note": "Participles of separable verbs: auf-ge-standen. ge- goes between the prefix and the stem: auf-ge-standen. A change of state, so sein.",
+      "priority": 1
+    },
+    {
+      "front": "**Have** you **called** your mother? (one friend)",
+      "back": "**Hast** du deine Mutter **angerufen**?",
+      "note": "Participles of separable verbs: auf-ge-standen. an-ge-rufen, in one word.",
+      "priority": 1
+    },
+    {
+      "front": "We **did the shopping**.",
+      "back": "Wir **haben eingekauft**.",
+      "note": "Participles of separable verbs: auf-ge-standen. ein-ge-kauft.",
+      "priority": 1
+    },
+    {
+      "front": "The train **arrived** late.",
+      "back": "Der Zug **ist** spät **angekommen**.",
+      "note": "Participles of separable verbs: auf-ge-standen. ankommen is movement: ist … angekommen.",
+      "priority": 1
+    },
+    {
+      "front": "The bus **has** already **left**.",
+      "back": "Der Bus **ist** schon **abgefahren**.",
+      "note": "Participles of separable verbs: auf-ge-standen. ab-ge-fahren, with sein.",
+      "priority": 1
+    },
+    {
+      "front": "She **woke up** early.",
+      "back": "Sie **ist** früh **aufgewacht**.",
+      "note": "Participles of separable verbs: auf-ge-standen. A change of state takes sein: ist aufgewacht.",
+      "priority": 1
+    },
+    {
+      "front": "The child **fell asleep** at eight.",
+      "back": "Das Kind **ist** um acht **eingeschlafen**.",
+      "note": "Participles of separable verbs: auf-ge-standen. ein-ge-schlafen, with sein: falling asleep is a change.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **watch TV**? (several friends)",
+      "back": "**Habt** ihr **ferngesehen**?",
+      "note": "Participles of separable verbs: auf-ge-standen. fern-ge-sehen.",
+      "priority": 1
+    },
+    {
+      "front": "We **moved** in May.",
+      "back": "Wir **sind** im Mai **umgezogen**.",
+      "note": "Participles of separable verbs: auf-ge-standen. um-ge-zogen, with sein: moving house is movement.",
+      "priority": 1
+    },
+    {
+      "front": "My sister **came along**.",
+      "back": "Meine Schwester **ist mitgekommen**.",
+      "note": "Participles of separable verbs: auf-ge-standen. mit-ge-kommen, with sein like kommen.",
+      "priority": 1
+    },
+    {
+      "front": "Who **picked up** the children?",
+      "back": "Wer **hat** die Kinder **abgeholt**?",
+      "note": "Participles of separable verbs: auf-ge-standen. ab-ge-holt.",
+      "priority": 1
+    },
+    {
+      "front": "I **didn't understand** that.",
+      "back": "Das **habe** ich nicht **verstanden**.",
+      "note": "Participles of inseparable verbs: no ge-. Verbs starting be-, ver-, er- never take ge-: verstanden.",
+      "priority": 1
+    },
+    {
+      "front": "**Have** you **forgotten** the key? (one friend)",
+      "back": "**Hast** du den Schlüssel **vergessen**?",
+      "note": "Participles of inseparable verbs: no ge-. vergessen: the participle looks like the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "He **sold** his car.",
+      "back": "Er **hat** sein Auto **verkauft**.",
+      "note": "Participles of inseparable verbs: no ge-. ver- + kauft: no ge-.",
+      "priority": 1
+    },
+    {
+      "front": "I **got** a letter.",
+      "back": "Ich **habe** einen Brief **bekommen**.",
+      "note": "Participles of inseparable verbs: no ge-. bekommen means to get, never to become. No ge-, and haben.",
+      "priority": 1
+    },
+    {
+      "front": "We **paid** the bill.",
+      "back": "Wir **haben** die Rechnung **bezahlt**.",
+      "note": "Participles of inseparable verbs: no ge-. be- + zahlt: no ge-.",
+      "priority": 1
+    },
+    {
+      "front": "She **told** us a story.",
+      "back": "Sie **hat** uns eine Geschichte **erzählt**.",
+      "note": "Participles of inseparable verbs: no ge-. er- + zählt: no ge-.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **visit** your grandma? (several friends)",
+      "back": "**Habt** ihr eure Oma **besucht**?",
+      "note": "Participles of inseparable verbs: no ge-. be- + sucht: besucht.",
+      "priority": 1
+    },
+    {
+      "front": "I **lost** my phone.",
+      "back": "Ich **habe** mein Handy **verloren**.",
+      "note": "Participles of inseparable verbs: no ge-. verlieren → verloren: no ge-, and the vowel changes.",
+      "priority": 1
+    },
+    {
+      "front": "The teacher **explained** the question. (a woman)",
+      "back": "Die Lehrerin **hat** die Frage **erklärt**.",
+      "note": "Participles of inseparable verbs: no ge-. er- + klärt: erklärt.",
+      "priority": 1
+    }
+  ]
+}
