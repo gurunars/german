@@ -56,3 +56,5 @@ clause.dass	28	dass: that — the verb goes to the end
 clause.wenn	28	wenn: if, when — the verb goes to the end
 question.indirect	29	Indirect questions: ob and W-words, the verb at the end
 clause.als.wenn	29	als and wenn in the past: once, or every time
+connector.adverb	30	deshalb, trotzdem, dann: they take the first place, so the verb follows
+connector.conj	30	aber, sondern, denn, oder: they join without moving the verb

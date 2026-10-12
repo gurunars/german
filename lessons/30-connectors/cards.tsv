@@ -1,0 +1,29 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+connector.adverb	nehmen	pres.ich	It's raining, so I'm **taking** an umbrella.	Es regnet, deshalb **nehme** ich einen Regenschirm.	deshalb takes the first place of its clause, so the verb comes next and ich after it.
+connector.adverb	gehen	pres.ich	I'm tired, so I'm **going** to bed.	Ich bin müde, deshalb **gehe** ich ins Bett.	deshalb, then the verb, then the subject.
+connector.adverb	kommen	pres.er	He's ill, so he **isn't coming**.	Er ist krank, deshalb **kommt** er nicht.	deshalb: that's why. The verb right after it.
+connector.adverb	aufstehen	pres.er	He has to work tomorrow, so he **is getting up** early.	Er muss morgen arbeiten, deshalb **steht** er früh **auf**.	After deshalb the verb is second, and auf still goes last.
+connector.adverb	sein	pret.ich	The bus came late, so I **wasn't** on time.	Der Bus ist spät gekommen, deshalb **war** ich nicht pünktlich.	deshalb, war, ich.
+connector.adverb	-	-	It's raining, **so** I'm taking the bus.	Es regnet, **deshalb** nehme ich den Bus.	deshalb gives the result; weil would give the reason: Weil es regnet, nehme ich den Bus.
+connector.adverb	gehen	pres.wir	It's raining. Still, we're **going** for a walk.	Es regnet. Trotzdem **gehen** wir spazieren.	trotzdem: in spite of that. It takes the first place, so the verb follows it.
+connector.adverb	kaufen	pres.wir	The flat is expensive. Still, we **are buying** it.	Die Wohnung ist teuer. Trotzdem **kaufen** wir sie.	trotzdem, kaufen, wir. die Wohnung → sie.
+connector.adverb	arbeiten	pres.ich	I'm tired, but I'm **working** anyway.	Ich bin müde, aber ich **arbeite** trotzdem.	trotzdem can also come after the verb; after aber, the order is normal.
+connector.adverb	haben	pret.wir	We were wet, but we **had** fun anyway.	Wir waren nass, aber trotzdem **hatten** wir Spaß.	aber does not count; trotzdem is first, so hatten comes next.
+connector.adverb	frühstücken	pres.ich	First I shower, then I **have breakfast**.	Zuerst dusche ich, dann **frühstücke** ich.	zuerst and dann each take the first place: the verb follows them.
+connector.adverb	fahren	pres.wir	First we pack the suitcase, then we **drive** to the station.	Zuerst packen wir den Koffer, dann **fahren** wir zum Bahnhof.	dann fahren wir: the verb straight after dann.
+connector.adverb	anziehen	pres.ich	First I **put on** my jacket, then I go.	Zuerst **ziehe** ich meine Jacke **an**, dann gehe ich.	zuerst first, the verb second, an at the end.
+connector.adverb	können	pres.wir	Pack your suitcase, then we **can** go. (one friend)	Pack deinen Koffer, dann **können** wir gehen.	dann können wir gehen: the modal right after dann.
+connector.adverb	gehen	pres.wir	After that we **are going** to the cinema.	Danach **gehen** wir ins Kino.	danach: after that. The verb follows it.
+connector.adverb	sein	pres.er	The hotel is cheap; besides, it **is** quiet.	Das Hotel ist billig, außerdem **ist** es ruhig.	außerdem: what's more. It takes the first place, so ist comes next.
+connector.adverb	haben	pres.ich	I have no time. Besides, I **have** no money.	Ich habe keine Zeit. Außerdem **habe** ich kein Geld.	Außerdem, habe, ich.
+connector.conj	-	-	I don't drink coffee, **but** tea.	Ich trinke keinen Kaffee, **sondern** Tee.	After a negative, but meaning instead is sondern, not aber.
+connector.conj	-	-	That isn't my rucksack, **but** my brother's.	Das ist nicht mein Rucksack, **sondern** der Rucksack von meinem Bruder.	nicht … sondern: not this, but that.
+connector.conj	-	-	He isn't coming by bus, **but** by bike.	Er kommt nicht mit dem Bus, **sondern** mit dem Fahrrad.	sondern corrects what was negated.
+connector.conj	-	-	The flat is small, **but** it's cheap.	Die Wohnung ist klein, **aber** sie ist billig.	aber stands outside the clause: sie ist, normal order.
+connector.conj	-	-	I'd like to come, **but** I have no time.	Ich möchte kommen, **aber** ich habe keine Zeit.	aber: but, with nothing negated to replace.
+connector.conj	-	-	I'm staying at home, **because** I'm ill.	Ich bleibe zu Hause, **denn** ich bin krank.	denn means because, but it keeps the normal order: ich bin, not ich krank bin.
+connector.conj	-	-	We're taking an umbrella, **because** it's raining.	Wir nehmen einen Regenschirm, **denn** es regnet.	denn es regnet: the verb stays second.
+connector.conj	-	-	She's eating now, **because** she's hungry.	Sie isst jetzt, **denn** sie hat Hunger.	denn + normal order; weil would send hat to the end.
+connector.conj	-	-	Are you coming along, **or** are you staying here? (one friend)	Kommst du mit, **oder** bleibst du hier?	oder: or. The second question keeps its own order.
+connector.conj	-	-	Tea **or** coffee?	Tee **oder** Kaffee?	oder between two words.
+connector.conj	-	-	We'll take the bus, **or** we'll walk.	Wir nehmen den Bus, **oder** wir laufen.	oder does not count as a position: wir laufen.

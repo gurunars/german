@@ -1,0 +1,176 @@
+{
+  "name": "Lesson 30 · So, still, then: deshalb, trotzdem, dann; aber, sondern, denn, oder",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "It's raining, so I'm **taking** an umbrella.",
+      "back": "Es regnet, deshalb **nehme** ich einen Regenschirm.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. deshalb takes the first place of its clause, so the verb comes next and ich after it.",
+      "priority": 1
+    },
+    {
+      "front": "I'm tired, so I'm **going** to bed.",
+      "back": "Ich bin müde, deshalb **gehe** ich ins Bett.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. deshalb, then the verb, then the subject.",
+      "priority": 1
+    },
+    {
+      "front": "He's ill, so he **isn't coming**.",
+      "back": "Er ist krank, deshalb **kommt** er nicht.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. deshalb: that's why. The verb right after it.",
+      "priority": 1
+    },
+    {
+      "front": "He has to work tomorrow, so he **is getting up** early.",
+      "back": "Er muss morgen arbeiten, deshalb **steht** er früh **auf**.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. After deshalb the verb is second, and auf still goes last.",
+      "priority": 1
+    },
+    {
+      "front": "The bus came late, so I **wasn't** on time.",
+      "back": "Der Bus ist spät gekommen, deshalb **war** ich nicht pünktlich.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. deshalb, war, ich.",
+      "priority": 1
+    },
+    {
+      "front": "It's raining, **so** I'm taking the bus.",
+      "back": "Es regnet, **deshalb** nehme ich den Bus.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. deshalb gives the result; weil would give the reason: Weil es regnet, nehme ich den Bus.",
+      "priority": 1
+    },
+    {
+      "front": "It's raining. Still, we're **going** for a walk.",
+      "back": "Es regnet. Trotzdem **gehen** wir spazieren.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. trotzdem: in spite of that. It takes the first place, so the verb follows it.",
+      "priority": 1
+    },
+    {
+      "front": "The flat is expensive. Still, we **are buying** it.",
+      "back": "Die Wohnung ist teuer. Trotzdem **kaufen** wir sie.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. trotzdem, kaufen, wir. die Wohnung → sie.",
+      "priority": 1
+    },
+    {
+      "front": "I'm tired, but I'm **working** anyway.",
+      "back": "Ich bin müde, aber ich **arbeite** trotzdem.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. trotzdem can also come after the verb; after aber, the order is normal.",
+      "priority": 1
+    },
+    {
+      "front": "We were wet, but we **had** fun anyway.",
+      "back": "Wir waren nass, aber trotzdem **hatten** wir Spaß.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. aber does not count; trotzdem is first, so hatten comes next.",
+      "priority": 1
+    },
+    {
+      "front": "First I shower, then I **have breakfast**.",
+      "back": "Zuerst dusche ich, dann **frühstücke** ich.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. zuerst and dann each take the first place: the verb follows them.",
+      "priority": 1
+    },
+    {
+      "front": "First we pack the suitcase, then we **drive** to the station.",
+      "back": "Zuerst packen wir den Koffer, dann **fahren** wir zum Bahnhof.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. dann fahren wir: the verb straight after dann.",
+      "priority": 1
+    },
+    {
+      "front": "First I **put on** my jacket, then I go.",
+      "back": "Zuerst **ziehe** ich meine Jacke **an**, dann gehe ich.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. zuerst first, the verb second, an at the end.",
+      "priority": 1
+    },
+    {
+      "front": "Pack your suitcase, then we **can** go. (one friend)",
+      "back": "Pack deinen Koffer, dann **können** wir gehen.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. dann können wir gehen: the modal right after dann.",
+      "priority": 1
+    },
+    {
+      "front": "After that we **are going** to the cinema.",
+      "back": "Danach **gehen** wir ins Kino.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. danach: after that. The verb follows it.",
+      "priority": 1
+    },
+    {
+      "front": "The hotel is cheap; besides, it **is** quiet.",
+      "back": "Das Hotel ist billig, außerdem **ist** es ruhig.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. außerdem: what's more. It takes the first place, so ist comes next.",
+      "priority": 1
+    },
+    {
+      "front": "I have no time. Besides, I **have** no money.",
+      "back": "Ich habe keine Zeit. Außerdem **habe** ich kein Geld.",
+      "note": "deshalb, trotzdem, dann: they take the first place, so the verb follows. Außerdem, habe, ich.",
+      "priority": 1
+    },
+    {
+      "front": "I don't drink coffee, **but** tea.",
+      "back": "Ich trinke keinen Kaffee, **sondern** Tee.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. After a negative, but meaning instead is sondern, not aber.",
+      "priority": 1
+    },
+    {
+      "front": "That isn't my rucksack, **but** my brother's.",
+      "back": "Das ist nicht mein Rucksack, **sondern** der Rucksack von meinem Bruder.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. nicht … sondern: not this, but that.",
+      "priority": 1
+    },
+    {
+      "front": "He isn't coming by bus, **but** by bike.",
+      "back": "Er kommt nicht mit dem Bus, **sondern** mit dem Fahrrad.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. sondern corrects what was negated.",
+      "priority": 1
+    },
+    {
+      "front": "The flat is small, **but** it's cheap.",
+      "back": "Die Wohnung ist klein, **aber** sie ist billig.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. aber stands outside the clause: sie ist, normal order.",
+      "priority": 1
+    },
+    {
+      "front": "I'd like to come, **but** I have no time.",
+      "back": "Ich möchte kommen, **aber** ich habe keine Zeit.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. aber: but, with nothing negated to replace.",
+      "priority": 1
+    },
+    {
+      "front": "I'm staying at home, **because** I'm ill.",
+      "back": "Ich bleibe zu Hause, **denn** ich bin krank.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. denn means because, but it keeps the normal order: ich bin, not ich krank bin.",
+      "priority": 1
+    },
+    {
+      "front": "We're taking an umbrella, **because** it's raining.",
+      "back": "Wir nehmen einen Regenschirm, **denn** es regnet.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. denn es regnet: the verb stays second.",
+      "priority": 1
+    },
+    {
+      "front": "She's eating now, **because** she's hungry.",
+      "back": "Sie isst jetzt, **denn** sie hat Hunger.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. denn + normal order; weil would send hat to the end.",
+      "priority": 1
+    },
+    {
+      "front": "Are you coming along, **or** are you staying here? (one friend)",
+      "back": "Kommst du mit, **oder** bleibst du hier?",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. oder: or. The second question keeps its own order.",
+      "priority": 1
+    },
+    {
+      "front": "Tea **or** coffee?",
+      "back": "Tee **oder** Kaffee?",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. oder between two words.",
+      "priority": 1
+    },
+    {
+      "front": "We'll take the bus, **or** we'll walk.",
+      "back": "Wir nehmen den Bus, **oder** wir laufen.",
+      "note": "aber, sondern, denn, oder: they join without moving the verb. oder does not count as a position: wir laufen.",
+      "priority": 1
+    }
+  ]
+}

@@ -75,6 +75,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 27 · Bigger, the biggest: comparison, als and wie](lessons/27-comparison.json) — 33 cards
 - [Lesson 28 · Because, that, if: weil, dass, wenn and the verb at the end](lessons/28-weil-dass-wenn.json) — 30 cards
 - [Lesson 29 · I wonder if: indirect questions; als and wenn in the past](lessons/29-ob-als.json) — 31 cards
+- [Lesson 30 · So, still, then: deshalb, trotzdem, dann; aber, sondern, denn, oder](lessons/30-connectors.json) — 28 cards
 
 ## Decks
 

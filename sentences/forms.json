@@ -3547,6 +3547,40 @@
    ]
   }
  },
+ "Koffer": {
+  "all": [
+   "Koffer",
+   "Koffern",
+   "Koffers",
+   "Köfferchen"
+  ],
+  "english": "suitcase",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Koffer"
+   ],
+   "acc.sg": [
+    "Koffer"
+   ],
+   "dat.pl": [
+    "Koffern"
+   ],
+   "dat.sg": [
+    "Koffer"
+   ],
+   "gen.sg": [
+    "Koffers"
+   ],
+   "nom.pl": [
+    "Koffer"
+   ],
+   "nom.sg": [
+    "Koffer"
+   ]
+  }
+ },
  "Kollege": {
   "all": [
    "Kollega",
@@ -5345,6 +5379,43 @@
    ]
   }
  },
+ "Regenschirm": {
+  "all": [
+   "Regenschirm",
+   "Regenschirme",
+   "Regenschirmen",
+   "Regenschirmes",
+   "Regenschirms"
+  ],
+  "english": "umbrella",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Regenschirme"
+   ],
+   "acc.sg": [
+    "Regenschirm"
+   ],
+   "dat.pl": [
+    "Regenschirmen"
+   ],
+   "dat.sg": [
+    "Regenschirm",
+    "Regenschirme"
+   ],
+   "gen.sg": [
+    "Regenschirmes",
+    "Regenschirms"
+   ],
+   "nom.pl": [
+    "Regenschirme"
+   ],
+   "nom.sg": [
+    "Regenschirm"
+   ]
+  }
+ },
  "Reis": {
   "all": [
    "Reis",
@@ -5449,6 +5520,44 @@
    ],
    "nom.sg": [
     "Rock"
+   ]
+  }
+ },
+ "Rucksack": {
+  "all": [
+   "Rucksack",
+   "Rucksacke",
+   "Rucksackes",
+   "Rucksacks",
+   "Rucksäcke",
+   "Rucksäcken"
+  ],
+  "english": "rucksack",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Rucksäcke"
+   ],
+   "acc.sg": [
+    "Rucksack"
+   ],
+   "dat.pl": [
+    "Rucksäcken"
+   ],
+   "dat.sg": [
+    "Rucksack",
+    "Rucksacke"
+   ],
+   "gen.sg": [
+    "Rucksackes",
+    "Rucksacks"
+   ],
+   "nom.pl": [
+    "Rucksäcke"
+   ],
+   "nom.sg": [
+    "Rucksack"
    ]
   }
  },
@@ -8574,6 +8683,125 @@
    ]
   }
  },
+ "anziehen": {
+  "all": [
+   "an",
+   "angezogen",
+   "anziehe",
+   "anziehen",
+   "anziehend",
+   "anziehest",
+   "anziehet",
+   "anziehst",
+   "anzieht",
+   "anzog",
+   "anzogen",
+   "anzogst",
+   "anzogt",
+   "anzuziehen",
+   "anzöge",
+   "anzögen",
+   "anzögest",
+   "anzöget",
+   "anzögst",
+   "anzögt",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "werdest",
+   "zieh",
+   "ziehe",
+   "ziehen",
+   "ziehest",
+   "ziehet",
+   "ziehst",
+   "zieht",
+   "zog",
+   "zogen",
+   "zogst",
+   "zogt",
+   "zöge",
+   "zögen",
+   "zögest",
+   "zöget",
+   "zögst",
+   "zögt"
+  ],
+  "english": "to put on (clothes)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "zieh an",
+    "ziehe an"
+   ],
+   "imp.ihr": [
+    "zieht an"
+   ],
+   "perf.du": [
+    "hast angezogen",
+    "bist angezogen"
+   ],
+   "perf.er": [
+    "hat angezogen",
+    "ist angezogen"
+   ],
+   "perf.ich": [
+    "habe angezogen",
+    "bin angezogen"
+   ],
+   "perf.ihr": [
+    "habt angezogen",
+    "seid angezogen"
+   ],
+   "perf.wir": [
+    "haben angezogen",
+    "sind angezogen"
+   ],
+   "pres.du": [
+    "ziehst an",
+    "anziehst"
+   ],
+   "pres.er": [
+    "zieht an",
+    "anzieht"
+   ],
+   "pres.ich": [
+    "ziehe an",
+    "anziehe"
+   ],
+   "pres.ihr": [
+    "zieht an",
+    "anzieht"
+   ],
+   "pres.wir": [
+    "ziehen an",
+    "anziehen"
+   ],
+   "pret.du": [
+    "zogst an",
+    "anzogst"
+   ],
+   "pret.er": [
+    "zog an",
+    "anzog"
+   ],
+   "pret.ich": [
+    "zog an",
+    "anzog"
+   ],
+   "pret.ihr": [
+    "zogt an",
+    "anzogt"
+   ],
+   "pret.wir": [
+    "zogen an",
+    "anzogen"
+   ]
+  }
+ },
  "arbeiten": {
   "all": [
    "arbeit",
@@ -11347,6 +11575,84 @@
    "weak.nom.pl": [
     "die dunklen",
     "die dunkelen"
+   ]
+  }
+ },
+ "duschen": {
+  "all": [
+   "dusch",
+   "dusche",
+   "duschen",
+   "duschend",
+   "duschest",
+   "duschet",
+   "duschst",
+   "duscht",
+   "duschte",
+   "duschten",
+   "duschtest",
+   "duschtet",
+   "geduscht",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to shower",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "dusch",
+    "dusche"
+   ],
+   "imp.ihr": [
+    "duscht"
+   ],
+   "perf.du": [
+    "hast geduscht"
+   ],
+   "perf.er": [
+    "hat geduscht"
+   ],
+   "perf.ich": [
+    "habe geduscht"
+   ],
+   "perf.ihr": [
+    "habt geduscht"
+   ],
+   "perf.wir": [
+    "haben geduscht"
+   ],
+   "pres.du": [
+    "duschst",
+    "duscht"
+   ],
+   "pres.er": [
+    "duscht"
+   ],
+   "pres.ich": [
+    "dusche"
+   ],
+   "pres.ihr": [
+    "duscht"
+   ],
+   "pres.wir": [
+    "duschen"
+   ],
+   "pret.du": [
+    "duschtest"
+   ],
+   "pret.er": [
+    "duschte"
+   ],
+   "pret.ich": [
+    "duschte"
+   ],
+   "pret.ihr": [
+    "duschtet"
+   ],
+   "pret.wir": [
+    "duschten"
    ]
   }
  },
@@ -23458,6 +23764,286 @@
    ]
   }
  },
+ "nass": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "nass",
+   "nasse",
+   "nassem",
+   "nassen",
+   "nasser",
+   "nassere",
+   "nasserem",
+   "nasseren",
+   "nasserer",
+   "nasseres",
+   "nasses",
+   "nasseste",
+   "nassestem",
+   "nassesten",
+   "nassester",
+   "nassestes",
+   "naß",
+   "nässer",
+   "nässere",
+   "nässerem",
+   "nässeren",
+   "nässerer",
+   "nässeres",
+   "nässeste",
+   "nässestem",
+   "nässesten",
+   "nässester",
+   "nässestes"
+  ],
+  "english": "wet",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "nasser",
+    "nässer",
+    "nasserer",
+    "nässerer",
+    "nassere",
+    "nässere",
+    "nasseres",
+    "nässeres",
+    "nasseren",
+    "nässeren",
+    "nasserem",
+    "nässerem",
+    "der nassere",
+    "der nässere",
+    "die nassere",
+    "die nässere",
+    "das nassere",
+    "das nässere",
+    "die nasseren",
+    "die nässeren",
+    "des nasseren",
+    "des nässeren",
+    "der nasseren",
+    "der nässeren",
+    "dem nasseren",
+    "dem nässeren",
+    "den nasseren",
+    "den nässeren",
+    "ein nasserer",
+    "ein nässerer",
+    "eine nassere",
+    "eine nässere",
+    "ein nasseres",
+    "ein nässeres",
+    "eines nasseren",
+    "eines nässeren",
+    "einer nasseren",
+    "einer nässeren",
+    "einem nasseren",
+    "einem nässeren",
+    "einen nasseren",
+    "einen nässeren"
+   ],
+   "comparative.pred": [
+    "nasser",
+    "nässer"
+   ],
+   "mixed.acc.f": [
+    "eine nasse"
+   ],
+   "mixed.acc.m": [
+    "einen nassen"
+   ],
+   "mixed.acc.n": [
+    "ein nasses"
+   ],
+   "mixed.acc.pl": [
+    "nassen"
+   ],
+   "mixed.dat.f": [
+    "einer nassen"
+   ],
+   "mixed.dat.m": [
+    "einem nassen"
+   ],
+   "mixed.dat.n": [
+    "einem nassen"
+   ],
+   "mixed.dat.pl": [
+    "nassen"
+   ],
+   "mixed.gen.f": [
+    "einer nassen"
+   ],
+   "mixed.gen.m": [
+    "eines nassen"
+   ],
+   "mixed.gen.n": [
+    "eines nassen"
+   ],
+   "mixed.gen.pl": [
+    "nassen"
+   ],
+   "mixed.nom.f": [
+    "eine nasse"
+   ],
+   "mixed.nom.m": [
+    "ein nasser"
+   ],
+   "mixed.nom.n": [
+    "ein nasses"
+   ],
+   "mixed.nom.pl": [
+    "nassen"
+   ],
+   "strong.acc.f": [
+    "nasse"
+   ],
+   "strong.acc.m": [
+    "nassen"
+   ],
+   "strong.acc.n": [
+    "nasses"
+   ],
+   "strong.acc.pl": [
+    "nasse"
+   ],
+   "strong.dat.f": [
+    "nasser"
+   ],
+   "strong.dat.m": [
+    "nassem"
+   ],
+   "strong.dat.n": [
+    "nassem"
+   ],
+   "strong.dat.pl": [
+    "nassen"
+   ],
+   "strong.gen.f": [
+    "nasser"
+   ],
+   "strong.gen.m": [
+    "nassen"
+   ],
+   "strong.gen.n": [
+    "nassen"
+   ],
+   "strong.gen.pl": [
+    "nasser"
+   ],
+   "strong.nom.f": [
+    "nasse"
+   ],
+   "strong.nom.m": [
+    "nasser"
+   ],
+   "strong.nom.n": [
+    "nasses"
+   ],
+   "strong.nom.pl": [
+    "nasse"
+   ],
+   "superlative": [
+    "am nassesten",
+    "am nässesten",
+    "nassester",
+    "nässester",
+    "nasseste",
+    "nässeste",
+    "nassestes",
+    "nässestes",
+    "nassesten",
+    "nässesten",
+    "nassestem",
+    "nässestem",
+    "der nasseste",
+    "der nässeste",
+    "die nasseste",
+    "die nässeste",
+    "das nasseste",
+    "das nässeste",
+    "die nassesten",
+    "die nässesten",
+    "des nassesten",
+    "des nässesten",
+    "der nassesten",
+    "der nässesten",
+    "dem nassesten",
+    "dem nässesten",
+    "den nassesten",
+    "den nässesten",
+    "ein nassester",
+    "ein nässester",
+    "eine nasseste",
+    "eine nässeste",
+    "ein nassestes",
+    "ein nässestes",
+    "eines nassesten",
+    "eines nässesten",
+    "einer nassesten",
+    "einer nässesten",
+    "einem nassesten",
+    "einem nässesten",
+    "einen nassesten",
+    "einen nässesten"
+   ],
+   "superlative.pred": [
+    "am nassesten",
+    "am nässesten"
+   ],
+   "weak.acc.f": [
+    "die nasse"
+   ],
+   "weak.acc.m": [
+    "den nassen"
+   ],
+   "weak.acc.n": [
+    "das nasse"
+   ],
+   "weak.acc.pl": [
+    "die nassen"
+   ],
+   "weak.dat.f": [
+    "der nassen"
+   ],
+   "weak.dat.m": [
+    "dem nassen"
+   ],
+   "weak.dat.n": [
+    "dem nassen"
+   ],
+   "weak.dat.pl": [
+    "den nassen"
+   ],
+   "weak.gen.f": [
+    "der nassen"
+   ],
+   "weak.gen.m": [
+    "des nassen"
+   ],
+   "weak.gen.n": [
+    "des nassen"
+   ],
+   "weak.gen.pl": [
+    "der nassen"
+   ],
+   "weak.nom.f": [
+    "die nasse"
+   ],
+   "weak.nom.m": [
+    "der nasse"
+   ],
+   "weak.nom.n": [
+    "das nasse"
+   ],
+   "weak.nom.pl": [
+    "die nassen"
+   ]
+  }
+ },
  "nehmen": {
   "all": [
    "genommen",
@@ -24035,6 +24621,83 @@
    ]
   }
  },
+ "packen": {
+  "all": [
+   "gepackt",
+   "haben",
+   "habest",
+   "habet",
+   "pack",
+   "packe",
+   "packen",
+   "packend",
+   "packest",
+   "packet",
+   "packst",
+   "packt",
+   "packte",
+   "packten",
+   "packtest",
+   "packtet",
+   "werdest"
+  ],
+  "english": "to pack",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "pack",
+    "packe"
+   ],
+   "imp.ihr": [
+    "packt"
+   ],
+   "perf.du": [
+    "hast gepackt"
+   ],
+   "perf.er": [
+    "hat gepackt"
+   ],
+   "perf.ich": [
+    "habe gepackt"
+   ],
+   "perf.ihr": [
+    "habt gepackt"
+   ],
+   "perf.wir": [
+    "haben gepackt"
+   ],
+   "pres.du": [
+    "packst"
+   ],
+   "pres.er": [
+    "packt"
+   ],
+   "pres.ich": [
+    "packe"
+   ],
+   "pres.ihr": [
+    "packt"
+   ],
+   "pres.wir": [
+    "packen"
+   ],
+   "pret.du": [
+    "packtest"
+   ],
+   "pret.er": [
+    "packte"
+   ],
+   "pret.ich": [
+    "packte"
+   ],
+   "pret.ihr": [
+    "packtet"
+   ],
+   "pret.wir": [
+    "packten"
+   ]
+  }
+ },
  "passen": {
   "all": [
    "gepasst",
@@ -24268,6 +24931,230 @@
    ],
    "pret.wir": [
     "putzten"
+   ]
+  }
+ },
+ "pünktlich": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "pünktlich",
+   "pünktliche",
+   "pünktlichem",
+   "pünktlichen",
+   "pünktlicher",
+   "pünktlichere",
+   "pünktlicherem",
+   "pünktlicheren",
+   "pünktlicherer",
+   "pünktlicheres",
+   "pünktliches",
+   "pünktlichste",
+   "pünktlichstem",
+   "pünktlichsten",
+   "pünktlichster",
+   "pünktlichstes"
+  ],
+  "english": "on time",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "pünktlicher",
+    "pünktlicherer",
+    "pünktlichere",
+    "pünktlicheres",
+    "pünktlicheren",
+    "pünktlicherem",
+    "der pünktlichere",
+    "die pünktlichere",
+    "das pünktlichere",
+    "die pünktlicheren",
+    "des pünktlicheren",
+    "der pünktlicheren",
+    "dem pünktlicheren",
+    "den pünktlicheren",
+    "ein pünktlicherer",
+    "eine pünktlichere",
+    "ein pünktlicheres",
+    "eines pünktlicheren",
+    "einer pünktlicheren",
+    "einem pünktlicheren",
+    "einen pünktlicheren"
+   ],
+   "comparative.pred": [
+    "pünktlicher"
+   ],
+   "mixed.acc.f": [
+    "eine pünktliche"
+   ],
+   "mixed.acc.m": [
+    "einen pünktlichen"
+   ],
+   "mixed.acc.n": [
+    "ein pünktliches"
+   ],
+   "mixed.acc.pl": [
+    "pünktlichen"
+   ],
+   "mixed.dat.f": [
+    "einer pünktlichen"
+   ],
+   "mixed.dat.m": [
+    "einem pünktlichen"
+   ],
+   "mixed.dat.n": [
+    "einem pünktlichen"
+   ],
+   "mixed.dat.pl": [
+    "pünktlichen"
+   ],
+   "mixed.gen.f": [
+    "einer pünktlichen"
+   ],
+   "mixed.gen.m": [
+    "eines pünktlichen"
+   ],
+   "mixed.gen.n": [
+    "eines pünktlichen"
+   ],
+   "mixed.gen.pl": [
+    "pünktlichen"
+   ],
+   "mixed.nom.f": [
+    "eine pünktliche"
+   ],
+   "mixed.nom.m": [
+    "ein pünktlicher"
+   ],
+   "mixed.nom.n": [
+    "ein pünktliches"
+   ],
+   "mixed.nom.pl": [
+    "pünktlichen"
+   ],
+   "strong.acc.f": [
+    "pünktliche"
+   ],
+   "strong.acc.m": [
+    "pünktlichen"
+   ],
+   "strong.acc.n": [
+    "pünktliches"
+   ],
+   "strong.acc.pl": [
+    "pünktliche"
+   ],
+   "strong.dat.f": [
+    "pünktlicher"
+   ],
+   "strong.dat.m": [
+    "pünktlichem"
+   ],
+   "strong.dat.n": [
+    "pünktlichem"
+   ],
+   "strong.dat.pl": [
+    "pünktlichen"
+   ],
+   "strong.gen.f": [
+    "pünktlicher"
+   ],
+   "strong.gen.m": [
+    "pünktlichen"
+   ],
+   "strong.gen.n": [
+    "pünktlichen"
+   ],
+   "strong.gen.pl": [
+    "pünktlicher"
+   ],
+   "strong.nom.f": [
+    "pünktliche"
+   ],
+   "strong.nom.m": [
+    "pünktlicher"
+   ],
+   "strong.nom.n": [
+    "pünktliches"
+   ],
+   "strong.nom.pl": [
+    "pünktliche"
+   ],
+   "superlative": [
+    "am pünktlichsten",
+    "pünktlichster",
+    "pünktlichste",
+    "pünktlichstes",
+    "pünktlichsten",
+    "pünktlichstem",
+    "der pünktlichste",
+    "die pünktlichste",
+    "das pünktlichste",
+    "die pünktlichsten",
+    "des pünktlichsten",
+    "der pünktlichsten",
+    "dem pünktlichsten",
+    "den pünktlichsten",
+    "ein pünktlichster",
+    "eine pünktlichste",
+    "ein pünktlichstes",
+    "eines pünktlichsten",
+    "einer pünktlichsten",
+    "einem pünktlichsten",
+    "einen pünktlichsten"
+   ],
+   "superlative.pred": [
+    "am pünktlichsten"
+   ],
+   "weak.acc.f": [
+    "die pünktliche"
+   ],
+   "weak.acc.m": [
+    "den pünktlichen"
+   ],
+   "weak.acc.n": [
+    "das pünktliche"
+   ],
+   "weak.acc.pl": [
+    "die pünktlichen"
+   ],
+   "weak.dat.f": [
+    "der pünktlichen"
+   ],
+   "weak.dat.m": [
+    "dem pünktlichen"
+   ],
+   "weak.dat.n": [
+    "dem pünktlichen"
+   ],
+   "weak.dat.pl": [
+    "den pünktlichen"
+   ],
+   "weak.gen.f": [
+    "der pünktlichen"
+   ],
+   "weak.gen.m": [
+    "des pünktlichen"
+   ],
+   "weak.gen.n": [
+    "des pünktlichen"
+   ],
+   "weak.gen.pl": [
+    "der pünktlichen"
+   ],
+   "weak.nom.f": [
+    "die pünktliche"
+   ],
+   "weak.nom.m": [
+    "der pünktliche"
+   ],
+   "weak.nom.n": [
+    "das pünktliche"
+   ],
+   "weak.nom.pl": [
+    "die pünktlichen"
    ]
   }
  },
