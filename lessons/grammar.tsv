@@ -16,3 +16,6 @@ numbers.20	6	Numbers 0–20
 present.stemchange	7	Stem-changing verbs: du and er change the vowel
 possessive	8	Possessive articles: mein, dein, sein…
 plural	9	Plural of nouns
+numbers.59	10	Numbers 21–59: the unit, und, the ten
+time.clock	10	The clock: Uhr, halb, Viertel, vor, nach
+time.um.am	10	um for clock times, am for days

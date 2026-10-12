@@ -1,0 +1,224 @@
+{
+  "name": "Lesson 10 · Telling the time: the clock, the days, um and am",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "The teacher is **thirty**.",
+      "back": "Der Lehrer ist **dreißig**.",
+      "note": "Numbers 21–59: the unit, und, the ten. dreißig is the one ten written with ß; the others end in -zig.",
+      "priority": 1
+    },
+    {
+      "front": "I am **forty**.",
+      "back": "Ich bin **vierzig**.",
+      "note": "Numbers 21–59: the unit, und, the ten. vier + zig: vierzig.",
+      "priority": 1
+    },
+    {
+      "front": "My father is **fifty**.",
+      "back": "Mein Vater ist **fünfzig**.",
+      "note": "Numbers 21–59: the unit, und, the ten. fünf + zig: fünfzig.",
+      "priority": 1
+    },
+    {
+      "front": "My sister is **twenty-one**.",
+      "back": "Meine Schwester ist **einundzwanzig**.",
+      "note": "Numbers 21–59: the unit, und, the ten. The unit comes first, then und, then the ten: one-and-twenty. eins loses its s.",
+      "priority": 1
+    },
+    {
+      "front": "The bag costs **twenty-five** euros.",
+      "back": "Die Tasche kostet **fünfundzwanzig** Euro.",
+      "note": "Numbers 21–59: the unit, und, the ten. five-and-twenty, written as one word.",
+      "priority": 1
+    },
+    {
+      "front": "My mother is **forty-five**.",
+      "back": "Meine Mutter ist **fünfundvierzig**.",
+      "note": "Numbers 21–59: the unit, und, the ten. fünf und vierzig, in one word. Say the unit first.",
+      "priority": 1
+    },
+    {
+      "front": "The book costs **thirty-two** euros.",
+      "back": "Das Buch kostet **zweiunddreißig** Euro.",
+      "note": "Numbers 21–59: the unit, und, the ten. zwei und dreißig: zweiunddreißig.",
+      "priority": 1
+    },
+    {
+      "front": "My aunt is **fifty-eight**.",
+      "back": "Meine Tante ist **achtundfünfzig**.",
+      "note": "Numbers 21–59: the unit, und, the ten. acht und fünfzig. Read long numbers from the back: first the 8, then the 50.",
+      "priority": 1
+    },
+    {
+      "front": "It's **three o'clock**.",
+      "back": "Es ist **drei Uhr**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. The hour, then Uhr: drei Uhr.",
+      "priority": 1
+    },
+    {
+      "front": "It's **half past three**.",
+      "back": "Es ist **halb vier**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. German counts the half towards the next hour: halb vier is half to four, 3:30.",
+      "priority": 1
+    },
+    {
+      "front": "It's **half past eleven**.",
+      "back": "Es ist **halb zwölf**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. 11:30 is halb zwölf: halfway to twelve.",
+      "priority": 1
+    },
+    {
+      "front": "It's **quarter past two**.",
+      "back": "Es ist **Viertel nach zwei**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. nach: past. Viertel nach zwei is 2:15.",
+      "priority": 1
+    },
+    {
+      "front": "It's **quarter to twelve**.",
+      "back": "Es ist **Viertel vor zwölf**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. vor: to. Viertel vor zwölf is 11:45.",
+      "priority": 1
+    },
+    {
+      "front": "It's **ten past eight**.",
+      "back": "Es ist **zehn nach acht**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. Minutes, nach, then the hour; Uhr is left out.",
+      "priority": 1
+    },
+    {
+      "front": "It's **five to nine**.",
+      "back": "Es ist **fünf vor neun**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. fünf vor neun: 8:55.",
+      "priority": 1
+    },
+    {
+      "front": "**What time** is it?",
+      "back": "**Wie spät** ist es?",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. German asks how late it is: Wie spät ist es?",
+      "priority": 1
+    },
+    {
+      "front": "What time is it? – It's **twenty past four**.",
+      "back": "Wie viel Uhr ist es? – Es ist **zwanzig nach vier**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. Wie viel Uhr ist es? is the other way to ask. zwanzig nach vier: 4:20.",
+      "priority": 1
+    },
+    {
+      "front": "It's **seven forty-five pm**.",
+      "back": "Es ist **neunzehn Uhr fünfundvierzig**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. Timetables use the 24-hour clock: the hour, Uhr, then the minutes.",
+      "priority": 1
+    },
+    {
+      "front": "The train leaves at **eight thirty**.",
+      "back": "Der Zug fährt um **acht Uhr dreißig**.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. The official way: acht Uhr dreißig. In speech, halb neun.",
+      "priority": 1
+    },
+    {
+      "front": "It's **late**, and I'm tired.",
+      "back": "Es ist **spät**, und ich bin müde.",
+      "note": "The clock: Uhr, halb, Viertel, vor, nach. spät: late. Es ist spät, with es as the subject, as in English.",
+      "priority": 1
+    },
+    {
+      "front": "I'm working **at** eight.",
+      "back": "Ich arbeite **um** acht.",
+      "note": "um for clock times, am for days. um before a clock time: at.",
+      "priority": 1
+    },
+    {
+      "front": "The train leaves **at** half past six.",
+      "back": "Der Zug fährt **um** halb sieben.",
+      "note": "um for clock times, am for days. um halb sieben: at 6:30.",
+      "priority": 1
+    },
+    {
+      "front": "We eat **at** seven o'clock.",
+      "back": "Wir essen **um** sieben Uhr.",
+      "note": "um for clock times, am for days. um sieben Uhr: at seven o'clock.",
+      "priority": 1
+    },
+    {
+      "front": "**At what time** are you coming? (one friend)",
+      "back": "**Um wie viel Uhr** kommst du?",
+      "note": "um for clock times, am for days. Um wie viel Uhr…? asks at what time; the whole phrase comes first, then the verb.",
+      "priority": 1
+    },
+    {
+      "front": "**On Monday** I'm working.",
+      "back": "**Am Montag** arbeite ich.",
+      "note": "um for clock times, am for days. am before a day: am Montag. The days are all der-words.",
+      "priority": 1
+    },
+    {
+      "front": "**On Tuesday** we're playing football.",
+      "back": "**Am Dienstag** spielen wir Fußball.",
+      "note": "um for clock times, am for days. am Dienstag first, so the verb comes second and wir after it.",
+      "priority": 1
+    },
+    {
+      "front": "She's coming **on Wednesday**.",
+      "back": "Sie kommt **am Mittwoch**.",
+      "note": "um for clock times, am for days. am Mittwoch: Mittwoch means mid-week.",
+      "priority": 1
+    },
+    {
+      "front": "**On Thursday** the cinema is cheap.",
+      "back": "**Am Donnerstag** ist das Kino billig.",
+      "note": "um for clock times, am for days. am Donnerstag, then ist second.",
+      "priority": 1
+    },
+    {
+      "front": "**On Friday** we're cooking fish.",
+      "back": "**Am Freitag** kochen wir Fisch.",
+      "note": "um for clock times, am for days. am Freitag: on Friday.",
+      "priority": 1
+    },
+    {
+      "front": "**On Saturday** I sleep in.",
+      "back": "**Am Samstag** schlafe ich lange.",
+      "note": "um for clock times, am for days. am Samstag, then the verb, then ich.",
+      "priority": 1
+    },
+    {
+      "front": "**On Sunday** my parents are coming.",
+      "back": "**Am Sonntag** kommen meine Eltern.",
+      "note": "um for clock times, am for days. The subject meine Eltern comes after the verb.",
+      "priority": 1
+    },
+    {
+      "front": "**On Sunday at three** my grandma is coming.",
+      "back": "**Am Sonntag um drei** kommt meine Oma.",
+      "note": "um for clock times, am for days. The day first, then the time: am Sonntag um drei. Together they take the first place.",
+      "priority": 1
+    },
+    {
+      "front": "Today is **Monday**.",
+      "back": "Heute ist **Montag**.",
+      "note": "um for clock times, am for days. After ist, a day takes no article and no am.",
+      "priority": 1
+    },
+    {
+      "front": "Is the bus running **on Sunday**?",
+      "back": "Fährt der Bus **am Sonntag**?",
+      "note": "um for clock times, am for days. am Sonntag goes after the subject in a question.",
+      "priority": 1
+    },
+    {
+      "front": "Do you work **on Saturday**? (formal)",
+      "back": "Arbeiten Sie **am Samstag**?",
+      "note": "um for clock times, am for days. am Samstag: on Saturday.",
+      "priority": 1
+    },
+    {
+      "front": "We don't work **on Sunday**.",
+      "back": "Wir arbeiten **am Sonntag** nicht.",
+      "note": "um for clock times, am for days. nicht comes after am Sonntag, like after heute.",
+      "priority": 1
+    }
+  ]
+}

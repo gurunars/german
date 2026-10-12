@@ -55,6 +55,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 7 · Verbs that change their vowel: fahren, essen, lesen, sehen…](lessons/07-stem-change.json) — 37 cards
 - [Lesson 8 · Family: mein, dein, sein, ihr, unser, euer, Ihr](lessons/08-possessives.json) — 36 cards
 - [Lesson 9 · More than one: the plural of nouns](lessons/09-plural.json) — 38 cards
+- [Lesson 10 · Telling the time: the clock, the days, um and am](lessons/10-clock.json) — 36 cards
 
 ## Decks
 

@@ -441,6 +441,80 @@
    ]
   }
  },
+ "Dienstag": {
+  "all": [
+   "Dienstag",
+   "Dienstage",
+   "Dienstagen",
+   "Dienstages",
+   "Dienstags"
+  ],
+  "english": "Tuesday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Dienstage"
+   ],
+   "acc.sg": [
+    "Dienstag"
+   ],
+   "dat.pl": [
+    "Dienstagen"
+   ],
+   "dat.sg": [
+    "Dienstag",
+    "Dienstage"
+   ],
+   "gen.sg": [
+    "Dienstages",
+    "Dienstags"
+   ],
+   "nom.pl": [
+    "Dienstage"
+   ],
+   "nom.sg": [
+    "Dienstag"
+   ]
+  }
+ },
+ "Donnerstag": {
+  "all": [
+   "Donnerstag",
+   "Donnerstage",
+   "Donnerstagen",
+   "Donnerstages",
+   "Donnerstags"
+  ],
+  "english": "Thursday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Donnerstage"
+   ],
+   "acc.sg": [
+    "Donnerstag"
+   ],
+   "dat.pl": [
+    "Donnerstagen"
+   ],
+   "dat.sg": [
+    "Donnerstag",
+    "Donnerstage"
+   ],
+   "gen.sg": [
+    "Donnerstages",
+    "Donnerstags"
+   ],
+   "nom.pl": [
+    "Donnerstage"
+   ],
+   "nom.sg": [
+    "Donnerstag"
+   ]
+  }
+ },
  "Ei": {
   "all": [
    "Ei",
@@ -860,6 +934,43 @@
    ],
    "nom.sg": [
     "Frau"
+   ]
+  }
+ },
+ "Freitag": {
+  "all": [
+   "Freitag",
+   "Freitage",
+   "Freitagen",
+   "Freitages",
+   "Freitags"
+  ],
+  "english": "Friday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Freitage"
+   ],
+   "acc.sg": [
+    "Freitag"
+   ],
+   "dat.pl": [
+    "Freitagen"
+   ],
+   "dat.sg": [
+    "Freitag",
+    "Freitage"
+   ],
+   "gen.sg": [
+    "Freitages",
+    "Freitags"
+   ],
+   "nom.pl": [
+    "Freitage"
+   ],
+   "nom.sg": [
+    "Freitag"
    ]
   }
  },
@@ -1876,6 +1987,78 @@
    ]
   }
  },
+ "Mittwoch": {
+  "all": [
+   "Mittwoch",
+   "Mittwoche",
+   "Mittwochen",
+   "Mittwoches",
+   "Mittwochs"
+  ],
+  "english": "Wednesday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Mittwoche"
+   ],
+   "acc.sg": [
+    "Mittwoch"
+   ],
+   "dat.pl": [
+    "Mittwochen"
+   ],
+   "dat.sg": [
+    "Mittwoch"
+   ],
+   "gen.sg": [
+    "Mittwochs"
+   ],
+   "nom.pl": [
+    "Mittwoche"
+   ],
+   "nom.sg": [
+    "Mittwoch"
+   ]
+  }
+ },
+ "Montag": {
+  "all": [
+   "Montag",
+   "Montage",
+   "Montagen",
+   "Montages",
+   "Montags"
+  ],
+  "english": "Monday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Montage"
+   ],
+   "acc.sg": [
+    "Montag"
+   ],
+   "dat.pl": [
+    "Montagen"
+   ],
+   "dat.sg": [
+    "Montag",
+    "Montage"
+   ],
+   "gen.sg": [
+    "Montages",
+    "Montags"
+   ],
+   "nom.pl": [
+    "Montage"
+   ],
+   "nom.sg": [
+    "Montag"
+   ]
+  }
+ },
  "Musik": {
   "all": [
    "Musik",
@@ -2189,6 +2372,43 @@
    ]
   }
  },
+ "Samstag": {
+  "all": [
+   "Samstag",
+   "Samstage",
+   "Samstagen",
+   "Samstages",
+   "Samstags"
+  ],
+  "english": "Saturday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Samstage"
+   ],
+   "acc.sg": [
+    "Samstag"
+   ],
+   "dat.pl": [
+    "Samstagen"
+   ],
+   "dat.sg": [
+    "Samstag",
+    "Samstage"
+   ],
+   "gen.sg": [
+    "Samstages",
+    "Samstags"
+   ],
+   "nom.pl": [
+    "Samstage"
+   ],
+   "nom.sg": [
+    "Samstag"
+   ]
+  }
+ },
  "Schwester": {
   "all": [
    "Schwester",
@@ -2260,6 +2480,43 @@
    ],
    "nom.sg": [
     "Sohn"
+   ]
+  }
+ },
+ "Sonntag": {
+  "all": [
+   "Sonntag",
+   "Sonntage",
+   "Sonntagen",
+   "Sonntages",
+   "Sonntags"
+  ],
+  "english": "Sunday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Sonntage"
+   ],
+   "acc.sg": [
+    "Sonntag"
+   ],
+   "dat.pl": [
+    "Sonntagen"
+   ],
+   "dat.sg": [
+    "Sonntag",
+    "Sonntage"
+   ],
+   "gen.sg": [
+    "Sonntages",
+    "Sonntags"
+   ],
+   "nom.pl": [
+    "Sonntage"
+   ],
+   "nom.sg": [
+    "Sonntag"
    ]
   }
  },
@@ -2624,6 +2881,39 @@
    ]
   }
  },
+ "Uhr": {
+  "all": [
+   "Uhr",
+   "Uhren",
+   "h"
+  ],
+  "english": "clock; o'clock",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Uhren"
+   ],
+   "acc.sg": [
+    "Uhr"
+   ],
+   "dat.pl": [
+    "Uhren"
+   ],
+   "dat.sg": [
+    "Uhr"
+   ],
+   "gen.sg": [
+    "Uhr"
+   ],
+   "nom.pl": [
+    "Uhren"
+   ],
+   "nom.sg": [
+    "Uhr"
+   ]
+  }
+ },
  "Vater": {
   "all": [
    "Vater",
@@ -2657,6 +2947,39 @@
    ],
    "nom.sg": [
     "Vater"
+   ]
+  }
+ },
+ "Viertel": {
+  "all": [
+   "Viertel",
+   "Vierteln",
+   "Viertels"
+  ],
+  "english": "quarter",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Viertel"
+   ],
+   "acc.sg": [
+    "Viertel"
+   ],
+   "dat.pl": [
+    "Vierteln"
+   ],
+   "dat.sg": [
+    "Viertel"
+   ],
+   "gen.sg": [
+    "Viertels"
+   ],
+   "nom.pl": [
+    "Viertel"
+   ],
+   "nom.sg": [
+    "Viertel"
    ]
   }
  },
@@ -4202,6 +4525,35 @@
    ],
    "pret.er": [
     "hatte"
+   ]
+  }
+ },
+ "halb": {
+  "all": [
+   "halb",
+   "halbe",
+   "halbem",
+   "halben",
+   "halber",
+   "halbes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "half",
+  "pos": "adj",
+  "slots": {
+   "mixed.acc.m": [
+    "einen halben"
+   ],
+   "mixed.nom.n": [
+    "ein halbes"
+   ],
+   "strong.dat.f": [
+    "halber"
+   ],
+   "weak.nom.m": [
+    "der halbe"
    ]
   }
  },
@@ -6603,6 +6955,92 @@
    ],
    "pret.er": [
     "sprach"
+   ]
+  }
+ },
+ "spät": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "spät",
+   "späte",
+   "spätem",
+   "späten",
+   "später",
+   "spätere",
+   "späterem",
+   "späteren",
+   "späterer",
+   "späteres",
+   "spätes",
+   "späteste",
+   "spätestem",
+   "spätesten",
+   "spätester",
+   "spätestes"
+  ],
+  "english": "late",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "später",
+    "späterer",
+    "spätere",
+    "späteres",
+    "späteren",
+    "späterem",
+    "der spätere",
+    "die spätere",
+    "das spätere",
+    "die späteren",
+    "des späteren",
+    "der späteren",
+    "dem späteren",
+    "den späteren",
+    "ein späterer",
+    "eine spätere",
+    "ein späteres",
+    "eines späteren",
+    "einer späteren",
+    "einem späteren",
+    "einen späteren"
+   ],
+   "mixed.acc.m": [
+    "einen späten"
+   ],
+   "mixed.nom.n": [
+    "ein spätes"
+   ],
+   "strong.dat.f": [
+    "später"
+   ],
+   "superlative": [
+    "am spätesten",
+    "spätester",
+    "späteste",
+    "spätestes",
+    "spätesten",
+    "spätestem",
+    "der späteste",
+    "die späteste",
+    "das späteste",
+    "die spätesten",
+    "des spätesten",
+    "der spätesten",
+    "dem spätesten",
+    "den spätesten",
+    "ein spätester",
+    "eine späteste",
+    "ein spätestes",
+    "eines spätesten",
+    "einer spätesten",
+    "einem spätesten",
+    "einen spätesten"
+   ],
+   "weak.nom.m": [
+    "der späte"
    ]
   }
  },

@@ -45,6 +45,11 @@
       "name": "Lesson 9 · More than one: the plural of nouns",
       "url": "09-plural.json",
       "cards": 38
+    },
+    {
+      "name": "Lesson 10 · Telling the time: the clock, the days, um and am",
+      "url": "10-clock.json",
+      "cards": 36
     }
   ]
 }

@@ -1,0 +1,37 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+numbers.59	-	-	The teacher is **thirty**.	Der Lehrer ist **dreißig**.	dreißig is the one ten written with ß; the others end in -zig.
+numbers.59	-	-	I am **forty**.	Ich bin **vierzig**.	vier + zig: vierzig.
+numbers.59	-	-	My father is **fifty**.	Mein Vater ist **fünfzig**.	fünf + zig: fünfzig.
+numbers.59	-	-	My sister is **twenty-one**.	Meine Schwester ist **einundzwanzig**.	The unit comes first, then und, then the ten: one-and-twenty. eins loses its s.
+numbers.59	-	-	The bag costs **twenty-five** euros.	Die Tasche kostet **fünfundzwanzig** Euro.	five-and-twenty, written as one word.
+numbers.59	-	-	My mother is **forty-five**.	Meine Mutter ist **fünfundvierzig**.	fünf und vierzig, in one word. Say the unit first.
+numbers.59	-	-	The book costs **thirty-two** euros.	Das Buch kostet **zweiunddreißig** Euro.	zwei und dreißig: zweiunddreißig.
+numbers.59	-	-	My aunt is **fifty-eight**.	Meine Tante ist **achtundfünfzig**.	acht und fünfzig. Read long numbers from the back: first the 8, then the 50.
+time.clock	-	-	It's **three o'clock**.	Es ist **drei Uhr**.	The hour, then Uhr: drei Uhr.
+time.clock	-	-	It's **half past three**.	Es ist **halb vier**.	German counts the half towards the next hour: halb vier is half to four, 3:30.
+time.clock	-	-	It's **half past eleven**.	Es ist **halb zwölf**.	11:30 is halb zwölf: halfway to twelve.
+time.clock	-	-	It's **quarter past two**.	Es ist **Viertel nach zwei**.	nach: past. Viertel nach zwei is 2:15.
+time.clock	-	-	It's **quarter to twelve**.	Es ist **Viertel vor zwölf**.	vor: to. Viertel vor zwölf is 11:45.
+time.clock	-	-	It's **ten past eight**.	Es ist **zehn nach acht**.	Minutes, nach, then the hour; Uhr is left out.
+time.clock	-	-	It's **five to nine**.	Es ist **fünf vor neun**.	fünf vor neun: 8:55.
+time.clock	-	-	**What time** is it?	**Wie spät** ist es?	German asks how late it is: Wie spät ist es?
+time.clock	-	-	What time is it? – It's **twenty past four**.	Wie viel Uhr ist es? – Es ist **zwanzig nach vier**.	Wie viel Uhr ist es? is the other way to ask. zwanzig nach vier: 4:20.
+time.clock	-	-	It's **seven forty-five pm**.	Es ist **neunzehn Uhr fünfundvierzig**.	Timetables use the 24-hour clock: the hour, Uhr, then the minutes.
+time.clock	-	-	The train leaves at **eight thirty**.	Der Zug fährt um **acht Uhr dreißig**.	The official way: acht Uhr dreißig. In speech, halb neun.
+time.clock	-	-	It's **late**, and I'm tired.	Es ist **spät**, und ich bin müde.	spät: late. Es ist spät, with es as the subject, as in English.
+time.um.am	-	-	I'm working **at** eight.	Ich arbeite **um** acht.	um before a clock time: at.
+time.um.am	-	-	The train leaves **at** half past six.	Der Zug fährt **um** halb sieben.	um halb sieben: at 6:30.
+time.um.am	-	-	We eat **at** seven o'clock.	Wir essen **um** sieben Uhr.	um sieben Uhr: at seven o'clock.
+time.um.am	-	-	**At what time** are you coming? (one friend)	**Um wie viel Uhr** kommst du?	Um wie viel Uhr…? asks at what time; the whole phrase comes first, then the verb.
+time.um.am	-	-	**On Monday** I'm working.	**Am Montag** arbeite ich.	am before a day: am Montag. The days are all der-words.
+time.um.am	-	-	**On Tuesday** we're playing football.	**Am Dienstag** spielen wir Fußball.	am Dienstag first, so the verb comes second and wir after it.
+time.um.am	-	-	She's coming **on Wednesday**.	Sie kommt **am Mittwoch**.	am Mittwoch: Mittwoch means mid-week.
+time.um.am	-	-	**On Thursday** the cinema is cheap.	**Am Donnerstag** ist das Kino billig.	am Donnerstag, then ist second.
+time.um.am	-	-	**On Friday** we're cooking fish.	**Am Freitag** kochen wir Fisch.	am Freitag: on Friday.
+time.um.am	-	-	**On Saturday** I sleep in.	**Am Samstag** schlafe ich lange.	am Samstag, then the verb, then ich.
+time.um.am	-	-	**On Sunday** my parents are coming.	**Am Sonntag** kommen meine Eltern.	The subject meine Eltern comes after the verb.
+time.um.am	-	-	**On Sunday at three** my grandma is coming.	**Am Sonntag um drei** kommt meine Oma.	The day first, then the time: am Sonntag um drei. Together they take the first place.
+time.um.am	-	-	Today is **Monday**.	Heute ist **Montag**.	After ist, a day takes no article and no am.
+time.um.am	-	-	Is the bus running **on Sunday**?	Fährt der Bus **am Sonntag**?	am Sonntag goes after the subject in a question.
+time.um.am	-	-	Do you work **on Saturday**? (formal)	Arbeiten Sie **am Samstag**?	am Samstag: on Saturday.
+time.um.am	-	-	We don't work **on Sunday**.	Wir arbeiten **am Sonntag** nicht.	nicht comes after am Sonntag, like after heute.
