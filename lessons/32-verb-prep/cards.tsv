@@ -1,0 +1,34 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+verb.prep	Bus	acc.sg	I'm waiting for **the bus**.	Ich warte auf **den Bus**.	warten auf + accusative: auf den Bus. English for, German auf.
+verb.prep	Freund	acc.pl	We're waiting for **our friends**.	Wir warten auf **unsere Freunde**.	auf + accusative plural: unsere Freunde.
+verb.prep	Antwort	acc.sg	We're waiting for **an answer**.	Wir warten auf **eine Antwort**.	auf eine Antwort: accusative.
+verb.prep	Oma	acc.sg	I often think of **my grandma**.	Ich denke oft an **meine Oma**.	denken an + accusative: to think of.
+verb.prep	Termin	acc.sg	Are you thinking of **the appointment**? (one friend)	Denkst du an **den Termin**?	an + accusative: den Termin. Denk an…! also means don't forget.
+verb.prep	Wochenende	acc.sg	I'm looking forward to **the weekend**.	Ich freue mich auf **das Wochenende**.	sich freuen auf: glad about something still to come.
+verb.prep	Ferien	acc.pl	The children are looking forward to **the holidays**.	Die Kinder freuen sich auf **die Ferien**.	auf die Ferien: still to come.
+verb.prep	Geschenk	acc.sg	She's pleased with **the present**.	Sie freut sich über **das Geschenk**.	sich freuen über: glad about something already here.
+verb.prep	Film	acc.sg	We're talking about **the film**.	Wir sprechen über **den Film**.	sprechen über + accusative.
+verb.prep	Familie	acc.sg	She talks about **her family**.	Sie spricht über **ihre Familie**.	über + accusative: ihre Familie.
+verb.prep	Lehrer	acc.sg	Do you remember **your teacher**? (one friend)	Erinnerst du dich an **deinen Lehrer**?	sich erinnern an + accusative: to remember.
+verb.prep	Rechnung	acc.sg	I'm annoyed about **the bill**.	Ich ärgere mich über **die Rechnung**.	sich ärgern über + accusative.
+verb.prep	Kurs	acc.sg	I'm interested in **the course**.	Ich interessiere mich für **den Kurs**.	sich interessieren für + accusative.
+verb.prep	Haus	dat.sg	He dreams of **a house** by the sea.	Er träumt von **einem Haus** am Meer.	träumen von: von always takes the dative.
+verb.prep	Hund	dat.sg	Are you afraid of **the dog**? (one friend)	Hast du Angst vor **dem Hund**?	Angst haben vor + dative.
+verb.prep	Kind	acc.sg	Look after **the child**! (one friend)	Pass auf **das Kind** auf!	aufpassen auf + accusative: the prefix auf goes last, after the object.
+da.wo	-	-	**What** are you waiting for? (one friend)	**Worauf** wartest du?	For a thing, ask with wo + the preposition: worauf. An r joins them before a vowel.
+da.wo	-	-	**Who** are you waiting for? (one friend)	Auf **wen** wartest du?	For a person, keep the preposition and use wen: auf wen.
+da.wo	-	-	**What** are you thinking of? (one friend)	**Woran** denkst du?	denken an → woran.
+da.wo	-	-	**What** are you talking about? (several friends)	**Worüber** sprecht ihr?	sprechen über → worüber.
+da.wo	-	-	**Who** are you talking about? (several friends)	Über **wen** sprecht ihr?	A person: über wen.
+da.wo	-	-	**What** are you looking forward to? (one friend)	**Worauf** freust du dich?	sich freuen auf → worauf.
+da.wo	-	-	**What** is he interested in?	**Wofür** interessiert er sich?	für has no vowel to join, so no r: wofür.
+da.wo	-	-	**What** do you dream of? (one friend)	**Wovon** träumst du?	träumen von → wovon.
+da.wo	-	-	The bus? I've been waiting **for it** for a long time.	Der Bus? Ich warte schon lange **darauf**.	For a thing, da + the preposition stands in for it: darauf = auf den Bus.
+da.wo	-	-	The exam? I'm not thinking **about it**.	Die Prüfung? Ich denke nicht **daran**.	an die Prüfung → daran.
+da.wo	-	-	The holidays? I'm looking forward **to them**.	Die Ferien? Ich freue mich **darauf**.	auf die Ferien → darauf.
+da.wo	-	-	The film? We talked **about it**.	Der Film? Wir haben **darüber** gesprochen.	über den Film → darüber.
+da.wo	-	-	Football? I'm not interested **in it**.	Fußball? Ich interessiere mich nicht **dafür**.	für Fußball → dafür.
+da.wo	-	-	The house by the sea? I dream **of it**.	Das Haus am Meer? Ich träume **davon**.	von dem Haus → davon.
+da.wo	-	-	The holiday in Italy? I remember **it** well.	Der Urlaub in Italien? Ich erinnere mich gut **daran**.	an den Urlaub → daran.
+da.wo	-	-	The bill? Don't get annoyed **about it**! (one friend)	Die Rechnung? Ärgere dich nicht **darüber**!	über die Rechnung → darüber.
+da.wo	-	-	My grandma? I often think **of her**.	Meine Oma? Ich denke oft an **sie**.	For a person there is no da-: an + the pronoun, an sie.

@@ -77,6 +77,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 29 · I wonder if: indirect questions; als and wenn in the past](lessons/29-ob-als.json) — 31 cards
 - [Lesson 30 · So, still, then: deshalb, trotzdem, dann; aber, sondern, denn, oder](lessons/30-connectors.json) — 28 cards
 - [Lesson 31 · Myself: reflexive verbs, sich freuen, sich waschen](lessons/31-reflexive.json) — 31 cards
+- [Lesson 32 · Waiting for, thinking of: verbs with prepositions, darauf, worauf](lessons/32-verb-prep.json) — 33 cards
 
 ## Decks
 

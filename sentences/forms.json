@@ -130,6 +130,38 @@
    ]
   }
  },
+ "Antwort": {
+  "all": [
+   "Antwort",
+   "Antworten"
+  ],
+  "english": "answer",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Antworten"
+   ],
+   "acc.sg": [
+    "Antwort"
+   ],
+   "dat.pl": [
+    "Antworten"
+   ],
+   "dat.sg": [
+    "Antwort"
+   ],
+   "gen.sg": [
+    "Antwort"
+   ],
+   "nom.pl": [
+    "Antworten"
+   ],
+   "nom.sg": [
+    "Antwort"
+   ]
+  }
+ },
  "Apfel": {
   "all": [
    "Apfel",
@@ -9197,6 +9229,103 @@
    ]
   }
  },
+ "aufpassen": {
+  "all": [
+   "auf",
+   "aufgepasst",
+   "aufpasse",
+   "aufpassen",
+   "aufpassend",
+   "aufpassest",
+   "aufpasset",
+   "aufpasst",
+   "aufpasste",
+   "aufpassten",
+   "aufpasstest",
+   "aufpasstet",
+   "aufzupassen",
+   "haben",
+   "habest",
+   "habet",
+   "pass",
+   "passe",
+   "passen",
+   "passest",
+   "passet",
+   "passt",
+   "passte",
+   "passten",
+   "passtest",
+   "passtet",
+   "werdest"
+  ],
+  "english": "aufpassen auf: to look after, to watch",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "pass auf",
+    "passe auf"
+   ],
+   "imp.ihr": [
+    "passt auf"
+   ],
+   "perf.du": [
+    "hast aufgepasst"
+   ],
+   "perf.er": [
+    "hat aufgepasst"
+   ],
+   "perf.ich": [
+    "habe aufgepasst"
+   ],
+   "perf.ihr": [
+    "habt aufgepasst"
+   ],
+   "perf.wir": [
+    "haben aufgepasst"
+   ],
+   "pres.du": [
+    "passt auf",
+    "aufpasst"
+   ],
+   "pres.er": [
+    "passt auf",
+    "aufpasst"
+   ],
+   "pres.ich": [
+    "passe auf",
+    "aufpasse"
+   ],
+   "pres.ihr": [
+    "passt auf",
+    "aufpasst"
+   ],
+   "pres.wir": [
+    "passen auf",
+    "aufpassen"
+   ],
+   "pret.du": [
+    "passtest auf",
+    "aufpasstest"
+   ],
+   "pret.er": [
+    "passte auf",
+    "aufpasste"
+   ],
+   "pret.ich": [
+    "passte auf",
+    "aufpasste"
+   ],
+   "pret.ihr": [
+    "passtet auf",
+    "aufpasstet"
+   ],
+   "pret.wir": [
+    "passten auf",
+    "aufpassten"
+   ]
+  }
+ },
  "aufräumen": {
   "all": [
    "auf",
@@ -12565,6 +12694,88 @@
    "pret.wir": [
     "schliefen ein",
     "einschliefen"
+   ]
+  }
+ },
+ "erinnern": {
+  "all": [
+   "erinner",
+   "erinnere",
+   "erinnerest",
+   "erinneret",
+   "erinnern",
+   "erinnernd",
+   "erinnerst",
+   "erinnert",
+   "erinnerte",
+   "erinnerten",
+   "erinnertest",
+   "erinnertet",
+   "erinnre",
+   "erinnrest",
+   "erinnret",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "sich erinnern an: to remember",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "erinnre",
+    "erinner",
+    "erinnere"
+   ],
+   "imp.ihr": [
+    "erinnert"
+   ],
+   "perf.du": [
+    "hast erinnert"
+   ],
+   "perf.er": [
+    "hat erinnert"
+   ],
+   "perf.ich": [
+    "habe erinnert"
+   ],
+   "perf.ihr": [
+    "habt erinnert"
+   ],
+   "perf.wir": [
+    "haben erinnert"
+   ],
+   "pres.du": [
+    "erinnerst"
+   ],
+   "pres.er": [
+    "erinnert"
+   ],
+   "pres.ich": [
+    "erinnre",
+    "erinnere",
+    "erinner"
+   ],
+   "pres.ihr": [
+    "erinnert"
+   ],
+   "pres.wir": [
+    "erinnern"
+   ],
+   "pret.du": [
+    "erinnertest"
+   ],
+   "pret.er": [
+    "erinnerte"
+   ],
+   "pret.ich": [
+    "erinnerte"
+   ],
+   "pret.ihr": [
+    "erinnertet"
+   ],
+   "pret.wir": [
+    "erinnerten"
    ]
   }
  },
@@ -32316,6 +32527,83 @@
    ]
   }
  },
+ "träumen": {
+  "all": [
+   "geträumt",
+   "haben",
+   "habest",
+   "habet",
+   "träum",
+   "träume",
+   "träumen",
+   "träumend",
+   "träumest",
+   "träumet",
+   "träumst",
+   "träumt",
+   "träumte",
+   "träumten",
+   "träumtest",
+   "träumtet",
+   "werdest"
+  ],
+  "english": "träumen von: to dream of",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "träum",
+    "träume"
+   ],
+   "imp.ihr": [
+    "träumt"
+   ],
+   "perf.du": [
+    "hast geträumt"
+   ],
+   "perf.er": [
+    "hat geträumt"
+   ],
+   "perf.ich": [
+    "habe geträumt"
+   ],
+   "perf.ihr": [
+    "habt geträumt"
+   ],
+   "perf.wir": [
+    "haben geträumt"
+   ],
+   "pres.du": [
+    "träumst"
+   ],
+   "pres.er": [
+    "träumt"
+   ],
+   "pres.ich": [
+    "träume"
+   ],
+   "pres.ihr": [
+    "träumt"
+   ],
+   "pres.wir": [
+    "träumen"
+   ],
+   "pret.du": [
+    "träumtest"
+   ],
+   "pret.er": [
+    "träumte"
+   ],
+   "pret.ich": [
+    "träumte"
+   ],
+   "pret.ihr": [
+    "träumtet"
+   ],
+   "pret.wir": [
+    "träumten"
+   ]
+  }
+ },
  "umziehen": {
   "all": [
    "haben",
@@ -35087,6 +35375,89 @@
    "pret.wir": [
     "machten zu",
     "zumachten"
+   ]
+  }
+ },
+ "ärgern": {
+  "all": [
+   "geärgert",
+   "haben",
+   "habest",
+   "habet",
+   "werdest",
+   "ärger",
+   "ärgere",
+   "ärgerest",
+   "ärgeret",
+   "ärgern",
+   "ärgernd",
+   "ärgerst",
+   "ärgert",
+   "ärgerte",
+   "ärgerten",
+   "ärgertest",
+   "ärgertet",
+   "ärgre",
+   "ärgrest",
+   "ärgret"
+  ],
+  "english": "sich ärgern über: to be annoyed about",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "ärgre",
+    "ärger",
+    "ärgere"
+   ],
+   "imp.ihr": [
+    "ärgert"
+   ],
+   "perf.du": [
+    "hast geärgert"
+   ],
+   "perf.er": [
+    "hat geärgert"
+   ],
+   "perf.ich": [
+    "habe geärgert"
+   ],
+   "perf.ihr": [
+    "habt geärgert"
+   ],
+   "perf.wir": [
+    "haben geärgert"
+   ],
+   "pres.du": [
+    "ärgerst"
+   ],
+   "pres.er": [
+    "ärgert"
+   ],
+   "pres.ich": [
+    "ärgre",
+    "ärgere",
+    "ärger"
+   ],
+   "pres.ihr": [
+    "ärgert"
+   ],
+   "pres.wir": [
+    "ärgern"
+   ],
+   "pret.du": [
+    "ärgertest"
+   ],
+   "pret.er": [
+    "ärgerte"
+   ],
+   "pret.ich": [
+    "ärgerte"
+   ],
+   "pret.ihr": [
+    "ärgertet"
+   ],
+   "pret.wir": [
+    "ärgerten"
    ]
   }
  },

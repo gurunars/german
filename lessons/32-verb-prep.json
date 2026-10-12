@@ -1,0 +1,206 @@
+{
+  "name": "Lesson 32 · Waiting for, thinking of: verbs with prepositions, darauf, worauf",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I'm waiting for **the bus**.",
+      "back": "Ich warte auf **den Bus**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. warten auf + accusative: auf den Bus. English for, German auf.",
+      "priority": 1
+    },
+    {
+      "front": "We're waiting for **our friends**.",
+      "back": "Wir warten auf **unsere Freunde**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. auf + accusative plural: unsere Freunde.",
+      "priority": 1
+    },
+    {
+      "front": "We're waiting for **an answer**.",
+      "back": "Wir warten auf **eine Antwort**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. auf eine Antwort: accusative.",
+      "priority": 1
+    },
+    {
+      "front": "I often think of **my grandma**.",
+      "back": "Ich denke oft an **meine Oma**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. denken an + accusative: to think of.",
+      "priority": 1
+    },
+    {
+      "front": "Are you thinking of **the appointment**? (one friend)",
+      "back": "Denkst du an **den Termin**?",
+      "note": "Verbs with prepositions: warten auf, denken an…. an + accusative: den Termin. Denk an…! also means don't forget.",
+      "priority": 1
+    },
+    {
+      "front": "I'm looking forward to **the weekend**.",
+      "back": "Ich freue mich auf **das Wochenende**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. sich freuen auf: glad about something still to come.",
+      "priority": 1
+    },
+    {
+      "front": "The children are looking forward to **the holidays**.",
+      "back": "Die Kinder freuen sich auf **die Ferien**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. auf die Ferien: still to come.",
+      "priority": 1
+    },
+    {
+      "front": "She's pleased with **the present**.",
+      "back": "Sie freut sich über **das Geschenk**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. sich freuen über: glad about something already here.",
+      "priority": 1
+    },
+    {
+      "front": "We're talking about **the film**.",
+      "back": "Wir sprechen über **den Film**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. sprechen über + accusative.",
+      "priority": 1
+    },
+    {
+      "front": "She talks about **her family**.",
+      "back": "Sie spricht über **ihre Familie**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. über + accusative: ihre Familie.",
+      "priority": 1
+    },
+    {
+      "front": "Do you remember **your teacher**? (one friend)",
+      "back": "Erinnerst du dich an **deinen Lehrer**?",
+      "note": "Verbs with prepositions: warten auf, denken an…. sich erinnern an + accusative: to remember.",
+      "priority": 1
+    },
+    {
+      "front": "I'm annoyed about **the bill**.",
+      "back": "Ich ärgere mich über **die Rechnung**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. sich ärgern über + accusative.",
+      "priority": 1
+    },
+    {
+      "front": "I'm interested in **the course**.",
+      "back": "Ich interessiere mich für **den Kurs**.",
+      "note": "Verbs with prepositions: warten auf, denken an…. sich interessieren für + accusative.",
+      "priority": 1
+    },
+    {
+      "front": "He dreams of **a house** by the sea.",
+      "back": "Er träumt von **einem Haus** am Meer.",
+      "note": "Verbs with prepositions: warten auf, denken an…. träumen von: von always takes the dative.",
+      "priority": 1
+    },
+    {
+      "front": "Are you afraid of **the dog**? (one friend)",
+      "back": "Hast du Angst vor **dem Hund**?",
+      "note": "Verbs with prepositions: warten auf, denken an…. Angst haben vor + dative.",
+      "priority": 1
+    },
+    {
+      "front": "Look after **the child**! (one friend)",
+      "back": "Pass auf **das Kind** auf!",
+      "note": "Verbs with prepositions: warten auf, denken an…. aufpassen auf + accusative: the prefix auf goes last, after the object.",
+      "priority": 1
+    },
+    {
+      "front": "**What** are you waiting for? (one friend)",
+      "back": "**Worauf** wartest du?",
+      "note": "da- and wo-compounds: darauf, worauf. For a thing, ask with wo + the preposition: worauf. An r joins them before a vowel.",
+      "priority": 1
+    },
+    {
+      "front": "**Who** are you waiting for? (one friend)",
+      "back": "Auf **wen** wartest du?",
+      "note": "da- and wo-compounds: darauf, worauf. For a person, keep the preposition and use wen: auf wen.",
+      "priority": 1
+    },
+    {
+      "front": "**What** are you thinking of? (one friend)",
+      "back": "**Woran** denkst du?",
+      "note": "da- and wo-compounds: darauf, worauf. denken an → woran.",
+      "priority": 1
+    },
+    {
+      "front": "**What** are you talking about? (several friends)",
+      "back": "**Worüber** sprecht ihr?",
+      "note": "da- and wo-compounds: darauf, worauf. sprechen über → worüber.",
+      "priority": 1
+    },
+    {
+      "front": "**Who** are you talking about? (several friends)",
+      "back": "Über **wen** sprecht ihr?",
+      "note": "da- and wo-compounds: darauf, worauf. A person: über wen.",
+      "priority": 1
+    },
+    {
+      "front": "**What** are you looking forward to? (one friend)",
+      "back": "**Worauf** freust du dich?",
+      "note": "da- and wo-compounds: darauf, worauf. sich freuen auf → worauf.",
+      "priority": 1
+    },
+    {
+      "front": "**What** is he interested in?",
+      "back": "**Wofür** interessiert er sich?",
+      "note": "da- and wo-compounds: darauf, worauf. für has no vowel to join, so no r: wofür.",
+      "priority": 1
+    },
+    {
+      "front": "**What** do you dream of? (one friend)",
+      "back": "**Wovon** träumst du?",
+      "note": "da- and wo-compounds: darauf, worauf. träumen von → wovon.",
+      "priority": 1
+    },
+    {
+      "front": "The bus? I've been waiting **for it** for a long time.",
+      "back": "Der Bus? Ich warte schon lange **darauf**.",
+      "note": "da- and wo-compounds: darauf, worauf. For a thing, da + the preposition stands in for it: darauf = auf den Bus.",
+      "priority": 1
+    },
+    {
+      "front": "The exam? I'm not thinking **about it**.",
+      "back": "Die Prüfung? Ich denke nicht **daran**.",
+      "note": "da- and wo-compounds: darauf, worauf. an die Prüfung → daran.",
+      "priority": 1
+    },
+    {
+      "front": "The holidays? I'm looking forward **to them**.",
+      "back": "Die Ferien? Ich freue mich **darauf**.",
+      "note": "da- and wo-compounds: darauf, worauf. auf die Ferien → darauf.",
+      "priority": 1
+    },
+    {
+      "front": "The film? We talked **about it**.",
+      "back": "Der Film? Wir haben **darüber** gesprochen.",
+      "note": "da- and wo-compounds: darauf, worauf. über den Film → darüber.",
+      "priority": 1
+    },
+    {
+      "front": "Football? I'm not interested **in it**.",
+      "back": "Fußball? Ich interessiere mich nicht **dafür**.",
+      "note": "da- and wo-compounds: darauf, worauf. für Fußball → dafür.",
+      "priority": 1
+    },
+    {
+      "front": "The house by the sea? I dream **of it**.",
+      "back": "Das Haus am Meer? Ich träume **davon**.",
+      "note": "da- and wo-compounds: darauf, worauf. von dem Haus → davon.",
+      "priority": 1
+    },
+    {
+      "front": "The holiday in Italy? I remember **it** well.",
+      "back": "Der Urlaub in Italien? Ich erinnere mich gut **daran**.",
+      "note": "da- and wo-compounds: darauf, worauf. an den Urlaub → daran.",
+      "priority": 1
+    },
+    {
+      "front": "The bill? Don't get annoyed **about it**! (one friend)",
+      "back": "Die Rechnung? Ärgere dich nicht **darüber**!",
+      "note": "da- and wo-compounds: darauf, worauf. über die Rechnung → darüber.",
+      "priority": 1
+    },
+    {
+      "front": "My grandma? I often think **of her**.",
+      "back": "Meine Oma? Ich denke oft an **sie**.",
+      "note": "da- and wo-compounds: darauf, worauf. For a person there is no da-: an + the pronoun, an sie.",
+      "priority": 1
+    }
+  ]
+}
