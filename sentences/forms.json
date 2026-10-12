@@ -1058,6 +1058,42 @@
    ]
   }
  },
+ "Fenster": {
+  "all": [
+   "Fenster",
+   "Fensterchen",
+   "Fensterl",
+   "Fensterlein",
+   "Fenstern",
+   "Fensters"
+  ],
+  "english": "window",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Fenster"
+   ],
+   "acc.sg": [
+    "Fenster"
+   ],
+   "dat.pl": [
+    "Fenstern"
+   ],
+   "dat.sg": [
+    "Fenster"
+   ],
+   "gen.sg": [
+    "Fensters"
+   ],
+   "nom.pl": [
+    "Fenster"
+   ],
+   "nom.sg": [
+    "Fenster"
+   ]
+  }
+ },
  "Film": {
   "all": [
    "Film",
@@ -2404,6 +2440,41 @@
    ]
   }
  },
+ "Kurs": {
+  "all": [
+   "Kurs",
+   "Kurse",
+   "Kursen",
+   "Kurses"
+  ],
+  "english": "course, class",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kurse"
+   ],
+   "acc.sg": [
+    "Kurs"
+   ],
+   "dat.pl": [
+    "Kursen"
+   ],
+   "dat.sg": [
+    "Kurs",
+    "Kurse"
+   ],
+   "gen.sg": [
+    "Kurses"
+   ],
+   "nom.pl": [
+    "Kurse"
+   ],
+   "nom.sg": [
+    "Kurs"
+   ]
+  }
+ },
  "Lampe": {
   "all": [
    "Lampe",
@@ -2813,6 +2884,40 @@
    ],
    "nom.sg": [
     "Montag"
+   ]
+  }
+ },
+ "Morgen": {
+  "all": [
+   "Morgen",
+   "Morgende",
+   "Morgenden",
+   "Morgens"
+  ],
+  "english": "morning",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Morgen"
+   ],
+   "acc.sg": [
+    "Morgen"
+   ],
+   "dat.pl": [
+    "Morgen"
+   ],
+   "dat.sg": [
+    "Morgen"
+   ],
+   "gen.sg": [
+    "Morgens"
+   ],
+   "nom.pl": [
+    "Morgen"
+   ],
+   "nom.sg": [
+    "Morgen"
    ]
   }
  },
@@ -4621,6 +4726,74 @@
    ]
   }
  },
+ "abholen": {
+  "all": [
+   "ab",
+   "abgeholt",
+   "abhole",
+   "abholen",
+   "abholend",
+   "abholest",
+   "abholet",
+   "abholst",
+   "abholt",
+   "abholte",
+   "abholten",
+   "abholtest",
+   "abholtet",
+   "abzuholen",
+   "haben",
+   "habest",
+   "habet",
+   "hol",
+   "hole",
+   "holen",
+   "holest",
+   "holet",
+   "holst",
+   "holt",
+   "holte",
+   "holten",
+   "holtest",
+   "holtet",
+   "werdest"
+  ],
+  "english": "to pick up, to collect",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "hol ab",
+    "hole ab"
+   ],
+   "perf.er": [
+    "hat abgeholt"
+   ],
+   "pres.du": [
+    "holst ab",
+    "abholst"
+   ],
+   "pres.er": [
+    "holt ab",
+    "abholt"
+   ],
+   "pres.ich": [
+    "hole ab",
+    "abhole"
+   ],
+   "pres.ihr": [
+    "holt ab",
+    "abholt"
+   ],
+   "pres.wir": [
+    "holen ab",
+    "abholen"
+   ],
+   "pret.er": [
+    "holte ab",
+    "abholte"
+   ]
+  }
+ },
  "alt": {
   "all": [
    "alt",
@@ -4708,6 +4881,159 @@
    ]
   }
  },
+ "anfangen": {
+  "all": [
+   "an",
+   "anfange",
+   "anfangen",
+   "anfangend",
+   "anfangest",
+   "anfanget",
+   "anfangt",
+   "anfing",
+   "anfinge",
+   "anfingen",
+   "anfingest",
+   "anfinget",
+   "anfingst",
+   "anfingt",
+   "anfängst",
+   "anfängt",
+   "angefangen",
+   "anzufangen",
+   "fang",
+   "fange",
+   "fangen",
+   "fangest",
+   "fanget",
+   "fangt",
+   "fing",
+   "finge",
+   "fingen",
+   "fingest",
+   "finget",
+   "fingst",
+   "fingt",
+   "fängst",
+   "fängt",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to start, to begin",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "fang an",
+    "fange an"
+   ],
+   "perf.er": [
+    "hat angefangen"
+   ],
+   "pres.du": [
+    "fängst an",
+    "anfängst"
+   ],
+   "pres.er": [
+    "fängt an",
+    "anfängt"
+   ],
+   "pres.ich": [
+    "fange an",
+    "anfange"
+   ],
+   "pres.ihr": [
+    "fangt an",
+    "anfangt"
+   ],
+   "pres.wir": [
+    "fangen an",
+    "anfangen"
+   ],
+   "pret.er": [
+    "fing an",
+    "anfing"
+   ]
+  }
+ },
+ "anrufen": {
+  "all": [
+   "an",
+   "angerufen",
+   "anrief",
+   "anriefe",
+   "anriefen",
+   "anriefest",
+   "anriefet",
+   "anriefst",
+   "anrieft",
+   "anrufe",
+   "anrufen",
+   "anrufend",
+   "anrufest",
+   "anrufet",
+   "anrufst",
+   "anruft",
+   "anzurufen",
+   "haben",
+   "habest",
+   "habet",
+   "rief",
+   "riefe",
+   "riefen",
+   "riefest",
+   "riefet",
+   "riefst",
+   "rieft",
+   "ruf",
+   "rufe",
+   "rufen",
+   "rufest",
+   "rufet",
+   "rufst",
+   "ruft",
+   "werdest"
+  ],
+  "english": "to call (on the phone)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "ruf an",
+    "rufe an"
+   ],
+   "perf.er": [
+    "hat angerufen"
+   ],
+   "pres.du": [
+    "rufst an",
+    "anrufst"
+   ],
+   "pres.er": [
+    "ruft an",
+    "anruft"
+   ],
+   "pres.ich": [
+    "rufe an",
+    "anrufe"
+   ],
+   "pres.ihr": [
+    "ruft an",
+    "anruft"
+   ],
+   "pres.wir": [
+    "rufen an",
+    "anrufen"
+   ],
+   "pret.er": [
+    "rief an",
+    "anrief"
+   ]
+  }
+ },
  "arbeiten": {
   "all": [
    "arbeit",
@@ -4753,6 +5079,262 @@
    ],
    "pret.er": [
     "arbeitete"
+   ]
+  }
+ },
+ "aufmachen": {
+  "all": [
+   "auf",
+   "aufgemacht",
+   "aufmache",
+   "aufmachen",
+   "aufmachend",
+   "aufmachest",
+   "aufmachet",
+   "aufmachst",
+   "aufmacht",
+   "aufmachte",
+   "aufmachten",
+   "aufmachtest",
+   "aufmachtet",
+   "aufzumachen",
+   "haben",
+   "habest",
+   "habet",
+   "mach",
+   "mache",
+   "machen",
+   "machest",
+   "machet",
+   "machst",
+   "macht",
+   "machte",
+   "machten",
+   "machtest",
+   "machtet",
+   "werdest"
+  ],
+  "english": "to open",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "mach auf",
+    "mache auf"
+   ],
+   "perf.er": [
+    "hat aufgemacht"
+   ],
+   "pres.du": [
+    "machst auf",
+    "aufmachst"
+   ],
+   "pres.er": [
+    "macht auf",
+    "aufmacht"
+   ],
+   "pres.ich": [
+    "mache auf",
+    "aufmache"
+   ],
+   "pres.ihr": [
+    "macht auf",
+    "aufmacht"
+   ],
+   "pres.wir": [
+    "machen auf",
+    "aufmachen"
+   ],
+   "pret.er": [
+    "machte auf",
+    "aufmachte"
+   ]
+  }
+ },
+ "aufräumen": {
+  "all": [
+   "auf",
+   "aufgeräumt",
+   "aufräume",
+   "aufräumen",
+   "aufräumend",
+   "aufräumest",
+   "aufräumet",
+   "aufräumst",
+   "aufräumt",
+   "aufräumte",
+   "aufräumten",
+   "aufräumtest",
+   "aufräumtet",
+   "aufzuräumen",
+   "haben",
+   "habest",
+   "habet",
+   "räum",
+   "räume",
+   "räumen",
+   "räumest",
+   "räumet",
+   "räumst",
+   "räumt",
+   "räumte",
+   "räumten",
+   "räumtest",
+   "räumtet",
+   "werdest"
+  ],
+  "english": "to tidy up",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "räum auf",
+    "räume auf"
+   ],
+   "perf.er": [
+    "hat aufgeräumt"
+   ],
+   "pres.du": [
+    "räumst auf",
+    "aufräumst"
+   ],
+   "pres.er": [
+    "räumt auf",
+    "aufräumt"
+   ],
+   "pres.ich": [
+    "räume auf",
+    "aufräume"
+   ],
+   "pres.ihr": [
+    "räumt auf",
+    "aufräumt"
+   ],
+   "pres.wir": [
+    "räumen auf",
+    "aufräumen"
+   ],
+   "pret.er": [
+    "räumte auf",
+    "aufräumte"
+   ]
+  }
+ },
+ "aufstehen": {
+  "all": [
+   "auf",
+   "aufgestanden",
+   "aufstand",
+   "aufstanden",
+   "aufstandest",
+   "aufstandet",
+   "aufstandst",
+   "aufstehe",
+   "aufstehen",
+   "aufstehend",
+   "aufstehest",
+   "aufstehet",
+   "aufstehst",
+   "aufsteht",
+   "aufstände",
+   "aufständen",
+   "aufständest",
+   "aufständet",
+   "aufstünde",
+   "aufstünden",
+   "aufstündest",
+   "aufstündet",
+   "aufzustehen",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "stand",
+   "standen",
+   "standest",
+   "standet",
+   "standst",
+   "steh",
+   "stehe",
+   "stehen",
+   "stehest",
+   "stehet",
+   "stehst",
+   "steht",
+   "stände",
+   "ständen",
+   "ständest",
+   "ständet",
+   "stünde",
+   "stünden",
+   "stündest",
+   "stündet",
+   "werdest"
+  ],
+  "english": "to get up",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "steh auf",
+    "stehe auf"
+   ],
+   "konj2.du": [
+    "ständest auf",
+    "stündest auf",
+    "aufständest",
+    "aufstündest"
+   ],
+   "konj2.er": [
+    "stände auf",
+    "stünde auf",
+    "aufstände",
+    "aufstünde"
+   ],
+   "konj2.ich": [
+    "stände auf",
+    "stünde auf",
+    "aufstände",
+    "aufstünde"
+   ],
+   "konj2.ihr": [
+    "ständet auf",
+    "stündet auf",
+    "aufständet",
+    "aufstündet"
+   ],
+   "konj2.wir": [
+    "ständen auf",
+    "stünden auf",
+    "aufständen",
+    "aufstünden"
+   ],
+   "perf.er": [
+    "hat aufgestanden",
+    "ist aufgestanden"
+   ],
+   "pres.du": [
+    "stehst auf",
+    "aufstehst"
+   ],
+   "pres.er": [
+    "steht auf",
+    "aufsteht"
+   ],
+   "pres.ich": [
+    "stehe auf",
+    "aufstehe"
+   ],
+   "pres.ihr": [
+    "steht auf",
+    "aufsteht"
+   ],
+   "pres.wir": [
+    "stehen auf",
+    "aufstehen"
+   ],
+   "pret.er": [
+    "stand auf",
+    "aufstand"
    ]
   }
  },
@@ -5304,6 +5886,73 @@
    ]
   }
  },
+ "einkaufen": {
+  "all": [
+   "eingekauft",
+   "einkaufe",
+   "einkaufen",
+   "einkaufend",
+   "einkaufest",
+   "einkaufet",
+   "einkaufst",
+   "einkauft",
+   "einkaufte",
+   "einkauften",
+   "einkauftest",
+   "einkauftet",
+   "einzukaufen",
+   "haben",
+   "habest",
+   "habet",
+   "kauf",
+   "kaufe",
+   "kaufen",
+   "kaufest",
+   "kaufet",
+   "kaufst",
+   "kauft",
+   "kaufte",
+   "kauften",
+   "kauftest",
+   "kauftet",
+   "werdest"
+  ],
+  "english": "to do the shopping",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "kauf ein",
+    "kaufe ein"
+   ],
+   "perf.er": [
+    "hat eingekauft"
+   ],
+   "pres.du": [
+    "kaufst ein",
+    "einkaufst"
+   ],
+   "pres.er": [
+    "kauft ein",
+    "einkauft"
+   ],
+   "pres.ich": [
+    "kaufe ein",
+    "einkaufe"
+   ],
+   "pres.ihr": [
+    "kauft ein",
+    "einkauft"
+   ],
+   "pres.wir": [
+    "kaufen ein",
+    "einkaufen"
+   ],
+   "pret.er": [
+    "kaufte ein",
+    "einkaufte"
+   ]
+  }
+ },
  "essen": {
   "all": [
    "aß",
@@ -5417,6 +6066,113 @@
    ],
    "pret.er": [
     "fuhr"
+   ]
+  }
+ },
+ "fernsehen": {
+  "all": [
+   "fern",
+   "ferngesehen",
+   "fernsah",
+   "fernsahen",
+   "fernsahst",
+   "fernsaht",
+   "fernsehe",
+   "fernsehen",
+   "fernsehend",
+   "fernsehest",
+   "fernsehet",
+   "fernseht",
+   "fernsiehst",
+   "fernsieht",
+   "fernsähe",
+   "fernsähen",
+   "fernsähest",
+   "fernsähet",
+   "fernsähst",
+   "fernsäht",
+   "fernzusehen",
+   "haben",
+   "habest",
+   "habet",
+   "sah",
+   "sahen",
+   "sahst",
+   "saht",
+   "sehe",
+   "sehen",
+   "sehest",
+   "sehet",
+   "seht",
+   "sieh",
+   "siehe",
+   "siehst",
+   "sieht",
+   "sähe",
+   "sähen",
+   "sähest",
+   "sähet",
+   "sähst",
+   "säht",
+   "werdest"
+  ],
+  "english": "to watch TV",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "sieh fern",
+    "siehe fern"
+   ],
+   "konj2.du": [
+    "sähest fern",
+    "sähst fern",
+    "fernsähest",
+    "fernsähst"
+   ],
+   "konj2.er": [
+    "sähe fern",
+    "fernsähe"
+   ],
+   "konj2.ich": [
+    "sähe fern",
+    "fernsähe"
+   ],
+   "konj2.ihr": [
+    "sähet fern",
+    "säht fern",
+    "fernsähet",
+    "fernsäht"
+   ],
+   "konj2.wir": [
+    "sähen fern",
+    "fernsähen"
+   ],
+   "perf.er": [
+    "hat ferngesehen"
+   ],
+   "pres.du": [
+    "siehst fern",
+    "fernsiehst"
+   ],
+   "pres.er": [
+    "sieht fern",
+    "fernsieht"
+   ],
+   "pres.ich": [
+    "sehe fern",
+    "fernsehe"
+   ],
+   "pres.ihr": [
+    "seht fern",
+    "fernseht"
+   ],
+   "pres.wir": [
+    "sehen fern",
+    "fernsehen"
+   ],
+   "pret.er": [
+    "sah fern",
+    "fernsah"
    ]
   }
  },
@@ -5660,6 +6416,168 @@
    ],
    "weak.nom.m": [
     "der freie"
+   ]
+  }
+ },
+ "früh": {
+  "all": [
+   "am",
+   "früh",
+   "frühe",
+   "frühem",
+   "frühen",
+   "früher",
+   "frühere",
+   "früherem",
+   "früheren",
+   "früherer",
+   "früheres",
+   "frühes",
+   "früheste",
+   "frühestem",
+   "frühesten",
+   "frühester",
+   "frühestes",
+   "frühste",
+   "frühstem",
+   "frühsten",
+   "frühster",
+   "frühstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "early",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "früher",
+    "früherer",
+    "frühere",
+    "früheres",
+    "früheren",
+    "früherem",
+    "der frühere",
+    "die frühere",
+    "das frühere",
+    "die früheren",
+    "des früheren",
+    "der früheren",
+    "dem früheren",
+    "den früheren",
+    "ein früherer",
+    "eine frühere",
+    "ein früheres",
+    "eines früheren",
+    "einer früheren",
+    "einem früheren",
+    "einen früheren"
+   ],
+   "mixed.acc.m": [
+    "einen frühen"
+   ],
+   "mixed.nom.n": [
+    "ein frühes"
+   ],
+   "strong.dat.f": [
+    "früher"
+   ],
+   "superlative": [
+    "am frühesten",
+    "am frühsten",
+    "frühester",
+    "frühster",
+    "früheste",
+    "frühste",
+    "frühestes",
+    "frühstes",
+    "frühesten",
+    "frühsten",
+    "frühestem",
+    "frühstem",
+    "der früheste",
+    "der frühste",
+    "die früheste",
+    "die frühste",
+    "das früheste",
+    "das frühste",
+    "die frühesten",
+    "die frühsten",
+    "des frühesten",
+    "des frühsten",
+    "der frühesten",
+    "der frühsten",
+    "dem frühesten",
+    "dem frühsten",
+    "den frühesten",
+    "den frühsten",
+    "ein frühester",
+    "ein frühster",
+    "eine früheste",
+    "eine frühste",
+    "ein frühestes",
+    "ein frühstes",
+    "eines frühesten",
+    "eines frühsten",
+    "einer frühesten",
+    "einer frühsten",
+    "einem frühesten",
+    "einem frühsten",
+    "einen frühesten",
+    "einen frühsten"
+   ],
+   "weak.nom.m": [
+    "der frühe"
+   ]
+  }
+ },
+ "frühstücken": {
+  "all": [
+   "frühstück",
+   "frühstücke",
+   "frühstücken",
+   "frühstückend",
+   "frühstückest",
+   "frühstücket",
+   "frühstückst",
+   "frühstückt",
+   "frühstückte",
+   "frühstückten",
+   "frühstücktest",
+   "frühstücktet",
+   "gefrühstückt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to have breakfast",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "frühstück",
+    "frühstücke"
+   ],
+   "perf.er": [
+    "hat gefrühstückt"
+   ],
+   "pres.du": [
+    "frühstückst"
+   ],
+   "pres.er": [
+    "frühstückt"
+   ],
+   "pres.ich": [
+    "frühstücke"
+   ],
+   "pres.ihr": [
+    "frühstückt"
+   ],
+   "pres.wir": [
+    "frühstücken"
+   ],
+   "pret.er": [
+    "frühstückte"
    ]
   }
  },
@@ -7697,6 +8615,109 @@
    ],
    "pret.er": [
     "machte"
+   ]
+  }
+ },
+ "mitkommen": {
+  "all": [
+   "kam",
+   "kamen",
+   "kamst",
+   "kamt",
+   "komm",
+   "komme",
+   "kommen",
+   "kommest",
+   "kommet",
+   "kommst",
+   "kommt",
+   "käme",
+   "kämen",
+   "kämest",
+   "kämet",
+   "kämst",
+   "kämt",
+   "mit",
+   "mitgekommen",
+   "mitkam",
+   "mitkamen",
+   "mitkamst",
+   "mitkamt",
+   "mitkomme",
+   "mitkommen",
+   "mitkommend",
+   "mitkommest",
+   "mitkommet",
+   "mitkommst",
+   "mitkommt",
+   "mitkäme",
+   "mitkämen",
+   "mitkämest",
+   "mitkämet",
+   "mitkämst",
+   "mitkämt",
+   "mitzukommen",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to come along",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "komm mit",
+    "komme mit"
+   ],
+   "konj2.du": [
+    "kämest mit",
+    "kämst mit",
+    "mitkämest",
+    "mitkämst"
+   ],
+   "konj2.er": [
+    "käme mit",
+    "mitkäme"
+   ],
+   "konj2.ich": [
+    "käme mit",
+    "mitkäme"
+   ],
+   "konj2.ihr": [
+    "kämet mit",
+    "kämt mit",
+    "mitkämet",
+    "mitkämt"
+   ],
+   "konj2.wir": [
+    "kämen mit",
+    "mitkämen"
+   ],
+   "perf.er": [
+    "ist mitgekommen"
+   ],
+   "pres.du": [
+    "kommst mit",
+    "mitkommst"
+   ],
+   "pres.er": [
+    "kommt mit",
+    "mitkommt"
+   ],
+   "pres.ich": [
+    "komme mit",
+    "mitkomme"
+   ],
+   "pres.ihr": [
+    "kommt mit",
+    "mitkommt"
+   ],
+   "pres.wir": [
+    "kommen mit",
+    "mitkommen"
+   ],
+   "pret.er": [
+    "kam mit",
+    "mitkam"
    ]
   }
  },
@@ -10255,6 +11276,73 @@
    ],
    "pret.er": [
     "wollte"
+   ]
+  }
+ },
+ "zumachen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "mach",
+   "mache",
+   "machen",
+   "machest",
+   "machet",
+   "machst",
+   "macht",
+   "machte",
+   "machten",
+   "machtest",
+   "machtet",
+   "werdest",
+   "zugemacht",
+   "zumache",
+   "zumachen",
+   "zumachend",
+   "zumachest",
+   "zumachet",
+   "zumachst",
+   "zumacht",
+   "zumachte",
+   "zumachten",
+   "zumachtest",
+   "zumachtet",
+   "zuzumachen"
+  ],
+  "english": "to close",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "mach zu",
+    "mache zu"
+   ],
+   "perf.er": [
+    "hat zugemacht"
+   ],
+   "pres.du": [
+    "machst zu",
+    "zumachst"
+   ],
+   "pres.er": [
+    "macht zu",
+    "zumacht"
+   ],
+   "pres.ich": [
+    "mache zu",
+    "zumache"
+   ],
+   "pres.ihr": [
+    "macht zu",
+    "zumacht"
+   ],
+   "pres.wir": [
+    "machen zu",
+    "zumachen"
+   ],
+   "pret.er": [
+    "machte zu",
+    "zumachte"
    ]
   }
  }

@@ -1,0 +1,212 @@
+{
+  "name": "Lesson 15 · The day: separable verbs (aufstehen, anrufen, einkaufen…)",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **get up** at seven.",
+      "back": "Ich **stehe** um sieben **auf**.",
+      "note": "Separable verbs: the prefix goes to the end. aufstehen splits: the verb stands second, the prefix auf goes to the very end.",
+      "priority": 1
+    },
+    {
+      "front": "When **do** you **get up**? (one friend)",
+      "back": "Wann **stehst** du **auf**?",
+      "note": "Separable verbs: the prefix goes to the end. In a question too, auf goes to the end.",
+      "priority": 1
+    },
+    {
+      "front": "He **gets up** early.",
+      "back": "Er **steht** früh **auf**.",
+      "note": "Separable verbs: the prefix goes to the end. er steht … auf: the prefix closes the sentence.",
+      "priority": 1
+    },
+    {
+      "front": "On Sunday we **get up** late.",
+      "back": "Am Sonntag **stehen** wir spät **auf**.",
+      "note": "Separable verbs: the prefix goes to the end. The verb second after am Sonntag; auf at the end.",
+      "priority": 1
+    },
+    {
+      "front": "In the morning I **get up** at half past six.",
+      "back": "Am Morgen **stehe** ich um halb sieben **auf**.",
+      "note": "Separable verbs: the prefix goes to the end. am Morgen: in the morning. auf waits for the end.",
+      "priority": 1
+    },
+    {
+      "front": "I **call** my mother.",
+      "back": "Ich **rufe** meine Mutter **an**.",
+      "note": "Separable verbs: the prefix goes to the end. anrufen: rufe second, an last. The person called is in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **calling** me tomorrow? (one friend)",
+      "back": "**Rufst** du mich morgen **an**?",
+      "note": "Separable verbs: the prefix goes to the end. The verb opens the question; an still closes it.",
+      "priority": 1
+    },
+    {
+      "front": "She often **calls** her grandma.",
+      "back": "Sie **ruft** oft ihre Oma **an**.",
+      "note": "Separable verbs: the prefix goes to the end. sie ruft … an.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **calling** the doctor? (several friends)",
+      "back": "**Ruft** ihr den Arzt **an**?",
+      "note": "Separable verbs: the prefix goes to the end. ihr ruft … an.",
+      "priority": 1
+    },
+    {
+      "front": "We **do the shopping** on Saturday.",
+      "back": "Wir **kaufen** am Samstag **ein**.",
+      "note": "Separable verbs: the prefix goes to the end. einkaufen: kaufen second, ein last.",
+      "priority": 1
+    },
+    {
+      "front": "He **is doing the shopping** today.",
+      "back": "Er **kauft** heute **ein**.",
+      "note": "Separable verbs: the prefix goes to the end. er kauft … ein.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **watch TV** in the evening? (one friend)",
+      "back": "**Siehst** du am Abend **fern**?",
+      "note": "Separable verbs: the prefix goes to the end. fernsehen keeps the vowel change of sehen: du siehst … fern.",
+      "priority": 1
+    },
+    {
+      "front": "My grandpa **watches** a lot of **TV**.",
+      "back": "Mein Opa **sieht** viel **fern**.",
+      "note": "Separable verbs: the prefix goes to the end. er sieht … fern: ie, as in sehen.",
+      "priority": 1
+    },
+    {
+      "front": "I **watch TV** in the evening.",
+      "back": "Ich **sehe** am Abend **fern**.",
+      "note": "Separable verbs: the prefix goes to the end. ich sehe … fern.",
+      "priority": 1
+    },
+    {
+      "front": "In the evening we **watch TV**.",
+      "back": "Am Abend **sehen** wir **fern**.",
+      "note": "Separable verbs: the prefix goes to the end. am Abend first, the verb second, fern last.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **coming along**? (one friend)",
+      "back": "**Kommst** du **mit**?",
+      "note": "Separable verbs: the prefix goes to the end. mitkommen: kommst first in the question, mit last.",
+      "priority": 1
+    },
+    {
+      "front": "My sister **is coming along** too.",
+      "back": "Meine Schwester **kommt** auch **mit**.",
+      "note": "Separable verbs: the prefix goes to the end. sie kommt … mit.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **coming along**? (several friends)",
+      "back": "**Kommt** ihr **mit**?",
+      "note": "Separable verbs: the prefix goes to the end. ihr kommt … mit.",
+      "priority": 1
+    },
+    {
+      "front": "Why **aren't** you **coming along**? (one friend)",
+      "back": "Warum **kommst** du nicht **mit**?",
+      "note": "Separable verbs: the prefix goes to the end. nicht goes before the prefix: nicht mit.",
+      "priority": 1
+    },
+    {
+      "front": "The course **starts** at nine.",
+      "back": "Der Kurs **fängt** um neun **an**.",
+      "note": "Separable verbs: the prefix goes to the end. anfangen changes a to ä like fahren: er fängt … an.",
+      "priority": 1
+    },
+    {
+      "front": "When **does** the film **start**?",
+      "back": "Wann **fängt** der Film **an**?",
+      "note": "Separable verbs: the prefix goes to the end. fängt … an, with the umlaut.",
+      "priority": 1
+    },
+    {
+      "front": "I **am tidying up** my room.",
+      "back": "Ich **räume** mein Zimmer **auf**.",
+      "note": "Separable verbs: the prefix goes to the end. aufräumen: räume second, auf last.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **picking** me **up**? (one friend)",
+      "back": "**Holst** du mich **ab**?",
+      "note": "Separable verbs: the prefix goes to the end. abholen: holst … ab, like English pick … up.",
+      "priority": 1
+    },
+    {
+      "front": "I **pick up** my son at four.",
+      "back": "Ich **hole** meinen Sohn um vier **ab**.",
+      "note": "Separable verbs: the prefix goes to the end. The object and the time go inside: hole … ab.",
+      "priority": 1
+    },
+    {
+      "front": "Who **is picking up** the children?",
+      "back": "Wer **holt** die Kinder **ab**?",
+      "note": "Separable verbs: the prefix goes to the end. wer takes the er form: holt … ab.",
+      "priority": 1
+    },
+    {
+      "front": "He **opens** the window.",
+      "back": "Er **macht** das Fenster **auf**.",
+      "note": "Separable verbs: the prefix goes to the end. aufmachen: macht … auf, to open.",
+      "priority": 1
+    },
+    {
+      "front": "She **closes** the window.",
+      "back": "Sie **macht** das Fenster **zu**.",
+      "note": "Separable verbs: the prefix goes to the end. zumachen: macht … zu, to close; the opposite of aufmachen.",
+      "priority": 1
+    },
+    {
+      "front": "We **have breakfast** at eight.",
+      "back": "Wir **frühstücken** um acht.",
+      "note": "Separable verbs: the prefix goes to the end. frühstücken does not split: früh- is not a prefix here, just part of the word.",
+      "priority": 1
+    },
+    {
+      "front": "I have to **get up** early tomorrow.",
+      "back": "Morgen muss ich früh **aufstehen**.",
+      "note": "Separable verbs: the prefix goes to the end. With a modal, the separable verb is one word again, at the end: aufstehen.",
+      "priority": 1
+    },
+    {
+      "front": "Can you **call** me? (one friend)",
+      "back": "Kannst du mich **anrufen**?",
+      "note": "Separable verbs: the prefix goes to the end. After a modal, anrufen stays whole at the end.",
+      "priority": 1
+    },
+    {
+      "front": "We want to **watch TV**.",
+      "back": "Wir wollen **fernsehen**.",
+      "note": "Separable verbs: the prefix goes to the end. fernsehen in one word after wollen.",
+      "priority": 1
+    },
+    {
+      "front": "Would you like to **come along**? (formal)",
+      "back": "Möchten Sie **mitkommen**?",
+      "note": "Separable verbs: the prefix goes to the end. möchten + mitkommen, together at the end.",
+      "priority": 1
+    },
+    {
+      "front": "I have to **do the shopping** today.",
+      "back": "Ich muss heute **einkaufen**.",
+      "note": "Separable verbs: the prefix goes to the end. The infinitive is never split.",
+      "priority": 1
+    },
+    {
+      "front": "You have to **tidy up** your room. (one friend)",
+      "back": "Du musst dein Zimmer **aufräumen**.",
+      "note": "Separable verbs: the prefix goes to the end. aufräumen, whole, at the end.",
+      "priority": 1
+    }
+  ]
+}

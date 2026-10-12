@@ -60,6 +60,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 12 · For me, without you: accusative prepositions and pronouns](lessons/12-acc-prep.json) — 38 cards
 - [Lesson 13 · Can, must, want: können, müssen, wollen](lessons/13-modals.json) — 36 cards
 - [Lesson 14 · May, should, would like: dürfen, sollen, möchten; mögen](lessons/14-modals-2.json) — 33 cards
+- [Lesson 15 · The day: separable verbs (aufstehen, anrufen, einkaufen…)](lessons/15-separable.json) — 34 cards
 
 ## Decks
 
