@@ -94,6 +94,8 @@ SLOTS = {
                          "no article, feminine dative"),
         "comparative": ({"comparative"}, "comparative"),
         "superlative": ({"superlative"}, "superlative"),
+        "comparative.pred": ({"comparative", "predicative"}, "comparative, after sein"),
+        "superlative.pred": ({"superlative", "predicative"}, "superlative, after sein: am …sten"),
         # Every case and gender: weak.acc.f, weak.dat.pl, …
         **_endings("weak"),
         **_endings("mixed"),

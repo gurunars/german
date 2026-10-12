@@ -1,0 +1,34 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+comparative	alt	comparative.pred	My brother is **older** than me.	Mein Bruder ist **älter** als ich.	The comparative adds -er, and short words often add an umlaut: alt → älter. than is als.
+comparative	schnell	comparative.pred	The train is **faster** than the bus.	Der Zug ist **schneller** als der Bus.	schnell + -er; no umlaut possible.
+comparative	billig	comparative.pred	The flat is **cheaper** than the house.	Die Wohnung ist **billiger** als das Haus.	billig + -er: billiger.
+comparative	groß	comparative.pred	My room is **bigger** than your room. (one friend)	Mein Zimmer ist **größer** als dein Zimmer.	groß → größer, with an umlaut.
+comparative	warm	comparative.pred	In summer it's **warmer**.	Im Sommer ist es **wärmer**.	warm → wärmer.
+comparative	kalt	comparative.pred	In winter it's **colder** than in summer.	Im Winter ist es **kälter** als im Sommer.	kalt → kälter: a becomes ä.
+comparative	hoch	comparative.pred	Mountains are **higher** than trees.	Berge sind **höher** als Bäume.	hoch loses its c: höher.
+comparative	schwer	comparative.pred	The table is **heavier** than the chair.	Der Tisch ist **schwerer** als der Stuhl.	schwer + -er.
+comparative	leicht	comparative.pred	English is **easier** than German.	Englisch ist **leichter** als Deutsch.	leicht: light, and also easy.
+comparative	langsam	comparative.pred	Is the bus **slower** than the tram?	Ist der Bus **langsamer** als die Straßenbahn?	langsam + -er.
+comparative	gut	comparative.pred	The coffee here is **better**.	Der Kaffee hier ist **besser**.	gut is irregular: besser, like English better.
+comparative	lang	comparative.pred	The skirt is **longer** than the dress.	Der Rock ist **länger** als das Kleid.	lang → länger.
+comparative	weit	comparative.pred	My way to work is **further** than yours. (one friend)	Mein Weg zur Arbeit ist **weiter** als dein Weg.	weit → weiter: farther, further.
+comparative	stark	comparative.pred	My father is **stronger** than me.	Mein Vater ist **stärker** als ich.	stark → stärker. After als, ich stays nominative.
+comparative	-	-	I work **more** than you. (one friend)	Ich arbeite **mehr** als du.	viel is irregular: mehr, which never takes an ending.
+comparative	-	-	I'd **rather** drink tea.	Ich trinke **lieber** Tee.	gern has its own comparative: lieber, rather, preferably.
+comparative	-	-	He's taller **than** his father.	Er ist größer **als** sein Vater.	After a comparative, than is always als, never wie.
+superlative	alt	superlative.pred	My grandpa is **the oldest**.	Mein Opa ist **am ältesten**.	After sein the superlative is am + -sten: am ältesten.
+superlative	schnell	superlative.pred	The train is **the fastest**.	Der Zug ist **am schnellsten**.	am schnellsten.
+superlative	warm	superlative.pred	It's **warmest** in summer.	Im Sommer ist es **am wärmsten**.	The umlaut of the comparative stays: am wärmsten.
+superlative	kalt	superlative.pred	It's **coldest** in winter.	Im Winter ist es **am kältesten**.	After -t the ending is -esten: am kältesten.
+superlative	jung	superlative.pred	She is **the youngest**.	Sie ist **am jüngsten**.	jung → jünger → am jüngsten.
+superlative	gut	superlative.pred	The coffee tastes **best** here.	Hier schmeckt der Kaffee **am besten**.	gut, besser, am besten.
+superlative	-	-	I like drinking tea **most of all**.	Ich trinke **am liebsten** Tee.	gern, lieber, am liebsten.
+superlative	-	-	Who works **the most**?	Wer arbeitet **am meisten**?	viel, mehr, am meisten.
+superlative	hoch	superlative	That is **the highest** mountain in the world.	Das ist **der höchste** Berg auf der Welt.	Before a noun the superlative takes an adjective ending: der höchste Berg.
+superlative	lang	superlative	That is **the longest** river in Germany.	Das ist **der längste** Fluss in Deutschland.	der längste: -ste + the ending -e after der.
+superlative	einfach	superlative	That is **the simplest** way.	Das ist **der einfachste** Weg.	der Weg → der einfachste Weg.
+comparison.wie	-	-	I'm **as** tall **as** my brother.	Ich bin **so** groß **wie** mein Bruder.	Equal things: so … wie. Unequal things: the comparative + als.
+comparison.wie	-	-	The bus is **not as** fast **as** the train.	Der Bus ist **nicht so** schnell **wie** der Zug.	nicht so … wie: not as … as.
+comparison.wie	-	-	It's **as** cold **as** in winter.	Es ist **so** kalt **wie** im Winter.	so kalt wie: as cold as.
+comparison.wie	-	-	The shirt is **as** expensive **as** the trousers.	Das Hemd ist **so** teuer **wie** die Hose.	so teuer wie.
+comparison.wie	-	-	The sea is **as** beautiful **as** the mountains.	Das Meer ist **so** schön **wie** die Berge.	so + the plain adjective + wie.

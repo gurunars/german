@@ -48,3 +48,6 @@ position.verbs	23	stehen/stellen, liegen/legen, hängen: being somewhere, puttin
 adj.weak	24	Adjective endings after der, die, das (weak)
 adj.mixed	25	Adjective endings after ein, kein and possessives (mixed)
 adj.strong	26	Adjective endings without an article (strong)
+comparative	27	The comparative: -er, and als
+superlative	27	The superlative: am -sten, der -ste
+comparison.wie	27	so … wie: as … as

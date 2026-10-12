@@ -1,0 +1,206 @@
+{
+  "name": "Lesson 27 · Bigger, the biggest: comparison, als and wie",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "My brother is **older** than me.",
+      "back": "Mein Bruder ist **älter** als ich.",
+      "note": "The comparative: -er, and als. The comparative adds -er, and short words often add an umlaut: alt → älter. than is als.",
+      "priority": 1
+    },
+    {
+      "front": "The train is **faster** than the bus.",
+      "back": "Der Zug ist **schneller** als der Bus.",
+      "note": "The comparative: -er, and als. schnell + -er; no umlaut possible.",
+      "priority": 1
+    },
+    {
+      "front": "The flat is **cheaper** than the house.",
+      "back": "Die Wohnung ist **billiger** als das Haus.",
+      "note": "The comparative: -er, and als. billig + -er: billiger.",
+      "priority": 1
+    },
+    {
+      "front": "My room is **bigger** than your room. (one friend)",
+      "back": "Mein Zimmer ist **größer** als dein Zimmer.",
+      "note": "The comparative: -er, and als. groß → größer, with an umlaut.",
+      "priority": 1
+    },
+    {
+      "front": "In summer it's **warmer**.",
+      "back": "Im Sommer ist es **wärmer**.",
+      "note": "The comparative: -er, and als. warm → wärmer.",
+      "priority": 1
+    },
+    {
+      "front": "In winter it's **colder** than in summer.",
+      "back": "Im Winter ist es **kälter** als im Sommer.",
+      "note": "The comparative: -er, and als. kalt → kälter: a becomes ä.",
+      "priority": 1
+    },
+    {
+      "front": "Mountains are **higher** than trees.",
+      "back": "Berge sind **höher** als Bäume.",
+      "note": "The comparative: -er, and als. hoch loses its c: höher.",
+      "priority": 1
+    },
+    {
+      "front": "The table is **heavier** than the chair.",
+      "back": "Der Tisch ist **schwerer** als der Stuhl.",
+      "note": "The comparative: -er, and als. schwer + -er.",
+      "priority": 1
+    },
+    {
+      "front": "English is **easier** than German.",
+      "back": "Englisch ist **leichter** als Deutsch.",
+      "note": "The comparative: -er, and als. leicht: light, and also easy.",
+      "priority": 1
+    },
+    {
+      "front": "Is the bus **slower** than the tram?",
+      "back": "Ist der Bus **langsamer** als die Straßenbahn?",
+      "note": "The comparative: -er, and als. langsam + -er.",
+      "priority": 1
+    },
+    {
+      "front": "The coffee here is **better**.",
+      "back": "Der Kaffee hier ist **besser**.",
+      "note": "The comparative: -er, and als. gut is irregular: besser, like English better.",
+      "priority": 1
+    },
+    {
+      "front": "The skirt is **longer** than the dress.",
+      "back": "Der Rock ist **länger** als das Kleid.",
+      "note": "The comparative: -er, and als. lang → länger.",
+      "priority": 1
+    },
+    {
+      "front": "My way to work is **further** than yours. (one friend)",
+      "back": "Mein Weg zur Arbeit ist **weiter** als dein Weg.",
+      "note": "The comparative: -er, and als. weit → weiter: farther, further.",
+      "priority": 1
+    },
+    {
+      "front": "My father is **stronger** than me.",
+      "back": "Mein Vater ist **stärker** als ich.",
+      "note": "The comparative: -er, and als. stark → stärker. After als, ich stays nominative.",
+      "priority": 1
+    },
+    {
+      "front": "I work **more** than you. (one friend)",
+      "back": "Ich arbeite **mehr** als du.",
+      "note": "The comparative: -er, and als. viel is irregular: mehr, which never takes an ending.",
+      "priority": 1
+    },
+    {
+      "front": "I'd **rather** drink tea.",
+      "back": "Ich trinke **lieber** Tee.",
+      "note": "The comparative: -er, and als. gern has its own comparative: lieber, rather, preferably.",
+      "priority": 1
+    },
+    {
+      "front": "He's taller **than** his father.",
+      "back": "Er ist größer **als** sein Vater.",
+      "note": "The comparative: -er, and als. After a comparative, than is always als, never wie.",
+      "priority": 1
+    },
+    {
+      "front": "My grandpa is **the oldest**.",
+      "back": "Mein Opa ist **am ältesten**.",
+      "note": "The superlative: am -sten, der -ste. After sein the superlative is am + -sten: am ältesten.",
+      "priority": 1
+    },
+    {
+      "front": "The train is **the fastest**.",
+      "back": "Der Zug ist **am schnellsten**.",
+      "note": "The superlative: am -sten, der -ste. am schnellsten.",
+      "priority": 1
+    },
+    {
+      "front": "It's **warmest** in summer.",
+      "back": "Im Sommer ist es **am wärmsten**.",
+      "note": "The superlative: am -sten, der -ste. The umlaut of the comparative stays: am wärmsten.",
+      "priority": 1
+    },
+    {
+      "front": "It's **coldest** in winter.",
+      "back": "Im Winter ist es **am kältesten**.",
+      "note": "The superlative: am -sten, der -ste. After -t the ending is -esten: am kältesten.",
+      "priority": 1
+    },
+    {
+      "front": "She is **the youngest**.",
+      "back": "Sie ist **am jüngsten**.",
+      "note": "The superlative: am -sten, der -ste. jung → jünger → am jüngsten.",
+      "priority": 1
+    },
+    {
+      "front": "The coffee tastes **best** here.",
+      "back": "Hier schmeckt der Kaffee **am besten**.",
+      "note": "The superlative: am -sten, der -ste. gut, besser, am besten.",
+      "priority": 1
+    },
+    {
+      "front": "I like drinking tea **most of all**.",
+      "back": "Ich trinke **am liebsten** Tee.",
+      "note": "The superlative: am -sten, der -ste. gern, lieber, am liebsten.",
+      "priority": 1
+    },
+    {
+      "front": "Who works **the most**?",
+      "back": "Wer arbeitet **am meisten**?",
+      "note": "The superlative: am -sten, der -ste. viel, mehr, am meisten.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the highest** mountain in the world.",
+      "back": "Das ist **der höchste** Berg auf der Welt.",
+      "note": "The superlative: am -sten, der -ste. Before a noun the superlative takes an adjective ending: der höchste Berg.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the longest** river in Germany.",
+      "back": "Das ist **der längste** Fluss in Deutschland.",
+      "note": "The superlative: am -sten, der -ste. der längste: -ste + the ending -e after der.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the simplest** way.",
+      "back": "Das ist **der einfachste** Weg.",
+      "note": "The superlative: am -sten, der -ste. der Weg → der einfachste Weg.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **as** tall **as** my brother.",
+      "back": "Ich bin **so** groß **wie** mein Bruder.",
+      "note": "so … wie: as … as. Equal things: so … wie. Unequal things: the comparative + als.",
+      "priority": 1
+    },
+    {
+      "front": "The bus is **not as** fast **as** the train.",
+      "back": "Der Bus ist **nicht so** schnell **wie** der Zug.",
+      "note": "so … wie: as … as. nicht so … wie: not as … as.",
+      "priority": 1
+    },
+    {
+      "front": "It's **as** cold **as** in winter.",
+      "back": "Es ist **so** kalt **wie** im Winter.",
+      "note": "so … wie: as … as. so kalt wie: as cold as.",
+      "priority": 1
+    },
+    {
+      "front": "The shirt is **as** expensive **as** the trousers.",
+      "back": "Das Hemd ist **so** teuer **wie** die Hose.",
+      "note": "so … wie: as … as. so teuer wie.",
+      "priority": 1
+    },
+    {
+      "front": "The sea is **as** beautiful **as** the mountains.",
+      "back": "Das Meer ist **so** schön **wie** die Berge.",
+      "note": "so … wie: as … as. so + the plain adjective + wie.",
+      "priority": 1
+    }
+  ]
+}

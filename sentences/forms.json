@@ -504,6 +504,43 @@
    ]
   }
  },
+ "Berg": {
+  "all": [
+   "Berg",
+   "Berge",
+   "Bergen",
+   "Berges",
+   "Bergs"
+  ],
+  "english": "mountain",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Berge"
+   ],
+   "acc.sg": [
+    "Berg"
+   ],
+   "dat.pl": [
+    "Bergen"
+   ],
+   "dat.sg": [
+    "Berg",
+    "Berge"
+   ],
+   "gen.sg": [
+    "Berges",
+    "Bergs"
+   ],
+   "nom.pl": [
+    "Berge"
+   ],
+   "nom.sg": [
+    "Berg"
+   ]
+  }
+ },
  "Bett": {
   "all": [
    "Bett",
@@ -1790,6 +1827,45 @@
    ],
    "nom.sg": [
     "Flugzeug"
+   ]
+  }
+ },
+ "Fluss": {
+  "all": [
+   "Fluss",
+   "Flusse",
+   "Flusses",
+   "Fluß",
+   "Flüsschen",
+   "Flüsse",
+   "Flüssen",
+   "Flüsslein"
+  ],
+  "english": "river",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Flüsse"
+   ],
+   "acc.sg": [
+    "Fluss"
+   ],
+   "dat.pl": [
+    "Flüssen"
+   ],
+   "dat.sg": [
+    "Fluss",
+    "Flusse"
+   ],
+   "gen.sg": [
+    "Flusses"
+   ],
+   "nom.pl": [
+    "Flüsse"
+   ],
+   "nom.sg": [
+    "Fluss"
    ]
   }
  },
@@ -3947,6 +4023,43 @@
    ]
   }
  },
+ "Meer": {
+  "all": [
+   "Meer",
+   "Meere",
+   "Meeren",
+   "Meeres",
+   "Meers"
+  ],
+  "english": "sea",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Meere"
+   ],
+   "acc.sg": [
+    "Meer"
+   ],
+   "dat.pl": [
+    "Meeren"
+   ],
+   "dat.sg": [
+    "Meer",
+    "Meere"
+   ],
+   "gen.sg": [
+    "Meeres",
+    "Meers"
+   ],
+   "nom.pl": [
+    "Meere"
+   ],
+   "nom.sg": [
+    "Meer"
+   ]
+  }
+ },
  "Milch": {
   "all": [
    "Milch",
@@ -5581,6 +5694,39 @@
    ]
   }
  },
+ "Sommer": {
+  "all": [
+   "Sommer",
+   "Sommern",
+   "Sommers"
+  ],
+  "english": "summer",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Sommer"
+   ],
+   "acc.sg": [
+    "Sommer"
+   ],
+   "dat.pl": [
+    "Sommern"
+   ],
+   "dat.sg": [
+    "Sommer"
+   ],
+   "gen.sg": [
+    "Sommers"
+   ],
+   "nom.pl": [
+    "Sommer"
+   ],
+   "nom.sg": [
+    "Sommer"
+   ]
+  }
+ },
  "Sonntag": {
   "all": [
    "Sonntag",
@@ -6757,6 +6903,39 @@
    ]
   }
  },
+ "Winter": {
+  "all": [
+   "Winter",
+   "Wintern",
+   "Winters"
+  ],
+  "english": "winter",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Winter"
+   ],
+   "acc.sg": [
+    "Winter"
+   ],
+   "dat.pl": [
+    "Wintern"
+   ],
+   "dat.sg": [
+    "Winter"
+   ],
+   "gen.sg": [
+    "Winters"
+   ],
+   "nom.pl": [
+    "Winter"
+   ],
+   "nom.sg": [
+    "Winter"
+   ]
+  }
+ },
  "Woche": {
   "all": [
    "Woche",
@@ -7336,6 +7515,9 @@
     "einem älteren",
     "einen älteren"
    ],
+   "comparative.pred": [
+    "älter"
+   ],
    "mixed.acc.f": [
     "eine alte"
    ],
@@ -7454,6 +7636,9 @@
     "einer ältesten",
     "einem ältesten",
     "einen ältesten"
+   ],
+   "superlative.pred": [
+    "am ältesten"
    ],
    "weak.acc.f": [
     "die alte"
@@ -8794,6 +8979,9 @@
     "einem bequemeren",
     "einen bequemeren"
    ],
+   "comparative.pred": [
+    "bequemer"
+   ],
    "mixed.acc.f": [
     "eine bequeme"
    ],
@@ -8912,6 +9100,9 @@
     "einer bequemsten",
     "einem bequemsten",
     "einen bequemsten"
+   ],
+   "superlative.pred": [
+    "am bequemsten"
    ],
    "weak.acc.f": [
     "die bequeme"
@@ -9164,6 +9355,9 @@
     "einem billigeren",
     "einen billigeren"
    ],
+   "comparative.pred": [
+    "billiger"
+   ],
    "mixed.acc.f": [
     "eine billige"
    ],
@@ -9283,6 +9477,9 @@
     "einem billigsten",
     "einen billigsten"
    ],
+   "superlative.pred": [
+    "am billigsten"
+   ],
    "weak.acc.f": [
     "die billige"
    ],
@@ -9387,6 +9584,9 @@
     "einer blaueren",
     "einem blaueren",
     "einen blaueren"
+   ],
+   "comparative.pred": [
+    "blauer"
    ],
    "mixed.acc.f": [
     "eine blaue"
@@ -9527,6 +9727,10 @@
     "einem blausten",
     "einen blauesten",
     "einen blausten"
+   ],
+   "superlative.pred": [
+    "am blauesten",
+    "am blausten"
    ],
    "weak.acc.f": [
     "die blaue"
@@ -9836,6 +10040,9 @@
     "einem brauneren",
     "einen brauneren"
    ],
+   "comparative.pred": [
+    "brauner"
+   ],
    "mixed.acc.f": [
     "eine braune"
    ],
@@ -9954,6 +10161,9 @@
     "einer braunsten",
     "einem braunsten",
     "einen braunsten"
+   ],
+   "superlative.pred": [
+    "am braunsten"
    ],
    "weak.acc.f": [
     "die braune"
@@ -10369,6 +10579,11 @@
     "einem dunkeleren",
     "einen dunkeleren"
    ],
+   "comparative.pred": [
+    "dunkler",
+    "dünkler",
+    "dunkeler"
+   ],
    "mixed.acc.f": [
     "eine dunkle",
     "eine dunkele"
@@ -10519,6 +10734,9 @@
     "einer dunkelsten",
     "einem dunkelsten",
     "einen dunkelsten"
+   ],
+   "superlative.pred": [
+    "am dunkelsten"
    ],
    "weak.acc.f": [
     "die dunkle",
@@ -10724,6 +10942,9 @@
     "einem einfacheren",
     "einen einfacheren"
    ],
+   "comparative.pred": [
+    "einfacher"
+   ],
    "mixed.acc.f": [
     "eine einfache"
    ],
@@ -10842,6 +11063,9 @@
     "einer einfachsten",
     "einem einfachsten",
     "einen einfachsten"
+   ],
+   "superlative.pred": [
+    "am einfachsten"
    ],
    "weak.acc.f": [
     "die einfache"
@@ -11892,6 +12116,9 @@
     "einem freieren",
     "einen freieren"
    ],
+   "comparative.pred": [
+    "freier"
+   ],
    "mixed.acc.f": [
     "eine freie"
    ],
@@ -12032,6 +12259,10 @@
     "einen freiesten",
     "einen freisten"
    ],
+   "superlative.pred": [
+    "am freiesten",
+    "am freisten"
+   ],
    "weak.acc.f": [
     "die freie"
    ],
@@ -12130,6 +12361,9 @@
     "einer freundlicheren",
     "einem freundlicheren",
     "einen freundlicheren"
+   ],
+   "comparative.pred": [
+    "freundlicher"
    ],
    "mixed.acc.f": [
     "eine freundliche"
@@ -12250,6 +12484,9 @@
     "einem freundlichsten",
     "einen freundlichsten"
    ],
+   "superlative.pred": [
+    "am freundlichsten"
+   ],
    "weak.acc.f": [
     "die freundliche"
    ],
@@ -12353,6 +12590,9 @@
     "einer frischeren",
     "einem frischeren",
     "einen frischeren"
+   ],
+   "comparative.pred": [
+    "frischer"
    ],
    "mixed.acc.f": [
     "eine frische"
@@ -12494,6 +12734,10 @@
     "einen frischesten",
     "einen frischsten"
    ],
+   "superlative.pred": [
+    "am frischesten",
+    "am frischsten"
+   ],
    "weak.acc.f": [
     "die frische"
    ],
@@ -12597,6 +12841,9 @@
     "einer früheren",
     "einem früheren",
     "einen früheren"
+   ],
+   "comparative.pred": [
+    "früher"
    ],
    "mixed.acc.f": [
     "eine frühe"
@@ -12737,6 +12984,10 @@
     "einem frühsten",
     "einen frühesten",
     "einen frühsten"
+   ],
+   "superlative.pred": [
+    "am frühesten",
+    "am frühsten"
    ],
    "weak.acc.f": [
     "die frühe"
@@ -13274,6 +13525,9 @@
     "einem gelberen",
     "einen gelberen"
    ],
+   "comparative.pred": [
+    "gelber"
+   ],
    "mixed.acc.f": [
     "eine gelbe"
    ],
@@ -13393,6 +13647,9 @@
     "einem gelbsten",
     "einen gelbsten"
    ],
+   "superlative.pred": [
+    "am gelbsten"
+   ],
    "weak.acc.f": [
     "die gelbe"
    ],
@@ -13491,6 +13748,9 @@
     "einer gemütlicheren",
     "einem gemütlicheren",
     "einen gemütlicheren"
+   ],
+   "comparative.pred": [
+    "gemütlicher"
    ],
    "mixed.acc.f": [
     "eine gemütliche"
@@ -13610,6 +13870,9 @@
     "einer gemütlichsten",
     "einem gemütlichsten",
     "einen gemütlichsten"
+   ],
+   "superlative.pred": [
+    "am gemütlichsten"
    ],
    "weak.acc.f": [
     "die gemütliche"
@@ -13838,6 +14101,10 @@
     "einem grösseren",
     "einen grösseren"
    ],
+   "comparative.pred": [
+    "größer",
+    "grösser"
+   ],
    "mixed.acc.f": [
     "eine große",
     "eine grosse"
@@ -14052,6 +14319,12 @@
     "einen grössten",
     "einen grössesten"
    ],
+   "superlative.pred": [
+    "am größten",
+    "am größesten",
+    "am grössten",
+    "am grössesten"
+   ],
    "weak.acc.f": [
     "die große",
     "die grosse"
@@ -14166,6 +14439,9 @@
     "einer grüneren",
     "einem grüneren",
     "einen grüneren"
+   ],
+   "comparative.pred": [
+    "grüner"
    ],
    "mixed.acc.f": [
     "eine grüne"
@@ -14286,6 +14562,9 @@
     "einem grünsten",
     "einen grünsten"
    ],
+   "superlative.pred": [
+    "am grünsten"
+   ],
    "weak.acc.f": [
     "die grüne"
    ],
@@ -14387,6 +14666,9 @@
     "einer besseren",
     "einem besseren",
     "einen besseren"
+   ],
+   "comparative.pred": [
+    "besser"
    ],
    "mixed.acc.f": [
     "eine gute"
@@ -14506,6 +14788,9 @@
     "einer besten",
     "einem besten",
     "einen besten"
+   ],
+   "superlative.pred": [
+    "am besten"
    ],
    "weak.acc.f": [
     "die gute"
@@ -14865,6 +15150,9 @@
     "einem heißeren",
     "einen heißeren"
    ],
+   "comparative.pred": [
+    "heißer"
+   ],
    "mixed.acc.f": [
     "eine heiße"
    ],
@@ -14983,6 +15271,9 @@
     "einer heißesten",
     "einem heißesten",
     "einen heißesten"
+   ],
+   "superlative.pred": [
+    "am heißesten"
    ],
    "weak.acc.f": [
     "die heiße"
@@ -15266,6 +15557,9 @@
     "einem helleren",
     "einen helleren"
    ],
+   "comparative.pred": [
+    "heller"
+   ],
    "mixed.acc.f": [
     "eine helle"
    ],
@@ -15385,6 +15679,9 @@
     "einem hellsten",
     "einen hellsten"
    ],
+   "superlative.pred": [
+    "am hellsten"
+   ],
    "weak.acc.f": [
     "die helle"
    ],
@@ -15483,6 +15780,9 @@
     "einer herzlicheren",
     "einem herzlicheren",
     "einen herzlicheren"
+   ],
+   "comparative.pred": [
+    "herzlicher"
    ],
    "mixed.acc.f": [
     "eine herzliche"
@@ -15603,6 +15903,9 @@
     "einem herzlichsten",
     "einen herzlichsten"
    ],
+   "superlative.pred": [
+    "am herzlichsten"
+   ],
    "weak.acc.f": [
     "die herzliche"
    ],
@@ -15650,6 +15953,232 @@
    ],
    "weak.nom.pl": [
     "die herzlichen"
+   ]
+  }
+ },
+ "hoch": {
+  "all": [
+   "am",
+   "hoch",
+   "hoh",
+   "hohe",
+   "hohem",
+   "hohen",
+   "hoher",
+   "hohes",
+   "höchste",
+   "höchstem",
+   "höchsten",
+   "höchster",
+   "höchstes",
+   "höher",
+   "höhere",
+   "höherem",
+   "höheren",
+   "höherer",
+   "höheres",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "high, tall",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "höher",
+    "höherer",
+    "höhere",
+    "höheres",
+    "höheren",
+    "höherem",
+    "der höhere",
+    "die höhere",
+    "das höhere",
+    "die höheren",
+    "des höheren",
+    "der höheren",
+    "dem höheren",
+    "den höheren",
+    "ein höherer",
+    "eine höhere",
+    "ein höheres",
+    "eines höheren",
+    "einer höheren",
+    "einem höheren",
+    "einen höheren"
+   ],
+   "comparative.pred": [
+    "höher"
+   ],
+   "mixed.acc.f": [
+    "eine hohe"
+   ],
+   "mixed.acc.m": [
+    "einen hohen"
+   ],
+   "mixed.acc.n": [
+    "ein hohes"
+   ],
+   "mixed.acc.pl": [
+    "hohen"
+   ],
+   "mixed.dat.f": [
+    "einer hohen"
+   ],
+   "mixed.dat.m": [
+    "einem hohen"
+   ],
+   "mixed.dat.n": [
+    "einem hohen"
+   ],
+   "mixed.dat.pl": [
+    "hohen"
+   ],
+   "mixed.gen.f": [
+    "einer hohen"
+   ],
+   "mixed.gen.m": [
+    "eines hohen"
+   ],
+   "mixed.gen.n": [
+    "eines hohen"
+   ],
+   "mixed.gen.pl": [
+    "hohen"
+   ],
+   "mixed.nom.f": [
+    "eine hohe"
+   ],
+   "mixed.nom.m": [
+    "ein hoher"
+   ],
+   "mixed.nom.n": [
+    "ein hohes"
+   ],
+   "mixed.nom.pl": [
+    "hohen"
+   ],
+   "strong.acc.f": [
+    "hohe"
+   ],
+   "strong.acc.m": [
+    "hohen"
+   ],
+   "strong.acc.n": [
+    "hohes"
+   ],
+   "strong.acc.pl": [
+    "hohe"
+   ],
+   "strong.dat.f": [
+    "hoher"
+   ],
+   "strong.dat.m": [
+    "hohem"
+   ],
+   "strong.dat.n": [
+    "hohem"
+   ],
+   "strong.dat.pl": [
+    "hohen"
+   ],
+   "strong.gen.f": [
+    "hoher"
+   ],
+   "strong.gen.m": [
+    "hohen"
+   ],
+   "strong.gen.n": [
+    "hohen"
+   ],
+   "strong.gen.pl": [
+    "hoher"
+   ],
+   "strong.nom.f": [
+    "hohe"
+   ],
+   "strong.nom.m": [
+    "hoher"
+   ],
+   "strong.nom.n": [
+    "hohes"
+   ],
+   "strong.nom.pl": [
+    "hohe"
+   ],
+   "superlative": [
+    "am höchsten",
+    "höchster",
+    "höchste",
+    "höchstes",
+    "höchsten",
+    "höchstem",
+    "der höchste",
+    "die höchste",
+    "das höchste",
+    "die höchsten",
+    "des höchsten",
+    "der höchsten",
+    "dem höchsten",
+    "den höchsten",
+    "ein höchster",
+    "eine höchste",
+    "ein höchstes",
+    "eines höchsten",
+    "einer höchsten",
+    "einem höchsten",
+    "einen höchsten"
+   ],
+   "superlative.pred": [
+    "am höchsten"
+   ],
+   "weak.acc.f": [
+    "die hohe"
+   ],
+   "weak.acc.m": [
+    "den hohen"
+   ],
+   "weak.acc.n": [
+    "das hohe"
+   ],
+   "weak.acc.pl": [
+    "die hohen"
+   ],
+   "weak.dat.f": [
+    "der hohen"
+   ],
+   "weak.dat.m": [
+    "dem hohen"
+   ],
+   "weak.dat.n": [
+    "dem hohen"
+   ],
+   "weak.dat.pl": [
+    "den hohen"
+   ],
+   "weak.gen.f": [
+    "der hohen"
+   ],
+   "weak.gen.m": [
+    "des hohen"
+   ],
+   "weak.gen.n": [
+    "des hohen"
+   ],
+   "weak.gen.pl": [
+    "der hohen"
+   ],
+   "weak.nom.f": [
+    "die hohe"
+   ],
+   "weak.nom.m": [
+    "der hohe"
+   ],
+   "weak.nom.n": [
+    "das hohe"
+   ],
+   "weak.nom.pl": [
+    "die hohen"
    ]
   }
  },
@@ -15798,6 +16327,9 @@
     "einem hässlicheren",
     "einen hässlicheren"
    ],
+   "comparative.pred": [
+    "hässlicher"
+   ],
    "mixed.acc.f": [
     "eine hässliche"
    ],
@@ -15916,6 +16448,9 @@
     "einer hässlichsten",
     "einem hässlichsten",
     "einen hässlichsten"
+   ],
+   "superlative.pred": [
+    "am hässlichsten"
    ],
    "weak.acc.f": [
     "die hässliche"
@@ -16093,6 +16628,9 @@
     "einem interessanteren",
     "einen interessanteren"
    ],
+   "comparative.pred": [
+    "interessanter"
+   ],
    "mixed.acc.f": [
     "eine interessante"
    ],
@@ -16211,6 +16749,9 @@
     "einer interessantesten",
     "einem interessantesten",
     "einen interessantesten"
+   ],
+   "superlative.pred": [
+    "am interessantesten"
    ],
    "weak.acc.f": [
     "die interessante"
@@ -16474,6 +17015,9 @@
     "einem jüngeren",
     "einen jüngeren"
    ],
+   "comparative.pred": [
+    "jünger"
+   ],
    "mixed.acc.f": [
     "eine junge"
    ],
@@ -16593,6 +17137,9 @@
     "einem jüngsten",
     "einen jüngsten"
    ],
+   "superlative.pred": [
+    "am jüngsten"
+   ],
    "weak.acc.f": [
     "die junge"
    ],
@@ -16692,6 +17239,9 @@
     "einer kälteren",
     "einem kälteren",
     "einen kälteren"
+   ],
+   "comparative.pred": [
+    "kälter"
    ],
    "mixed.acc.f": [
     "eine kalte"
@@ -16812,6 +17362,9 @@
     "einem kältesten",
     "einen kältesten"
    ],
+   "superlative.pred": [
+    "am kältesten"
+   ],
    "weak.acc.f": [
     "die kalte"
    ],
@@ -16910,6 +17463,9 @@
     "einer kaputteren",
     "einem kaputteren",
     "einen kaputteren"
+   ],
+   "comparative.pred": [
+    "kaputter"
    ],
    "mixed.acc.f": [
     "eine kaputte"
@@ -17029,6 +17585,9 @@
     "einer kaputtesten",
     "einem kaputtesten",
     "einen kaputtesten"
+   ],
+   "superlative.pred": [
+    "am kaputtesten"
    ],
    "weak.acc.f": [
     "die kaputte"
@@ -17288,6 +17847,9 @@
     "einem klareren",
     "einen klareren"
    ],
+   "comparative.pred": [
+    "klarer"
+   ],
    "mixed.acc.f": [
     "eine klare"
    ],
@@ -17407,6 +17969,9 @@
     "einem klarsten",
     "einen klarsten"
    ],
+   "superlative.pred": [
+    "am klarsten"
+   ],
    "weak.acc.f": [
     "die klare"
    ],
@@ -17505,6 +18070,9 @@
     "einer kleineren",
     "einem kleineren",
     "einen kleineren"
+   ],
+   "comparative.pred": [
+    "kleiner"
    ],
    "mixed.acc.f": [
     "eine kleine"
@@ -17624,6 +18192,9 @@
     "einer kleinsten",
     "einem kleinsten",
     "einen kleinsten"
+   ],
+   "superlative.pred": [
+    "am kleinsten"
    ],
    "weak.acc.f": [
     "die kleine"
@@ -18020,6 +18591,10 @@
     "einen kränkeren",
     "einen krankeren"
    ],
+   "comparative.pred": [
+    "kränker",
+    "kranker"
+   ],
    "mixed.acc.f": [
     "eine kranke"
    ],
@@ -18202,6 +18777,12 @@
     "einen kranksten",
     "einen krankesten"
    ],
+   "superlative.pred": [
+    "am kränksten",
+    "am kränkesten",
+    "am kranksten",
+    "am krankesten"
+   ],
    "weak.acc.f": [
     "die kranke"
    ],
@@ -18301,6 +18882,9 @@
     "einer kürzeren",
     "einem kürzeren",
     "einen kürzeren"
+   ],
+   "comparative.pred": [
+    "kürzer"
    ],
    "mixed.acc.f": [
     "eine kurze"
@@ -18420,6 +19004,9 @@
     "einer kürzesten",
     "einem kürzesten",
     "einen kürzesten"
+   ],
+   "superlative.pred": [
+    "am kürzesten"
    ],
    "weak.acc.f": [
     "die kurze"
@@ -18692,6 +19279,9 @@
     "einem längeren",
     "einen längeren"
    ],
+   "comparative.pred": [
+    "länger"
+   ],
    "mixed.acc.f": [
     "eine lange"
    ],
@@ -18811,6 +19401,9 @@
     "einem längsten",
     "einen längsten"
    ],
+   "superlative.pred": [
+    "am längsten"
+   ],
    "weak.acc.f": [
     "die lange"
    ],
@@ -18909,6 +19502,9 @@
     "einer langsameren",
     "einem langsameren",
     "einen langsameren"
+   ],
+   "comparative.pred": [
+    "langsamer"
    ],
    "mixed.acc.f": [
     "eine langsame"
@@ -19029,6 +19625,9 @@
     "einem langsamsten",
     "einen langsamsten"
    ],
+   "superlative.pred": [
+    "am langsamsten"
+   ],
    "weak.acc.f": [
     "die langsame"
    ],
@@ -19127,6 +19726,9 @@
     "einer langweiligeren",
     "einem langweiligeren",
     "einen langweiligeren"
+   ],
+   "comparative.pred": [
+    "langweiliger"
    ],
    "mixed.acc.f": [
     "eine langweilige"
@@ -19246,6 +19848,9 @@
     "einer langweiligsten",
     "einem langweiligsten",
     "einen langweiligsten"
+   ],
+   "superlative.pred": [
+    "am langweiligsten"
    ],
    "weak.acc.f": [
     "die langweilige"
@@ -19546,6 +20151,9 @@
     "einem lauteren",
     "einen lauteren"
    ],
+   "comparative.pred": [
+    "lauter"
+   ],
    "mixed.acc.f": [
     "eine laute"
    ],
@@ -19664,6 +20272,9 @@
     "einer lautesten",
     "einem lautesten",
     "einen lautesten"
+   ],
+   "superlative.pred": [
+    "am lautesten"
    ],
    "weak.acc.f": [
     "die laute"
@@ -20055,6 +20666,9 @@
     "einem leereren",
     "einen leereren"
    ],
+   "comparative.pred": [
+    "leerer"
+   ],
    "mixed.acc.f": [
     "eine leere"
    ],
@@ -20173,6 +20787,9 @@
     "einer leersten",
     "einem leersten",
     "einen leersten"
+   ],
+   "superlative.pred": [
+    "am leersten"
    ],
    "weak.acc.f": [
     "die leere"
@@ -20298,6 +20915,230 @@
    ],
    "pret.wir": [
     "legten"
+   ]
+  }
+ },
+ "leicht": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "leicht",
+   "leichte",
+   "leichtem",
+   "leichten",
+   "leichter",
+   "leichtere",
+   "leichterem",
+   "leichteren",
+   "leichterer",
+   "leichteres",
+   "leichtes",
+   "leichteste",
+   "leichtestem",
+   "leichtesten",
+   "leichtester",
+   "leichtestes"
+  ],
+  "english": "light; easy",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "leichter",
+    "leichterer",
+    "leichtere",
+    "leichteres",
+    "leichteren",
+    "leichterem",
+    "der leichtere",
+    "die leichtere",
+    "das leichtere",
+    "die leichteren",
+    "des leichteren",
+    "der leichteren",
+    "dem leichteren",
+    "den leichteren",
+    "ein leichterer",
+    "eine leichtere",
+    "ein leichteres",
+    "eines leichteren",
+    "einer leichteren",
+    "einem leichteren",
+    "einen leichteren"
+   ],
+   "comparative.pred": [
+    "leichter"
+   ],
+   "mixed.acc.f": [
+    "eine leichte"
+   ],
+   "mixed.acc.m": [
+    "einen leichten"
+   ],
+   "mixed.acc.n": [
+    "ein leichtes"
+   ],
+   "mixed.acc.pl": [
+    "leichten"
+   ],
+   "mixed.dat.f": [
+    "einer leichten"
+   ],
+   "mixed.dat.m": [
+    "einem leichten"
+   ],
+   "mixed.dat.n": [
+    "einem leichten"
+   ],
+   "mixed.dat.pl": [
+    "leichten"
+   ],
+   "mixed.gen.f": [
+    "einer leichten"
+   ],
+   "mixed.gen.m": [
+    "eines leichten"
+   ],
+   "mixed.gen.n": [
+    "eines leichten"
+   ],
+   "mixed.gen.pl": [
+    "leichten"
+   ],
+   "mixed.nom.f": [
+    "eine leichte"
+   ],
+   "mixed.nom.m": [
+    "ein leichter"
+   ],
+   "mixed.nom.n": [
+    "ein leichtes"
+   ],
+   "mixed.nom.pl": [
+    "leichten"
+   ],
+   "strong.acc.f": [
+    "leichte"
+   ],
+   "strong.acc.m": [
+    "leichten"
+   ],
+   "strong.acc.n": [
+    "leichtes"
+   ],
+   "strong.acc.pl": [
+    "leichte"
+   ],
+   "strong.dat.f": [
+    "leichter"
+   ],
+   "strong.dat.m": [
+    "leichtem"
+   ],
+   "strong.dat.n": [
+    "leichtem"
+   ],
+   "strong.dat.pl": [
+    "leichten"
+   ],
+   "strong.gen.f": [
+    "leichter"
+   ],
+   "strong.gen.m": [
+    "leichten"
+   ],
+   "strong.gen.n": [
+    "leichten"
+   ],
+   "strong.gen.pl": [
+    "leichter"
+   ],
+   "strong.nom.f": [
+    "leichte"
+   ],
+   "strong.nom.m": [
+    "leichter"
+   ],
+   "strong.nom.n": [
+    "leichtes"
+   ],
+   "strong.nom.pl": [
+    "leichte"
+   ],
+   "superlative": [
+    "am leichtesten",
+    "leichtester",
+    "leichteste",
+    "leichtestes",
+    "leichtesten",
+    "leichtestem",
+    "der leichteste",
+    "die leichteste",
+    "das leichteste",
+    "die leichtesten",
+    "des leichtesten",
+    "der leichtesten",
+    "dem leichtesten",
+    "den leichtesten",
+    "ein leichtester",
+    "eine leichteste",
+    "ein leichtestes",
+    "eines leichtesten",
+    "einer leichtesten",
+    "einem leichtesten",
+    "einen leichtesten"
+   ],
+   "superlative.pred": [
+    "am leichtesten"
+   ],
+   "weak.acc.f": [
+    "die leichte"
+   ],
+   "weak.acc.m": [
+    "den leichten"
+   ],
+   "weak.acc.n": [
+    "das leichte"
+   ],
+   "weak.acc.pl": [
+    "die leichten"
+   ],
+   "weak.dat.f": [
+    "der leichten"
+   ],
+   "weak.dat.m": [
+    "dem leichten"
+   ],
+   "weak.dat.n": [
+    "dem leichten"
+   ],
+   "weak.dat.pl": [
+    "den leichten"
+   ],
+   "weak.gen.f": [
+    "der leichten"
+   ],
+   "weak.gen.m": [
+    "des leichten"
+   ],
+   "weak.gen.n": [
+    "des leichten"
+   ],
+   "weak.gen.pl": [
+    "der leichten"
+   ],
+   "weak.nom.f": [
+    "die leichte"
+   ],
+   "weak.nom.m": [
+    "der leichte"
+   ],
+   "weak.nom.n": [
+    "das leichte"
+   ],
+   "weak.nom.pl": [
+    "die leichten"
    ]
   }
  },
@@ -20430,6 +21271,9 @@
     "einem leiseren",
     "einen leiseren"
    ],
+   "comparative.pred": [
+    "leiser"
+   ],
    "mixed.acc.f": [
     "eine leise"
    ],
@@ -20548,6 +21392,9 @@
     "einer leisesten",
     "einem leisesten",
     "einen leisesten"
+   ],
+   "superlative.pred": [
+    "am leisesten"
    ],
    "weak.acc.f": [
     "die leise"
@@ -20993,6 +21840,9 @@
     "einem lustigeren",
     "einen lustigeren"
    ],
+   "comparative.pred": [
+    "lustiger"
+   ],
    "mixed.acc.f": [
     "eine lustige"
    ],
@@ -21111,6 +21961,9 @@
     "einer lustigsten",
     "einem lustigsten",
     "einen lustigsten"
+   ],
+   "superlative.pred": [
+    "am lustigsten"
    ],
    "weak.acc.f": [
     "die lustige"
@@ -21638,6 +22491,9 @@
     "einem müderen",
     "einen müderen"
    ],
+   "comparative.pred": [
+    "müder"
+   ],
    "mixed.acc.f": [
     "eine müde"
    ],
@@ -21756,6 +22612,9 @@
     "einer müdesten",
     "einem müdesten",
     "einen müdesten"
+   ],
+   "superlative.pred": [
+    "am müdesten"
    ],
    "weak.acc.f": [
     "die müde"
@@ -22045,6 +22904,9 @@
     "einem netteren",
     "einen netteren"
    ],
+   "comparative.pred": [
+    "netter"
+   ],
    "mixed.acc.f": [
     "eine nette"
    ],
@@ -22164,6 +23026,9 @@
     "einem nettesten",
     "einen nettesten"
    ],
+   "superlative.pred": [
+    "am nettesten"
+   ],
    "weak.acc.f": [
     "die nette"
    ],
@@ -22269,6 +23134,9 @@
     "einer neueren",
     "einem neueren",
     "einen neueren"
+   ],
+   "comparative.pred": [
+    "neuer"
    ],
    "mixed.acc.f": [
     "eine neue"
@@ -22409,6 +23277,10 @@
     "einem neusten",
     "einen neuesten",
     "einen neusten"
+   ],
+   "superlative.pred": [
+    "am neuesten",
+    "am neusten"
    ],
    "weak.acc.f": [
     "die neue"
@@ -23003,6 +23875,10 @@
     "einen röteren",
     "einen roteren"
    ],
+   "comparative.pred": [
+    "röter",
+    "roter"
+   ],
    "mixed.acc.f": [
     "eine rote"
    ],
@@ -23143,6 +24019,10 @@
     "einen rötesten",
     "einen rotesten"
    ],
+   "superlative.pred": [
+    "am rötesten",
+    "am rotesten"
+   ],
    "weak.acc.f": [
     "die rote"
    ],
@@ -23241,6 +24121,9 @@
     "einer ruhigeren",
     "einem ruhigeren",
     "einen ruhigeren"
+   ],
+   "comparative.pred": [
+    "ruhiger"
    ],
    "mixed.acc.f": [
     "eine ruhige"
@@ -23360,6 +24243,9 @@
     "einer ruhigsten",
     "einem ruhigsten",
     "einen ruhigsten"
+   ],
+   "superlative.pred": [
+    "am ruhigsten"
    ],
    "weak.acc.f": [
     "die ruhige"
@@ -23537,6 +24423,9 @@
     "einem saubereren",
     "einen saubereren"
    ],
+   "comparative.pred": [
+    "sauberer"
+   ],
    "mixed.acc.f": [
     "eine saubere"
    ],
@@ -23656,6 +24545,9 @@
     "einem saubersten",
     "einen saubersten"
    ],
+   "superlative.pred": [
+    "am saubersten"
+   ],
    "weak.acc.f": [
     "die saubere"
    ],
@@ -23755,6 +24647,9 @@
     "einer schärferen",
     "einem schärferen",
     "einen schärferen"
+   ],
+   "comparative.pred": [
+    "schärfer"
    ],
    "mixed.acc.f": [
     "eine scharfe"
@@ -23874,6 +24769,9 @@
     "einer schärfsten",
     "einem schärfsten",
     "einen schärfsten"
+   ],
+   "superlative.pred": [
+    "am schärfsten"
    ],
    "weak.acc.f": [
     "die scharfe"
@@ -24132,6 +25030,9 @@
     "einem schlechteren",
     "einen schlechteren"
    ],
+   "comparative.pred": [
+    "schlechter"
+   ],
    "mixed.acc.f": [
     "eine schlechte"
    ],
@@ -24250,6 +25151,9 @@
     "einer schlechtesten",
     "einem schlechtesten",
     "einen schlechtesten"
+   ],
+   "superlative.pred": [
+    "am schlechtesten"
    ],
    "weak.acc.f": [
     "die schlechte"
@@ -24510,6 +25414,9 @@
     "einem schmutzigeren",
     "einen schmutzigeren"
    ],
+   "comparative.pred": [
+    "schmutziger"
+   ],
    "mixed.acc.f": [
     "eine schmutzige"
    ],
@@ -24629,6 +25536,9 @@
     "einem schmutzigsten",
     "einen schmutzigsten"
    ],
+   "superlative.pred": [
+    "am schmutzigsten"
+   ],
    "weak.acc.f": [
     "die schmutzige"
    ],
@@ -24727,6 +25637,9 @@
     "einer schnelleren",
     "einem schnelleren",
     "einen schnelleren"
+   ],
+   "comparative.pred": [
+    "schneller"
    ],
    "mixed.acc.f": [
     "eine schnelle"
@@ -24846,6 +25759,9 @@
     "einer schnellsten",
     "einem schnellsten",
     "einen schnellsten"
+   ],
+   "superlative.pred": [
+    "am schnellsten"
    ],
    "weak.acc.f": [
     "die schnelle"
@@ -25058,6 +25974,10 @@
     "einen schwärzeren",
     "einen schwarzeren"
    ],
+   "comparative.pred": [
+    "schwärzer",
+    "schwarzer"
+   ],
    "mixed.acc.f": [
     "eine schwarze"
    ],
@@ -25198,6 +26118,10 @@
     "einen schwärzesten",
     "einen schwarzesten"
    ],
+   "superlative.pred": [
+    "am schwärzesten",
+    "am schwarzesten"
+   ],
    "weak.acc.f": [
     "die schwarze"
    ],
@@ -25245,6 +26169,230 @@
    ],
    "weak.nom.pl": [
     "die schwarzen"
+   ]
+  }
+ },
+ "schwer": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "schwer",
+   "schwere",
+   "schwerem",
+   "schweren",
+   "schwerer",
+   "schwerere",
+   "schwererem",
+   "schwereren",
+   "schwererer",
+   "schwereres",
+   "schweres",
+   "schwerste",
+   "schwerstem",
+   "schwersten",
+   "schwerster",
+   "schwerstes"
+  ],
+  "english": "heavy; difficult",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schwerer",
+    "schwererer",
+    "schwerere",
+    "schwereres",
+    "schwereren",
+    "schwererem",
+    "der schwerere",
+    "die schwerere",
+    "das schwerere",
+    "die schwereren",
+    "des schwereren",
+    "der schwereren",
+    "dem schwereren",
+    "den schwereren",
+    "ein schwererer",
+    "eine schwerere",
+    "ein schwereres",
+    "eines schwereren",
+    "einer schwereren",
+    "einem schwereren",
+    "einen schwereren"
+   ],
+   "comparative.pred": [
+    "schwerer"
+   ],
+   "mixed.acc.f": [
+    "eine schwere"
+   ],
+   "mixed.acc.m": [
+    "einen schweren"
+   ],
+   "mixed.acc.n": [
+    "ein schweres"
+   ],
+   "mixed.acc.pl": [
+    "schweren"
+   ],
+   "mixed.dat.f": [
+    "einer schweren"
+   ],
+   "mixed.dat.m": [
+    "einem schweren"
+   ],
+   "mixed.dat.n": [
+    "einem schweren"
+   ],
+   "mixed.dat.pl": [
+    "schweren"
+   ],
+   "mixed.gen.f": [
+    "einer schweren"
+   ],
+   "mixed.gen.m": [
+    "eines schweren"
+   ],
+   "mixed.gen.n": [
+    "eines schweren"
+   ],
+   "mixed.gen.pl": [
+    "schweren"
+   ],
+   "mixed.nom.f": [
+    "eine schwere"
+   ],
+   "mixed.nom.m": [
+    "ein schwerer"
+   ],
+   "mixed.nom.n": [
+    "ein schweres"
+   ],
+   "mixed.nom.pl": [
+    "schweren"
+   ],
+   "strong.acc.f": [
+    "schwere"
+   ],
+   "strong.acc.m": [
+    "schweren"
+   ],
+   "strong.acc.n": [
+    "schweres"
+   ],
+   "strong.acc.pl": [
+    "schwere"
+   ],
+   "strong.dat.f": [
+    "schwerer"
+   ],
+   "strong.dat.m": [
+    "schwerem"
+   ],
+   "strong.dat.n": [
+    "schwerem"
+   ],
+   "strong.dat.pl": [
+    "schweren"
+   ],
+   "strong.gen.f": [
+    "schwerer"
+   ],
+   "strong.gen.m": [
+    "schweren"
+   ],
+   "strong.gen.n": [
+    "schweren"
+   ],
+   "strong.gen.pl": [
+    "schwerer"
+   ],
+   "strong.nom.f": [
+    "schwere"
+   ],
+   "strong.nom.m": [
+    "schwerer"
+   ],
+   "strong.nom.n": [
+    "schweres"
+   ],
+   "strong.nom.pl": [
+    "schwere"
+   ],
+   "superlative": [
+    "am schwersten",
+    "schwerster",
+    "schwerste",
+    "schwerstes",
+    "schwersten",
+    "schwerstem",
+    "der schwerste",
+    "die schwerste",
+    "das schwerste",
+    "die schwersten",
+    "des schwersten",
+    "der schwersten",
+    "dem schwersten",
+    "den schwersten",
+    "ein schwerster",
+    "eine schwerste",
+    "ein schwerstes",
+    "eines schwersten",
+    "einer schwersten",
+    "einem schwersten",
+    "einen schwersten"
+   ],
+   "superlative.pred": [
+    "am schwersten"
+   ],
+   "weak.acc.f": [
+    "die schwere"
+   ],
+   "weak.acc.m": [
+    "den schweren"
+   ],
+   "weak.acc.n": [
+    "das schwere"
+   ],
+   "weak.acc.pl": [
+    "die schweren"
+   ],
+   "weak.dat.f": [
+    "der schweren"
+   ],
+   "weak.dat.m": [
+    "dem schweren"
+   ],
+   "weak.dat.n": [
+    "dem schweren"
+   ],
+   "weak.dat.pl": [
+    "den schweren"
+   ],
+   "weak.gen.f": [
+    "der schweren"
+   ],
+   "weak.gen.m": [
+    "des schweren"
+   ],
+   "weak.gen.n": [
+    "des schweren"
+   ],
+   "weak.gen.pl": [
+    "der schweren"
+   ],
+   "weak.nom.f": [
+    "die schwere"
+   ],
+   "weak.nom.m": [
+    "der schwere"
+   ],
+   "weak.nom.n": [
+    "das schwere"
+   ],
+   "weak.nom.pl": [
+    "die schweren"
    ]
   }
  },
@@ -25296,6 +26444,9 @@
     "einer schwierigeren",
     "einem schwierigeren",
     "einen schwierigeren"
+   ],
+   "comparative.pred": [
+    "schwieriger"
    ],
    "mixed.acc.f": [
     "eine schwierige"
@@ -25415,6 +26566,9 @@
     "einer schwierigsten",
     "einem schwierigsten",
     "einen schwierigsten"
+   ],
+   "superlative.pred": [
+    "am schwierigsten"
    ],
    "weak.acc.f": [
     "die schwierige"
@@ -25621,6 +26775,9 @@
     "einem schöneren",
     "einen schöneren"
    ],
+   "comparative.pred": [
+    "schöner"
+   ],
    "mixed.acc.f": [
     "eine schöne"
    ],
@@ -25739,6 +26896,9 @@
     "einer schönsten",
     "einem schönsten",
     "einen schönsten"
+   ],
+   "superlative.pred": [
+    "am schönsten"
    ],
    "weak.acc.f": [
     "die schöne"
@@ -26468,6 +27628,9 @@
     "einem späteren",
     "einen späteren"
    ],
+   "comparative.pred": [
+    "später"
+   ],
    "mixed.acc.f": [
     "eine späte"
    ],
@@ -26587,6 +27750,9 @@
     "einem spätesten",
     "einen spätesten"
    ],
+   "superlative.pred": [
+    "am spätesten"
+   ],
    "weak.acc.f": [
     "die späte"
    ],
@@ -26634,6 +27800,231 @@
    ],
    "weak.nom.pl": [
     "die späten"
+   ]
+  }
+ },
+ "stark": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "stark",
+   "starke",
+   "starkem",
+   "starken",
+   "starker",
+   "starkes",
+   "stärker",
+   "stärkere",
+   "stärkerem",
+   "stärkeren",
+   "stärkerer",
+   "stärkeres",
+   "stärkste",
+   "stärkstem",
+   "stärksten",
+   "stärkster",
+   "stärkstes"
+  ],
+  "english": "strong",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "stärker",
+    "stärkerer",
+    "stärkere",
+    "stärkeres",
+    "stärkeren",
+    "stärkerem",
+    "der stärkere",
+    "die stärkere",
+    "das stärkere",
+    "die stärkeren",
+    "des stärkeren",
+    "der stärkeren",
+    "dem stärkeren",
+    "den stärkeren",
+    "ein stärkerer",
+    "eine stärkere",
+    "ein stärkeres",
+    "eines stärkeren",
+    "einer stärkeren",
+    "einem stärkeren",
+    "einen stärkeren"
+   ],
+   "comparative.pred": [
+    "stärker"
+   ],
+   "mixed.acc.f": [
+    "eine starke"
+   ],
+   "mixed.acc.m": [
+    "einen starken"
+   ],
+   "mixed.acc.n": [
+    "ein starkes"
+   ],
+   "mixed.acc.pl": [
+    "starken"
+   ],
+   "mixed.dat.f": [
+    "einer starken"
+   ],
+   "mixed.dat.m": [
+    "einem starken"
+   ],
+   "mixed.dat.n": [
+    "einem starken"
+   ],
+   "mixed.dat.pl": [
+    "starken"
+   ],
+   "mixed.gen.f": [
+    "einer starken"
+   ],
+   "mixed.gen.m": [
+    "eines starken"
+   ],
+   "mixed.gen.n": [
+    "eines starken"
+   ],
+   "mixed.gen.pl": [
+    "starken"
+   ],
+   "mixed.nom.f": [
+    "eine starke"
+   ],
+   "mixed.nom.m": [
+    "ein starker"
+   ],
+   "mixed.nom.n": [
+    "ein starkes"
+   ],
+   "mixed.nom.pl": [
+    "starken"
+   ],
+   "strong.acc.f": [
+    "starke"
+   ],
+   "strong.acc.m": [
+    "starken"
+   ],
+   "strong.acc.n": [
+    "starkes"
+   ],
+   "strong.acc.pl": [
+    "starke"
+   ],
+   "strong.dat.f": [
+    "starker"
+   ],
+   "strong.dat.m": [
+    "starkem"
+   ],
+   "strong.dat.n": [
+    "starkem"
+   ],
+   "strong.dat.pl": [
+    "starken"
+   ],
+   "strong.gen.f": [
+    "starker"
+   ],
+   "strong.gen.m": [
+    "starken"
+   ],
+   "strong.gen.n": [
+    "starken"
+   ],
+   "strong.gen.pl": [
+    "starker"
+   ],
+   "strong.nom.f": [
+    "starke"
+   ],
+   "strong.nom.m": [
+    "starker"
+   ],
+   "strong.nom.n": [
+    "starkes"
+   ],
+   "strong.nom.pl": [
+    "starke"
+   ],
+   "superlative": [
+    "am stärksten",
+    "stärkster",
+    "stärkste",
+    "stärkstes",
+    "stärksten",
+    "stärkstem",
+    "der stärkste",
+    "die stärkste",
+    "das stärkste",
+    "die stärksten",
+    "des stärksten",
+    "der stärksten",
+    "dem stärksten",
+    "den stärksten",
+    "ein stärkster",
+    "eine stärkste",
+    "ein stärkstes",
+    "eines stärksten",
+    "einer stärksten",
+    "einem stärksten",
+    "einen stärksten"
+   ],
+   "superlative.pred": [
+    "am stärksten"
+   ],
+   "weak.acc.f": [
+    "die starke"
+   ],
+   "weak.acc.m": [
+    "den starken"
+   ],
+   "weak.acc.n": [
+    "das starke"
+   ],
+   "weak.acc.pl": [
+    "die starken"
+   ],
+   "weak.dat.f": [
+    "der starken"
+   ],
+   "weak.dat.m": [
+    "dem starken"
+   ],
+   "weak.dat.n": [
+    "dem starken"
+   ],
+   "weak.dat.pl": [
+    "den starken"
+   ],
+   "weak.gen.f": [
+    "der starken"
+   ],
+   "weak.gen.m": [
+    "des starken"
+   ],
+   "weak.gen.n": [
+    "des starken"
+   ],
+   "weak.gen.pl": [
+    "der starken"
+   ],
+   "weak.nom.f": [
+    "die starke"
+   ],
+   "weak.nom.m": [
+    "der starke"
+   ],
+   "weak.nom.n": [
+    "das starke"
+   ],
+   "weak.nom.pl": [
+    "die starken"
    ]
   }
  },
@@ -26957,6 +28348,9 @@
     "einem süßeren",
     "einen süßeren"
    ],
+   "comparative.pred": [
+    "süßer"
+   ],
    "mixed.acc.f": [
     "eine süße"
    ],
@@ -27075,6 +28469,9 @@
     "einer süßesten",
     "einem süßesten",
     "einen süßesten"
+   ],
+   "superlative.pred": [
+    "am süßesten"
    ],
    "weak.acc.f": [
     "die süße"
@@ -27260,6 +28657,9 @@
     "einem teureren",
     "einen teureren"
    ],
+   "comparative.pred": [
+    "teurer"
+   ],
    "mixed.acc.f": [
     "eine teure"
    ],
@@ -27379,6 +28779,9 @@
     "einem teuersten",
     "einen teuersten"
    ],
+   "superlative.pred": [
+    "am teuersten"
+   ],
    "weak.acc.f": [
     "die teure"
    ],
@@ -27477,6 +28880,9 @@
     "einer tolleren",
     "einem tolleren",
     "einen tolleren"
+   ],
+   "comparative.pred": [
+    "toller"
    ],
    "mixed.acc.f": [
     "eine tolle"
@@ -27596,6 +29002,9 @@
     "einer tollsten",
     "einem tollsten",
     "einen tollsten"
+   ],
+   "superlative.pred": [
+    "am tollsten"
    ],
    "weak.acc.f": [
     "die tolle"
@@ -27780,6 +29189,9 @@
     "einem traurigeren",
     "einen traurigeren"
    ],
+   "comparative.pred": [
+    "trauriger"
+   ],
    "mixed.acc.f": [
     "eine traurige"
    ],
@@ -27898,6 +29310,9 @@
     "einer traurigsten",
     "einem traurigsten",
     "einen traurigsten"
+   ],
+   "superlative.pred": [
+    "am traurigsten"
    ],
    "weak.acc.f": [
     "die traurige"
@@ -28525,6 +29940,9 @@
     "einem volleren",
     "einen volleren"
    ],
+   "comparative.pred": [
+    "voller"
+   ],
    "mixed.acc.f": [
     "eine volle"
    ],
@@ -28644,6 +30062,9 @@
     "einem vollsten",
     "einen vollsten"
    ],
+   "superlative.pred": [
+    "am vollsten"
+   ],
    "weak.acc.f": [
     "die volle"
    ],
@@ -28742,6 +30163,9 @@
     "einer vorsichtigeren",
     "einem vorsichtigeren",
     "einen vorsichtigeren"
+   ],
+   "comparative.pred": [
+    "vorsichtiger"
    ],
    "mixed.acc.f": [
     "eine vorsichtige"
@@ -28861,6 +30285,9 @@
     "einer vorsichtigsten",
     "einem vorsichtigsten",
     "einen vorsichtigsten"
+   ],
+   "superlative.pred": [
+    "am vorsichtigsten"
    ],
    "weak.acc.f": [
     "die vorsichtige"
@@ -29048,6 +30475,9 @@
     "einem wärmeren",
     "einen wärmeren"
    ],
+   "comparative.pred": [
+    "wärmer"
+   ],
    "mixed.acc.f": [
     "eine warme"
    ],
@@ -29166,6 +30596,9 @@
     "einer wärmsten",
     "einem wärmsten",
     "einen wärmsten"
+   ],
+   "superlative.pred": [
+    "am wärmsten"
    ],
    "weak.acc.f": [
     "die warme"
@@ -29559,6 +30992,9 @@
     "einem weiteren",
     "einen weiteren"
    ],
+   "comparative.pred": [
+    "weiter"
+   ],
    "mixed.acc.f": [
     "eine weite"
    ],
@@ -29678,6 +31114,9 @@
     "einem weitesten",
     "einen weitesten"
    ],
+   "superlative.pred": [
+    "am weitesten"
+   ],
    "weak.acc.f": [
     "die weite"
    ],
@@ -29777,6 +31216,9 @@
     "einer weißeren",
     "einem weißeren",
     "einen weißeren"
+   ],
+   "comparative.pred": [
+    "weißer"
    ],
    "mixed.acc.f": [
     "eine weiße"
@@ -29896,6 +31338,9 @@
     "einer weißesten",
     "einem weißesten",
     "einen weißesten"
+   ],
+   "superlative.pred": [
+    "am weißesten"
    ],
    "weak.acc.f": [
     "die weiße"
@@ -30093,6 +31538,9 @@
     "einem wichtigeren",
     "einen wichtigeren"
    ],
+   "comparative.pred": [
+    "wichtiger"
+   ],
    "mixed.acc.f": [
     "eine wichtige"
    ],
@@ -30211,6 +31659,9 @@
     "einer wichtigsten",
     "einem wichtigsten",
     "einen wichtigsten"
+   ],
+   "superlative.pred": [
+    "am wichtigsten"
    ],
    "weak.acc.f": [
     "die wichtige"
