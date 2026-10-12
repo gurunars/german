@@ -1,0 +1,200 @@
+{
+  "name": "Lesson 34 · Would, could: würde, hätte, wäre, könnte",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**Could** you help me? (formal)",
+      "back": "**Könnten** Sie mir helfen?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. könnte, from können with its umlaut back, makes a request softer than können.",
+      "priority": 1
+    },
+    {
+      "front": "**Could** you close the window? (one friend)",
+      "back": "**Könntest** du das Fenster zumachen?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. du könntest: könnte + -st.",
+      "priority": 1
+    },
+    {
+      "front": "**Could** I ask a question?",
+      "back": "**Könnte** ich eine Frage stellen?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. eine Frage stellen: to ask a question. ich könnte, no ending.",
+      "priority": 1
+    },
+    {
+      "front": "**Could** you give me some advice? (one friend)",
+      "back": "**Könntest** du mir einen Ratschlag geben?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. der Ratschlag: a piece of advice.",
+      "priority": 1
+    },
+    {
+      "front": "**Would** you wait a moment, please? (formal)",
+      "back": "**Würden** Sie bitte einen Moment warten?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. würde, from werden, + an infinitive at the end: the polite would.",
+      "priority": 1
+    },
+    {
+      "front": "**Would** you help me, please? (one friend)",
+      "back": "**Würdest** du mir bitte helfen?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. du würdest + helfen at the end.",
+      "priority": 1
+    },
+    {
+      "front": "**Would** you like to **come along**? (formal)",
+      "back": "**Würden** Sie gern **mitkommen**?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. würden … mitkommen: the infinitive is whole at the end. gern makes it would like to.",
+      "priority": 1
+    },
+    {
+      "front": "I'**d like** a coffee, please.",
+      "back": "Ich **hätte** gern einen Kaffee.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. hätte gern: a polite I'd like, as common as möchte. hätte is hatte with an umlaut.",
+      "priority": 1
+    },
+    {
+      "front": "We'**d like** the bill, please.",
+      "back": "Wir **hätten** gern die Rechnung.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. wir hätten gern: ordering or asking politely.",
+      "priority": 1
+    },
+    {
+      "front": "To be honest, I'**d rather have** tea.",
+      "back": "Ehrlich gesagt **hätte** ich lieber Tee.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. hätte lieber: would rather have. ehrlich gesagt takes the first place.",
+      "priority": 1
+    },
+    {
+      "front": "That **would** be kind of you. (formal)",
+      "back": "Das **wäre** nett von Ihnen.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. wäre, from war with an umlaut: would be.",
+      "priority": 1
+    },
+    {
+      "front": "That **would** be sweet of you. (one friend)",
+      "back": "Das **wäre** lieb von dir.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. lieb: kind, sweet. wäre, no ending for er/es.",
+      "priority": 1
+    },
+    {
+      "front": "**Would** Monday be good?",
+      "back": "**Wäre** Montag gut?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. wäre first in a yes/no question.",
+      "priority": 1
+    },
+    {
+      "front": "If I were you, I **would** go to the doctor.",
+      "back": "An deiner Stelle **würde** ich zum Arzt gehen.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. An deiner Stelle: in your place. Then würde second, the infinitive last.",
+      "priority": 1
+    },
+    {
+      "front": "What **would** you **do** in my place? (one friend)",
+      "back": "Was **würdest** du an meiner Stelle **tun**?",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. würdest … tun: tun and machen both mean to do.",
+      "priority": 1
+    },
+    {
+      "front": "You **should** rest. (one friend)",
+      "back": "Du **solltest** dich ausruhen.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. sollte gives advice: you should.",
+      "priority": 1
+    },
+    {
+      "front": "I **would** rather **stay** at home.",
+      "back": "Ich **würde** lieber zu Hause **bleiben**.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. würde … bleiben: würde second, the infinitive last.",
+      "priority": 1
+    },
+    {
+      "front": "Maybe we **could** go to the cinema.",
+      "back": "Vielleicht **könnten** wir ins Kino gehen.",
+      "note": "Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern. A suggestion with könnten. vielleicht first, then the verb.",
+      "priority": 1
+    },
+    {
+      "front": "If I **had** time, I would travel more.",
+      "back": "Wenn ich Zeit **hätte**, würde ich mehr reisen.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. For what is not real, both halves take the Konjunktiv II: hätte … würde.",
+      "priority": 1
+    },
+    {
+      "front": "If I **were** rich, I would buy a house on the beach.",
+      "back": "Wenn ich reich **wäre**, würde ich ein Haus am Strand kaufen.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. wäre: were, for something imagined. The verb at the end of the wenn clause.",
+      "priority": 1
+    },
+    {
+      "front": "I **would travel** to an island.",
+      "back": "Ich **würde** auf eine Insel **reisen**.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. Most verbs use würde + infinitive rather than their own Konjunktiv form.",
+      "priority": 1
+    },
+    {
+      "front": "If only you **were** here! (one friend)",
+      "back": "Wenn du doch hier **wärst**!",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. A wish: wenn … doch + Konjunktiv II. du wärst.",
+      "priority": 1
+    },
+    {
+      "front": "It **would** be lovely if you came. (one friend)",
+      "back": "Es **wäre** schön, wenn du kommen würdest.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. wäre schön: would be lovely. The wenn clause ends with würdest.",
+      "priority": 1
+    },
+    {
+      "front": "If we **had** money, we would go on a trip.",
+      "back": "Wenn wir Geld **hätten**, würden wir eine Reise machen.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. wir hätten. eine Reise machen: to go on a trip.",
+      "priority": 1
+    },
+    {
+      "front": "If you **had** a car, you could drive to the beach. (several friends)",
+      "back": "Wenn ihr ein Auto **hättet**, könntet ihr zum Strand fahren.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. ihr hättet: hätte + -t.",
+      "priority": 1
+    },
+    {
+      "front": "If I **could**, I would help you. (one friend)",
+      "back": "Wenn ich **könnte**, würde ich dir helfen.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. könnte: could, for something not possible now.",
+      "priority": 1
+    },
+    {
+      "front": "If he **were** healthy, he could work.",
+      "back": "Wenn er gesund **wäre**, könnte er arbeiten.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. wäre at the end of the wenn clause, könnte right after the comma.",
+      "priority": 1
+    },
+    {
+      "front": "We **would** like to **come**, but we have no time.",
+      "back": "Wir **würden** gern **kommen**, aber wir haben keine Zeit.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. würden gern kommen: would like to come. The reality after aber is in the indicative.",
+      "priority": 1
+    },
+    {
+      "front": "What **would** you **do**? (one friend)",
+      "back": "Was **würdest** du **machen**?",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. würdest … machen.",
+      "priority": 1
+    },
+    {
+      "front": "That **would** be a good idea.",
+      "back": "Das **wäre** eine gute Idee.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. wäre + a noun: would be.",
+      "priority": 1
+    },
+    {
+      "front": "That **would** be a pity.",
+      "back": "Das **wäre** schade.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. schade: a pity.",
+      "priority": 1
+    },
+    {
+      "front": "Without your help I **would** be lost. (one friend)",
+      "back": "Ohne deine Hilfe **wäre** ich verloren.",
+      "note": "Konjunktiv II for wishes and what is not real: wenn ich … hätte. The condition is in ohne deine Hilfe; wäre says what would follow.",
+      "priority": 1
+    }
+  ]
+}

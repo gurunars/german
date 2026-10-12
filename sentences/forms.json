@@ -3098,6 +3098,39 @@
    ]
   }
  },
+ "Hilfe": {
+  "all": [
+   "Hilfe",
+   "Hilfen",
+   "Hülfe"
+  ],
+  "english": "help",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Hilfen"
+   ],
+   "acc.sg": [
+    "Hilfe"
+   ],
+   "dat.pl": [
+    "Hilfen"
+   ],
+   "dat.sg": [
+    "Hilfe"
+   ],
+   "gen.sg": [
+    "Hilfe"
+   ],
+   "nom.pl": [
+    "Hilfen"
+   ],
+   "nom.sg": [
+    "Hilfe"
+   ]
+  }
+ },
  "Hose": {
   "all": [
    "Hose",
@@ -3235,6 +3268,74 @@
    ],
    "nom.sg": [
     "Hunger"
+   ]
+  }
+ },
+ "Idee": {
+  "all": [
+   "Idechen",
+   "Idee",
+   "Ideen",
+   "Idelein"
+  ],
+  "english": "idea",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Ideen"
+   ],
+   "acc.sg": [
+    "Idee"
+   ],
+   "dat.pl": [
+    "Ideen"
+   ],
+   "dat.sg": [
+    "Idee"
+   ],
+   "gen.sg": [
+    "Idee"
+   ],
+   "nom.pl": [
+    "Ideen"
+   ],
+   "nom.sg": [
+    "Idee"
+   ]
+  }
+ },
+ "Insel": {
+  "all": [
+   "Insel",
+   "Inselchen",
+   "Inseln",
+   "Insul"
+  ],
+  "english": "island",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Inseln"
+   ],
+   "acc.sg": [
+    "Insel"
+   ],
+   "dat.pl": [
+    "Inseln"
+   ],
+   "dat.sg": [
+    "Insel"
+   ],
+   "gen.sg": [
+    "Insel"
+   ],
+   "nom.pl": [
+    "Inseln"
+   ],
+   "nom.sg": [
+    "Insel"
    ]
   }
  },
@@ -5622,6 +5723,44 @@
    ]
   }
  },
+ "Ratschlag": {
+  "all": [
+   "Ratschlag",
+   "Ratschlage",
+   "Ratschlages",
+   "Ratschlags",
+   "Ratschläge",
+   "Ratschlägen"
+  ],
+  "english": "piece of advice",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Ratschläge"
+   ],
+   "acc.sg": [
+    "Ratschlag"
+   ],
+   "dat.pl": [
+    "Ratschlägen"
+   ],
+   "dat.sg": [
+    "Ratschlag",
+    "Ratschlage"
+   ],
+   "gen.sg": [
+    "Ratschlages",
+    "Ratschlags"
+   ],
+   "nom.pl": [
+    "Ratschläge"
+   ],
+   "nom.sg": [
+    "Ratschlag"
+   ]
+  }
+ },
  "Rechnung": {
   "all": [
    "Rechnung",
@@ -5761,6 +5900,38 @@
    ],
    "nom.sg": [
     "Reis"
+   ]
+  }
+ },
+ "Reise": {
+  "all": [
+   "Reise",
+   "Reisen"
+  ],
+  "english": "journey, trip",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Reisen"
+   ],
+   "acc.sg": [
+    "Reise"
+   ],
+   "dat.pl": [
+    "Reisen"
+   ],
+   "dat.sg": [
+    "Reise"
+   ],
+   "gen.sg": [
+    "Reise"
+   ],
+   "nom.pl": [
+    "Reisen"
+   ],
+   "nom.sg": [
+    "Reise"
    ]
   }
  },
@@ -6621,6 +6792,76 @@
    ],
    "nom.sg": [
     "Stadt"
+   ]
+  }
+ },
+ "Stelle": {
+  "all": [
+   "Stelle",
+   "Stellen"
+  ],
+  "english": "place, position; an deiner Stelle: if I were you",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Stellen"
+   ],
+   "acc.sg": [
+    "Stelle"
+   ],
+   "dat.pl": [
+    "Stellen"
+   ],
+   "dat.sg": [
+    "Stelle"
+   ],
+   "gen.sg": [
+    "Stelle"
+   ],
+   "nom.pl": [
+    "Stellen"
+   ],
+   "nom.sg": [
+    "Stelle"
+   ]
+  }
+ },
+ "Strand": {
+  "all": [
+   "Strand",
+   "Strande",
+   "Strandes",
+   "Strands",
+   "Strände",
+   "Stränden"
+  ],
+  "english": "beach",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Strände"
+   ],
+   "acc.sg": [
+    "Strand"
+   ],
+   "dat.pl": [
+    "Stränden"
+   ],
+   "dat.sg": [
+    "Strand",
+    "Strande"
+   ],
+   "gen.sg": [
+    "Strandes",
+    "Strands"
+   ],
+   "nom.pl": [
+    "Strände"
+   ],
+   "nom.sg": [
+    "Strand"
    ]
   }
  },
@@ -8366,6 +8607,21 @@
    "pret.wir": [
     "fuhren ab",
     "abfuhren"
+   ],
+   "wuerde.du": [
+    "würdest abfahren"
+   ],
+   "wuerde.er": [
+    "würde abfahren"
+   ],
+   "wuerde.ich": [
+    "würde abfahren"
+   ],
+   "wuerde.ihr": [
+    "würdet abfahren"
+   ],
+   "wuerde.wir": [
+    "würden abfahren"
    ]
   }
  },
@@ -8465,6 +8721,21 @@
    "pret.wir": [
     "holten ab",
     "abholten"
+   ],
+   "wuerde.du": [
+    "würdest abholen"
+   ],
+   "wuerde.er": [
+    "würde abholen"
+   ],
+   "wuerde.ich": [
+    "würde abholen"
+   ],
+   "wuerde.ihr": [
+    "würdet abholen"
+   ],
+   "wuerde.wir": [
+    "würden abholen"
    ]
   }
  },
@@ -8800,6 +9071,21 @@
    "pret.wir": [
     "fingen an",
     "anfingen"
+   ],
+   "wuerde.du": [
+    "würdest anfangen"
+   ],
+   "wuerde.er": [
+    "würde anfangen"
+   ],
+   "wuerde.ich": [
+    "würde anfangen"
+   ],
+   "wuerde.ihr": [
+    "würdet anfangen"
+   ],
+   "wuerde.wir": [
+    "würden anfangen"
    ]
   }
  },
@@ -8934,6 +9220,21 @@
    "pret.wir": [
     "kamen an",
     "ankamen"
+   ],
+   "wuerde.du": [
+    "würdest ankommen"
+   ],
+   "wuerde.er": [
+    "würde ankommen"
+   ],
+   "wuerde.ich": [
+    "würde ankommen"
+   ],
+   "wuerde.ihr": [
+    "würdet ankommen"
+   ],
+   "wuerde.wir": [
+    "würden ankommen"
    ]
   }
  },
@@ -9039,6 +9340,21 @@
    "pret.wir": [
     "riefen an",
     "anriefen"
+   ],
+   "wuerde.du": [
+    "würdest anrufen"
+   ],
+   "wuerde.er": [
+    "würde anrufen"
+   ],
+   "wuerde.ich": [
+    "würde anrufen"
+   ],
+   "wuerde.ihr": [
+    "würdet anrufen"
+   ],
+   "wuerde.wir": [
+    "würden anrufen"
    ]
   }
  },
@@ -9114,6 +9430,21 @@
    ],
    "pret.wir": [
     "antworteten"
+   ],
+   "wuerde.du": [
+    "würdest antworten"
+   ],
+   "wuerde.er": [
+    "würde antworten"
+   ],
+   "wuerde.ich": [
+    "würde antworten"
+   ],
+   "wuerde.ihr": [
+    "würdet antworten"
+   ],
+   "wuerde.wir": [
+    "würden antworten"
    ]
   }
  },
@@ -9233,6 +9564,21 @@
    "pret.wir": [
     "zogen an",
     "anzogen"
+   ],
+   "wuerde.du": [
+    "würdest anziehen"
+   ],
+   "wuerde.er": [
+    "würde anziehen"
+   ],
+   "wuerde.ich": [
+    "würde anziehen"
+   ],
+   "wuerde.ihr": [
+    "würdet anziehen"
+   ],
+   "wuerde.wir": [
+    "würden anziehen"
    ]
   }
  },
@@ -9308,6 +9654,21 @@
    ],
    "pret.wir": [
     "arbeiteten"
+   ],
+   "wuerde.du": [
+    "würdest arbeiten"
+   ],
+   "wuerde.er": [
+    "würde arbeiten"
+   ],
+   "wuerde.ich": [
+    "würde arbeiten"
+   ],
+   "wuerde.ihr": [
+    "würdet arbeiten"
+   ],
+   "wuerde.wir": [
+    "würden arbeiten"
    ]
   }
  },
@@ -9407,6 +9768,21 @@
    "pret.wir": [
     "machten auf",
     "aufmachten"
+   ],
+   "wuerde.du": [
+    "würdest aufmachen"
+   ],
+   "wuerde.er": [
+    "würde aufmachen"
+   ],
+   "wuerde.ich": [
+    "würde aufmachen"
+   ],
+   "wuerde.ihr": [
+    "würdet aufmachen"
+   ],
+   "wuerde.wir": [
+    "würden aufmachen"
    ]
   }
  },
@@ -9504,6 +9880,21 @@
    "pret.wir": [
     "passten auf",
     "aufpassten"
+   ],
+   "wuerde.du": [
+    "würdest aufpassen"
+   ],
+   "wuerde.er": [
+    "würde aufpassen"
+   ],
+   "wuerde.ich": [
+    "würde aufpassen"
+   ],
+   "wuerde.ihr": [
+    "würdet aufpassen"
+   ],
+   "wuerde.wir": [
+    "würden aufpassen"
    ]
   }
  },
@@ -9603,6 +9994,21 @@
    "pret.wir": [
     "räumten auf",
     "aufräumten"
+   ],
+   "wuerde.du": [
+    "würdest aufräumen"
+   ],
+   "wuerde.er": [
+    "würde aufräumen"
+   ],
+   "wuerde.ich": [
+    "würde aufräumen"
+   ],
+   "wuerde.ihr": [
+    "würdet aufräumen"
+   ],
+   "wuerde.wir": [
+    "würden aufräumen"
    ]
   }
  },
@@ -9760,6 +10166,21 @@
    "pret.wir": [
     "standen auf",
     "aufstanden"
+   ],
+   "wuerde.du": [
+    "würdest aufstehen"
+   ],
+   "wuerde.er": [
+    "würde aufstehen"
+   ],
+   "wuerde.ich": [
+    "würde aufstehen"
+   ],
+   "wuerde.ihr": [
+    "würdet aufstehen"
+   ],
+   "wuerde.wir": [
+    "würden aufstehen"
    ]
   }
  },
@@ -9858,6 +10279,21 @@
    "pret.wir": [
     "wachten auf",
     "aufwachten"
+   ],
+   "wuerde.du": [
+    "würdest aufwachen"
+   ],
+   "wuerde.er": [
+    "würde aufwachen"
+   ],
+   "wuerde.ich": [
+    "würde aufwachen"
+   ],
+   "wuerde.ihr": [
+    "würdet aufwachen"
+   ],
+   "wuerde.wir": [
+    "würden aufwachen"
    ]
   }
  },
@@ -9957,6 +10393,21 @@
    "pret.wir": [
     "füllten aus",
     "ausfüllten"
+   ],
+   "wuerde.du": [
+    "würdest ausfüllen"
+   ],
+   "wuerde.er": [
+    "würde ausfüllen"
+   ],
+   "wuerde.ich": [
+    "würde ausfüllen"
+   ],
+   "wuerde.ihr": [
+    "würdet ausfüllen"
+   ],
+   "wuerde.wir": [
+    "würden ausfüllen"
    ]
   }
  },
@@ -10056,6 +10507,21 @@
    "pret.wir": [
     "machten aus",
     "ausmachten"
+   ],
+   "wuerde.du": [
+    "würdest ausmachen"
+   ],
+   "wuerde.er": [
+    "würde ausmachen"
+   ],
+   "wuerde.ich": [
+    "würde ausmachen"
+   ],
+   "wuerde.ihr": [
+    "würdet ausmachen"
+   ],
+   "wuerde.wir": [
+    "würden ausmachen"
    ]
   }
  },
@@ -10155,6 +10621,21 @@
    "pret.wir": [
     "ruhten aus",
     "ausruhten"
+   ],
+   "wuerde.du": [
+    "würdest ausruhen"
+   ],
+   "wuerde.er": [
+    "würde ausruhen"
+   ],
+   "wuerde.ich": [
+    "würde ausruhen"
+   ],
+   "wuerde.ihr": [
+    "würdet ausruhen"
+   ],
+   "wuerde.wir": [
+    "würden ausruhen"
    ]
   }
  },
@@ -10231,6 +10712,21 @@
    ],
    "pret.wir": [
     "beeilten"
+   ],
+   "wuerde.du": [
+    "würdest beeilen"
+   ],
+   "wuerde.er": [
+    "würde beeilen"
+   ],
+   "wuerde.ich": [
+    "würde beeilen"
+   ],
+   "wuerde.ihr": [
+    "würdet beeilen"
+   ],
+   "wuerde.wir": [
+    "würden beeilen"
    ]
   }
  },
@@ -10321,6 +10817,21 @@
    ],
    "pret.wir": [
     "bekamen"
+   ],
+   "wuerde.du": [
+    "würdest bekommen"
+   ],
+   "wuerde.er": [
+    "würde bekommen"
+   ],
+   "wuerde.ich": [
+    "würde bekommen"
+   ],
+   "wuerde.ihr": [
+    "würdet bekommen"
+   ],
+   "wuerde.wir": [
+    "würden bekommen"
    ]
   }
  },
@@ -10631,6 +11142,21 @@
    ],
    "pret.wir": [
     "bestanden"
+   ],
+   "wuerde.du": [
+    "würdest bestehen"
+   ],
+   "wuerde.er": [
+    "würde bestehen"
+   ],
+   "wuerde.ich": [
+    "würde bestehen"
+   ],
+   "wuerde.ihr": [
+    "würdet bestehen"
+   ],
+   "wuerde.wir": [
+    "würden bestehen"
    ]
   }
  },
@@ -10707,6 +11233,21 @@
    ],
    "pret.wir": [
     "besuchten"
+   ],
+   "wuerde.du": [
+    "würdest besuchen"
+   ],
+   "wuerde.er": [
+    "würde besuchen"
+   ],
+   "wuerde.ich": [
+    "würde besuchen"
+   ],
+   "wuerde.ihr": [
+    "würdet besuchen"
+   ],
+   "wuerde.wir": [
+    "würden besuchen"
    ]
   }
  },
@@ -10783,6 +11324,21 @@
    ],
    "pret.wir": [
     "bezahlten"
+   ],
+   "wuerde.du": [
+    "würdest bezahlen"
+   ],
+   "wuerde.er": [
+    "würde bezahlen"
+   ],
+   "wuerde.ich": [
+    "würde bezahlen"
+   ],
+   "wuerde.ihr": [
+    "würdet bezahlen"
+   ],
+   "wuerde.wir": [
+    "würden bezahlen"
    ]
   }
  },
@@ -11356,6 +11912,21 @@
    ],
    "pret.wir": [
     "blieben"
+   ],
+   "wuerde.du": [
+    "würdest bleiben"
+   ],
+   "wuerde.er": [
+    "würde bleiben"
+   ],
+   "wuerde.ich": [
+    "würde bleiben"
+   ],
+   "wuerde.ihr": [
+    "würdet bleiben"
+   ],
+   "wuerde.wir": [
+    "würden bleiben"
    ]
   }
  },
@@ -11457,6 +12028,21 @@
    ],
    "pret.wir": [
     "brauchten"
+   ],
+   "wuerde.du": [
+    "würdest brauchen"
+   ],
+   "wuerde.er": [
+    "würde brauchen"
+   ],
+   "wuerde.ich": [
+    "würde brauchen"
+   ],
+   "wuerde.ihr": [
+    "würdet brauchen"
+   ],
+   "wuerde.wir": [
+    "würden brauchen"
    ]
   }
  },
@@ -11788,6 +12374,21 @@
    ],
    "pret.wir": [
     "brachten"
+   ],
+   "wuerde.du": [
+    "würdest bringen"
+   ],
+   "wuerde.er": [
+    "würde bringen"
+   ],
+   "wuerde.ich": [
+    "würde bringen"
+   ],
+   "wuerde.ihr": [
+    "würdet bringen"
+   ],
+   "wuerde.wir": [
+    "würden bringen"
    ]
   }
  },
@@ -11865,6 +12466,21 @@
    ],
    "pret.wir": [
     "dankten"
+   ],
+   "wuerde.du": [
+    "würdest danken"
+   ],
+   "wuerde.er": [
+    "würde danken"
+   ],
+   "wuerde.ich": [
+    "würde danken"
+   ],
+   "wuerde.ihr": [
+    "würdet danken"
+   ],
+   "wuerde.wir": [
+    "würden danken"
    ]
   }
  },
@@ -11946,6 +12562,21 @@
    ],
    "pret.wir": [
     "dachten"
+   ],
+   "wuerde.du": [
+    "würdest denken"
+   ],
+   "wuerde.er": [
+    "würde denken"
+   ],
+   "wuerde.ich": [
+    "würde denken"
+   ],
+   "wuerde.ihr": [
+    "würdet denken"
+   ],
+   "wuerde.wir": [
+    "würden denken"
    ]
   }
  },
@@ -12359,6 +12990,21 @@
    ],
    "pret.wir": [
     "duschten"
+   ],
+   "wuerde.du": [
+    "würdest duschen"
+   ],
+   "wuerde.er": [
+    "würde duschen"
+   ],
+   "wuerde.ich": [
+    "würde duschen"
+   ],
+   "wuerde.ihr": [
+    "würdet duschen"
+   ],
+   "wuerde.wir": [
+    "würden duschen"
    ]
   }
  },
@@ -12448,6 +13094,245 @@
    ],
    "pret.wir": [
     "durften"
+   ],
+   "wuerde.du": [
+    "würdest dürfen"
+   ],
+   "wuerde.er": [
+    "würde dürfen"
+   ],
+   "wuerde.ich": [
+    "würde dürfen"
+   ],
+   "wuerde.ihr": [
+    "würdet dürfen"
+   ],
+   "wuerde.wir": [
+    "würden dürfen"
+   ]
+  }
+ },
+ "ehrlich": {
+  "all": [
+   "am",
+   "ehrlich",
+   "ehrliche",
+   "ehrlichem",
+   "ehrlichen",
+   "ehrlicher",
+   "ehrlichere",
+   "ehrlicherem",
+   "ehrlicheren",
+   "ehrlicherer",
+   "ehrlicheres",
+   "ehrliches",
+   "ehrlichste",
+   "ehrlichstem",
+   "ehrlichsten",
+   "ehrlichster",
+   "ehrlichstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "honest",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "ehrlicher",
+    "ehrlicherer",
+    "ehrlichere",
+    "ehrlicheres",
+    "ehrlicheren",
+    "ehrlicherem",
+    "der ehrlichere",
+    "die ehrlichere",
+    "das ehrlichere",
+    "die ehrlicheren",
+    "des ehrlicheren",
+    "der ehrlicheren",
+    "dem ehrlicheren",
+    "den ehrlicheren",
+    "ein ehrlicherer",
+    "eine ehrlichere",
+    "ein ehrlicheres",
+    "eines ehrlicheren",
+    "einer ehrlicheren",
+    "einem ehrlicheren",
+    "einen ehrlicheren"
+   ],
+   "comparative.pred": [
+    "ehrlicher"
+   ],
+   "mixed.acc.f": [
+    "eine ehrliche"
+   ],
+   "mixed.acc.m": [
+    "einen ehrlichen"
+   ],
+   "mixed.acc.n": [
+    "ein ehrliches"
+   ],
+   "mixed.acc.pl": [
+    "ehrlichen"
+   ],
+   "mixed.dat.f": [
+    "einer ehrlichen"
+   ],
+   "mixed.dat.m": [
+    "einem ehrlichen"
+   ],
+   "mixed.dat.n": [
+    "einem ehrlichen"
+   ],
+   "mixed.dat.pl": [
+    "ehrlichen"
+   ],
+   "mixed.gen.f": [
+    "einer ehrlichen"
+   ],
+   "mixed.gen.m": [
+    "eines ehrlichen"
+   ],
+   "mixed.gen.n": [
+    "eines ehrlichen"
+   ],
+   "mixed.gen.pl": [
+    "ehrlichen"
+   ],
+   "mixed.nom.f": [
+    "eine ehrliche"
+   ],
+   "mixed.nom.m": [
+    "ein ehrlicher"
+   ],
+   "mixed.nom.n": [
+    "ein ehrliches"
+   ],
+   "mixed.nom.pl": [
+    "ehrlichen"
+   ],
+   "strong.acc.f": [
+    "ehrliche"
+   ],
+   "strong.acc.m": [
+    "ehrlichen"
+   ],
+   "strong.acc.n": [
+    "ehrliches"
+   ],
+   "strong.acc.pl": [
+    "ehrliche"
+   ],
+   "strong.dat.f": [
+    "ehrlicher"
+   ],
+   "strong.dat.m": [
+    "ehrlichem"
+   ],
+   "strong.dat.n": [
+    "ehrlichem"
+   ],
+   "strong.dat.pl": [
+    "ehrlichen"
+   ],
+   "strong.gen.f": [
+    "ehrlicher"
+   ],
+   "strong.gen.m": [
+    "ehrlichen"
+   ],
+   "strong.gen.n": [
+    "ehrlichen"
+   ],
+   "strong.gen.pl": [
+    "ehrlicher"
+   ],
+   "strong.nom.f": [
+    "ehrliche"
+   ],
+   "strong.nom.m": [
+    "ehrlicher"
+   ],
+   "strong.nom.n": [
+    "ehrliches"
+   ],
+   "strong.nom.pl": [
+    "ehrliche"
+   ],
+   "superlative": [
+    "am ehrlichsten",
+    "ehrlichster",
+    "ehrlichste",
+    "ehrlichstes",
+    "ehrlichsten",
+    "ehrlichstem",
+    "der ehrlichste",
+    "die ehrlichste",
+    "das ehrlichste",
+    "die ehrlichsten",
+    "des ehrlichsten",
+    "der ehrlichsten",
+    "dem ehrlichsten",
+    "den ehrlichsten",
+    "ein ehrlichster",
+    "eine ehrlichste",
+    "ein ehrlichstes",
+    "eines ehrlichsten",
+    "einer ehrlichsten",
+    "einem ehrlichsten",
+    "einen ehrlichsten"
+   ],
+   "superlative.pred": [
+    "am ehrlichsten"
+   ],
+   "weak.acc.f": [
+    "die ehrliche"
+   ],
+   "weak.acc.m": [
+    "den ehrlichen"
+   ],
+   "weak.acc.n": [
+    "das ehrliche"
+   ],
+   "weak.acc.pl": [
+    "die ehrlichen"
+   ],
+   "weak.dat.f": [
+    "der ehrlichen"
+   ],
+   "weak.dat.m": [
+    "dem ehrlichen"
+   ],
+   "weak.dat.n": [
+    "dem ehrlichen"
+   ],
+   "weak.dat.pl": [
+    "den ehrlichen"
+   ],
+   "weak.gen.f": [
+    "der ehrlichen"
+   ],
+   "weak.gen.m": [
+    "des ehrlichen"
+   ],
+   "weak.gen.n": [
+    "des ehrlichen"
+   ],
+   "weak.gen.pl": [
+    "der ehrlichen"
+   ],
+   "weak.nom.f": [
+    "die ehrliche"
+   ],
+   "weak.nom.m": [
+    "der ehrliche"
+   ],
+   "weak.nom.n": [
+    "das ehrliche"
+   ],
+   "weak.nom.pl": [
+    "die ehrlichen"
    ]
   }
  },
@@ -12770,6 +13655,21 @@
    "pret.wir": [
     "kauften ein",
     "einkauften"
+   ],
+   "wuerde.du": [
+    "würdest einkaufen"
+   ],
+   "wuerde.er": [
+    "würde einkaufen"
+   ],
+   "wuerde.ich": [
+    "würde einkaufen"
+   ],
+   "wuerde.ihr": [
+    "würdet einkaufen"
+   ],
+   "wuerde.wir": [
+    "würden einkaufen"
    ]
   }
  },
@@ -12875,6 +13775,21 @@
    "pret.wir": [
     "schliefen ein",
     "einschliefen"
+   ],
+   "wuerde.du": [
+    "würdest einschlafen"
+   ],
+   "wuerde.er": [
+    "würde einschlafen"
+   ],
+   "wuerde.ich": [
+    "würde einschlafen"
+   ],
+   "wuerde.ihr": [
+    "würdet einschlafen"
+   ],
+   "wuerde.wir": [
+    "würden einschlafen"
    ]
   }
  },
@@ -12957,6 +13872,21 @@
    ],
    "pret.wir": [
     "erinnerten"
+   ],
+   "wuerde.du": [
+    "würdest erinnern"
+   ],
+   "wuerde.er": [
+    "würde erinnern"
+   ],
+   "wuerde.ich": [
+    "würde erinnern"
+   ],
+   "wuerde.ihr": [
+    "würdet erinnern"
+   ],
+   "wuerde.wir": [
+    "würden erinnern"
    ]
   }
  },
@@ -13033,6 +13963,21 @@
    ],
    "pret.wir": [
     "erklärten"
+   ],
+   "wuerde.du": [
+    "würdest erklären"
+   ],
+   "wuerde.er": [
+    "würde erklären"
+   ],
+   "wuerde.ich": [
+    "würde erklären"
+   ],
+   "wuerde.ihr": [
+    "würdet erklären"
+   ],
+   "wuerde.wir": [
+    "würden erklären"
    ]
   }
  },
@@ -13109,6 +14054,21 @@
    ],
    "pret.wir": [
     "erzählten"
+   ],
+   "wuerde.du": [
+    "würdest erzählen"
+   ],
+   "wuerde.er": [
+    "würde erzählen"
+   ],
+   "wuerde.ich": [
+    "würde erzählen"
+   ],
+   "wuerde.ihr": [
+    "würdet erzählen"
+   ],
+   "wuerde.wir": [
+    "würden erzählen"
    ]
   }
  },
@@ -13192,6 +14152,21 @@
    ],
    "pret.wir": [
     "aßen"
+   ],
+   "wuerde.du": [
+    "würdest essen"
+   ],
+   "wuerde.er": [
+    "würde essen"
+   ],
+   "wuerde.ich": [
+    "würde essen"
+   ],
+   "wuerde.ihr": [
+    "würdet essen"
+   ],
+   "wuerde.wir": [
+    "würden essen"
    ]
   }
  },
@@ -13284,6 +14259,21 @@
    ],
    "pret.wir": [
     "fuhren"
+   ],
+   "wuerde.du": [
+    "würdest fahren"
+   ],
+   "wuerde.er": [
+    "würde fahren"
+   ],
+   "wuerde.ich": [
+    "würde fahren"
+   ],
+   "wuerde.ihr": [
+    "würdet fahren"
+   ],
+   "wuerde.wir": [
+    "würden fahren"
    ]
   }
  },
@@ -13381,6 +14371,21 @@
    ],
    "pret.wir": [
     "fielen"
+   ],
+   "wuerde.du": [
+    "würdest fallen"
+   ],
+   "wuerde.er": [
+    "würde fallen"
+   ],
+   "wuerde.ich": [
+    "würde fallen"
+   ],
+   "wuerde.ihr": [
+    "würdet fallen"
+   ],
+   "wuerde.wir": [
+    "würden fallen"
    ]
   }
  },
@@ -13519,6 +14524,21 @@
    "pret.wir": [
     "sahen fern",
     "fernsahen"
+   ],
+   "wuerde.du": [
+    "würdest fernsehen"
+   ],
+   "wuerde.er": [
+    "würde fernsehen"
+   ],
+   "wuerde.ich": [
+    "würde fernsehen"
+   ],
+   "wuerde.ihr": [
+    "würdet fernsehen"
+   ],
+   "wuerde.wir": [
+    "würden fernsehen"
    ]
   }
  },
@@ -13615,6 +14635,21 @@
    ],
    "pret.wir": [
     "fanden"
+   ],
+   "wuerde.du": [
+    "würdest finden"
+   ],
+   "wuerde.er": [
+    "würde finden"
+   ],
+   "wuerde.ich": [
+    "würde finden"
+   ],
+   "wuerde.ihr": [
+    "würdet finden"
+   ],
+   "wuerde.wir": [
+    "würden finden"
    ]
   }
  },
@@ -13706,6 +14741,21 @@
    ],
    "pret.wir": [
     "flogen"
+   ],
+   "wuerde.du": [
+    "würdest fliegen"
+   ],
+   "wuerde.er": [
+    "würde fliegen"
+   ],
+   "wuerde.ich": [
+    "würde fliegen"
+   ],
+   "wuerde.ihr": [
+    "würdet fliegen"
+   ],
+   "wuerde.wir": [
+    "würden fliegen"
    ]
   }
  },
@@ -13795,6 +14845,21 @@
    ],
    "pret.wir": [
     "fragten"
+   ],
+   "wuerde.du": [
+    "würdest fragen"
+   ],
+   "wuerde.er": [
+    "würde fragen"
+   ],
+   "wuerde.ich": [
+    "würde fragen"
+   ],
+   "wuerde.ihr": [
+    "würdet fragen"
+   ],
+   "wuerde.wir": [
+    "würden fragen"
    ]
   }
  },
@@ -14124,6 +15189,21 @@
    ],
    "pret.wir": [
     "freuten"
+   ],
+   "wuerde.du": [
+    "würdest freuen"
+   ],
+   "wuerde.er": [
+    "würde freuen"
+   ],
+   "wuerde.ich": [
+    "würde freuen"
+   ],
+   "wuerde.ihr": [
+    "würdet freuen"
+   ],
+   "wuerde.wir": [
+    "würden freuen"
    ]
   }
  },
@@ -14927,6 +16007,21 @@
    ],
    "pret.wir": [
     "frühstückten"
+   ],
+   "wuerde.du": [
+    "würdest frühstücken"
+   ],
+   "wuerde.er": [
+    "würde frühstücken"
+   ],
+   "wuerde.ich": [
+    "würde frühstücken"
+   ],
+   "wuerde.ihr": [
+    "würdet frühstücken"
+   ],
+   "wuerde.wir": [
+    "würden frühstücken"
    ]
   }
  },
@@ -15004,6 +16099,21 @@
    ],
    "pret.wir": [
     "fühlten"
+   ],
+   "wuerde.du": [
+    "würdest fühlen"
+   ],
+   "wuerde.er": [
+    "würde fühlen"
+   ],
+   "wuerde.ich": [
+    "würde fühlen"
+   ],
+   "wuerde.ihr": [
+    "würdet fühlen"
+   ],
+   "wuerde.wir": [
+    "würden fühlen"
    ]
   }
  },
@@ -15104,6 +16214,21 @@
    ],
    "pret.wir": [
     "gaben"
+   ],
+   "wuerde.du": [
+    "würdest geben"
+   ],
+   "wuerde.er": [
+    "würde geben"
+   ],
+   "wuerde.ich": [
+    "würde geben"
+   ],
+   "wuerde.ihr": [
+    "würdet geben"
+   ],
+   "wuerde.wir": [
+    "würden geben"
    ]
   }
  },
@@ -15184,6 +16309,21 @@
    ],
    "pret.wir": [
     "gefielen"
+   ],
+   "wuerde.du": [
+    "würdest gefallen"
+   ],
+   "wuerde.er": [
+    "würde gefallen"
+   ],
+   "wuerde.ich": [
+    "würde gefallen"
+   ],
+   "wuerde.ihr": [
+    "würdet gefallen"
+   ],
+   "wuerde.wir": [
+    "würden gefallen"
    ]
   }
  },
@@ -15281,6 +16421,21 @@
    ],
    "pret.wir": [
     "gingen"
+   ],
+   "wuerde.du": [
+    "würdest gehen"
+   ],
+   "wuerde.er": [
+    "würde gehen"
+   ],
+   "wuerde.ich": [
+    "würde gehen"
+   ],
+   "wuerde.ihr": [
+    "würdet gehen"
+   ],
+   "wuerde.wir": [
+    "würden gehen"
    ]
   }
  },
@@ -15357,6 +16512,21 @@
    ],
    "pret.wir": [
     "gehörten"
+   ],
+   "wuerde.du": [
+    "würdest gehören"
+   ],
+   "wuerde.er": [
+    "würde gehören"
+   ],
+   "wuerde.ich": [
+    "würde gehören"
+   ],
+   "wuerde.ihr": [
+    "würdet gehören"
+   ],
+   "wuerde.wir": [
+    "würden gehören"
    ]
   }
  },
@@ -15815,6 +16985,231 @@
    ]
   }
  },
+ "gesund": {
+  "all": [
+   "am",
+   "gesund",
+   "gesunde",
+   "gesundem",
+   "gesunden",
+   "gesunder",
+   "gesundes",
+   "gesünder",
+   "gesündere",
+   "gesünderem",
+   "gesünderen",
+   "gesünderer",
+   "gesünderes",
+   "gesündeste",
+   "gesündestem",
+   "gesündesten",
+   "gesündester",
+   "gesündestes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "healthy",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "gesünder",
+    "gesünderer",
+    "gesündere",
+    "gesünderes",
+    "gesünderen",
+    "gesünderem",
+    "der gesündere",
+    "die gesündere",
+    "das gesündere",
+    "die gesünderen",
+    "des gesünderen",
+    "der gesünderen",
+    "dem gesünderen",
+    "den gesünderen",
+    "ein gesünderer",
+    "eine gesündere",
+    "ein gesünderes",
+    "eines gesünderen",
+    "einer gesünderen",
+    "einem gesünderen",
+    "einen gesünderen"
+   ],
+   "comparative.pred": [
+    "gesünder"
+   ],
+   "mixed.acc.f": [
+    "eine gesunde"
+   ],
+   "mixed.acc.m": [
+    "einen gesunden"
+   ],
+   "mixed.acc.n": [
+    "ein gesundes"
+   ],
+   "mixed.acc.pl": [
+    "gesunden"
+   ],
+   "mixed.dat.f": [
+    "einer gesunden"
+   ],
+   "mixed.dat.m": [
+    "einem gesunden"
+   ],
+   "mixed.dat.n": [
+    "einem gesunden"
+   ],
+   "mixed.dat.pl": [
+    "gesunden"
+   ],
+   "mixed.gen.f": [
+    "einer gesunden"
+   ],
+   "mixed.gen.m": [
+    "eines gesunden"
+   ],
+   "mixed.gen.n": [
+    "eines gesunden"
+   ],
+   "mixed.gen.pl": [
+    "gesunden"
+   ],
+   "mixed.nom.f": [
+    "eine gesunde"
+   ],
+   "mixed.nom.m": [
+    "ein gesunder"
+   ],
+   "mixed.nom.n": [
+    "ein gesundes"
+   ],
+   "mixed.nom.pl": [
+    "gesunden"
+   ],
+   "strong.acc.f": [
+    "gesunde"
+   ],
+   "strong.acc.m": [
+    "gesunden"
+   ],
+   "strong.acc.n": [
+    "gesundes"
+   ],
+   "strong.acc.pl": [
+    "gesunde"
+   ],
+   "strong.dat.f": [
+    "gesunder"
+   ],
+   "strong.dat.m": [
+    "gesundem"
+   ],
+   "strong.dat.n": [
+    "gesundem"
+   ],
+   "strong.dat.pl": [
+    "gesunden"
+   ],
+   "strong.gen.f": [
+    "gesunder"
+   ],
+   "strong.gen.m": [
+    "gesunden"
+   ],
+   "strong.gen.n": [
+    "gesunden"
+   ],
+   "strong.gen.pl": [
+    "gesunder"
+   ],
+   "strong.nom.f": [
+    "gesunde"
+   ],
+   "strong.nom.m": [
+    "gesunder"
+   ],
+   "strong.nom.n": [
+    "gesundes"
+   ],
+   "strong.nom.pl": [
+    "gesunde"
+   ],
+   "superlative": [
+    "am gesündesten",
+    "gesündester",
+    "gesündeste",
+    "gesündestes",
+    "gesündesten",
+    "gesündestem",
+    "der gesündeste",
+    "die gesündeste",
+    "das gesündeste",
+    "die gesündesten",
+    "des gesündesten",
+    "der gesündesten",
+    "dem gesündesten",
+    "den gesündesten",
+    "ein gesündester",
+    "eine gesündeste",
+    "ein gesündestes",
+    "eines gesündesten",
+    "einer gesündesten",
+    "einem gesündesten",
+    "einen gesündesten"
+   ],
+   "superlative.pred": [
+    "am gesündesten"
+   ],
+   "weak.acc.f": [
+    "die gesunde"
+   ],
+   "weak.acc.m": [
+    "den gesunden"
+   ],
+   "weak.acc.n": [
+    "das gesunde"
+   ],
+   "weak.acc.pl": [
+    "die gesunden"
+   ],
+   "weak.dat.f": [
+    "der gesunden"
+   ],
+   "weak.dat.m": [
+    "dem gesunden"
+   ],
+   "weak.dat.n": [
+    "dem gesunden"
+   ],
+   "weak.dat.pl": [
+    "den gesunden"
+   ],
+   "weak.gen.f": [
+    "der gesunden"
+   ],
+   "weak.gen.m": [
+    "des gesunden"
+   ],
+   "weak.gen.n": [
+    "des gesunden"
+   ],
+   "weak.gen.pl": [
+    "der gesunden"
+   ],
+   "weak.nom.f": [
+    "die gesunde"
+   ],
+   "weak.nom.m": [
+    "der gesunde"
+   ],
+   "weak.nom.n": [
+    "das gesunde"
+   ],
+   "weak.nom.pl": [
+    "die gesunden"
+   ]
+  }
+ },
  "glauben": {
   "all": [
    "geglaubt",
@@ -15891,6 +17286,21 @@
    ],
    "pret.wir": [
     "glaubten"
+   ],
+   "wuerde.du": [
+    "würdest glauben"
+   ],
+   "wuerde.er": [
+    "würde glauben"
+   ],
+   "wuerde.ich": [
+    "würde glauben"
+   ],
+   "wuerde.ihr": [
+    "würdet glauben"
+   ],
+   "wuerde.wir": [
+    "würden glauben"
    ]
   }
  },
@@ -16826,6 +18236,21 @@
    ],
    "pret.wir": [
     "hatten"
+   ],
+   "wuerde.du": [
+    "würdest haben"
+   ],
+   "wuerde.er": [
+    "würde haben"
+   ],
+   "wuerde.ich": [
+    "würde haben"
+   ],
+   "wuerde.ihr": [
+    "würdet haben"
+   ],
+   "wuerde.wir": [
+    "würden haben"
    ]
   }
  },
@@ -17313,6 +18738,21 @@
    ],
    "pret.wir": [
     "hießen"
+   ],
+   "wuerde.du": [
+    "würdest heißen"
+   ],
+   "wuerde.er": [
+    "würde heißen"
+   ],
+   "wuerde.ich": [
+    "würde heißen"
+   ],
+   "wuerde.ihr": [
+    "würdet heißen"
+   ],
+   "wuerde.wir": [
+    "würden heißen"
    ]
   }
  },
@@ -17396,6 +18836,21 @@
    ],
    "pret.wir": [
     "halfen"
+   ],
+   "wuerde.du": [
+    "würdest helfen"
+   ],
+   "wuerde.er": [
+    "würde helfen"
+   ],
+   "wuerde.ich": [
+    "würde helfen"
+   ],
+   "wuerde.ihr": [
+    "würdet helfen"
+   ],
+   "wuerde.wir": [
+    "würden helfen"
    ]
   }
  },
@@ -18147,6 +19602,21 @@
    ],
    "pret.wir": [
     "hofften"
+   ],
+   "wuerde.du": [
+    "würdest hoffen"
+   ],
+   "wuerde.er": [
+    "würde hoffen"
+   ],
+   "wuerde.ich": [
+    "würde hoffen"
+   ],
+   "wuerde.ihr": [
+    "würdet hoffen"
+   ],
+   "wuerde.wir": [
+    "würden hoffen"
    ]
   }
  },
@@ -18242,6 +19712,21 @@
    ],
    "pret.wir": [
     "hingen"
+   ],
+   "wuerde.du": [
+    "würdest hängen"
+   ],
+   "wuerde.er": [
+    "würde hängen"
+   ],
+   "wuerde.ich": [
+    "würde hängen"
+   ],
+   "wuerde.ihr": [
+    "würdet hängen"
+   ],
+   "wuerde.wir": [
+    "würden hängen"
    ]
   }
  },
@@ -18544,6 +20029,21 @@
    ],
    "pret.wir": [
     "hörten"
+   ],
+   "wuerde.du": [
+    "würdest hören"
+   ],
+   "wuerde.er": [
+    "würde hören"
+   ],
+   "wuerde.ich": [
+    "würde hören"
+   ],
+   "wuerde.ihr": [
+    "würdet hören"
+   ],
+   "wuerde.wir": [
+    "würden hören"
    ]
   }
  },
@@ -18844,6 +20344,21 @@
    ],
    "pret.wir": [
     "interessierten"
+   ],
+   "wuerde.du": [
+    "würdest interessieren"
+   ],
+   "wuerde.er": [
+    "würde interessieren"
+   ],
+   "wuerde.ich": [
+    "würde interessieren"
+   ],
+   "wuerde.ihr": [
+    "würdet interessieren"
+   ],
+   "wuerde.wir": [
+    "würden interessieren"
    ]
   }
  },
@@ -19758,6 +21273,21 @@
    ],
    "pret.wir": [
     "kauften"
+   ],
+   "wuerde.du": [
+    "würdest kaufen"
+   ],
+   "wuerde.er": [
+    "würde kaufen"
+   ],
+   "wuerde.ich": [
+    "würde kaufen"
+   ],
+   "wuerde.ihr": [
+    "würdet kaufen"
+   ],
+   "wuerde.wir": [
+    "würden kaufen"
    ]
   }
  },
@@ -19839,6 +21369,21 @@
    ],
    "pret.wir": [
     "kannten"
+   ],
+   "wuerde.du": [
+    "würdest kennen"
+   ],
+   "wuerde.er": [
+    "würde kennen"
+   ],
+   "wuerde.ich": [
+    "würde kennen"
+   ],
+   "wuerde.ihr": [
+    "würdet kennen"
+   ],
+   "wuerde.wir": [
+    "würden kennen"
    ]
   }
  },
@@ -20364,6 +21909,21 @@
    ],
    "pret.wir": [
     "kochten"
+   ],
+   "wuerde.du": [
+    "würdest kochen"
+   ],
+   "wuerde.er": [
+    "würde kochen"
+   ],
+   "wuerde.ich": [
+    "würde kochen"
+   ],
+   "wuerde.ihr": [
+    "würdet kochen"
+   ],
+   "wuerde.wir": [
+    "würden kochen"
    ]
   }
  },
@@ -20466,6 +22026,21 @@
    ],
    "pret.wir": [
     "kamen"
+   ],
+   "wuerde.du": [
+    "würdest kommen"
+   ],
+   "wuerde.er": [
+    "würde kommen"
+   ],
+   "wuerde.ich": [
+    "würde kommen"
+   ],
+   "wuerde.ihr": [
+    "würdet kommen"
+   ],
+   "wuerde.wir": [
+    "würden kommen"
    ]
   }
  },
@@ -20541,6 +22116,21 @@
    ],
    "pret.wir": [
     "kosteten"
+   ],
+   "wuerde.du": [
+    "würdest kosten"
+   ],
+   "wuerde.er": [
+    "würde kosten"
+   ],
+   "wuerde.ich": [
+    "würde kosten"
+   ],
+   "wuerde.ihr": [
+    "würdet kosten"
+   ],
+   "wuerde.wir": [
+    "würden kosten"
    ]
   }
  },
@@ -21193,6 +22783,21 @@
    ],
    "pret.wir": [
     "konnten"
+   ],
+   "wuerde.du": [
+    "würdest können"
+   ],
+   "wuerde.er": [
+    "würde können"
+   ],
+   "wuerde.ich": [
+    "würde können"
+   ],
+   "wuerde.ihr": [
+    "würdet können"
+   ],
+   "wuerde.wir": [
+    "würden können"
    ]
   }
  },
@@ -21270,6 +22875,21 @@
    ],
    "pret.wir": [
     "lachten"
+   ],
+   "wuerde.du": [
+    "würdest lachen"
+   ],
+   "wuerde.er": [
+    "würde lachen"
+   ],
+   "wuerde.ich": [
+    "würde lachen"
+   ],
+   "wuerde.ihr": [
+    "würdet lachen"
+   ],
+   "wuerde.wir": [
+    "würden lachen"
    ]
   }
  },
@@ -22046,6 +23666,21 @@
    ],
    "pret.wir": [
     "ließen"
+   ],
+   "wuerde.du": [
+    "würdest lassen"
+   ],
+   "wuerde.er": [
+    "würde lassen"
+   ],
+   "wuerde.ich": [
+    "würde lassen"
+   ],
+   "wuerde.ihr": [
+    "würdet lassen"
+   ],
+   "wuerde.wir": [
+    "würden lassen"
    ]
   }
  },
@@ -22143,6 +23778,21 @@
    ],
    "pret.wir": [
     "liefen"
+   ],
+   "wuerde.du": [
+    "würdest laufen"
+   ],
+   "wuerde.er": [
+    "würde laufen"
+   ],
+   "wuerde.ich": [
+    "würde laufen"
+   ],
+   "wuerde.ihr": [
+    "würdet laufen"
+   ],
+   "wuerde.wir": [
+    "würden laufen"
    ]
   }
  },
@@ -22444,6 +24094,21 @@
    ],
    "pret.wir": [
     "lebten"
+   ],
+   "wuerde.du": [
+    "würdest leben"
+   ],
+   "wuerde.er": [
+    "würde leben"
+   ],
+   "wuerde.ich": [
+    "würde leben"
+   ],
+   "wuerde.ihr": [
+    "würdet leben"
+   ],
+   "wuerde.wir": [
+    "würden leben"
    ]
   }
  },
@@ -22959,6 +24624,21 @@
    ],
    "pret.wir": [
     "legten"
+   ],
+   "wuerde.du": [
+    "würdest legen"
+   ],
+   "wuerde.er": [
+    "würde legen"
+   ],
+   "wuerde.ich": [
+    "würde legen"
+   ],
+   "wuerde.ihr": [
+    "würdet legen"
+   ],
+   "wuerde.wir": [
+    "würden legen"
    ]
   }
  },
@@ -23263,6 +24943,21 @@
    ],
    "pret.wir": [
     "liehen"
+   ],
+   "wuerde.du": [
+    "würdest leihen"
+   ],
+   "wuerde.er": [
+    "würde leihen"
+   ],
+   "wuerde.ich": [
+    "würde leihen"
+   ],
+   "wuerde.ihr": [
+    "würdet leihen"
+   ],
+   "wuerde.wir": [
+    "würden leihen"
    ]
   }
  },
@@ -23564,6 +25259,21 @@
    ],
    "pret.wir": [
     "lernten"
+   ],
+   "wuerde.du": [
+    "würdest lernen"
+   ],
+   "wuerde.er": [
+    "würde lernen"
+   ],
+   "wuerde.ich": [
+    "würde lernen"
+   ],
+   "wuerde.ihr": [
+    "würdet lernen"
+   ],
+   "wuerde.wir": [
+    "würden lernen"
    ]
   }
  },
@@ -23646,6 +25356,245 @@
    ],
    "pret.wir": [
     "lasen"
+   ],
+   "wuerde.du": [
+    "würdest lesen"
+   ],
+   "wuerde.er": [
+    "würde lesen"
+   ],
+   "wuerde.ich": [
+    "würde lesen"
+   ],
+   "wuerde.ihr": [
+    "würdet lesen"
+   ],
+   "wuerde.wir": [
+    "würden lesen"
+   ]
+  }
+ },
+ "lieb": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "lieb",
+   "liebe",
+   "liebem",
+   "lieben",
+   "lieber",
+   "liebere",
+   "lieberem",
+   "lieberen",
+   "lieberer",
+   "lieberes",
+   "liebes",
+   "liebste",
+   "liebstem",
+   "liebsten",
+   "liebster",
+   "liebstes"
+  ],
+  "english": "kind, dear",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "lieber",
+    "lieberer",
+    "liebere",
+    "lieberes",
+    "lieberen",
+    "lieberem",
+    "der liebere",
+    "die liebere",
+    "das liebere",
+    "die lieberen",
+    "des lieberen",
+    "der lieberen",
+    "dem lieberen",
+    "den lieberen",
+    "ein lieberer",
+    "eine liebere",
+    "ein lieberes",
+    "eines lieberen",
+    "einer lieberen",
+    "einem lieberen",
+    "einen lieberen"
+   ],
+   "comparative.pred": [
+    "lieber"
+   ],
+   "mixed.acc.f": [
+    "eine liebe"
+   ],
+   "mixed.acc.m": [
+    "einen lieben"
+   ],
+   "mixed.acc.n": [
+    "ein liebes"
+   ],
+   "mixed.acc.pl": [
+    "lieben"
+   ],
+   "mixed.dat.f": [
+    "einer lieben"
+   ],
+   "mixed.dat.m": [
+    "einem lieben"
+   ],
+   "mixed.dat.n": [
+    "einem lieben"
+   ],
+   "mixed.dat.pl": [
+    "lieben"
+   ],
+   "mixed.gen.f": [
+    "einer lieben"
+   ],
+   "mixed.gen.m": [
+    "eines lieben"
+   ],
+   "mixed.gen.n": [
+    "eines lieben"
+   ],
+   "mixed.gen.pl": [
+    "lieben"
+   ],
+   "mixed.nom.f": [
+    "eine liebe"
+   ],
+   "mixed.nom.m": [
+    "ein lieber"
+   ],
+   "mixed.nom.n": [
+    "ein liebes"
+   ],
+   "mixed.nom.pl": [
+    "lieben"
+   ],
+   "strong.acc.f": [
+    "liebe"
+   ],
+   "strong.acc.m": [
+    "lieben"
+   ],
+   "strong.acc.n": [
+    "liebes"
+   ],
+   "strong.acc.pl": [
+    "liebe"
+   ],
+   "strong.dat.f": [
+    "lieber"
+   ],
+   "strong.dat.m": [
+    "liebem"
+   ],
+   "strong.dat.n": [
+    "liebem"
+   ],
+   "strong.dat.pl": [
+    "lieben"
+   ],
+   "strong.gen.f": [
+    "lieber"
+   ],
+   "strong.gen.m": [
+    "lieben"
+   ],
+   "strong.gen.n": [
+    "lieben"
+   ],
+   "strong.gen.pl": [
+    "lieber"
+   ],
+   "strong.nom.f": [
+    "liebe"
+   ],
+   "strong.nom.m": [
+    "lieber"
+   ],
+   "strong.nom.n": [
+    "liebes"
+   ],
+   "strong.nom.pl": [
+    "liebe"
+   ],
+   "superlative": [
+    "am liebsten",
+    "liebster",
+    "liebste",
+    "liebstes",
+    "liebsten",
+    "liebstem",
+    "der liebste",
+    "die liebste",
+    "das liebste",
+    "die liebsten",
+    "des liebsten",
+    "der liebsten",
+    "dem liebsten",
+    "den liebsten",
+    "ein liebster",
+    "eine liebste",
+    "ein liebstes",
+    "eines liebsten",
+    "einer liebsten",
+    "einem liebsten",
+    "einen liebsten"
+   ],
+   "superlative.pred": [
+    "am liebsten"
+   ],
+   "weak.acc.f": [
+    "die liebe"
+   ],
+   "weak.acc.m": [
+    "den lieben"
+   ],
+   "weak.acc.n": [
+    "das liebe"
+   ],
+   "weak.acc.pl": [
+    "die lieben"
+   ],
+   "weak.dat.f": [
+    "der lieben"
+   ],
+   "weak.dat.m": [
+    "dem lieben"
+   ],
+   "weak.dat.n": [
+    "dem lieben"
+   ],
+   "weak.dat.pl": [
+    "den lieben"
+   ],
+   "weak.gen.f": [
+    "der lieben"
+   ],
+   "weak.gen.m": [
+    "des lieben"
+   ],
+   "weak.gen.n": [
+    "des lieben"
+   ],
+   "weak.gen.pl": [
+    "der lieben"
+   ],
+   "weak.nom.f": [
+    "die liebe"
+   ],
+   "weak.nom.m": [
+    "der liebe"
+   ],
+   "weak.nom.n": [
+    "das liebe"
+   ],
+   "weak.nom.pl": [
+    "die lieben"
    ]
   }
  },
@@ -23723,6 +25672,21 @@
    ],
    "pret.wir": [
     "liebten"
+   ],
+   "wuerde.du": [
+    "würdest lieben"
+   ],
+   "wuerde.er": [
+    "würde lieben"
+   ],
+   "wuerde.ich": [
+    "würde lieben"
+   ],
+   "wuerde.ihr": [
+    "würdet lieben"
+   ],
+   "wuerde.wir": [
+    "würden lieben"
    ]
   }
  },
@@ -23832,6 +25796,21 @@
    ],
    "pret.wir": [
     "lagen"
+   ],
+   "wuerde.du": [
+    "würdest liegen"
+   ],
+   "wuerde.er": [
+    "würde liegen"
+   ],
+   "wuerde.ich": [
+    "würde liegen"
+   ],
+   "wuerde.ihr": [
+    "würdet liegen"
+   ],
+   "wuerde.wir": [
+    "würden liegen"
    ]
   }
  },
@@ -24133,6 +26112,21 @@
    ],
    "pret.wir": [
     "machten"
+   ],
+   "wuerde.du": [
+    "würdest machen"
+   ],
+   "wuerde.er": [
+    "würde machen"
+   ],
+   "wuerde.ich": [
+    "würde machen"
+   ],
+   "wuerde.ihr": [
+    "würdet machen"
+   ],
+   "wuerde.wir": [
+    "würden machen"
    ]
   }
  },
@@ -24213,6 +26207,21 @@
    ],
    "pret.wir": [
     "meinten"
+   ],
+   "wuerde.du": [
+    "würdest meinen"
+   ],
+   "wuerde.er": [
+    "würde meinen"
+   ],
+   "wuerde.ich": [
+    "würde meinen"
+   ],
+   "wuerde.ihr": [
+    "würdet meinen"
+   ],
+   "wuerde.wir": [
+    "würden meinen"
    ]
   }
  },
@@ -24340,6 +26349,21 @@
    "pret.wir": [
     "brachten mit",
     "mitbrachten"
+   ],
+   "wuerde.du": [
+    "würdest mitbringen"
+   ],
+   "wuerde.er": [
+    "würde mitbringen"
+   ],
+   "wuerde.ich": [
+    "würde mitbringen"
+   ],
+   "wuerde.ihr": [
+    "würdet mitbringen"
+   ],
+   "wuerde.wir": [
+    "würden mitbringen"
    ]
   }
  },
@@ -24474,6 +26498,21 @@
    "pret.wir": [
     "kamen mit",
     "mitkamen"
+   ],
+   "wuerde.du": [
+    "würdest mitkommen"
+   ],
+   "wuerde.er": [
+    "würde mitkommen"
+   ],
+   "wuerde.ich": [
+    "würde mitkommen"
+   ],
+   "wuerde.ihr": [
+    "würdet mitkommen"
+   ],
+   "wuerde.wir": [
+    "würden mitkommen"
    ]
   }
  },
@@ -24563,6 +26602,21 @@
    ],
    "pret.wir": [
     "mochten"
+   ],
+   "wuerde.du": [
+    "würdest mögen"
+   ],
+   "wuerde.er": [
+    "würde mögen"
+   ],
+   "wuerde.ich": [
+    "würde mögen"
+   ],
+   "wuerde.ihr": [
+    "würdet mögen"
+   ],
+   "wuerde.wir": [
+    "würden mögen"
    ]
   }
  },
@@ -24876,6 +26930,21 @@
    ],
    "pret.wir": [
     "mussten"
+   ],
+   "wuerde.du": [
+    "würdest müssen"
+   ],
+   "wuerde.er": [
+    "würde müssen"
+   ],
+   "wuerde.ich": [
+    "würde müssen"
+   ],
+   "wuerde.ihr": [
+    "würdet müssen"
+   ],
+   "wuerde.wir": [
+    "würden müssen"
    ]
   }
  },
@@ -25256,6 +27325,21 @@
    ],
    "pret.wir": [
     "nahmen"
+   ],
+   "wuerde.du": [
+    "würdest nehmen"
+   ],
+   "wuerde.er": [
+    "würde nehmen"
+   ],
+   "wuerde.ich": [
+    "würde nehmen"
+   ],
+   "wuerde.ihr": [
+    "würdet nehmen"
+   ],
+   "wuerde.wir": [
+    "würden nehmen"
    ]
   }
  },
@@ -25810,6 +27894,21 @@
    ],
    "pret.wir": [
     "packten"
+   ],
+   "wuerde.du": [
+    "würdest packen"
+   ],
+   "wuerde.er": [
+    "würde packen"
+   ],
+   "wuerde.ich": [
+    "würde packen"
+   ],
+   "wuerde.ihr": [
+    "würdet packen"
+   ],
+   "wuerde.wir": [
+    "würden packen"
    ]
   }
  },
@@ -25886,6 +27985,21 @@
    ],
    "pret.wir": [
     "passten"
+   ],
+   "wuerde.du": [
+    "würdest passen"
+   ],
+   "wuerde.er": [
+    "würde passen"
+   ],
+   "wuerde.ich": [
+    "würde passen"
+   ],
+   "wuerde.ihr": [
+    "würdet passen"
+   ],
+   "wuerde.wir": [
+    "würden passen"
    ]
   }
  },
@@ -25970,6 +28084,21 @@
    ],
    "pret.wir": [
     "passierten"
+   ],
+   "wuerde.du": [
+    "würdest passieren"
+   ],
+   "wuerde.er": [
+    "würde passieren"
+   ],
+   "wuerde.ich": [
+    "würde passieren"
+   ],
+   "wuerde.ihr": [
+    "würdet passieren"
+   ],
+   "wuerde.wir": [
+    "würden passieren"
    ]
   }
  },
@@ -26046,6 +28175,21 @@
    ],
    "pret.wir": [
     "putzten"
+   ],
+   "wuerde.du": [
+    "würdest putzen"
+   ],
+   "wuerde.er": [
+    "würde putzen"
+   ],
+   "wuerde.ich": [
+    "würde putzen"
+   ],
+   "wuerde.ihr": [
+    "würdet putzen"
+   ],
+   "wuerde.wir": [
+    "würden putzen"
    ]
   }
  },
@@ -26347,6 +28491,21 @@
    ],
    "pret.wir": [
     "rauchten"
+   ],
+   "wuerde.du": [
+    "würdest rauchen"
+   ],
+   "wuerde.er": [
+    "würde rauchen"
+   ],
+   "wuerde.ich": [
+    "würde rauchen"
+   ],
+   "wuerde.ihr": [
+    "würdet rauchen"
+   ],
+   "wuerde.wir": [
+    "würden rauchen"
    ]
   }
  },
@@ -26420,6 +28579,245 @@
    ],
    "pret.wir": [
     "regneten"
+   ],
+   "wuerde.du": [
+    "würdest regnen"
+   ],
+   "wuerde.er": [
+    "würde regnen"
+   ],
+   "wuerde.ich": [
+    "würde regnen"
+   ],
+   "wuerde.ihr": [
+    "würdet regnen"
+   ],
+   "wuerde.wir": [
+    "würden regnen"
+   ]
+  }
+ },
+ "reich": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "reich",
+   "reiche",
+   "reichem",
+   "reichen",
+   "reicher",
+   "reichere",
+   "reicherem",
+   "reicheren",
+   "reicherer",
+   "reicheres",
+   "reiches",
+   "reichste",
+   "reichstem",
+   "reichsten",
+   "reichster",
+   "reichstes"
+  ],
+  "english": "rich",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "reicher",
+    "reicherer",
+    "reichere",
+    "reicheres",
+    "reicheren",
+    "reicherem",
+    "der reichere",
+    "die reichere",
+    "das reichere",
+    "die reicheren",
+    "des reicheren",
+    "der reicheren",
+    "dem reicheren",
+    "den reicheren",
+    "ein reicherer",
+    "eine reichere",
+    "ein reicheres",
+    "eines reicheren",
+    "einer reicheren",
+    "einem reicheren",
+    "einen reicheren"
+   ],
+   "comparative.pred": [
+    "reicher"
+   ],
+   "mixed.acc.f": [
+    "eine reiche"
+   ],
+   "mixed.acc.m": [
+    "einen reichen"
+   ],
+   "mixed.acc.n": [
+    "ein reiches"
+   ],
+   "mixed.acc.pl": [
+    "reichen"
+   ],
+   "mixed.dat.f": [
+    "einer reichen"
+   ],
+   "mixed.dat.m": [
+    "einem reichen"
+   ],
+   "mixed.dat.n": [
+    "einem reichen"
+   ],
+   "mixed.dat.pl": [
+    "reichen"
+   ],
+   "mixed.gen.f": [
+    "einer reichen"
+   ],
+   "mixed.gen.m": [
+    "eines reichen"
+   ],
+   "mixed.gen.n": [
+    "eines reichen"
+   ],
+   "mixed.gen.pl": [
+    "reichen"
+   ],
+   "mixed.nom.f": [
+    "eine reiche"
+   ],
+   "mixed.nom.m": [
+    "ein reicher"
+   ],
+   "mixed.nom.n": [
+    "ein reiches"
+   ],
+   "mixed.nom.pl": [
+    "reichen"
+   ],
+   "strong.acc.f": [
+    "reiche"
+   ],
+   "strong.acc.m": [
+    "reichen"
+   ],
+   "strong.acc.n": [
+    "reiches"
+   ],
+   "strong.acc.pl": [
+    "reiche"
+   ],
+   "strong.dat.f": [
+    "reicher"
+   ],
+   "strong.dat.m": [
+    "reichem"
+   ],
+   "strong.dat.n": [
+    "reichem"
+   ],
+   "strong.dat.pl": [
+    "reichen"
+   ],
+   "strong.gen.f": [
+    "reicher"
+   ],
+   "strong.gen.m": [
+    "reichen"
+   ],
+   "strong.gen.n": [
+    "reichen"
+   ],
+   "strong.gen.pl": [
+    "reicher"
+   ],
+   "strong.nom.f": [
+    "reiche"
+   ],
+   "strong.nom.m": [
+    "reicher"
+   ],
+   "strong.nom.n": [
+    "reiches"
+   ],
+   "strong.nom.pl": [
+    "reiche"
+   ],
+   "superlative": [
+    "am reichsten",
+    "reichster",
+    "reichste",
+    "reichstes",
+    "reichsten",
+    "reichstem",
+    "der reichste",
+    "die reichste",
+    "das reichste",
+    "die reichsten",
+    "des reichsten",
+    "der reichsten",
+    "dem reichsten",
+    "den reichsten",
+    "ein reichster",
+    "eine reichste",
+    "ein reichstes",
+    "eines reichsten",
+    "einer reichsten",
+    "einem reichsten",
+    "einen reichsten"
+   ],
+   "superlative.pred": [
+    "am reichsten"
+   ],
+   "weak.acc.f": [
+    "die reiche"
+   ],
+   "weak.acc.m": [
+    "den reichen"
+   ],
+   "weak.acc.n": [
+    "das reiche"
+   ],
+   "weak.acc.pl": [
+    "die reichen"
+   ],
+   "weak.dat.f": [
+    "der reichen"
+   ],
+   "weak.dat.m": [
+    "dem reichen"
+   ],
+   "weak.dat.n": [
+    "dem reichen"
+   ],
+   "weak.dat.pl": [
+    "den reichen"
+   ],
+   "weak.gen.f": [
+    "der reichen"
+   ],
+   "weak.gen.m": [
+    "des reichen"
+   ],
+   "weak.gen.n": [
+    "des reichen"
+   ],
+   "weak.gen.pl": [
+    "der reichen"
+   ],
+   "weak.nom.f": [
+    "die reiche"
+   ],
+   "weak.nom.m": [
+    "der reiche"
+   ],
+   "weak.nom.n": [
+    "das reiche"
+   ],
+   "weak.nom.pl": [
+    "die reichen"
    ]
   }
  },
@@ -26495,6 +28893,21 @@
    ],
    "pret.wir": [
     "reisten"
+   ],
+   "wuerde.du": [
+    "würdest reisen"
+   ],
+   "wuerde.er": [
+    "würde reisen"
+   ],
+   "wuerde.ich": [
+    "würde reisen"
+   ],
+   "wuerde.ihr": [
+    "würdet reisen"
+   ],
+   "wuerde.wir": [
+    "würden reisen"
    ]
   }
  },
@@ -26855,6 +29268,21 @@
    ],
    "pret.wir": [
     "riefen"
+   ],
+   "wuerde.du": [
+    "würdest rufen"
+   ],
+   "wuerde.er": [
+    "würde rufen"
+   ],
+   "wuerde.ich": [
+    "würde rufen"
+   ],
+   "wuerde.ihr": [
+    "würdet rufen"
+   ],
+   "wuerde.wir": [
+    "würden rufen"
    ]
   }
  },
@@ -27156,6 +29584,21 @@
    ],
    "pret.wir": [
     "sagten"
+   ],
+   "wuerde.du": [
+    "würdest sagen"
+   ],
+   "wuerde.er": [
+    "würde sagen"
+   ],
+   "wuerde.ich": [
+    "würde sagen"
+   ],
+   "wuerde.ihr": [
+    "würdet sagen"
+   ],
+   "wuerde.wir": [
+    "würden sagen"
    ]
   }
  },
@@ -27686,6 +30129,21 @@
    ],
    "pret.wir": [
     "schienen"
+   ],
+   "wuerde.du": [
+    "würdest scheinen"
+   ],
+   "wuerde.er": [
+    "würde scheinen"
+   ],
+   "wuerde.ich": [
+    "würde scheinen"
+   ],
+   "wuerde.ihr": [
+    "würdet scheinen"
+   ],
+   "wuerde.wir": [
+    "würden scheinen"
    ]
   }
  },
@@ -27763,6 +30221,21 @@
    ],
    "pret.wir": [
     "schenkten"
+   ],
+   "wuerde.du": [
+    "würdest schenken"
+   ],
+   "wuerde.er": [
+    "würde schenken"
+   ],
+   "wuerde.ich": [
+    "würde schenken"
+   ],
+   "wuerde.ihr": [
+    "würdet schenken"
+   ],
+   "wuerde.wir": [
+    "würden schenken"
    ]
   }
  },
@@ -27844,6 +30317,21 @@
    ],
    "pret.wir": [
     "schliefen"
+   ],
+   "wuerde.du": [
+    "würdest schlafen"
+   ],
+   "wuerde.er": [
+    "würde schlafen"
+   ],
+   "wuerde.ich": [
+    "würde schlafen"
+   ],
+   "wuerde.ihr": [
+    "würdet schlafen"
+   ],
+   "wuerde.wir": [
+    "würden schlafen"
    ]
   }
  },
@@ -28151,6 +30639,21 @@
    ],
    "pret.wir": [
     "schlossen"
+   ],
+   "wuerde.du": [
+    "würdest schließen"
+   ],
+   "wuerde.er": [
+    "würde schließen"
+   ],
+   "wuerde.ich": [
+    "würde schließen"
+   ],
+   "wuerde.ihr": [
+    "würdet schließen"
+   ],
+   "wuerde.wir": [
+    "würden schließen"
    ]
   }
  },
@@ -28228,6 +30731,21 @@
    ],
    "pret.wir": [
     "schmeckten"
+   ],
+   "wuerde.du": [
+    "würdest schmecken"
+   ],
+   "wuerde.er": [
+    "würde schmecken"
+   ],
+   "wuerde.ich": [
+    "würde schmecken"
+   ],
+   "wuerde.ihr": [
+    "würdet schmecken"
+   ],
+   "wuerde.wir": [
+    "würden schmecken"
    ]
   }
  },
@@ -28756,6 +31274,21 @@
    ],
    "pret.wir": [
     "schrieben"
+   ],
+   "wuerde.du": [
+    "würdest schreiben"
+   ],
+   "wuerde.er": [
+    "würde schreiben"
+   ],
+   "wuerde.ich": [
+    "würde schreiben"
+   ],
+   "wuerde.ihr": [
+    "würdet schreiben"
+   ],
+   "wuerde.wir": [
+    "würden schreiben"
    ]
   }
  },
@@ -29589,6 +32122,21 @@
    "pret.wir": [
     "schwammen",
     "schwommen"
+   ],
+   "wuerde.du": [
+    "würdest schwimmen"
+   ],
+   "wuerde.er": [
+    "würde schwimmen"
+   ],
+   "wuerde.ich": [
+    "würde schwimmen"
+   ],
+   "wuerde.ihr": [
+    "würdet schwimmen"
+   ],
+   "wuerde.wir": [
+    "würden schwimmen"
    ]
   }
  },
@@ -29916,6 +32464,21 @@
    ],
    "pret.wir": [
     "sahen"
+   ],
+   "wuerde.du": [
+    "würdest sehen"
+   ],
+   "wuerde.er": [
+    "würde sehen"
+   ],
+   "wuerde.ich": [
+    "würde sehen"
+   ],
+   "wuerde.ihr": [
+    "würdet sehen"
+   ],
+   "wuerde.wir": [
+    "würden sehen"
    ]
   }
  },
@@ -30023,6 +32586,21 @@
    ],
    "pret.wir": [
     "waren"
+   ],
+   "wuerde.du": [
+    "würdest sein"
+   ],
+   "wuerde.er": [
+    "würde sein"
+   ],
+   "wuerde.ich": [
+    "würde sein"
+   ],
+   "wuerde.ihr": [
+    "würdet sein"
+   ],
+   "wuerde.wir": [
+    "würden sein"
    ]
   }
  },
@@ -30100,6 +32678,21 @@
    ],
    "pret.wir": [
     "setzten"
+   ],
+   "wuerde.du": [
+    "würdest setzen"
+   ],
+   "wuerde.er": [
+    "würde setzen"
+   ],
+   "wuerde.ich": [
+    "würde setzen"
+   ],
+   "wuerde.ihr": [
+    "würdet setzen"
+   ],
+   "wuerde.wir": [
+    "würden setzen"
    ]
   }
  },
@@ -30435,6 +33028,21 @@
    ],
    "pret.wir": [
     "sangen"
+   ],
+   "wuerde.du": [
+    "würdest singen"
+   ],
+   "wuerde.er": [
+    "würde singen"
+   ],
+   "wuerde.ich": [
+    "würde singen"
+   ],
+   "wuerde.ihr": [
+    "würdet singen"
+   ],
+   "wuerde.wir": [
+    "würden singen"
    ]
   }
  },
@@ -30526,6 +33134,21 @@
    ],
    "pret.wir": [
     "saßen"
+   ],
+   "wuerde.du": [
+    "würdest sitzen"
+   ],
+   "wuerde.er": [
+    "würde sitzen"
+   ],
+   "wuerde.ich": [
+    "würde sitzen"
+   ],
+   "wuerde.ihr": [
+    "würdet sitzen"
+   ],
+   "wuerde.wir": [
+    "würden sitzen"
    ]
   }
  },
@@ -30611,6 +33234,21 @@
    ],
    "pret.wir": [
     "sollten"
+   ],
+   "wuerde.du": [
+    "würdest sollen"
+   ],
+   "wuerde.er": [
+    "würde sollen"
+   ],
+   "wuerde.ich": [
+    "würde sollen"
+   ],
+   "wuerde.ihr": [
+    "würdet sollen"
+   ],
+   "wuerde.wir": [
+    "würden sollen"
    ]
   }
  },
@@ -30695,6 +33333,21 @@
    ],
    "pret.wir": [
     "spazierten"
+   ],
+   "wuerde.du": [
+    "würdest spazieren"
+   ],
+   "wuerde.er": [
+    "würde spazieren"
+   ],
+   "wuerde.ich": [
+    "würde spazieren"
+   ],
+   "wuerde.ihr": [
+    "würdet spazieren"
+   ],
+   "wuerde.wir": [
+    "würden spazieren"
    ]
   }
  },
@@ -30772,6 +33425,21 @@
    ],
    "pret.wir": [
     "spielten"
+   ],
+   "wuerde.du": [
+    "würdest spielen"
+   ],
+   "wuerde.er": [
+    "würde spielen"
+   ],
+   "wuerde.ich": [
+    "würde spielen"
+   ],
+   "wuerde.ihr": [
+    "würdet spielen"
+   ],
+   "wuerde.wir": [
+    "würden spielen"
    ]
   }
  },
@@ -30855,6 +33523,21 @@
    ],
    "pret.wir": [
     "sprachen"
+   ],
+   "wuerde.du": [
+    "würdest sprechen"
+   ],
+   "wuerde.er": [
+    "würde sprechen"
+   ],
+   "wuerde.ich": [
+    "würde sprechen"
+   ],
+   "wuerde.ihr": [
+    "würdet sprechen"
+   ],
+   "wuerde.wir": [
+    "würden sprechen"
    ]
   }
  },
@@ -31420,6 +34103,21 @@
    ],
    "pret.wir": [
     "standen"
+   ],
+   "wuerde.du": [
+    "würdest stehen"
+   ],
+   "wuerde.er": [
+    "würde stehen"
+   ],
+   "wuerde.ich": [
+    "würde stehen"
+   ],
+   "wuerde.ihr": [
+    "würdet stehen"
+   ],
+   "wuerde.wir": [
+    "würden stehen"
    ]
   }
  },
@@ -31497,6 +34195,21 @@
    ],
    "pret.wir": [
     "stellten"
+   ],
+   "wuerde.du": [
+    "würdest stellen"
+   ],
+   "wuerde.er": [
+    "würde stellen"
+   ],
+   "wuerde.ich": [
+    "würde stellen"
+   ],
+   "wuerde.ihr": [
+    "würdet stellen"
+   ],
+   "wuerde.wir": [
+    "würden stellen"
    ]
   }
  },
@@ -31573,6 +34286,21 @@
    ],
    "pret.wir": [
     "studierten"
+   ],
+   "wuerde.du": [
+    "würdest studieren"
+   ],
+   "wuerde.er": [
+    "würde studieren"
+   ],
+   "wuerde.ich": [
+    "würde studieren"
+   ],
+   "wuerde.ihr": [
+    "würdet studieren"
+   ],
+   "wuerde.wir": [
+    "würden studieren"
    ]
   }
  },
@@ -31650,6 +34378,21 @@
    ],
    "pret.wir": [
     "suchten"
+   ],
+   "wuerde.du": [
+    "würdest suchen"
+   ],
+   "wuerde.er": [
+    "würde suchen"
+   ],
+   "wuerde.ich": [
+    "würde suchen"
+   ],
+   "wuerde.ihr": [
+    "würdet suchen"
+   ],
+   "wuerde.wir": [
+    "würden suchen"
    ]
   }
  },
@@ -31959,6 +34702,21 @@
    ],
    "pret.wir": [
     "tanzten"
+   ],
+   "wuerde.du": [
+    "würdest tanzen"
+   ],
+   "wuerde.er": [
+    "würde tanzen"
+   ],
+   "wuerde.ich": [
+    "würde tanzen"
+   ],
+   "wuerde.ihr": [
+    "würdet tanzen"
+   ],
+   "wuerde.wir": [
+    "würden tanzen"
    ]
   }
  },
@@ -32492,6 +35250,21 @@
    ],
    "pret.wir": [
     "trugen"
+   ],
+   "wuerde.du": [
+    "würdest tragen"
+   ],
+   "wuerde.er": [
+    "würde tragen"
+   ],
+   "wuerde.ich": [
+    "würde tragen"
+   ],
+   "wuerde.ihr": [
+    "würdet tragen"
+   ],
+   "wuerde.wir": [
+    "würden tragen"
    ]
   }
  },
@@ -32799,6 +35572,21 @@
    ],
    "pret.wir": [
     "trafen"
+   ],
+   "wuerde.du": [
+    "würdest treffen"
+   ],
+   "wuerde.er": [
+    "würde treffen"
+   ],
+   "wuerde.ich": [
+    "würde treffen"
+   ],
+   "wuerde.ihr": [
+    "würdet treffen"
+   ],
+   "wuerde.wir": [
+    "würden treffen"
    ]
   }
  },
@@ -32882,6 +35670,21 @@
    ],
    "pret.wir": [
     "tranken"
+   ],
+   "wuerde.du": [
+    "würdest trinken"
+   ],
+   "wuerde.er": [
+    "würde trinken"
+   ],
+   "wuerde.ich": [
+    "würde trinken"
+   ],
+   "wuerde.ihr": [
+    "würdet trinken"
+   ],
+   "wuerde.wir": [
+    "würden trinken"
    ]
   }
  },
@@ -32959,6 +35762,136 @@
    ],
    "pret.wir": [
     "träumten"
+   ],
+   "wuerde.du": [
+    "würdest träumen"
+   ],
+   "wuerde.er": [
+    "würde träumen"
+   ],
+   "wuerde.ich": [
+    "würde träumen"
+   ],
+   "wuerde.ihr": [
+    "würdet träumen"
+   ],
+   "wuerde.wir": [
+    "würden träumen"
+   ]
+  }
+ },
+ "tun": {
+  "all": [
+   "getan",
+   "haben",
+   "habest",
+   "habet",
+   "tat",
+   "taten",
+   "tatest",
+   "tatet",
+   "tatst",
+   "thun",
+   "tu",
+   "tue",
+   "tuen",
+   "tuend",
+   "tuest",
+   "tuet",
+   "tun",
+   "tust",
+   "tut",
+   "täte",
+   "täten",
+   "tätest",
+   "tätet",
+   "werdest"
+  ],
+  "english": "to do",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "tu",
+    "tue"
+   ],
+   "imp.ihr": [
+    "tut"
+   ],
+   "konj2.du": [
+    "tätest"
+   ],
+   "konj2.er": [
+    "täte"
+   ],
+   "konj2.ich": [
+    "täte"
+   ],
+   "konj2.ihr": [
+    "tätet"
+   ],
+   "konj2.wir": [
+    "täten"
+   ],
+   "perf.du": [
+    "hast getan"
+   ],
+   "perf.er": [
+    "hat getan"
+   ],
+   "perf.ich": [
+    "habe getan"
+   ],
+   "perf.ihr": [
+    "habt getan"
+   ],
+   "perf.wir": [
+    "haben getan"
+   ],
+   "pres.du": [
+    "tust"
+   ],
+   "pres.er": [
+    "tut"
+   ],
+   "pres.ich": [
+    "tue"
+   ],
+   "pres.ihr": [
+    "tut"
+   ],
+   "pres.wir": [
+    "tun"
+   ],
+   "pret.du": [
+    "tatest",
+    "tatst"
+   ],
+   "pret.er": [
+    "tat"
+   ],
+   "pret.ich": [
+    "tat"
+   ],
+   "pret.ihr": [
+    "tatet"
+   ],
+   "pret.wir": [
+    "taten"
+   ],
+   "wuerde.du": [
+    "würdest tun"
+   ],
+   "wuerde.er": [
+    "würde tun"
+   ],
+   "wuerde.ich": [
+    "würde tun"
+   ],
+   "wuerde.ihr": [
+    "würdet tun"
+   ],
+   "wuerde.wir": [
+    "würden tun"
    ]
   }
  },
@@ -33078,6 +36011,21 @@
    "pret.wir": [
     "zogen um",
     "umzogen"
+   ],
+   "wuerde.du": [
+    "würdest umziehen"
+   ],
+   "wuerde.er": [
+    "würde umziehen"
+   ],
+   "wuerde.ich": [
+    "würde umziehen"
+   ],
+   "wuerde.ihr": [
+    "würdet umziehen"
+   ],
+   "wuerde.wir": [
+    "würden umziehen"
    ]
   }
  },
@@ -33159,6 +36107,21 @@
    ],
    "pret.wir": [
     "vergaßen"
+   ],
+   "wuerde.du": [
+    "würdest vergessen"
+   ],
+   "wuerde.er": [
+    "würde vergessen"
+   ],
+   "wuerde.ich": [
+    "würde vergessen"
+   ],
+   "wuerde.ihr": [
+    "würdet vergessen"
+   ],
+   "wuerde.wir": [
+    "würden vergessen"
    ]
   }
  },
@@ -33235,6 +36198,21 @@
    ],
    "pret.wir": [
     "verkauften"
+   ],
+   "wuerde.du": [
+    "würdest verkaufen"
+   ],
+   "wuerde.er": [
+    "würde verkaufen"
+   ],
+   "wuerde.ich": [
+    "würde verkaufen"
+   ],
+   "wuerde.ihr": [
+    "würdet verkaufen"
+   ],
+   "wuerde.wir": [
+    "würden verkaufen"
    ]
   }
  },
@@ -33317,6 +36295,21 @@
    ],
    "pret.wir": [
     "verloren"
+   ],
+   "wuerde.du": [
+    "würdest verlieren"
+   ],
+   "wuerde.er": [
+    "würde verlieren"
+   ],
+   "wuerde.ich": [
+    "würde verlieren"
+   ],
+   "wuerde.ihr": [
+    "würdet verlieren"
+   ],
+   "wuerde.wir": [
+    "würden verlieren"
    ]
   }
  },
@@ -33403,6 +36396,21 @@
    ],
    "pret.wir": [
     "verstanden"
+   ],
+   "wuerde.du": [
+    "würdest verstehen"
+   ],
+   "wuerde.er": [
+    "würde verstehen"
+   ],
+   "wuerde.ich": [
+    "würde verstehen"
+   ],
+   "wuerde.ihr": [
+    "würdet verstehen"
+   ],
+   "wuerde.wir": [
+    "würden verstehen"
    ]
   }
  },
@@ -33937,6 +36945,21 @@
    ],
    "pret.wir": [
     "wanderten"
+   ],
+   "wuerde.du": [
+    "würdest wandern"
+   ],
+   "wuerde.er": [
+    "würde wandern"
+   ],
+   "wuerde.ich": [
+    "würde wandern"
+   ],
+   "wuerde.ihr": [
+    "würdet wandern"
+   ],
+   "wuerde.wir": [
+    "würden wandern"
    ]
   }
  },
@@ -34237,6 +37260,21 @@
    ],
    "pret.wir": [
     "warteten"
+   ],
+   "wuerde.du": [
+    "würdest warten"
+   ],
+   "wuerde.er": [
+    "würde warten"
+   ],
+   "wuerde.ich": [
+    "würde warten"
+   ],
+   "wuerde.ihr": [
+    "würdet warten"
+   ],
+   "wuerde.wir": [
+    "würden warten"
    ]
   }
  },
@@ -34322,6 +37360,21 @@
    ],
    "pret.wir": [
     "wuschen"
+   ],
+   "wuerde.du": [
+    "würdest waschen"
+   ],
+   "wuerde.er": [
+    "würde waschen"
+   ],
+   "wuerde.ich": [
+    "würde waschen"
+   ],
+   "wuerde.ihr": [
+    "würdet waschen"
+   ],
+   "wuerde.wir": [
+    "würden waschen"
    ]
   }
  },
@@ -34455,6 +37508,21 @@
    "pret.wir": [
     "taten weh",
     "wehtaten"
+   ],
+   "wuerde.du": [
+    "würdest wehtun"
+   ],
+   "wuerde.er": [
+    "würde wehtun"
+   ],
+   "wuerde.ich": [
+    "würde wehtun"
+   ],
+   "wuerde.ihr": [
+    "würdet wehtun"
+   ],
+   "wuerde.wir": [
+    "würden wehtun"
    ]
   }
  },
@@ -35001,6 +38069,21 @@
    ],
    "pret.wir": [
     "wurden"
+   ],
+   "wuerde.du": [
+    "würdest werden"
+   ],
+   "wuerde.er": [
+    "würde werden"
+   ],
+   "wuerde.ich": [
+    "würde werden"
+   ],
+   "wuerde.ihr": [
+    "würdet werden"
+   ],
+   "wuerde.wir": [
+    "würden werden"
    ]
   }
  },
@@ -35301,6 +38384,21 @@
    ],
    "pret.wir": [
     "wiederholten"
+   ],
+   "wuerde.du": [
+    "würdest wiederholen"
+   ],
+   "wuerde.er": [
+    "würde wiederholen"
+   ],
+   "wuerde.ich": [
+    "würde wiederholen"
+   ],
+   "wuerde.ihr": [
+    "würdet wiederholen"
+   ],
+   "wuerde.wir": [
+    "würden wiederholen"
    ]
   }
  },
@@ -35396,6 +38494,21 @@
    ],
    "pret.wir": [
     "wussten"
+   ],
+   "wuerde.du": [
+    "würdest wissen"
+   ],
+   "wuerde.er": [
+    "würde wissen"
+   ],
+   "wuerde.ich": [
+    "würde wissen"
+   ],
+   "wuerde.ihr": [
+    "würdet wissen"
+   ],
+   "wuerde.wir": [
+    "würden wissen"
    ]
   }
  },
@@ -35473,6 +38586,21 @@
    ],
    "pret.wir": [
     "wohnten"
+   ],
+   "wuerde.du": [
+    "würdest wohnen"
+   ],
+   "wuerde.er": [
+    "würde wohnen"
+   ],
+   "wuerde.ich": [
+    "würde wohnen"
+   ],
+   "wuerde.ihr": [
+    "würdet wohnen"
+   ],
+   "wuerde.wir": [
+    "würden wohnen"
    ]
   }
  },
@@ -35558,6 +38686,21 @@
    ],
    "pret.wir": [
     "wollten"
+   ],
+   "wuerde.du": [
+    "würdest wollen"
+   ],
+   "wuerde.er": [
+    "würde wollen"
+   ],
+   "wuerde.ich": [
+    "würde wollen"
+   ],
+   "wuerde.ihr": [
+    "würdet wollen"
+   ],
+   "wuerde.wir": [
+    "würden wollen"
    ]
   }
  },
@@ -35635,6 +38778,21 @@
    ],
    "pret.wir": [
     "zeigten"
+   ],
+   "wuerde.du": [
+    "würdest zeigen"
+   ],
+   "wuerde.er": [
+    "würde zeigen"
+   ],
+   "wuerde.ich": [
+    "würde zeigen"
+   ],
+   "wuerde.ihr": [
+    "würdet zeigen"
+   ],
+   "wuerde.wir": [
+    "würden zeigen"
    ]
   }
  },
@@ -35733,6 +38891,21 @@
    "pret.wir": [
     "machten zu",
     "zumachten"
+   ],
+   "wuerde.du": [
+    "würdest zumachen"
+   ],
+   "wuerde.er": [
+    "würde zumachen"
+   ],
+   "wuerde.ich": [
+    "würde zumachen"
+   ],
+   "wuerde.ihr": [
+    "würdet zumachen"
+   ],
+   "wuerde.wir": [
+    "würden zumachen"
    ]
   }
  },
@@ -35816,6 +38989,21 @@
    ],
    "pret.wir": [
     "ärgerten"
+   ],
+   "wuerde.du": [
+    "würdest ärgern"
+   ],
+   "wuerde.er": [
+    "würde ärgern"
+   ],
+   "wuerde.ich": [
+    "würde ärgern"
+   ],
+   "wuerde.ihr": [
+    "würdet ärgern"
+   ],
+   "wuerde.wir": [
+    "würden ärgern"
    ]
   }
  },
@@ -35889,6 +39077,21 @@
    ],
    "pret.wir": [
     "öffneten"
+   ],
+   "wuerde.du": [
+    "würdest öffnen"
+   ],
+   "wuerde.er": [
+    "würde öffnen"
+   ],
+   "wuerde.ich": [
+    "würde öffnen"
+   ],
+   "wuerde.ihr": [
+    "würdet öffnen"
+   ],
+   "wuerde.wir": [
+    "würden öffnen"
    ]
   }
  }
