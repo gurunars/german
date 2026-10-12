@@ -72,6 +72,38 @@
    ]
   }
  },
+ "Apotheke": {
+  "all": [
+   "Apotheke",
+   "Apotheken"
+  ],
+  "english": "pharmacy",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Apotheken"
+   ],
+   "acc.sg": [
+    "Apotheke"
+   ],
+   "dat.pl": [
+    "Apotheken"
+   ],
+   "dat.sg": [
+    "Apotheke"
+   ],
+   "gen.sg": [
+    "Apotheke"
+   ],
+   "nom.pl": [
+    "Apotheken"
+   ],
+   "nom.sg": [
+    "Apotheke"
+   ]
+  }
+ },
  "April": {
   "all": [
    "April",
@@ -632,6 +664,38 @@
    ],
    "nom.sg": [
     "Bus"
+   ]
+  }
+ },
+ "Bäckerei": {
+  "all": [
+   "Bäckerei",
+   "Bäckereien"
+  ],
+  "english": "bakery",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Bäckereien"
+   ],
+   "acc.sg": [
+    "Bäckerei"
+   ],
+   "dat.pl": [
+    "Bäckereien"
+   ],
+   "dat.sg": [
+    "Bäckerei"
+   ],
+   "gen.sg": [
+    "Bäckerei"
+   ],
+   "nom.pl": [
+    "Bäckereien"
+   ],
+   "nom.sg": [
+    "Bäckerei"
    ]
   }
  },
@@ -4114,6 +4178,38 @@
    ]
   }
  },
+ "Schule": {
+  "all": [
+   "Schule",
+   "Schulen"
+  ],
+  "english": "school",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Schulen"
+   ],
+   "acc.sg": [
+    "Schule"
+   ],
+   "dat.pl": [
+    "Schulen"
+   ],
+   "dat.sg": [
+    "Schule"
+   ],
+   "gen.sg": [
+    "Schule"
+   ],
+   "nom.pl": [
+    "Schulen"
+   ],
+   "nom.sg": [
+    "Schule"
+   ]
+  }
+ },
  "Schwester": {
   "all": [
    "Schwester",
@@ -4328,6 +4424,38 @@
    ]
   }
  },
+ "Straßenbahn": {
+  "all": [
+   "Straßenbahn",
+   "Straßenbahnen"
+  ],
+  "english": "tram",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Straßenbahnen"
+   ],
+   "acc.sg": [
+    "Straßenbahn"
+   ],
+   "dat.pl": [
+    "Straßenbahnen"
+   ],
+   "dat.sg": [
+    "Straßenbahn"
+   ],
+   "gen.sg": [
+    "Straßenbahn"
+   ],
+   "nom.pl": [
+    "Straßenbahnen"
+   ],
+   "nom.sg": [
+    "Straßenbahn"
+   ]
+  }
+ },
  "Stuhl": {
   "all": [
    "Stuhl",
@@ -4364,6 +4492,44 @@
    ],
    "nom.sg": [
     "Stuhl"
+   ]
+  }
+ },
+ "Supermarkt": {
+  "all": [
+   "Supermarkt",
+   "Supermarkte",
+   "Supermarktes",
+   "Supermarkts",
+   "Supermärkte",
+   "Supermärkten"
+  ],
+  "english": "supermarket",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Supermärkte"
+   ],
+   "acc.sg": [
+    "Supermarkt"
+   ],
+   "dat.pl": [
+    "Supermärkten"
+   ],
+   "dat.sg": [
+    "Supermarkt",
+    "Supermarkte"
+   ],
+   "gen.sg": [
+    "Supermarktes",
+    "Supermarkts"
+   ],
+   "nom.pl": [
+    "Supermärkte"
+   ],
+   "nom.sg": [
+    "Supermarkt"
    ]
   }
  },
@@ -4539,6 +4705,43 @@
    ],
    "nom.sg": [
     "Tasche"
+   ]
+  }
+ },
+ "Taxi": {
+  "all": [
+   "Taxe",
+   "Taxen",
+   "Taxi",
+   "Taxis"
+  ],
+  "english": "taxi",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Taxis",
+    "Taxen"
+   ],
+   "acc.sg": [
+    "Taxi"
+   ],
+   "dat.pl": [
+    "Taxis",
+    "Taxen"
+   ],
+   "dat.sg": [
+    "Taxi"
+   ],
+   "gen.sg": [
+    "Taxis"
+   ],
+   "nom.pl": [
+    "Taxis",
+    "Taxen"
+   ],
+   "nom.sg": [
+    "Taxi"
    ]
   }
  },
@@ -5080,6 +5283,40 @@
    ],
    "nom.sg": [
     "Welt"
+   ]
+  }
+ },
+ "Woche": {
+  "all": [
+   "Woche",
+   "Wochen",
+   "Wöchelchen",
+   "Wöchlein"
+  ],
+  "english": "week",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Wochen"
+   ],
+   "acc.sg": [
+    "Woche"
+   ],
+   "dat.pl": [
+    "Wochen"
+   ],
+   "dat.sg": [
+    "Woche"
+   ],
+   "gen.sg": [
+    "Woche"
+   ],
+   "nom.pl": [
+    "Wochen"
+   ],
+   "nom.sg": [
+    "Woche"
    ]
   }
  },

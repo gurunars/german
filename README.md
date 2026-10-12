@@ -63,6 +63,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 15 · The day: separable verbs (aufstehen, anrufen, einkaufen…)](lessons/15-separable.json) — 34 cards
 - [Lesson 16 · Asking and telling: the imperative, bitte](lessons/16-imperative.json) — 32 cards
 - [Lesson 17 · To whom: the dative, helfen, gefallen, gehören](lessons/17-dative.json) — 34 cards
+- [Lesson 18 · Getting around: mit, nach, bei, von, zu, aus, seit](lessons/18-dative-prep.json) — 35 cards
 
 ## Decks
 

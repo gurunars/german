@@ -1,0 +1,218 @@
+{
+  "name": "Lesson 18 · Getting around: mit, nach, bei, von, zu, aus, seit",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I go by **bus**.",
+      "back": "Ich fahre mit **dem Bus**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. mit always takes the dative. With transport it means by: mit dem Bus.",
+      "priority": 1
+    },
+    {
+      "front": "She's going by **train**.",
+      "back": "Sie fährt mit **dem Zug**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. mit + dative: der Zug → dem Zug.",
+      "priority": 1
+    },
+    {
+      "front": "We're going by **tram**.",
+      "back": "Wir fahren mit **der Straßenbahn**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. die-words take der after mit.",
+      "priority": 1
+    },
+    {
+      "front": "Are you going by **taxi**? (formal)",
+      "back": "Fahren Sie mit **dem Taxi**?",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. das Taxi → mit dem Taxi.",
+      "priority": 1
+    },
+    {
+      "front": "I'm coming with **my friend**. (a woman)",
+      "back": "Ich komme mit **meiner Freundin**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. mit + dative: meiner Freundin.",
+      "priority": 1
+    },
+    {
+      "front": "He's playing with **the children**.",
+      "back": "Er spielt mit **den Kindern**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. Dative plural: den, and -n on the noun.",
+      "priority": 1
+    },
+    {
+      "front": "I'm going **home**.",
+      "back": "Ich gehe **nach Hause**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. nach Hause: on the way home. No article.",
+      "priority": 1
+    },
+    {
+      "front": "We're travelling **to** Germany.",
+      "back": "Wir fahren **nach** Deutschland.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. nach for towns and most countries, which have no article.",
+      "priority": 1
+    },
+    {
+      "front": "After **work** I do the shopping.",
+      "back": "Nach **der Arbeit** kaufe ich ein.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. nach also means after, with the dative: nach der Arbeit.",
+      "priority": 1
+    },
+    {
+      "front": "After **the film** we're going home.",
+      "back": "Nach **dem Film** gehen wir nach Hause.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. nach dem Film: der → dem.",
+      "priority": 1
+    },
+    {
+      "front": "I live with **my parents**.",
+      "back": "Ich wohne bei **meinen Eltern**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. bei: at someone's home. Dative plural: meinen Eltern.",
+      "priority": 1
+    },
+    {
+      "front": "Today I'm at **my grandma's**.",
+      "back": "Heute bin ich bei **meiner Oma**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. bei + a person means at their place.",
+      "priority": 1
+    },
+    {
+      "front": "The present is from **my brother**.",
+      "back": "Das Geschenk ist von **meinem Bruder**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. von: from a person. Dative: meinem.",
+      "priority": 1
+    },
+    {
+      "front": "I'm coming from **work**.",
+      "back": "Ich komme von **der Arbeit**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. von der Arbeit: die → der.",
+      "priority": 1
+    },
+    {
+      "front": "That is the car of **my father**.",
+      "back": "Das ist das Auto von **meinem Vater**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. In speech, von + dative often says whose: das Auto von meinem Vater.",
+      "priority": 1
+    },
+    {
+      "front": "We're going to **our neighbours**.",
+      "back": "Wir gehen zu **unseren Nachbarn**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. zu + a person: to their place. Dative plural: unseren Nachbarn.",
+      "priority": 1
+    },
+    {
+      "front": "I'm at **home** today.",
+      "back": "Ich bin heute **zu Hause**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. zu Hause: at home, staying. nach Hause is going there.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **from** Germany.",
+      "back": "Ich komme **aus** Deutschland.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. aus: from, the place you come from.",
+      "priority": 1
+    },
+    {
+      "front": "Where are you from? (one friend) – **From** Berlin.",
+      "back": "Woher kommst du? – **Aus** Berlin.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. woher asks, aus answers.",
+      "priority": 1
+    },
+    {
+      "front": "She's coming out of **the bakery**.",
+      "back": "Sie kommt aus **der Bäckerei**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. aus + dative: out of the bakery.",
+      "priority": 1
+    },
+    {
+      "front": "He drinks out of **the bottle**.",
+      "back": "Er trinkt aus **der Flasche**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. aus der Flasche: die → der.",
+      "priority": 1
+    },
+    {
+      "front": "I've been learning German for **a year**.",
+      "back": "Ich lerne seit **einem Jahr** Deutsch.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. seit + dative for a time that is still going on. German uses the present: ich lerne.",
+      "priority": 1
+    },
+    {
+      "front": "We've been living here for three **weeks**.",
+      "back": "Wir wohnen seit drei **Wochen** hier.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. seit + dative plural: Wochen. The present again, because we still live here.",
+      "priority": 1
+    },
+    {
+      "front": "I've been waiting for **a week**.",
+      "back": "Ich warte seit **einer Woche**.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. seit einer Woche: die Woche → einer.",
+      "priority": 1
+    },
+    {
+      "front": "She's been working here **since** Monday.",
+      "back": "Sie arbeitet **seit** Montag hier.",
+      "note": "Prepositions with the dative: mit, nach, bei, von, zu, aus, seit. seit: since or for, always with the present for what still goes on.",
+      "priority": 1
+    },
+    {
+      "front": "I'm going **to the** doctor.",
+      "back": "Ich gehe **zum** Arzt.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. zu dem becomes zum. zu for going to a person or a place.",
+      "priority": 1
+    },
+    {
+      "front": "We go **to** school.",
+      "back": "Wir gehen **zur** Schule.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. zu der becomes zur. zur Schule: to school.",
+      "priority": 1
+    },
+    {
+      "front": "Are you going **to the** supermarket? (one friend)",
+      "back": "Gehst du **zum** Supermarkt?",
+      "note": "zum, zur, beim, vom: preposition + article in one word. der Supermarkt → zu dem → zum.",
+      "priority": 1
+    },
+    {
+      "front": "I'm going **to the** pharmacy.",
+      "back": "Ich gehe **zur** Apotheke.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. die Apotheke → zu der → zur.",
+      "priority": 1
+    },
+    {
+      "front": "We're driving **to the** station.",
+      "back": "Wir fahren **zum** Bahnhof.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. der Bahnhof → zum Bahnhof.",
+      "priority": 1
+    },
+    {
+      "front": "I cycle **to** work.",
+      "back": "Ich fahre mit dem Fahrrad **zur** Arbeit.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. zur Arbeit: to work. mit dem Fahrrad: by bike.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **at the** doctor's.",
+      "back": "Ich bin **beim** Arzt.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. bei dem becomes beim.",
+      "priority": 1
+    },
+    {
+      "front": "He's **with the** boss.",
+      "back": "Er ist **beim** Chef.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. beim Chef: bei dem → beim.",
+      "priority": 1
+    },
+    {
+      "front": "He's coming **from the** doctor's.",
+      "back": "Er kommt **vom** Arzt.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. von dem becomes vom.",
+      "priority": 1
+    },
+    {
+      "front": "I'll pick you up **from the** station. (one friend)",
+      "back": "Ich hole dich **vom** Bahnhof ab.",
+      "note": "zum, zur, beim, vom: preposition + article in one word. vom Bahnhof: von dem → vom.",
+      "priority": 1
+    }
+  ]
+}

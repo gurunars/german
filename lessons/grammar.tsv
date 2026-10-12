@@ -31,3 +31,5 @@ separable	15	Separable verbs: the prefix goes to the end
 imperative	16	The imperative: du, ihr, Sie
 dative	17	The dative: the one who receives
 dative.verbs	17	Verbs with the dative: helfen, gefallen, gehören, danken, schmecken
+prep.dat	18	Prepositions with the dative: mit, nach, bei, von, zu, aus, seit
+prep.contraction	18	zum, zur, beim, vom: preposition + article in one word

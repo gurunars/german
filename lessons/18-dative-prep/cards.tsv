@@ -1,0 +1,36 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+prep.dat	Bus	dat.sg	I go by **bus**.	Ich fahre mit **dem Bus**.	mit always takes the dative. With transport it means by: mit dem Bus.
+prep.dat	Zug	dat.sg	She's going by **train**.	Sie fährt mit **dem Zug**.	mit + dative: der Zug → dem Zug.
+prep.dat	Straßenbahn	dat.sg	We're going by **tram**.	Wir fahren mit **der Straßenbahn**.	die-words take der after mit.
+prep.dat	Taxi	dat.sg	Are you going by **taxi**? (formal)	Fahren Sie mit **dem Taxi**?	das Taxi → mit dem Taxi.
+prep.dat	Freundin	dat.sg	I'm coming with **my friend**. (a woman)	Ich komme mit **meiner Freundin**.	mit + dative: meiner Freundin.
+prep.dat	Kind	dat.pl	He's playing with **the children**.	Er spielt mit **den Kindern**.	Dative plural: den, and -n on the noun.
+prep.dat	-	-	I'm going **home**.	Ich gehe **nach Hause**.	nach Hause: on the way home. No article.
+prep.dat	-	-	We're travelling **to** Germany.	Wir fahren **nach** Deutschland.	nach for towns and most countries, which have no article.
+prep.dat	Arbeit	dat.sg	After **work** I do the shopping.	Nach **der Arbeit** kaufe ich ein.	nach also means after, with the dative: nach der Arbeit.
+prep.dat	Film	dat.sg	After **the film** we're going home.	Nach **dem Film** gehen wir nach Hause.	nach dem Film: der → dem.
+prep.dat	Eltern	dat.pl	I live with **my parents**.	Ich wohne bei **meinen Eltern**.	bei: at someone's home. Dative plural: meinen Eltern.
+prep.dat	Oma	dat.sg	Today I'm at **my grandma's**.	Heute bin ich bei **meiner Oma**.	bei + a person means at their place.
+prep.dat	Bruder	dat.sg	The present is from **my brother**.	Das Geschenk ist von **meinem Bruder**.	von: from a person. Dative: meinem.
+prep.dat	Arbeit	dat.sg	I'm coming from **work**.	Ich komme von **der Arbeit**.	von der Arbeit: die → der.
+prep.dat	Vater	dat.sg	That is the car of **my father**.	Das ist das Auto von **meinem Vater**.	In speech, von + dative often says whose: das Auto von meinem Vater.
+prep.dat	Nachbar	dat.pl	We're going to **our neighbours**.	Wir gehen zu **unseren Nachbarn**.	zu + a person: to their place. Dative plural: unseren Nachbarn.
+prep.dat	-	-	I'm at **home** today.	Ich bin heute **zu Hause**.	zu Hause: at home, staying. nach Hause is going there.
+prep.dat	-	-	I'm **from** Germany.	Ich komme **aus** Deutschland.	aus: from, the place you come from.
+prep.dat	-	-	Where are you from? (one friend) – **From** Berlin.	Woher kommst du? – **Aus** Berlin.	woher asks, aus answers.
+prep.dat	Bäckerei	dat.sg	She's coming out of **the bakery**.	Sie kommt aus **der Bäckerei**.	aus + dative: out of the bakery.
+prep.dat	Flasche	dat.sg	He drinks out of **the bottle**.	Er trinkt aus **der Flasche**.	aus der Flasche: die → der.
+prep.dat	Jahr	dat.sg	I've been learning German for **a year**.	Ich lerne seit **einem Jahr** Deutsch.	seit + dative for a time that is still going on. German uses the present: ich lerne.
+prep.dat	Woche	dat.pl	We've been living here for three **weeks**.	Wir wohnen seit drei **Wochen** hier.	seit + dative plural: Wochen. The present again, because we still live here.
+prep.dat	Woche	dat.sg	I've been waiting for **a week**.	Ich warte seit **einer Woche**.	seit einer Woche: die Woche → einer.
+prep.dat	-	-	She's been working here **since** Monday.	Sie arbeitet **seit** Montag hier.	seit: since or for, always with the present for what still goes on.
+prep.contraction	-	-	I'm going **to the** doctor.	Ich gehe **zum** Arzt.	zu dem becomes zum. zu for going to a person or a place.
+prep.contraction	-	-	We go **to** school.	Wir gehen **zur** Schule.	zu der becomes zur. zur Schule: to school.
+prep.contraction	-	-	Are you going **to the** supermarket? (one friend)	Gehst du **zum** Supermarkt?	der Supermarkt → zu dem → zum.
+prep.contraction	-	-	I'm going **to the** pharmacy.	Ich gehe **zur** Apotheke.	die Apotheke → zu der → zur.
+prep.contraction	-	-	We're driving **to the** station.	Wir fahren **zum** Bahnhof.	der Bahnhof → zum Bahnhof.
+prep.contraction	-	-	I cycle **to** work.	Ich fahre mit dem Fahrrad **zur** Arbeit.	zur Arbeit: to work. mit dem Fahrrad: by bike.
+prep.contraction	-	-	I'm **at the** doctor's.	Ich bin **beim** Arzt.	bei dem becomes beim.
+prep.contraction	-	-	He's **with the** boss.	Er ist **beim** Chef.	beim Chef: bei dem → beim.
+prep.contraction	-	-	He's coming **from the** doctor's.	Er kommt **vom** Arzt.	von dem becomes vom.
+prep.contraction	-	-	I'll pick you up **from the** station. (one friend)	Ich hole dich **vom** Bahnhof ab.	vom Bahnhof: von dem → vom.
