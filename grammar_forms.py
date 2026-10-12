@@ -36,6 +36,7 @@ _GENDER_TAGS = {"m": "masculine", "f": "feminine", "n": "neuter"}
 _DECLENSIONS = {
     "weak": ({"weak", "definite", "includes-article"}, {"weak", "definite", "includes-article"}, "after der"),
     "mixed": ({"mixed", "indefinite", "includes-article"}, {"mixed", "indefinite"}, "after ein"),
+    "strong": ({"strong", "without-article"}, {"strong", "without-article"}, "no article"),
 }
 
 
@@ -96,6 +97,7 @@ SLOTS = {
         # Every case and gender: weak.acc.f, weak.dat.pl, …
         **_endings("weak"),
         **_endings("mixed"),
+        **_endings("strong"),
     },
 }
 

@@ -850,6 +850,30 @@
    ]
   }
  },
+ "Butter": {
+  "all": [
+   "Butter",
+   "Butters"
+  ],
+  "english": "butter",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Butter"
+   ],
+   "dat.sg": [
+    "Butter"
+   ],
+   "gen.sg": [
+    "Butter",
+    "Butters"
+   ],
+   "nom.sg": [
+    "Butter"
+   ]
+  }
+ },
  "Bäckerei": {
   "all": [
    "Bäckerei",
@@ -2492,6 +2516,83 @@
    ]
   }
  },
+ "Glückwunsch": {
+  "all": [
+   "Glückwunsch",
+   "Glückwunsche",
+   "Glückwunsches",
+   "Glückwunschs",
+   "Glückwünsche",
+   "Glückwünschen"
+  ],
+  "english": "congratulation",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Glückwünsche"
+   ],
+   "acc.sg": [
+    "Glückwunsch"
+   ],
+   "dat.pl": [
+    "Glückwünschen"
+   ],
+   "dat.sg": [
+    "Glückwunsch",
+    "Glückwunsche"
+   ],
+   "gen.sg": [
+    "Glückwunsches",
+    "Glückwunschs"
+   ],
+   "nom.pl": [
+    "Glückwünsche"
+   ],
+   "nom.sg": [
+    "Glückwunsch"
+   ]
+  }
+ },
+ "Gruß": {
+  "all": [
+   "Gruss",
+   "Gruß",
+   "Gruße",
+   "Grußes",
+   "Grüßchen",
+   "Grüße",
+   "Grüßen",
+   "Grüßlein"
+  ],
+  "english": "greeting",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Grüße"
+   ],
+   "acc.sg": [
+    "Gruß"
+   ],
+   "dat.pl": [
+    "Grüßen"
+   ],
+   "dat.sg": [
+    "Gruß",
+    "Gruße"
+   ],
+   "gen.sg": [
+    "Grußes"
+   ],
+   "nom.pl": [
+    "Grüße"
+   ],
+   "nom.sg": [
+    "Gruß"
+   ]
+  }
+ },
  "Handy": {
   "all": [
    "Handies",
@@ -3421,6 +3522,41 @@
    ],
    "nom.sg": [
     "Kurs"
+   ]
+  }
+ },
+ "Käse": {
+  "all": [
+   "Kas",
+   "Käs",
+   "Käse",
+   "Käsen",
+   "Käses"
+  ],
+  "english": "cheese",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Käse"
+   ],
+   "acc.sg": [
+    "Käse"
+   ],
+   "dat.pl": [
+    "Käsen"
+   ],
+   "dat.sg": [
+    "Käse"
+   ],
+   "gen.sg": [
+    "Käses"
+   ],
+   "nom.pl": [
+    "Käse"
+   ],
+   "nom.sg": [
+    "Käse"
    ]
   }
  },
@@ -4382,6 +4518,39 @@
    ]
   }
  },
+ "Nudel": {
+  "all": [
+   "Nudel",
+   "Nudeln",
+   "Nüdelchen"
+  ],
+  "english": "noodle; Nudeln: pasta",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Nudeln"
+   ],
+   "acc.sg": [
+    "Nudel"
+   ],
+   "dat.pl": [
+    "Nudeln"
+   ],
+   "dat.sg": [
+    "Nudel"
+   ],
+   "gen.sg": [
+    "Nudel"
+   ],
+   "nom.pl": [
+    "Nudeln"
+   ],
+   "nom.sg": [
+    "Nudel"
+   ]
+  }
+ },
  "Obst": {
   "all": [
    "Obst",
@@ -4840,6 +5009,41 @@
    ]
   }
  },
+ "Reis": {
+  "all": [
+   "Reis",
+   "Reise",
+   "Reisen",
+   "Reises"
+  ],
+  "english": "rice",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Reise"
+   ],
+   "acc.sg": [
+    "Reis"
+   ],
+   "dat.pl": [
+    "Reisen"
+   ],
+   "dat.sg": [
+    "Reis",
+    "Reise"
+   ],
+   "gen.sg": [
+    "Reises"
+   ],
+   "nom.pl": [
+    "Reise"
+   ],
+   "nom.sg": [
+    "Reis"
+   ]
+  }
+ },
  "Restaurant": {
   "all": [
    "Restaurant",
@@ -4909,6 +5113,47 @@
    ],
    "nom.sg": [
     "Rock"
+   ]
+  }
+ },
+ "Saft": {
+  "all": [
+   "Saft",
+   "Safte",
+   "Safterl",
+   "Saftes",
+   "Saftl",
+   "Safts",
+   "Säftchen",
+   "Säfte",
+   "Säften"
+  ],
+  "english": "juice",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Säfte"
+   ],
+   "acc.sg": [
+    "Saft"
+   ],
+   "dat.pl": [
+    "Säften"
+   ],
+   "dat.sg": [
+    "Saft",
+    "Safte"
+   ],
+   "gen.sg": [
+    "Saftes",
+    "Safts"
+   ],
+   "nom.pl": [
+    "Säfte"
+   ],
+   "nom.sg": [
+    "Saft"
    ]
   }
  },
@@ -6613,6 +6858,43 @@
    ]
   }
  },
+ "Wurst": {
+  "all": [
+   "Wurst",
+   "Würstchen",
+   "Würste",
+   "Würstel",
+   "Würsten",
+   "Würsterl",
+   "Würstlein"
+  ],
+  "english": "sausage",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Würste"
+   ],
+   "acc.sg": [
+    "Wurst"
+   ],
+   "dat.pl": [
+    "Würsten"
+   ],
+   "dat.sg": [
+    "Wurst"
+   ],
+   "gen.sg": [
+    "Wurst"
+   ],
+   "nom.pl": [
+    "Würste"
+   ],
+   "nom.sg": [
+    "Wurst"
+   ]
+  }
+ },
  "Zeit": {
   "all": [
    "Zeid",
@@ -7102,8 +7384,53 @@
    "mixed.nom.pl": [
     "alten"
    ],
+   "strong.acc.f": [
+    "alte"
+   ],
+   "strong.acc.m": [
+    "alten"
+   ],
+   "strong.acc.n": [
+    "altes"
+   ],
+   "strong.acc.pl": [
+    "alte"
+   ],
    "strong.dat.f": [
     "alter"
+   ],
+   "strong.dat.m": [
+    "altem"
+   ],
+   "strong.dat.n": [
+    "altem"
+   ],
+   "strong.dat.pl": [
+    "alten"
+   ],
+   "strong.gen.f": [
+    "alter"
+   ],
+   "strong.gen.m": [
+    "alten"
+   ],
+   "strong.gen.n": [
+    "alten"
+   ],
+   "strong.gen.pl": [
+    "alter"
+   ],
+   "strong.nom.f": [
+    "alte"
+   ],
+   "strong.nom.m": [
+    "alter"
+   ],
+   "strong.nom.n": [
+    "altes"
+   ],
+   "strong.nom.pl": [
+    "alte"
    ],
    "superlative": [
     "am ältesten",
@@ -8515,8 +8842,53 @@
    "mixed.nom.pl": [
     "bequemen"
    ],
+   "strong.acc.f": [
+    "bequeme"
+   ],
+   "strong.acc.m": [
+    "bequemen"
+   ],
+   "strong.acc.n": [
+    "bequemes"
+   ],
+   "strong.acc.pl": [
+    "bequeme"
+   ],
    "strong.dat.f": [
     "bequemer"
+   ],
+   "strong.dat.m": [
+    "bequemem"
+   ],
+   "strong.dat.n": [
+    "bequemem"
+   ],
+   "strong.dat.pl": [
+    "bequemen"
+   ],
+   "strong.gen.f": [
+    "bequemer"
+   ],
+   "strong.gen.m": [
+    "bequemen"
+   ],
+   "strong.gen.n": [
+    "bequemen"
+   ],
+   "strong.gen.pl": [
+    "bequemer"
+   ],
+   "strong.nom.f": [
+    "bequeme"
+   ],
+   "strong.nom.m": [
+    "bequemer"
+   ],
+   "strong.nom.n": [
+    "bequemes"
+   ],
+   "strong.nom.pl": [
+    "bequeme"
    ],
    "superlative": [
     "am bequemsten",
@@ -8840,8 +9212,53 @@
    "mixed.nom.pl": [
     "billigen"
    ],
+   "strong.acc.f": [
+    "billige"
+   ],
+   "strong.acc.m": [
+    "billigen"
+   ],
+   "strong.acc.n": [
+    "billiges"
+   ],
+   "strong.acc.pl": [
+    "billige"
+   ],
    "strong.dat.f": [
     "billiger"
+   ],
+   "strong.dat.m": [
+    "billigem"
+   ],
+   "strong.dat.n": [
+    "billigem"
+   ],
+   "strong.dat.pl": [
+    "billigen"
+   ],
+   "strong.gen.f": [
+    "billiger"
+   ],
+   "strong.gen.m": [
+    "billigen"
+   ],
+   "strong.gen.n": [
+    "billigen"
+   ],
+   "strong.gen.pl": [
+    "billiger"
+   ],
+   "strong.nom.f": [
+    "billige"
+   ],
+   "strong.nom.m": [
+    "billiger"
+   ],
+   "strong.nom.n": [
+    "billiges"
+   ],
+   "strong.nom.pl": [
+    "billige"
    ],
    "superlative": [
     "am billigsten",
@@ -9019,8 +9436,53 @@
    "mixed.nom.pl": [
     "blauen"
    ],
+   "strong.acc.f": [
+    "blaue"
+   ],
+   "strong.acc.m": [
+    "blauen"
+   ],
+   "strong.acc.n": [
+    "blaues"
+   ],
+   "strong.acc.pl": [
+    "blaue"
+   ],
    "strong.dat.f": [
     "blauer"
+   ],
+   "strong.dat.m": [
+    "blauem"
+   ],
+   "strong.dat.n": [
+    "blauem"
+   ],
+   "strong.dat.pl": [
+    "blauen"
+   ],
+   "strong.gen.f": [
+    "blauer"
+   ],
+   "strong.gen.m": [
+    "blauen"
+   ],
+   "strong.gen.n": [
+    "blauen"
+   ],
+   "strong.gen.pl": [
+    "blauer"
+   ],
+   "strong.nom.f": [
+    "blaue"
+   ],
+   "strong.nom.m": [
+    "blauer"
+   ],
+   "strong.nom.n": [
+    "blaues"
+   ],
+   "strong.nom.pl": [
+    "blaue"
    ],
    "superlative": [
     "am blauesten",
@@ -9422,8 +9884,53 @@
    "mixed.nom.pl": [
     "braunen"
    ],
+   "strong.acc.f": [
+    "braune"
+   ],
+   "strong.acc.m": [
+    "braunen"
+   ],
+   "strong.acc.n": [
+    "braunes"
+   ],
+   "strong.acc.pl": [
+    "braune"
+   ],
    "strong.dat.f": [
     "brauner"
+   ],
+   "strong.dat.m": [
+    "braunem"
+   ],
+   "strong.dat.n": [
+    "braunem"
+   ],
+   "strong.dat.pl": [
+    "braunen"
+   ],
+   "strong.gen.f": [
+    "brauner"
+   ],
+   "strong.gen.m": [
+    "braunen"
+   ],
+   "strong.gen.n": [
+    "braunen"
+   ],
+   "strong.gen.pl": [
+    "brauner"
+   ],
+   "strong.nom.f": [
+    "braune"
+   ],
+   "strong.nom.m": [
+    "brauner"
+   ],
+   "strong.nom.n": [
+    "braunes"
+   ],
+   "strong.nom.pl": [
+    "braune"
    ],
    "superlative": [
     "am braunsten",
@@ -9926,9 +10433,69 @@
     "dunklen",
     "dunkelen"
    ],
+   "strong.acc.f": [
+    "dunkle",
+    "dunkele"
+   ],
+   "strong.acc.m": [
+    "dunklen",
+    "dunkelen"
+   ],
+   "strong.acc.n": [
+    "dunkles",
+    "dunkeles"
+   ],
+   "strong.acc.pl": [
+    "dunkle",
+    "dunkele"
+   ],
    "strong.dat.f": [
     "dunkler",
     "dunkeler"
+   ],
+   "strong.dat.m": [
+    "dunklem",
+    "dunkelem"
+   ],
+   "strong.dat.n": [
+    "dunklem",
+    "dunkelem"
+   ],
+   "strong.dat.pl": [
+    "dunklen",
+    "dunkelen"
+   ],
+   "strong.gen.f": [
+    "dunkler",
+    "dunkeler"
+   ],
+   "strong.gen.m": [
+    "dunklen",
+    "dunkelen"
+   ],
+   "strong.gen.n": [
+    "dunklen",
+    "dunkelen"
+   ],
+   "strong.gen.pl": [
+    "dunkler",
+    "dunkeler"
+   ],
+   "strong.nom.f": [
+    "dunkle",
+    "dunkele"
+   ],
+   "strong.nom.m": [
+    "dunkler",
+    "dunkeler"
+   ],
+   "strong.nom.n": [
+    "dunkles",
+    "dunkeles"
+   ],
+   "strong.nom.pl": [
+    "dunkle",
+    "dunkele"
    ],
    "superlative": [
     "am dunkelsten",
@@ -10205,8 +10772,53 @@
    "mixed.nom.pl": [
     "einfachen"
    ],
+   "strong.acc.f": [
+    "einfache"
+   ],
+   "strong.acc.m": [
+    "einfachen"
+   ],
+   "strong.acc.n": [
+    "einfaches"
+   ],
+   "strong.acc.pl": [
+    "einfache"
+   ],
    "strong.dat.f": [
     "einfacher"
+   ],
+   "strong.dat.m": [
+    "einfachem"
+   ],
+   "strong.dat.n": [
+    "einfachem"
+   ],
+   "strong.dat.pl": [
+    "einfachen"
+   ],
+   "strong.gen.f": [
+    "einfacher"
+   ],
+   "strong.gen.m": [
+    "einfachen"
+   ],
+   "strong.gen.n": [
+    "einfachen"
+   ],
+   "strong.gen.pl": [
+    "einfacher"
+   ],
+   "strong.nom.f": [
+    "einfache"
+   ],
+   "strong.nom.m": [
+    "einfacher"
+   ],
+   "strong.nom.n": [
+    "einfaches"
+   ],
+   "strong.nom.pl": [
+    "einfache"
    ],
    "superlative": [
     "am einfachsten",
@@ -11328,8 +11940,53 @@
    "mixed.nom.pl": [
     "freien"
    ],
+   "strong.acc.f": [
+    "freie"
+   ],
+   "strong.acc.m": [
+    "freien"
+   ],
+   "strong.acc.n": [
+    "freies"
+   ],
+   "strong.acc.pl": [
+    "freie"
+   ],
    "strong.dat.f": [
     "freier"
+   ],
+   "strong.dat.m": [
+    "freiem"
+   ],
+   "strong.dat.n": [
+    "freiem"
+   ],
+   "strong.dat.pl": [
+    "freien"
+   ],
+   "strong.gen.f": [
+    "freier"
+   ],
+   "strong.gen.m": [
+    "freien"
+   ],
+   "strong.gen.n": [
+    "freien"
+   ],
+   "strong.gen.pl": [
+    "freier"
+   ],
+   "strong.nom.f": [
+    "freie"
+   ],
+   "strong.nom.m": [
+    "freier"
+   ],
+   "strong.nom.n": [
+    "freies"
+   ],
+   "strong.nom.pl": [
+    "freie"
    ],
    "superlative": [
     "am freiesten",
@@ -11422,6 +12079,468 @@
    ],
    "weak.nom.pl": [
     "die freien"
+   ]
+  }
+ },
+ "freundlich": {
+  "all": [
+   "am",
+   "freundlich",
+   "freundliche",
+   "freundlichem",
+   "freundlichen",
+   "freundlicher",
+   "freundlichere",
+   "freundlicherem",
+   "freundlicheren",
+   "freundlicherer",
+   "freundlicheres",
+   "freundliches",
+   "freundlichste",
+   "freundlichstem",
+   "freundlichsten",
+   "freundlichster",
+   "freundlichstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "friendly, kind",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "freundlicher",
+    "freundlicherer",
+    "freundlichere",
+    "freundlicheres",
+    "freundlicheren",
+    "freundlicherem",
+    "der freundlichere",
+    "die freundlichere",
+    "das freundlichere",
+    "die freundlicheren",
+    "des freundlicheren",
+    "der freundlicheren",
+    "dem freundlicheren",
+    "den freundlicheren",
+    "ein freundlicherer",
+    "eine freundlichere",
+    "ein freundlicheres",
+    "eines freundlicheren",
+    "einer freundlicheren",
+    "einem freundlicheren",
+    "einen freundlicheren"
+   ],
+   "mixed.acc.f": [
+    "eine freundliche"
+   ],
+   "mixed.acc.m": [
+    "einen freundlichen"
+   ],
+   "mixed.acc.n": [
+    "ein freundliches"
+   ],
+   "mixed.acc.pl": [
+    "freundlichen"
+   ],
+   "mixed.dat.f": [
+    "einer freundlichen"
+   ],
+   "mixed.dat.m": [
+    "einem freundlichen"
+   ],
+   "mixed.dat.n": [
+    "einem freundlichen"
+   ],
+   "mixed.dat.pl": [
+    "freundlichen"
+   ],
+   "mixed.gen.f": [
+    "einer freundlichen"
+   ],
+   "mixed.gen.m": [
+    "eines freundlichen"
+   ],
+   "mixed.gen.n": [
+    "eines freundlichen"
+   ],
+   "mixed.gen.pl": [
+    "freundlichen"
+   ],
+   "mixed.nom.f": [
+    "eine freundliche"
+   ],
+   "mixed.nom.m": [
+    "ein freundlicher"
+   ],
+   "mixed.nom.n": [
+    "ein freundliches"
+   ],
+   "mixed.nom.pl": [
+    "freundlichen"
+   ],
+   "strong.acc.f": [
+    "freundliche"
+   ],
+   "strong.acc.m": [
+    "freundlichen"
+   ],
+   "strong.acc.n": [
+    "freundliches"
+   ],
+   "strong.acc.pl": [
+    "freundliche"
+   ],
+   "strong.dat.f": [
+    "freundlicher"
+   ],
+   "strong.dat.m": [
+    "freundlichem"
+   ],
+   "strong.dat.n": [
+    "freundlichem"
+   ],
+   "strong.dat.pl": [
+    "freundlichen"
+   ],
+   "strong.gen.f": [
+    "freundlicher"
+   ],
+   "strong.gen.m": [
+    "freundlichen"
+   ],
+   "strong.gen.n": [
+    "freundlichen"
+   ],
+   "strong.gen.pl": [
+    "freundlicher"
+   ],
+   "strong.nom.f": [
+    "freundliche"
+   ],
+   "strong.nom.m": [
+    "freundlicher"
+   ],
+   "strong.nom.n": [
+    "freundliches"
+   ],
+   "strong.nom.pl": [
+    "freundliche"
+   ],
+   "superlative": [
+    "am freundlichsten",
+    "freundlichster",
+    "freundlichste",
+    "freundlichstes",
+    "freundlichsten",
+    "freundlichstem",
+    "der freundlichste",
+    "die freundlichste",
+    "das freundlichste",
+    "die freundlichsten",
+    "des freundlichsten",
+    "der freundlichsten",
+    "dem freundlichsten",
+    "den freundlichsten",
+    "ein freundlichster",
+    "eine freundlichste",
+    "ein freundlichstes",
+    "eines freundlichsten",
+    "einer freundlichsten",
+    "einem freundlichsten",
+    "einen freundlichsten"
+   ],
+   "weak.acc.f": [
+    "die freundliche"
+   ],
+   "weak.acc.m": [
+    "den freundlichen"
+   ],
+   "weak.acc.n": [
+    "das freundliche"
+   ],
+   "weak.acc.pl": [
+    "die freundlichen"
+   ],
+   "weak.dat.f": [
+    "der freundlichen"
+   ],
+   "weak.dat.m": [
+    "dem freundlichen"
+   ],
+   "weak.dat.n": [
+    "dem freundlichen"
+   ],
+   "weak.dat.pl": [
+    "den freundlichen"
+   ],
+   "weak.gen.f": [
+    "der freundlichen"
+   ],
+   "weak.gen.m": [
+    "des freundlichen"
+   ],
+   "weak.gen.n": [
+    "des freundlichen"
+   ],
+   "weak.gen.pl": [
+    "der freundlichen"
+   ],
+   "weak.nom.f": [
+    "die freundliche"
+   ],
+   "weak.nom.m": [
+    "der freundliche"
+   ],
+   "weak.nom.n": [
+    "das freundliche"
+   ],
+   "weak.nom.pl": [
+    "die freundlichen"
+   ]
+  }
+ },
+ "frisch": {
+  "all": [
+   "am",
+   "frisch",
+   "frische",
+   "frischem",
+   "frischen",
+   "frischer",
+   "frischere",
+   "frischerem",
+   "frischeren",
+   "frischerer",
+   "frischeres",
+   "frisches",
+   "frischeste",
+   "frischestem",
+   "frischesten",
+   "frischester",
+   "frischestes",
+   "frischste",
+   "frischstem",
+   "frischsten",
+   "frischster",
+   "frischstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "fresh",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "frischer",
+    "frischerer",
+    "frischere",
+    "frischeres",
+    "frischeren",
+    "frischerem",
+    "der frischere",
+    "die frischere",
+    "das frischere",
+    "die frischeren",
+    "des frischeren",
+    "der frischeren",
+    "dem frischeren",
+    "den frischeren",
+    "ein frischerer",
+    "eine frischere",
+    "ein frischeres",
+    "eines frischeren",
+    "einer frischeren",
+    "einem frischeren",
+    "einen frischeren"
+   ],
+   "mixed.acc.f": [
+    "eine frische"
+   ],
+   "mixed.acc.m": [
+    "einen frischen"
+   ],
+   "mixed.acc.n": [
+    "ein frisches"
+   ],
+   "mixed.acc.pl": [
+    "frischen"
+   ],
+   "mixed.dat.f": [
+    "einer frischen"
+   ],
+   "mixed.dat.m": [
+    "einem frischen"
+   ],
+   "mixed.dat.n": [
+    "einem frischen"
+   ],
+   "mixed.dat.pl": [
+    "frischen"
+   ],
+   "mixed.gen.f": [
+    "einer frischen"
+   ],
+   "mixed.gen.m": [
+    "eines frischen"
+   ],
+   "mixed.gen.n": [
+    "eines frischen"
+   ],
+   "mixed.gen.pl": [
+    "frischen"
+   ],
+   "mixed.nom.f": [
+    "eine frische"
+   ],
+   "mixed.nom.m": [
+    "ein frischer"
+   ],
+   "mixed.nom.n": [
+    "ein frisches"
+   ],
+   "mixed.nom.pl": [
+    "frischen"
+   ],
+   "strong.acc.f": [
+    "frische"
+   ],
+   "strong.acc.m": [
+    "frischen"
+   ],
+   "strong.acc.n": [
+    "frisches"
+   ],
+   "strong.acc.pl": [
+    "frische"
+   ],
+   "strong.dat.f": [
+    "frischer"
+   ],
+   "strong.dat.m": [
+    "frischem"
+   ],
+   "strong.dat.n": [
+    "frischem"
+   ],
+   "strong.dat.pl": [
+    "frischen"
+   ],
+   "strong.gen.f": [
+    "frischer"
+   ],
+   "strong.gen.m": [
+    "frischen"
+   ],
+   "strong.gen.n": [
+    "frischen"
+   ],
+   "strong.gen.pl": [
+    "frischer"
+   ],
+   "strong.nom.f": [
+    "frische"
+   ],
+   "strong.nom.m": [
+    "frischer"
+   ],
+   "strong.nom.n": [
+    "frisches"
+   ],
+   "strong.nom.pl": [
+    "frische"
+   ],
+   "superlative": [
+    "am frischesten",
+    "am frischsten",
+    "frischester",
+    "frischster",
+    "frischeste",
+    "frischste",
+    "frischestes",
+    "frischstes",
+    "frischesten",
+    "frischsten",
+    "frischestem",
+    "frischstem",
+    "der frischeste",
+    "der frischste",
+    "die frischeste",
+    "die frischste",
+    "das frischeste",
+    "das frischste",
+    "die frischesten",
+    "die frischsten",
+    "des frischesten",
+    "des frischsten",
+    "der frischesten",
+    "der frischsten",
+    "dem frischesten",
+    "dem frischsten",
+    "den frischesten",
+    "den frischsten",
+    "ein frischester",
+    "ein frischster",
+    "eine frischeste",
+    "eine frischste",
+    "ein frischestes",
+    "ein frischstes",
+    "eines frischesten",
+    "eines frischsten",
+    "einer frischesten",
+    "einer frischsten",
+    "einem frischesten",
+    "einem frischsten",
+    "einen frischesten",
+    "einen frischsten"
+   ],
+   "weak.acc.f": [
+    "die frische"
+   ],
+   "weak.acc.m": [
+    "den frischen"
+   ],
+   "weak.acc.n": [
+    "das frische"
+   ],
+   "weak.acc.pl": [
+    "die frischen"
+   ],
+   "weak.dat.f": [
+    "der frischen"
+   ],
+   "weak.dat.m": [
+    "dem frischen"
+   ],
+   "weak.dat.n": [
+    "dem frischen"
+   ],
+   "weak.dat.pl": [
+    "den frischen"
+   ],
+   "weak.gen.f": [
+    "der frischen"
+   ],
+   "weak.gen.m": [
+    "des frischen"
+   ],
+   "weak.gen.n": [
+    "des frischen"
+   ],
+   "weak.gen.pl": [
+    "der frischen"
+   ],
+   "weak.nom.f": [
+    "die frische"
+   ],
+   "weak.nom.m": [
+    "der frische"
+   ],
+   "weak.nom.n": [
+    "das frische"
+   ],
+   "weak.nom.pl": [
+    "die frischen"
    ]
   }
  },
@@ -11527,8 +12646,53 @@
    "mixed.nom.pl": [
     "frühen"
    ],
+   "strong.acc.f": [
+    "frühe"
+   ],
+   "strong.acc.m": [
+    "frühen"
+   ],
+   "strong.acc.n": [
+    "frühes"
+   ],
+   "strong.acc.pl": [
+    "frühe"
+   ],
    "strong.dat.f": [
     "früher"
+   ],
+   "strong.dat.m": [
+    "frühem"
+   ],
+   "strong.dat.n": [
+    "frühem"
+   ],
+   "strong.dat.pl": [
+    "frühen"
+   ],
+   "strong.gen.f": [
+    "früher"
+   ],
+   "strong.gen.m": [
+    "frühen"
+   ],
+   "strong.gen.n": [
+    "frühen"
+   ],
+   "strong.gen.pl": [
+    "früher"
+   ],
+   "strong.nom.f": [
+    "frühe"
+   ],
+   "strong.nom.m": [
+    "früher"
+   ],
+   "strong.nom.n": [
+    "frühes"
+   ],
+   "strong.nom.pl": [
+    "frühe"
    ],
    "superlative": [
     "am frühesten",
@@ -12158,8 +13322,53 @@
    "mixed.nom.pl": [
     "gelben"
    ],
+   "strong.acc.f": [
+    "gelbe"
+   ],
+   "strong.acc.m": [
+    "gelben"
+   ],
+   "strong.acc.n": [
+    "gelbes"
+   ],
+   "strong.acc.pl": [
+    "gelbe"
+   ],
    "strong.dat.f": [
     "gelber"
+   ],
+   "strong.dat.m": [
+    "gelbem"
+   ],
+   "strong.dat.n": [
+    "gelbem"
+   ],
+   "strong.dat.pl": [
+    "gelben"
+   ],
+   "strong.gen.f": [
+    "gelber"
+   ],
+   "strong.gen.m": [
+    "gelben"
+   ],
+   "strong.gen.n": [
+    "gelben"
+   ],
+   "strong.gen.pl": [
+    "gelber"
+   ],
+   "strong.nom.f": [
+    "gelbe"
+   ],
+   "strong.nom.m": [
+    "gelber"
+   ],
+   "strong.nom.n": [
+    "gelbes"
+   ],
+   "strong.nom.pl": [
+    "gelbe"
    ],
    "superlative": [
     "am gelbsten",
@@ -12331,8 +13540,53 @@
    "mixed.nom.pl": [
     "gemütlichen"
    ],
+   "strong.acc.f": [
+    "gemütliche"
+   ],
+   "strong.acc.m": [
+    "gemütlichen"
+   ],
+   "strong.acc.n": [
+    "gemütliches"
+   ],
+   "strong.acc.pl": [
+    "gemütliche"
+   ],
    "strong.dat.f": [
     "gemütlicher"
+   ],
+   "strong.dat.m": [
+    "gemütlichem"
+   ],
+   "strong.dat.n": [
+    "gemütlichem"
+   ],
+   "strong.dat.pl": [
+    "gemütlichen"
+   ],
+   "strong.gen.f": [
+    "gemütlicher"
+   ],
+   "strong.gen.m": [
+    "gemütlichen"
+   ],
+   "strong.gen.n": [
+    "gemütlichen"
+   ],
+   "strong.gen.pl": [
+    "gemütlicher"
+   ],
+   "strong.nom.f": [
+    "gemütliche"
+   ],
+   "strong.nom.m": [
+    "gemütlicher"
+   ],
+   "strong.nom.n": [
+    "gemütliches"
+   ],
+   "strong.nom.pl": [
+    "gemütliche"
    ],
    "superlative": [
     "am gemütlichsten",
@@ -12648,9 +13902,69 @@
     "großen",
     "grossen"
    ],
+   "strong.acc.f": [
+    "große",
+    "grosse"
+   ],
+   "strong.acc.m": [
+    "großen",
+    "grossen"
+   ],
+   "strong.acc.n": [
+    "großes",
+    "grosses"
+   ],
+   "strong.acc.pl": [
+    "große",
+    "grosse"
+   ],
    "strong.dat.f": [
     "großer",
     "grosser"
+   ],
+   "strong.dat.m": [
+    "großem",
+    "grossem"
+   ],
+   "strong.dat.n": [
+    "großem",
+    "grossem"
+   ],
+   "strong.dat.pl": [
+    "großen",
+    "grossen"
+   ],
+   "strong.gen.f": [
+    "großer",
+    "grosser"
+   ],
+   "strong.gen.m": [
+    "großen",
+    "grossen"
+   ],
+   "strong.gen.n": [
+    "großen",
+    "grossen"
+   ],
+   "strong.gen.pl": [
+    "großer",
+    "grosser"
+   ],
+   "strong.nom.f": [
+    "große",
+    "grosse"
+   ],
+   "strong.nom.m": [
+    "großer",
+    "grosser"
+   ],
+   "strong.nom.n": [
+    "großes",
+    "grosses"
+   ],
+   "strong.nom.pl": [
+    "große",
+    "grosse"
    ],
    "superlative": [
     "am größten",
@@ -12901,8 +14215,53 @@
    "mixed.nom.pl": [
     "grünen"
    ],
+   "strong.acc.f": [
+    "grüne"
+   ],
+   "strong.acc.m": [
+    "grünen"
+   ],
+   "strong.acc.n": [
+    "grünes"
+   ],
+   "strong.acc.pl": [
+    "grüne"
+   ],
    "strong.dat.f": [
     "grüner"
+   ],
+   "strong.dat.m": [
+    "grünem"
+   ],
+   "strong.dat.n": [
+    "grünem"
+   ],
+   "strong.dat.pl": [
+    "grünen"
+   ],
+   "strong.gen.f": [
+    "grüner"
+   ],
+   "strong.gen.m": [
+    "grünen"
+   ],
+   "strong.gen.n": [
+    "grünen"
+   ],
+   "strong.gen.pl": [
+    "grüner"
+   ],
+   "strong.nom.f": [
+    "grüne"
+   ],
+   "strong.nom.m": [
+    "grüner"
+   ],
+   "strong.nom.n": [
+    "grünes"
+   ],
+   "strong.nom.pl": [
+    "grüne"
    ],
    "superlative": [
     "am grünsten",
@@ -13077,8 +14436,53 @@
    "mixed.nom.pl": [
     "guten"
    ],
+   "strong.acc.f": [
+    "gute"
+   ],
+   "strong.acc.m": [
+    "guten"
+   ],
+   "strong.acc.n": [
+    "gutes"
+   ],
+   "strong.acc.pl": [
+    "gute"
+   ],
    "strong.dat.f": [
     "guter"
+   ],
+   "strong.dat.m": [
+    "gutem"
+   ],
+   "strong.dat.n": [
+    "gutem"
+   ],
+   "strong.dat.pl": [
+    "guten"
+   ],
+   "strong.gen.f": [
+    "guter"
+   ],
+   "strong.gen.m": [
+    "guten"
+   ],
+   "strong.gen.n": [
+    "guten"
+   ],
+   "strong.gen.pl": [
+    "guter"
+   ],
+   "strong.nom.f": [
+    "gute"
+   ],
+   "strong.nom.m": [
+    "guter"
+   ],
+   "strong.nom.n": [
+    "gutes"
+   ],
+   "strong.nom.pl": [
+    "gute"
    ],
    "superlative": [
     "am besten",
@@ -13312,8 +14716,53 @@
    "mixed.nom.pl": [
     "halben"
    ],
+   "strong.acc.f": [
+    "halbe"
+   ],
+   "strong.acc.m": [
+    "halben"
+   ],
+   "strong.acc.n": [
+    "halbes"
+   ],
+   "strong.acc.pl": [
+    "halbe"
+   ],
    "strong.dat.f": [
     "halber"
+   ],
+   "strong.dat.m": [
+    "halbem"
+   ],
+   "strong.dat.n": [
+    "halbem"
+   ],
+   "strong.dat.pl": [
+    "halben"
+   ],
+   "strong.gen.f": [
+    "halber"
+   ],
+   "strong.gen.m": [
+    "halben"
+   ],
+   "strong.gen.n": [
+    "halben"
+   ],
+   "strong.gen.pl": [
+    "halber"
+   ],
+   "strong.nom.f": [
+    "halbe"
+   ],
+   "strong.nom.m": [
+    "halber"
+   ],
+   "strong.nom.n": [
+    "halbes"
+   ],
+   "strong.nom.pl": [
+    "halbe"
    ],
    "weak.acc.f": [
     "die halbe"
@@ -13362,6 +14811,226 @@
    ],
    "weak.nom.pl": [
     "die halben"
+   ]
+  }
+ },
+ "heiß": {
+  "all": [
+   "am",
+   "heiss",
+   "heiß",
+   "heiße",
+   "heißem",
+   "heißen",
+   "heißer",
+   "heißere",
+   "heißerem",
+   "heißeren",
+   "heißerer",
+   "heißeres",
+   "heißes",
+   "heißeste",
+   "heißestem",
+   "heißesten",
+   "heißester",
+   "heißestes",
+   "heyß",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "hot",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "heißer",
+    "heißerer",
+    "heißere",
+    "heißeres",
+    "heißeren",
+    "heißerem",
+    "der heißere",
+    "die heißere",
+    "das heißere",
+    "die heißeren",
+    "des heißeren",
+    "der heißeren",
+    "dem heißeren",
+    "den heißeren",
+    "ein heißerer",
+    "eine heißere",
+    "ein heißeres",
+    "eines heißeren",
+    "einer heißeren",
+    "einem heißeren",
+    "einen heißeren"
+   ],
+   "mixed.acc.f": [
+    "eine heiße"
+   ],
+   "mixed.acc.m": [
+    "einen heißen"
+   ],
+   "mixed.acc.n": [
+    "ein heißes"
+   ],
+   "mixed.acc.pl": [
+    "heißen"
+   ],
+   "mixed.dat.f": [
+    "einer heißen"
+   ],
+   "mixed.dat.m": [
+    "einem heißen"
+   ],
+   "mixed.dat.n": [
+    "einem heißen"
+   ],
+   "mixed.dat.pl": [
+    "heißen"
+   ],
+   "mixed.gen.f": [
+    "einer heißen"
+   ],
+   "mixed.gen.m": [
+    "eines heißen"
+   ],
+   "mixed.gen.n": [
+    "eines heißen"
+   ],
+   "mixed.gen.pl": [
+    "heißen"
+   ],
+   "mixed.nom.f": [
+    "eine heiße"
+   ],
+   "mixed.nom.m": [
+    "ein heißer"
+   ],
+   "mixed.nom.n": [
+    "ein heißes"
+   ],
+   "mixed.nom.pl": [
+    "heißen"
+   ],
+   "strong.acc.f": [
+    "heiße"
+   ],
+   "strong.acc.m": [
+    "heißen"
+   ],
+   "strong.acc.n": [
+    "heißes"
+   ],
+   "strong.acc.pl": [
+    "heiße"
+   ],
+   "strong.dat.f": [
+    "heißer"
+   ],
+   "strong.dat.m": [
+    "heißem"
+   ],
+   "strong.dat.n": [
+    "heißem"
+   ],
+   "strong.dat.pl": [
+    "heißen"
+   ],
+   "strong.gen.f": [
+    "heißer"
+   ],
+   "strong.gen.m": [
+    "heißen"
+   ],
+   "strong.gen.n": [
+    "heißen"
+   ],
+   "strong.gen.pl": [
+    "heißer"
+   ],
+   "strong.nom.f": [
+    "heiße"
+   ],
+   "strong.nom.m": [
+    "heißer"
+   ],
+   "strong.nom.n": [
+    "heißes"
+   ],
+   "strong.nom.pl": [
+    "heiße"
+   ],
+   "superlative": [
+    "am heißesten",
+    "heißester",
+    "heißeste",
+    "heißestes",
+    "heißesten",
+    "heißestem",
+    "der heißeste",
+    "die heißeste",
+    "das heißeste",
+    "die heißesten",
+    "des heißesten",
+    "der heißesten",
+    "dem heißesten",
+    "den heißesten",
+    "ein heißester",
+    "eine heißeste",
+    "ein heißestes",
+    "eines heißesten",
+    "einer heißesten",
+    "einem heißesten",
+    "einen heißesten"
+   ],
+   "weak.acc.f": [
+    "die heiße"
+   ],
+   "weak.acc.m": [
+    "den heißen"
+   ],
+   "weak.acc.n": [
+    "das heiße"
+   ],
+   "weak.acc.pl": [
+    "die heißen"
+   ],
+   "weak.dat.f": [
+    "der heißen"
+   ],
+   "weak.dat.m": [
+    "dem heißen"
+   ],
+   "weak.dat.n": [
+    "dem heißen"
+   ],
+   "weak.dat.pl": [
+    "den heißen"
+   ],
+   "weak.gen.f": [
+    "der heißen"
+   ],
+   "weak.gen.m": [
+    "des heißen"
+   ],
+   "weak.gen.n": [
+    "des heißen"
+   ],
+   "weak.gen.pl": [
+    "der heißen"
+   ],
+   "weak.nom.f": [
+    "die heiße"
+   ],
+   "weak.nom.m": [
+    "der heiße"
+   ],
+   "weak.nom.n": [
+    "das heiße"
+   ],
+   "weak.nom.pl": [
+    "die heißen"
    ]
   }
  },
@@ -13645,8 +15314,53 @@
    "mixed.nom.pl": [
     "hellen"
    ],
+   "strong.acc.f": [
+    "helle"
+   ],
+   "strong.acc.m": [
+    "hellen"
+   ],
+   "strong.acc.n": [
+    "helles"
+   ],
+   "strong.acc.pl": [
+    "helle"
+   ],
    "strong.dat.f": [
     "heller"
+   ],
+   "strong.dat.m": [
+    "hellem"
+   ],
+   "strong.dat.n": [
+    "hellem"
+   ],
+   "strong.dat.pl": [
+    "hellen"
+   ],
+   "strong.gen.f": [
+    "heller"
+   ],
+   "strong.gen.m": [
+    "hellen"
+   ],
+   "strong.gen.n": [
+    "hellen"
+   ],
+   "strong.gen.pl": [
+    "heller"
+   ],
+   "strong.nom.f": [
+    "helle"
+   ],
+   "strong.nom.m": [
+    "heller"
+   ],
+   "strong.nom.n": [
+    "helles"
+   ],
+   "strong.nom.pl": [
+    "helle"
    ],
    "superlative": [
     "am hellsten",
@@ -13718,6 +15432,224 @@
    ],
    "weak.nom.pl": [
     "die hellen"
+   ]
+  }
+ },
+ "herzlich": {
+  "all": [
+   "am",
+   "herzlich",
+   "herzliche",
+   "herzlichem",
+   "herzlichen",
+   "herzlicher",
+   "herzlichere",
+   "herzlicherem",
+   "herzlicheren",
+   "herzlicherer",
+   "herzlicheres",
+   "herzliches",
+   "herzlichste",
+   "herzlichstem",
+   "herzlichsten",
+   "herzlichster",
+   "herzlichstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "warm, sincere",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "herzlicher",
+    "herzlicherer",
+    "herzlichere",
+    "herzlicheres",
+    "herzlicheren",
+    "herzlicherem",
+    "der herzlichere",
+    "die herzlichere",
+    "das herzlichere",
+    "die herzlicheren",
+    "des herzlicheren",
+    "der herzlicheren",
+    "dem herzlicheren",
+    "den herzlicheren",
+    "ein herzlicherer",
+    "eine herzlichere",
+    "ein herzlicheres",
+    "eines herzlicheren",
+    "einer herzlicheren",
+    "einem herzlicheren",
+    "einen herzlicheren"
+   ],
+   "mixed.acc.f": [
+    "eine herzliche"
+   ],
+   "mixed.acc.m": [
+    "einen herzlichen"
+   ],
+   "mixed.acc.n": [
+    "ein herzliches"
+   ],
+   "mixed.acc.pl": [
+    "herzlichen"
+   ],
+   "mixed.dat.f": [
+    "einer herzlichen"
+   ],
+   "mixed.dat.m": [
+    "einem herzlichen"
+   ],
+   "mixed.dat.n": [
+    "einem herzlichen"
+   ],
+   "mixed.dat.pl": [
+    "herzlichen"
+   ],
+   "mixed.gen.f": [
+    "einer herzlichen"
+   ],
+   "mixed.gen.m": [
+    "eines herzlichen"
+   ],
+   "mixed.gen.n": [
+    "eines herzlichen"
+   ],
+   "mixed.gen.pl": [
+    "herzlichen"
+   ],
+   "mixed.nom.f": [
+    "eine herzliche"
+   ],
+   "mixed.nom.m": [
+    "ein herzlicher"
+   ],
+   "mixed.nom.n": [
+    "ein herzliches"
+   ],
+   "mixed.nom.pl": [
+    "herzlichen"
+   ],
+   "strong.acc.f": [
+    "herzliche"
+   ],
+   "strong.acc.m": [
+    "herzlichen"
+   ],
+   "strong.acc.n": [
+    "herzliches"
+   ],
+   "strong.acc.pl": [
+    "herzliche"
+   ],
+   "strong.dat.f": [
+    "herzlicher"
+   ],
+   "strong.dat.m": [
+    "herzlichem"
+   ],
+   "strong.dat.n": [
+    "herzlichem"
+   ],
+   "strong.dat.pl": [
+    "herzlichen"
+   ],
+   "strong.gen.f": [
+    "herzlicher"
+   ],
+   "strong.gen.m": [
+    "herzlichen"
+   ],
+   "strong.gen.n": [
+    "herzlichen"
+   ],
+   "strong.gen.pl": [
+    "herzlicher"
+   ],
+   "strong.nom.f": [
+    "herzliche"
+   ],
+   "strong.nom.m": [
+    "herzlicher"
+   ],
+   "strong.nom.n": [
+    "herzliches"
+   ],
+   "strong.nom.pl": [
+    "herzliche"
+   ],
+   "superlative": [
+    "am herzlichsten",
+    "herzlichster",
+    "herzlichste",
+    "herzlichstes",
+    "herzlichsten",
+    "herzlichstem",
+    "der herzlichste",
+    "die herzlichste",
+    "das herzlichste",
+    "die herzlichsten",
+    "des herzlichsten",
+    "der herzlichsten",
+    "dem herzlichsten",
+    "den herzlichsten",
+    "ein herzlichster",
+    "eine herzlichste",
+    "ein herzlichstes",
+    "eines herzlichsten",
+    "einer herzlichsten",
+    "einem herzlichsten",
+    "einen herzlichsten"
+   ],
+   "weak.acc.f": [
+    "die herzliche"
+   ],
+   "weak.acc.m": [
+    "den herzlichen"
+   ],
+   "weak.acc.n": [
+    "das herzliche"
+   ],
+   "weak.acc.pl": [
+    "die herzlichen"
+   ],
+   "weak.dat.f": [
+    "der herzlichen"
+   ],
+   "weak.dat.m": [
+    "dem herzlichen"
+   ],
+   "weak.dat.n": [
+    "dem herzlichen"
+   ],
+   "weak.dat.pl": [
+    "den herzlichen"
+   ],
+   "weak.gen.f": [
+    "der herzlichen"
+   ],
+   "weak.gen.m": [
+    "des herzlichen"
+   ],
+   "weak.gen.n": [
+    "des herzlichen"
+   ],
+   "weak.gen.pl": [
+    "der herzlichen"
+   ],
+   "weak.nom.f": [
+    "die herzliche"
+   ],
+   "weak.nom.m": [
+    "der herzliche"
+   ],
+   "weak.nom.n": [
+    "das herzliche"
+   ],
+   "weak.nom.pl": [
+    "die herzlichen"
    ]
   }
  },
@@ -13914,8 +15846,53 @@
    "mixed.nom.pl": [
     "hässlichen"
    ],
+   "strong.acc.f": [
+    "hässliche"
+   ],
+   "strong.acc.m": [
+    "hässlichen"
+   ],
+   "strong.acc.n": [
+    "hässliches"
+   ],
+   "strong.acc.pl": [
+    "hässliche"
+   ],
    "strong.dat.f": [
     "hässlicher"
+   ],
+   "strong.dat.m": [
+    "hässlichem"
+   ],
+   "strong.dat.n": [
+    "hässlichem"
+   ],
+   "strong.dat.pl": [
+    "hässlichen"
+   ],
+   "strong.gen.f": [
+    "hässlicher"
+   ],
+   "strong.gen.m": [
+    "hässlichen"
+   ],
+   "strong.gen.n": [
+    "hässlichen"
+   ],
+   "strong.gen.pl": [
+    "hässlicher"
+   ],
+   "strong.nom.f": [
+    "hässliche"
+   ],
+   "strong.nom.m": [
+    "hässlicher"
+   ],
+   "strong.nom.n": [
+    "hässliches"
+   ],
+   "strong.nom.pl": [
+    "hässliche"
    ],
    "superlative": [
     "am hässlichsten",
@@ -14164,8 +16141,53 @@
    "mixed.nom.pl": [
     "interessanten"
    ],
+   "strong.acc.f": [
+    "interessante"
+   ],
+   "strong.acc.m": [
+    "interessanten"
+   ],
+   "strong.acc.n": [
+    "interessantes"
+   ],
+   "strong.acc.pl": [
+    "interessante"
+   ],
    "strong.dat.f": [
     "interessanter"
+   ],
+   "strong.dat.m": [
+    "interessantem"
+   ],
+   "strong.dat.n": [
+    "interessantem"
+   ],
+   "strong.dat.pl": [
+    "interessanten"
+   ],
+   "strong.gen.f": [
+    "interessanter"
+   ],
+   "strong.gen.m": [
+    "interessanten"
+   ],
+   "strong.gen.n": [
+    "interessanten"
+   ],
+   "strong.gen.pl": [
+    "interessanter"
+   ],
+   "strong.nom.f": [
+    "interessante"
+   ],
+   "strong.nom.m": [
+    "interessanter"
+   ],
+   "strong.nom.n": [
+    "interessantes"
+   ],
+   "strong.nom.pl": [
+    "interessante"
    ],
    "superlative": [
     "am interessantesten",
@@ -14237,6 +16259,168 @@
    ],
    "weak.nom.pl": [
     "die interessanten"
+   ]
+  }
+ },
+ "italienisch": {
+  "all": [
+   "italienisch",
+   "italienische",
+   "italienischem",
+   "italienischen",
+   "italienischer",
+   "italienisches",
+   "italiänisch",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "Italian",
+  "pos": "adj",
+  "slots": {
+   "mixed.acc.f": [
+    "eine italienische"
+   ],
+   "mixed.acc.m": [
+    "einen italienischen"
+   ],
+   "mixed.acc.n": [
+    "ein italienisches"
+   ],
+   "mixed.acc.pl": [
+    "italienischen"
+   ],
+   "mixed.dat.f": [
+    "einer italienischen"
+   ],
+   "mixed.dat.m": [
+    "einem italienischen"
+   ],
+   "mixed.dat.n": [
+    "einem italienischen"
+   ],
+   "mixed.dat.pl": [
+    "italienischen"
+   ],
+   "mixed.gen.f": [
+    "einer italienischen"
+   ],
+   "mixed.gen.m": [
+    "eines italienischen"
+   ],
+   "mixed.gen.n": [
+    "eines italienischen"
+   ],
+   "mixed.gen.pl": [
+    "italienischen"
+   ],
+   "mixed.nom.f": [
+    "eine italienische"
+   ],
+   "mixed.nom.m": [
+    "ein italienischer"
+   ],
+   "mixed.nom.n": [
+    "ein italienisches"
+   ],
+   "mixed.nom.pl": [
+    "italienischen"
+   ],
+   "strong.acc.f": [
+    "italienische"
+   ],
+   "strong.acc.m": [
+    "italienischen"
+   ],
+   "strong.acc.n": [
+    "italienisches"
+   ],
+   "strong.acc.pl": [
+    "italienische"
+   ],
+   "strong.dat.f": [
+    "italienischer"
+   ],
+   "strong.dat.m": [
+    "italienischem"
+   ],
+   "strong.dat.n": [
+    "italienischem"
+   ],
+   "strong.dat.pl": [
+    "italienischen"
+   ],
+   "strong.gen.f": [
+    "italienischer"
+   ],
+   "strong.gen.m": [
+    "italienischen"
+   ],
+   "strong.gen.n": [
+    "italienischen"
+   ],
+   "strong.gen.pl": [
+    "italienischer"
+   ],
+   "strong.nom.f": [
+    "italienische"
+   ],
+   "strong.nom.m": [
+    "italienischer"
+   ],
+   "strong.nom.n": [
+    "italienisches"
+   ],
+   "strong.nom.pl": [
+    "italienische"
+   ],
+   "weak.acc.f": [
+    "die italienische"
+   ],
+   "weak.acc.m": [
+    "den italienischen"
+   ],
+   "weak.acc.n": [
+    "das italienische"
+   ],
+   "weak.acc.pl": [
+    "die italienischen"
+   ],
+   "weak.dat.f": [
+    "der italienischen"
+   ],
+   "weak.dat.m": [
+    "dem italienischen"
+   ],
+   "weak.dat.n": [
+    "dem italienischen"
+   ],
+   "weak.dat.pl": [
+    "den italienischen"
+   ],
+   "weak.gen.f": [
+    "der italienischen"
+   ],
+   "weak.gen.m": [
+    "des italienischen"
+   ],
+   "weak.gen.n": [
+    "des italienischen"
+   ],
+   "weak.gen.pl": [
+    "der italienischen"
+   ],
+   "weak.nom.f": [
+    "die italienische"
+   ],
+   "weak.nom.m": [
+    "der italienische"
+   ],
+   "weak.nom.n": [
+    "das italienische"
+   ],
+   "weak.nom.pl": [
+    "die italienischen"
    ]
   }
  },
@@ -14338,8 +16522,53 @@
    "mixed.nom.pl": [
     "jungen"
    ],
+   "strong.acc.f": [
+    "junge"
+   ],
+   "strong.acc.m": [
+    "jungen"
+   ],
+   "strong.acc.n": [
+    "junges"
+   ],
+   "strong.acc.pl": [
+    "junge"
+   ],
    "strong.dat.f": [
     "junger"
+   ],
+   "strong.dat.m": [
+    "jungem"
+   ],
+   "strong.dat.n": [
+    "jungem"
+   ],
+   "strong.dat.pl": [
+    "jungen"
+   ],
+   "strong.gen.f": [
+    "junger"
+   ],
+   "strong.gen.m": [
+    "jungen"
+   ],
+   "strong.gen.n": [
+    "jungen"
+   ],
+   "strong.gen.pl": [
+    "junger"
+   ],
+   "strong.nom.f": [
+    "junge"
+   ],
+   "strong.nom.m": [
+    "junger"
+   ],
+   "strong.nom.n": [
+    "junges"
+   ],
+   "strong.nom.pl": [
+    "junge"
    ],
    "superlative": [
     "am jüngsten",
@@ -14512,8 +16741,53 @@
    "mixed.nom.pl": [
     "kalten"
    ],
+   "strong.acc.f": [
+    "kalte"
+   ],
+   "strong.acc.m": [
+    "kalten"
+   ],
+   "strong.acc.n": [
+    "kaltes"
+   ],
+   "strong.acc.pl": [
+    "kalte"
+   ],
    "strong.dat.f": [
     "kalter"
+   ],
+   "strong.dat.m": [
+    "kaltem"
+   ],
+   "strong.dat.n": [
+    "kaltem"
+   ],
+   "strong.dat.pl": [
+    "kalten"
+   ],
+   "strong.gen.f": [
+    "kalter"
+   ],
+   "strong.gen.m": [
+    "kalten"
+   ],
+   "strong.gen.n": [
+    "kalten"
+   ],
+   "strong.gen.pl": [
+    "kalter"
+   ],
+   "strong.nom.f": [
+    "kalte"
+   ],
+   "strong.nom.m": [
+    "kalter"
+   ],
+   "strong.nom.n": [
+    "kaltes"
+   ],
+   "strong.nom.pl": [
+    "kalte"
    ],
    "superlative": [
     "am kältesten",
@@ -14685,8 +16959,53 @@
    "mixed.nom.pl": [
     "kaputten"
    ],
+   "strong.acc.f": [
+    "kaputte"
+   ],
+   "strong.acc.m": [
+    "kaputten"
+   ],
+   "strong.acc.n": [
+    "kaputtes"
+   ],
+   "strong.acc.pl": [
+    "kaputte"
+   ],
    "strong.dat.f": [
     "kaputter"
+   ],
+   "strong.dat.m": [
+    "kaputtem"
+   ],
+   "strong.dat.n": [
+    "kaputtem"
+   ],
+   "strong.dat.pl": [
+    "kaputten"
+   ],
+   "strong.gen.f": [
+    "kaputter"
+   ],
+   "strong.gen.m": [
+    "kaputten"
+   ],
+   "strong.gen.n": [
+    "kaputten"
+   ],
+   "strong.gen.pl": [
+    "kaputter"
+   ],
+   "strong.nom.f": [
+    "kaputte"
+   ],
+   "strong.nom.m": [
+    "kaputter"
+   ],
+   "strong.nom.n": [
+    "kaputtes"
+   ],
+   "strong.nom.pl": [
+    "kaputte"
    ],
    "superlative": [
     "am kaputtesten",
@@ -15017,8 +17336,53 @@
    "mixed.nom.pl": [
     "klaren"
    ],
+   "strong.acc.f": [
+    "klare"
+   ],
+   "strong.acc.m": [
+    "klaren"
+   ],
+   "strong.acc.n": [
+    "klares"
+   ],
+   "strong.acc.pl": [
+    "klare"
+   ],
    "strong.dat.f": [
     "klarer"
+   ],
+   "strong.dat.m": [
+    "klarem"
+   ],
+   "strong.dat.n": [
+    "klarem"
+   ],
+   "strong.dat.pl": [
+    "klaren"
+   ],
+   "strong.gen.f": [
+    "klarer"
+   ],
+   "strong.gen.m": [
+    "klaren"
+   ],
+   "strong.gen.n": [
+    "klaren"
+   ],
+   "strong.gen.pl": [
+    "klarer"
+   ],
+   "strong.nom.f": [
+    "klare"
+   ],
+   "strong.nom.m": [
+    "klarer"
+   ],
+   "strong.nom.n": [
+    "klares"
+   ],
+   "strong.nom.pl": [
+    "klare"
    ],
    "superlative": [
     "am klarsten",
@@ -15190,8 +17554,53 @@
    "mixed.nom.pl": [
     "kleinen"
    ],
+   "strong.acc.f": [
+    "kleine"
+   ],
+   "strong.acc.m": [
+    "kleinen"
+   ],
+   "strong.acc.n": [
+    "kleines"
+   ],
+   "strong.acc.pl": [
+    "kleine"
+   ],
    "strong.dat.f": [
     "kleiner"
+   ],
+   "strong.dat.m": [
+    "kleinem"
+   ],
+   "strong.dat.n": [
+    "kleinem"
+   ],
+   "strong.dat.pl": [
+    "kleinen"
+   ],
+   "strong.gen.f": [
+    "kleiner"
+   ],
+   "strong.gen.m": [
+    "kleinen"
+   ],
+   "strong.gen.n": [
+    "kleinen"
+   ],
+   "strong.gen.pl": [
+    "kleiner"
+   ],
+   "strong.nom.f": [
+    "kleine"
+   ],
+   "strong.nom.m": [
+    "kleiner"
+   ],
+   "strong.nom.n": [
+    "kleines"
+   ],
+   "strong.nom.pl": [
+    "kleine"
    ],
    "superlative": [
     "am kleinsten",
@@ -15659,8 +18068,53 @@
    "mixed.nom.pl": [
     "kranken"
    ],
+   "strong.acc.f": [
+    "kranke"
+   ],
+   "strong.acc.m": [
+    "kranken"
+   ],
+   "strong.acc.n": [
+    "krankes"
+   ],
+   "strong.acc.pl": [
+    "kranke"
+   ],
    "strong.dat.f": [
     "kranker"
+   ],
+   "strong.dat.m": [
+    "krankem"
+   ],
+   "strong.dat.n": [
+    "krankem"
+   ],
+   "strong.dat.pl": [
+    "kranken"
+   ],
+   "strong.gen.f": [
+    "kranker"
+   ],
+   "strong.gen.m": [
+    "kranken"
+   ],
+   "strong.gen.n": [
+    "kranken"
+   ],
+   "strong.gen.pl": [
+    "kranker"
+   ],
+   "strong.nom.f": [
+    "kranke"
+   ],
+   "strong.nom.m": [
+    "kranker"
+   ],
+   "strong.nom.n": [
+    "krankes"
+   ],
+   "strong.nom.pl": [
+    "kranke"
    ],
    "superlative": [
     "am kränksten",
@@ -15896,8 +18350,53 @@
    "mixed.nom.pl": [
     "kurzen"
    ],
+   "strong.acc.f": [
+    "kurze"
+   ],
+   "strong.acc.m": [
+    "kurzen"
+   ],
+   "strong.acc.n": [
+    "kurzes"
+   ],
+   "strong.acc.pl": [
+    "kurze"
+   ],
    "strong.dat.f": [
     "kurzer"
+   ],
+   "strong.dat.m": [
+    "kurzem"
+   ],
+   "strong.dat.n": [
+    "kurzem"
+   ],
+   "strong.dat.pl": [
+    "kurzen"
+   ],
+   "strong.gen.f": [
+    "kurzer"
+   ],
+   "strong.gen.m": [
+    "kurzen"
+   ],
+   "strong.gen.n": [
+    "kurzen"
+   ],
+   "strong.gen.pl": [
+    "kurzer"
+   ],
+   "strong.nom.f": [
+    "kurze"
+   ],
+   "strong.nom.m": [
+    "kurzer"
+   ],
+   "strong.nom.n": [
+    "kurzes"
+   ],
+   "strong.nom.pl": [
+    "kurze"
    ],
    "superlative": [
     "am kürzesten",
@@ -16241,8 +18740,53 @@
    "mixed.nom.pl": [
     "langen"
    ],
+   "strong.acc.f": [
+    "lange"
+   ],
+   "strong.acc.m": [
+    "langen"
+   ],
+   "strong.acc.n": [
+    "langes"
+   ],
+   "strong.acc.pl": [
+    "lange"
+   ],
    "strong.dat.f": [
     "langer"
+   ],
+   "strong.dat.m": [
+    "langem"
+   ],
+   "strong.dat.n": [
+    "langem"
+   ],
+   "strong.dat.pl": [
+    "langen"
+   ],
+   "strong.gen.f": [
+    "langer"
+   ],
+   "strong.gen.m": [
+    "langen"
+   ],
+   "strong.gen.n": [
+    "langen"
+   ],
+   "strong.gen.pl": [
+    "langer"
+   ],
+   "strong.nom.f": [
+    "lange"
+   ],
+   "strong.nom.m": [
+    "langer"
+   ],
+   "strong.nom.n": [
+    "langes"
+   ],
+   "strong.nom.pl": [
+    "lange"
    ],
    "superlative": [
     "am längsten",
@@ -16414,8 +18958,53 @@
    "mixed.nom.pl": [
     "langsamen"
    ],
+   "strong.acc.f": [
+    "langsame"
+   ],
+   "strong.acc.m": [
+    "langsamen"
+   ],
+   "strong.acc.n": [
+    "langsames"
+   ],
+   "strong.acc.pl": [
+    "langsame"
+   ],
    "strong.dat.f": [
     "langsamer"
+   ],
+   "strong.dat.m": [
+    "langsamem"
+   ],
+   "strong.dat.n": [
+    "langsamem"
+   ],
+   "strong.dat.pl": [
+    "langsamen"
+   ],
+   "strong.gen.f": [
+    "langsamer"
+   ],
+   "strong.gen.m": [
+    "langsamen"
+   ],
+   "strong.gen.n": [
+    "langsamen"
+   ],
+   "strong.gen.pl": [
+    "langsamer"
+   ],
+   "strong.nom.f": [
+    "langsame"
+   ],
+   "strong.nom.m": [
+    "langsamer"
+   ],
+   "strong.nom.n": [
+    "langsames"
+   ],
+   "strong.nom.pl": [
+    "langsame"
    ],
    "superlative": [
     "am langsamsten",
@@ -16587,8 +19176,53 @@
    "mixed.nom.pl": [
     "langweiligen"
    ],
+   "strong.acc.f": [
+    "langweilige"
+   ],
+   "strong.acc.m": [
+    "langweiligen"
+   ],
+   "strong.acc.n": [
+    "langweiliges"
+   ],
+   "strong.acc.pl": [
+    "langweilige"
+   ],
    "strong.dat.f": [
     "langweiliger"
+   ],
+   "strong.dat.m": [
+    "langweiligem"
+   ],
+   "strong.dat.n": [
+    "langweiligem"
+   ],
+   "strong.dat.pl": [
+    "langweiligen"
+   ],
+   "strong.gen.f": [
+    "langweiliger"
+   ],
+   "strong.gen.m": [
+    "langweiligen"
+   ],
+   "strong.gen.n": [
+    "langweiligen"
+   ],
+   "strong.gen.pl": [
+    "langweiliger"
+   ],
+   "strong.nom.f": [
+    "langweilige"
+   ],
+   "strong.nom.m": [
+    "langweiliger"
+   ],
+   "strong.nom.n": [
+    "langweiliges"
+   ],
+   "strong.nom.pl": [
+    "langweilige"
    ],
    "superlative": [
     "am langweiligsten",
@@ -16960,8 +19594,53 @@
    "mixed.nom.pl": [
     "lauten"
    ],
+   "strong.acc.f": [
+    "laute"
+   ],
+   "strong.acc.m": [
+    "lauten"
+   ],
+   "strong.acc.n": [
+    "lautes"
+   ],
+   "strong.acc.pl": [
+    "laute"
+   ],
    "strong.dat.f": [
     "lauter"
+   ],
+   "strong.dat.m": [
+    "lautem"
+   ],
+   "strong.dat.n": [
+    "lautem"
+   ],
+   "strong.dat.pl": [
+    "lauten"
+   ],
+   "strong.gen.f": [
+    "lauter"
+   ],
+   "strong.gen.m": [
+    "lauten"
+   ],
+   "strong.gen.n": [
+    "lauten"
+   ],
+   "strong.gen.pl": [
+    "lauter"
+   ],
+   "strong.nom.f": [
+    "laute"
+   ],
+   "strong.nom.m": [
+    "lauter"
+   ],
+   "strong.nom.n": [
+    "lautes"
+   ],
+   "strong.nom.pl": [
+    "laute"
    ],
    "superlative": [
     "am lautesten",
@@ -17113,6 +19792,220 @@
    ]
   }
  },
+ "lecker": {
+  "all": [
+   "keine",
+   "keinen",
+   "keiner",
+   "lecker",
+   "leckere",
+   "leckerem",
+   "leckeren",
+   "leckerer",
+   "leckeres",
+   "leckre",
+   "leckrem",
+   "leckren",
+   "leckrer",
+   "leckres"
+  ],
+  "english": "tasty",
+  "pos": "adj",
+  "slots": {
+   "mixed.acc.f": [
+    "eine leckere",
+    "eine leckre"
+   ],
+   "mixed.acc.m": [
+    "einen leckeren",
+    "einen leckren"
+   ],
+   "mixed.acc.n": [
+    "ein leckeres",
+    "ein leckres"
+   ],
+   "mixed.acc.pl": [
+    "leckeren",
+    "leckren"
+   ],
+   "mixed.dat.f": [
+    "einer leckeren",
+    "einer leckren"
+   ],
+   "mixed.dat.m": [
+    "einem leckeren",
+    "einem leckren"
+   ],
+   "mixed.dat.n": [
+    "einem leckeren",
+    "einem leckren"
+   ],
+   "mixed.dat.pl": [
+    "leckeren",
+    "leckren"
+   ],
+   "mixed.gen.f": [
+    "einer leckeren",
+    "einer leckren"
+   ],
+   "mixed.gen.m": [
+    "eines leckeren",
+    "eines leckren"
+   ],
+   "mixed.gen.n": [
+    "eines leckeren",
+    "eines leckren"
+   ],
+   "mixed.gen.pl": [
+    "leckeren",
+    "leckren"
+   ],
+   "mixed.nom.f": [
+    "eine leckere",
+    "eine leckre"
+   ],
+   "mixed.nom.m": [
+    "ein leckerer",
+    "ein leckrer"
+   ],
+   "mixed.nom.n": [
+    "ein leckeres",
+    "ein leckres"
+   ],
+   "mixed.nom.pl": [
+    "leckeren",
+    "leckren"
+   ],
+   "strong.acc.f": [
+    "leckere",
+    "leckre"
+   ],
+   "strong.acc.m": [
+    "leckeren",
+    "leckren"
+   ],
+   "strong.acc.n": [
+    "leckeres",
+    "leckres"
+   ],
+   "strong.acc.pl": [
+    "leckere",
+    "leckre"
+   ],
+   "strong.dat.f": [
+    "leckerer",
+    "leckrer"
+   ],
+   "strong.dat.m": [
+    "leckerem",
+    "leckrem"
+   ],
+   "strong.dat.n": [
+    "leckerem",
+    "leckrem"
+   ],
+   "strong.dat.pl": [
+    "leckeren",
+    "leckren"
+   ],
+   "strong.gen.f": [
+    "leckerer",
+    "leckrer"
+   ],
+   "strong.gen.m": [
+    "leckeren",
+    "leckren"
+   ],
+   "strong.gen.n": [
+    "leckeren",
+    "leckren"
+   ],
+   "strong.gen.pl": [
+    "leckerer",
+    "leckrer"
+   ],
+   "strong.nom.f": [
+    "leckere",
+    "leckre"
+   ],
+   "strong.nom.m": [
+    "leckerer",
+    "leckrer"
+   ],
+   "strong.nom.n": [
+    "leckeres",
+    "leckres"
+   ],
+   "strong.nom.pl": [
+    "leckere",
+    "leckre"
+   ],
+   "weak.acc.f": [
+    "die leckere",
+    "die leckre"
+   ],
+   "weak.acc.m": [
+    "den leckeren",
+    "den leckren"
+   ],
+   "weak.acc.n": [
+    "das leckere",
+    "das leckre"
+   ],
+   "weak.acc.pl": [
+    "die leckeren",
+    "die leckren"
+   ],
+   "weak.dat.f": [
+    "der leckeren",
+    "der leckren"
+   ],
+   "weak.dat.m": [
+    "dem leckeren",
+    "dem leckren"
+   ],
+   "weak.dat.n": [
+    "dem leckeren",
+    "dem leckren"
+   ],
+   "weak.dat.pl": [
+    "den leckeren",
+    "den leckren"
+   ],
+   "weak.gen.f": [
+    "der leckeren",
+    "der leckren"
+   ],
+   "weak.gen.m": [
+    "des leckeren",
+    "des leckren"
+   ],
+   "weak.gen.n": [
+    "des leckeren",
+    "des leckren"
+   ],
+   "weak.gen.pl": [
+    "der leckeren",
+    "der leckren"
+   ],
+   "weak.nom.f": [
+    "die leckere",
+    "die leckre"
+   ],
+   "weak.nom.m": [
+    "der leckere",
+    "der leckre"
+   ],
+   "weak.nom.n": [
+    "das leckere",
+    "das leckre"
+   ],
+   "weak.nom.pl": [
+    "die leckeren",
+    "die leckren"
+   ]
+  }
+ },
  "leer": {
   "all": [
    "am",
@@ -17210,8 +20103,53 @@
    "mixed.nom.pl": [
     "leeren"
    ],
+   "strong.acc.f": [
+    "leere"
+   ],
+   "strong.acc.m": [
+    "leeren"
+   ],
+   "strong.acc.n": [
+    "leeres"
+   ],
+   "strong.acc.pl": [
+    "leere"
+   ],
    "strong.dat.f": [
     "leerer"
+   ],
+   "strong.dat.m": [
+    "leerem"
+   ],
+   "strong.dat.n": [
+    "leerem"
+   ],
+   "strong.dat.pl": [
+    "leeren"
+   ],
+   "strong.gen.f": [
+    "leerer"
+   ],
+   "strong.gen.m": [
+    "leeren"
+   ],
+   "strong.gen.n": [
+    "leeren"
+   ],
+   "strong.gen.pl": [
+    "leerer"
+   ],
+   "strong.nom.f": [
+    "leere"
+   ],
+   "strong.nom.m": [
+    "leerer"
+   ],
+   "strong.nom.n": [
+    "leeres"
+   ],
+   "strong.nom.pl": [
+    "leere"
    ],
    "superlative": [
     "am leersten",
@@ -17540,8 +20478,53 @@
    "mixed.nom.pl": [
     "leisen"
    ],
+   "strong.acc.f": [
+    "leise"
+   ],
+   "strong.acc.m": [
+    "leisen"
+   ],
+   "strong.acc.n": [
+    "leises"
+   ],
+   "strong.acc.pl": [
+    "leise"
+   ],
    "strong.dat.f": [
     "leiser"
+   ],
+   "strong.dat.m": [
+    "leisem"
+   ],
+   "strong.dat.n": [
+    "leisem"
+   ],
+   "strong.dat.pl": [
+    "leisen"
+   ],
+   "strong.gen.f": [
+    "leiser"
+   ],
+   "strong.gen.m": [
+    "leisen"
+   ],
+   "strong.gen.n": [
+    "leisen"
+   ],
+   "strong.gen.pl": [
+    "leiser"
+   ],
+   "strong.nom.f": [
+    "leise"
+   ],
+   "strong.nom.m": [
+    "leiser"
+   ],
+   "strong.nom.n": [
+    "leises"
+   ],
+   "strong.nom.pl": [
+    "leise"
    ],
    "superlative": [
     "am leisesten",
@@ -18058,8 +21041,53 @@
    "mixed.nom.pl": [
     "lustigen"
    ],
+   "strong.acc.f": [
+    "lustige"
+   ],
+   "strong.acc.m": [
+    "lustigen"
+   ],
+   "strong.acc.n": [
+    "lustiges"
+   ],
+   "strong.acc.pl": [
+    "lustige"
+   ],
    "strong.dat.f": [
     "lustiger"
+   ],
+   "strong.dat.m": [
+    "lustigem"
+   ],
+   "strong.dat.n": [
+    "lustigem"
+   ],
+   "strong.dat.pl": [
+    "lustigen"
+   ],
+   "strong.gen.f": [
+    "lustiger"
+   ],
+   "strong.gen.m": [
+    "lustigen"
+   ],
+   "strong.gen.n": [
+    "lustigen"
+   ],
+   "strong.gen.pl": [
+    "lustiger"
+   ],
+   "strong.nom.f": [
+    "lustige"
+   ],
+   "strong.nom.m": [
+    "lustiger"
+   ],
+   "strong.nom.n": [
+    "lustiges"
+   ],
+   "strong.nom.pl": [
+    "lustige"
    ],
    "superlative": [
     "am lustigsten",
@@ -18658,8 +21686,53 @@
    "mixed.nom.pl": [
     "müden"
    ],
+   "strong.acc.f": [
+    "müde"
+   ],
+   "strong.acc.m": [
+    "müden"
+   ],
+   "strong.acc.n": [
+    "müdes"
+   ],
+   "strong.acc.pl": [
+    "müde"
+   ],
    "strong.dat.f": [
     "müder"
+   ],
+   "strong.dat.m": [
+    "müdem"
+   ],
+   "strong.dat.n": [
+    "müdem"
+   ],
+   "strong.dat.pl": [
+    "müden"
+   ],
+   "strong.gen.f": [
+    "müder"
+   ],
+   "strong.gen.m": [
+    "müden"
+   ],
+   "strong.gen.n": [
+    "müden"
+   ],
+   "strong.gen.pl": [
+    "müder"
+   ],
+   "strong.nom.f": [
+    "müde"
+   ],
+   "strong.nom.m": [
+    "müder"
+   ],
+   "strong.nom.n": [
+    "müdes"
+   ],
+   "strong.nom.pl": [
+    "müde"
    ],
    "superlative": [
     "am müdesten",
@@ -19020,8 +22093,53 @@
    "mixed.nom.pl": [
     "netten"
    ],
+   "strong.acc.f": [
+    "nette"
+   ],
+   "strong.acc.m": [
+    "netten"
+   ],
+   "strong.acc.n": [
+    "nettes"
+   ],
+   "strong.acc.pl": [
+    "nette"
+   ],
    "strong.dat.f": [
     "netter"
+   ],
+   "strong.dat.m": [
+    "nettem"
+   ],
+   "strong.dat.n": [
+    "nettem"
+   ],
+   "strong.dat.pl": [
+    "netten"
+   ],
+   "strong.gen.f": [
+    "netter"
+   ],
+   "strong.gen.m": [
+    "netten"
+   ],
+   "strong.gen.n": [
+    "netten"
+   ],
+   "strong.gen.pl": [
+    "netter"
+   ],
+   "strong.nom.f": [
+    "nette"
+   ],
+   "strong.nom.m": [
+    "netter"
+   ],
+   "strong.nom.n": [
+    "nettes"
+   ],
+   "strong.nom.pl": [
+    "nette"
    ],
    "superlative": [
     "am nettesten",
@@ -19200,8 +22318,53 @@
    "mixed.nom.pl": [
     "neuen"
    ],
+   "strong.acc.f": [
+    "neue"
+   ],
+   "strong.acc.m": [
+    "neuen"
+   ],
+   "strong.acc.n": [
+    "neues"
+   ],
+   "strong.acc.pl": [
+    "neue"
+   ],
    "strong.dat.f": [
     "neuer"
+   ],
+   "strong.dat.m": [
+    "neuem"
+   ],
+   "strong.dat.n": [
+    "neuem"
+   ],
+   "strong.dat.pl": [
+    "neuen"
+   ],
+   "strong.gen.f": [
+    "neuer"
+   ],
+   "strong.gen.m": [
+    "neuen"
+   ],
+   "strong.gen.n": [
+    "neuen"
+   ],
+   "strong.gen.pl": [
+    "neuer"
+   ],
+   "strong.nom.f": [
+    "neue"
+   ],
+   "strong.nom.m": [
+    "neuer"
+   ],
+   "strong.nom.n": [
+    "neues"
+   ],
+   "strong.nom.pl": [
+    "neue"
    ],
    "superlative": [
     "am neuesten",
@@ -19888,8 +23051,53 @@
    "mixed.nom.pl": [
     "roten"
    ],
+   "strong.acc.f": [
+    "rote"
+   ],
+   "strong.acc.m": [
+    "roten"
+   ],
+   "strong.acc.n": [
+    "rotes"
+   ],
+   "strong.acc.pl": [
+    "rote"
+   ],
    "strong.dat.f": [
     "roter"
+   ],
+   "strong.dat.m": [
+    "rotem"
+   ],
+   "strong.dat.n": [
+    "rotem"
+   ],
+   "strong.dat.pl": [
+    "roten"
+   ],
+   "strong.gen.f": [
+    "roter"
+   ],
+   "strong.gen.m": [
+    "roten"
+   ],
+   "strong.gen.n": [
+    "roten"
+   ],
+   "strong.gen.pl": [
+    "roter"
+   ],
+   "strong.nom.f": [
+    "rote"
+   ],
+   "strong.nom.m": [
+    "roter"
+   ],
+   "strong.nom.n": [
+    "rotes"
+   ],
+   "strong.nom.pl": [
+    "rote"
    ],
    "superlative": [
     "am rötesten",
@@ -20082,8 +23290,53 @@
    "mixed.nom.pl": [
     "ruhigen"
    ],
+   "strong.acc.f": [
+    "ruhige"
+   ],
+   "strong.acc.m": [
+    "ruhigen"
+   ],
+   "strong.acc.n": [
+    "ruhiges"
+   ],
+   "strong.acc.pl": [
+    "ruhige"
+   ],
    "strong.dat.f": [
     "ruhiger"
+   ],
+   "strong.dat.m": [
+    "ruhigem"
+   ],
+   "strong.dat.n": [
+    "ruhigem"
+   ],
+   "strong.dat.pl": [
+    "ruhigen"
+   ],
+   "strong.gen.f": [
+    "ruhiger"
+   ],
+   "strong.gen.m": [
+    "ruhigen"
+   ],
+   "strong.gen.n": [
+    "ruhigen"
+   ],
+   "strong.gen.pl": [
+    "ruhiger"
+   ],
+   "strong.nom.f": [
+    "ruhige"
+   ],
+   "strong.nom.m": [
+    "ruhiger"
+   ],
+   "strong.nom.n": [
+    "ruhiges"
+   ],
+   "strong.nom.pl": [
+    "ruhige"
    ],
    "superlative": [
     "am ruhigsten",
@@ -20332,8 +23585,53 @@
    "mixed.nom.pl": [
     "sauberen"
    ],
+   "strong.acc.f": [
+    "saubere"
+   ],
+   "strong.acc.m": [
+    "sauberen"
+   ],
+   "strong.acc.n": [
+    "sauberes"
+   ],
+   "strong.acc.pl": [
+    "saubere"
+   ],
    "strong.dat.f": [
     "sauberer"
+   ],
+   "strong.dat.m": [
+    "sauberem"
+   ],
+   "strong.dat.n": [
+    "sauberem"
+   ],
+   "strong.dat.pl": [
+    "sauberen"
+   ],
+   "strong.gen.f": [
+    "sauberer"
+   ],
+   "strong.gen.m": [
+    "sauberen"
+   ],
+   "strong.gen.n": [
+    "sauberen"
+   ],
+   "strong.gen.pl": [
+    "sauberer"
+   ],
+   "strong.nom.f": [
+    "saubere"
+   ],
+   "strong.nom.m": [
+    "sauberer"
+   ],
+   "strong.nom.n": [
+    "sauberes"
+   ],
+   "strong.nom.pl": [
+    "saubere"
    ],
    "superlative": [
     "am saubersten",
@@ -20405,6 +23703,225 @@
    ],
    "weak.nom.pl": [
     "die sauberen"
+   ]
+  }
+ },
+ "scharf": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "scharf",
+   "scharfe",
+   "scharfem",
+   "scharfen",
+   "scharfer",
+   "scharfes",
+   "schärfer",
+   "schärfere",
+   "schärferem",
+   "schärferen",
+   "schärferer",
+   "schärferes",
+   "schärfste",
+   "schärfstem",
+   "schärfsten",
+   "schärfster",
+   "schärfstes"
+  ],
+  "english": "spicy, hot; sharp",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schärfer",
+    "schärferer",
+    "schärfere",
+    "schärferes",
+    "schärferen",
+    "schärferem",
+    "der schärfere",
+    "die schärfere",
+    "das schärfere",
+    "die schärferen",
+    "des schärferen",
+    "der schärferen",
+    "dem schärferen",
+    "den schärferen",
+    "ein schärferer",
+    "eine schärfere",
+    "ein schärferes",
+    "eines schärferen",
+    "einer schärferen",
+    "einem schärferen",
+    "einen schärferen"
+   ],
+   "mixed.acc.f": [
+    "eine scharfe"
+   ],
+   "mixed.acc.m": [
+    "einen scharfen"
+   ],
+   "mixed.acc.n": [
+    "ein scharfes"
+   ],
+   "mixed.acc.pl": [
+    "scharfen"
+   ],
+   "mixed.dat.f": [
+    "einer scharfen"
+   ],
+   "mixed.dat.m": [
+    "einem scharfen"
+   ],
+   "mixed.dat.n": [
+    "einem scharfen"
+   ],
+   "mixed.dat.pl": [
+    "scharfen"
+   ],
+   "mixed.gen.f": [
+    "einer scharfen"
+   ],
+   "mixed.gen.m": [
+    "eines scharfen"
+   ],
+   "mixed.gen.n": [
+    "eines scharfen"
+   ],
+   "mixed.gen.pl": [
+    "scharfen"
+   ],
+   "mixed.nom.f": [
+    "eine scharfe"
+   ],
+   "mixed.nom.m": [
+    "ein scharfer"
+   ],
+   "mixed.nom.n": [
+    "ein scharfes"
+   ],
+   "mixed.nom.pl": [
+    "scharfen"
+   ],
+   "strong.acc.f": [
+    "scharfe"
+   ],
+   "strong.acc.m": [
+    "scharfen"
+   ],
+   "strong.acc.n": [
+    "scharfes"
+   ],
+   "strong.acc.pl": [
+    "scharfe"
+   ],
+   "strong.dat.f": [
+    "scharfer"
+   ],
+   "strong.dat.m": [
+    "scharfem"
+   ],
+   "strong.dat.n": [
+    "scharfem"
+   ],
+   "strong.dat.pl": [
+    "scharfen"
+   ],
+   "strong.gen.f": [
+    "scharfer"
+   ],
+   "strong.gen.m": [
+    "scharfen"
+   ],
+   "strong.gen.n": [
+    "scharfen"
+   ],
+   "strong.gen.pl": [
+    "scharfer"
+   ],
+   "strong.nom.f": [
+    "scharfe"
+   ],
+   "strong.nom.m": [
+    "scharfer"
+   ],
+   "strong.nom.n": [
+    "scharfes"
+   ],
+   "strong.nom.pl": [
+    "scharfe"
+   ],
+   "superlative": [
+    "am schärfsten",
+    "schärfster",
+    "schärfste",
+    "schärfstes",
+    "schärfsten",
+    "schärfstem",
+    "der schärfste",
+    "die schärfste",
+    "das schärfste",
+    "die schärfsten",
+    "des schärfsten",
+    "der schärfsten",
+    "dem schärfsten",
+    "den schärfsten",
+    "ein schärfster",
+    "eine schärfste",
+    "ein schärfstes",
+    "eines schärfsten",
+    "einer schärfsten",
+    "einem schärfsten",
+    "einen schärfsten"
+   ],
+   "weak.acc.f": [
+    "die scharfe"
+   ],
+   "weak.acc.m": [
+    "den scharfen"
+   ],
+   "weak.acc.n": [
+    "das scharfe"
+   ],
+   "weak.acc.pl": [
+    "die scharfen"
+   ],
+   "weak.dat.f": [
+    "der scharfen"
+   ],
+   "weak.dat.m": [
+    "dem scharfen"
+   ],
+   "weak.dat.n": [
+    "dem scharfen"
+   ],
+   "weak.dat.pl": [
+    "den scharfen"
+   ],
+   "weak.gen.f": [
+    "der scharfen"
+   ],
+   "weak.gen.m": [
+    "des scharfen"
+   ],
+   "weak.gen.n": [
+    "des scharfen"
+   ],
+   "weak.gen.pl": [
+    "der scharfen"
+   ],
+   "weak.nom.f": [
+    "die scharfe"
+   ],
+   "weak.nom.m": [
+    "der scharfe"
+   ],
+   "weak.nom.n": [
+    "das scharfe"
+   ],
+   "weak.nom.pl": [
+    "die scharfen"
    ]
   }
  },
@@ -20663,8 +24180,53 @@
    "mixed.nom.pl": [
     "schlechten"
    ],
+   "strong.acc.f": [
+    "schlechte"
+   ],
+   "strong.acc.m": [
+    "schlechten"
+   ],
+   "strong.acc.n": [
+    "schlechtes"
+   ],
+   "strong.acc.pl": [
+    "schlechte"
+   ],
    "strong.dat.f": [
     "schlechter"
+   ],
+   "strong.dat.m": [
+    "schlechtem"
+   ],
+   "strong.dat.n": [
+    "schlechtem"
+   ],
+   "strong.dat.pl": [
+    "schlechten"
+   ],
+   "strong.gen.f": [
+    "schlechter"
+   ],
+   "strong.gen.m": [
+    "schlechten"
+   ],
+   "strong.gen.n": [
+    "schlechten"
+   ],
+   "strong.gen.pl": [
+    "schlechter"
+   ],
+   "strong.nom.f": [
+    "schlechte"
+   ],
+   "strong.nom.m": [
+    "schlechter"
+   ],
+   "strong.nom.n": [
+    "schlechtes"
+   ],
+   "strong.nom.pl": [
+    "schlechte"
    ],
    "superlative": [
     "am schlechtesten",
@@ -20996,8 +24558,53 @@
    "mixed.nom.pl": [
     "schmutzigen"
    ],
+   "strong.acc.f": [
+    "schmutzige"
+   ],
+   "strong.acc.m": [
+    "schmutzigen"
+   ],
+   "strong.acc.n": [
+    "schmutziges"
+   ],
+   "strong.acc.pl": [
+    "schmutzige"
+   ],
    "strong.dat.f": [
     "schmutziger"
+   ],
+   "strong.dat.m": [
+    "schmutzigem"
+   ],
+   "strong.dat.n": [
+    "schmutzigem"
+   ],
+   "strong.dat.pl": [
+    "schmutzigen"
+   ],
+   "strong.gen.f": [
+    "schmutziger"
+   ],
+   "strong.gen.m": [
+    "schmutzigen"
+   ],
+   "strong.gen.n": [
+    "schmutzigen"
+   ],
+   "strong.gen.pl": [
+    "schmutziger"
+   ],
+   "strong.nom.f": [
+    "schmutzige"
+   ],
+   "strong.nom.m": [
+    "schmutziger"
+   ],
+   "strong.nom.n": [
+    "schmutziges"
+   ],
+   "strong.nom.pl": [
+    "schmutzige"
    ],
    "superlative": [
     "am schmutzigsten",
@@ -21169,8 +24776,53 @@
    "mixed.nom.pl": [
     "schnellen"
    ],
+   "strong.acc.f": [
+    "schnelle"
+   ],
+   "strong.acc.m": [
+    "schnellen"
+   ],
+   "strong.acc.n": [
+    "schnelles"
+   ],
+   "strong.acc.pl": [
+    "schnelle"
+   ],
    "strong.dat.f": [
     "schneller"
+   ],
+   "strong.dat.m": [
+    "schnellem"
+   ],
+   "strong.dat.n": [
+    "schnellem"
+   ],
+   "strong.dat.pl": [
+    "schnellen"
+   ],
+   "strong.gen.f": [
+    "schneller"
+   ],
+   "strong.gen.m": [
+    "schnellen"
+   ],
+   "strong.gen.n": [
+    "schnellen"
+   ],
+   "strong.gen.pl": [
+    "schneller"
+   ],
+   "strong.nom.f": [
+    "schnelle"
+   ],
+   "strong.nom.m": [
+    "schneller"
+   ],
+   "strong.nom.n": [
+    "schnelles"
+   ],
+   "strong.nom.pl": [
+    "schnelle"
    ],
    "superlative": [
     "am schnellsten",
@@ -21454,8 +25106,53 @@
    "mixed.nom.pl": [
     "schwarzen"
    ],
+   "strong.acc.f": [
+    "schwarze"
+   ],
+   "strong.acc.m": [
+    "schwarzen"
+   ],
+   "strong.acc.n": [
+    "schwarzes"
+   ],
+   "strong.acc.pl": [
+    "schwarze"
+   ],
    "strong.dat.f": [
     "schwarzer"
+   ],
+   "strong.dat.m": [
+    "schwarzem"
+   ],
+   "strong.dat.n": [
+    "schwarzem"
+   ],
+   "strong.dat.pl": [
+    "schwarzen"
+   ],
+   "strong.gen.f": [
+    "schwarzer"
+   ],
+   "strong.gen.m": [
+    "schwarzen"
+   ],
+   "strong.gen.n": [
+    "schwarzen"
+   ],
+   "strong.gen.pl": [
+    "schwarzer"
+   ],
+   "strong.nom.f": [
+    "schwarze"
+   ],
+   "strong.nom.m": [
+    "schwarzer"
+   ],
+   "strong.nom.n": [
+    "schwarzes"
+   ],
+   "strong.nom.pl": [
+    "schwarze"
    ],
    "superlative": [
     "am schwärzesten",
@@ -21648,8 +25345,53 @@
    "mixed.nom.pl": [
     "schwierigen"
    ],
+   "strong.acc.f": [
+    "schwierige"
+   ],
+   "strong.acc.m": [
+    "schwierigen"
+   ],
+   "strong.acc.n": [
+    "schwieriges"
+   ],
+   "strong.acc.pl": [
+    "schwierige"
+   ],
    "strong.dat.f": [
     "schwieriger"
+   ],
+   "strong.dat.m": [
+    "schwierigem"
+   ],
+   "strong.dat.n": [
+    "schwierigem"
+   ],
+   "strong.dat.pl": [
+    "schwierigen"
+   ],
+   "strong.gen.f": [
+    "schwieriger"
+   ],
+   "strong.gen.m": [
+    "schwierigen"
+   ],
+   "strong.gen.n": [
+    "schwierigen"
+   ],
+   "strong.gen.pl": [
+    "schwieriger"
+   ],
+   "strong.nom.f": [
+    "schwierige"
+   ],
+   "strong.nom.m": [
+    "schwieriger"
+   ],
+   "strong.nom.n": [
+    "schwieriges"
+   ],
+   "strong.nom.pl": [
+    "schwierige"
    ],
    "superlative": [
     "am schwierigsten",
@@ -21927,8 +25669,53 @@
    "mixed.nom.pl": [
     "schönen"
    ],
+   "strong.acc.f": [
+    "schöne"
+   ],
+   "strong.acc.m": [
+    "schönen"
+   ],
+   "strong.acc.n": [
+    "schönes"
+   ],
+   "strong.acc.pl": [
+    "schöne"
+   ],
    "strong.dat.f": [
     "schöner"
+   ],
+   "strong.dat.m": [
+    "schönem"
+   ],
+   "strong.dat.n": [
+    "schönem"
+   ],
+   "strong.dat.pl": [
+    "schönen"
+   ],
+   "strong.gen.f": [
+    "schöner"
+   ],
+   "strong.gen.m": [
+    "schönen"
+   ],
+   "strong.gen.n": [
+    "schönen"
+   ],
+   "strong.gen.pl": [
+    "schöner"
+   ],
+   "strong.nom.f": [
+    "schöne"
+   ],
+   "strong.nom.m": [
+    "schöner"
+   ],
+   "strong.nom.n": [
+    "schönes"
+   ],
+   "strong.nom.pl": [
+    "schöne"
    ],
    "superlative": [
     "am schönsten",
@@ -22729,8 +26516,53 @@
    "mixed.nom.pl": [
     "späten"
    ],
+   "strong.acc.f": [
+    "späte"
+   ],
+   "strong.acc.m": [
+    "späten"
+   ],
+   "strong.acc.n": [
+    "spätes"
+   ],
+   "strong.acc.pl": [
+    "späte"
+   ],
    "strong.dat.f": [
     "später"
+   ],
+   "strong.dat.m": [
+    "spätem"
+   ],
+   "strong.dat.n": [
+    "spätem"
+   ],
+   "strong.dat.pl": [
+    "späten"
+   ],
+   "strong.gen.f": [
+    "später"
+   ],
+   "strong.gen.m": [
+    "späten"
+   ],
+   "strong.gen.n": [
+    "späten"
+   ],
+   "strong.gen.pl": [
+    "später"
+   ],
+   "strong.nom.f": [
+    "späte"
+   ],
+   "strong.nom.m": [
+    "später"
+   ],
+   "strong.nom.n": [
+    "spätes"
+   ],
+   "strong.nom.pl": [
+    "späte"
    ],
    "superlative": [
     "am spätesten",
@@ -23075,6 +26907,225 @@
    ]
   }
  },
+ "süß": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "süss",
+   "süß",
+   "süße",
+   "süßem",
+   "süßen",
+   "süßer",
+   "süßere",
+   "süßerem",
+   "süßeren",
+   "süßerer",
+   "süßeres",
+   "süßes",
+   "süßeste",
+   "süßestem",
+   "süßesten",
+   "süßester",
+   "süßestes"
+  ],
+  "english": "sweet",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "süßer",
+    "süßerer",
+    "süßere",
+    "süßeres",
+    "süßeren",
+    "süßerem",
+    "der süßere",
+    "die süßere",
+    "das süßere",
+    "die süßeren",
+    "des süßeren",
+    "der süßeren",
+    "dem süßeren",
+    "den süßeren",
+    "ein süßerer",
+    "eine süßere",
+    "ein süßeres",
+    "eines süßeren",
+    "einer süßeren",
+    "einem süßeren",
+    "einen süßeren"
+   ],
+   "mixed.acc.f": [
+    "eine süße"
+   ],
+   "mixed.acc.m": [
+    "einen süßen"
+   ],
+   "mixed.acc.n": [
+    "ein süßes"
+   ],
+   "mixed.acc.pl": [
+    "süßen"
+   ],
+   "mixed.dat.f": [
+    "einer süßen"
+   ],
+   "mixed.dat.m": [
+    "einem süßen"
+   ],
+   "mixed.dat.n": [
+    "einem süßen"
+   ],
+   "mixed.dat.pl": [
+    "süßen"
+   ],
+   "mixed.gen.f": [
+    "einer süßen"
+   ],
+   "mixed.gen.m": [
+    "eines süßen"
+   ],
+   "mixed.gen.n": [
+    "eines süßen"
+   ],
+   "mixed.gen.pl": [
+    "süßen"
+   ],
+   "mixed.nom.f": [
+    "eine süße"
+   ],
+   "mixed.nom.m": [
+    "ein süßer"
+   ],
+   "mixed.nom.n": [
+    "ein süßes"
+   ],
+   "mixed.nom.pl": [
+    "süßen"
+   ],
+   "strong.acc.f": [
+    "süße"
+   ],
+   "strong.acc.m": [
+    "süßen"
+   ],
+   "strong.acc.n": [
+    "süßes"
+   ],
+   "strong.acc.pl": [
+    "süße"
+   ],
+   "strong.dat.f": [
+    "süßer"
+   ],
+   "strong.dat.m": [
+    "süßem"
+   ],
+   "strong.dat.n": [
+    "süßem"
+   ],
+   "strong.dat.pl": [
+    "süßen"
+   ],
+   "strong.gen.f": [
+    "süßer"
+   ],
+   "strong.gen.m": [
+    "süßen"
+   ],
+   "strong.gen.n": [
+    "süßen"
+   ],
+   "strong.gen.pl": [
+    "süßer"
+   ],
+   "strong.nom.f": [
+    "süße"
+   ],
+   "strong.nom.m": [
+    "süßer"
+   ],
+   "strong.nom.n": [
+    "süßes"
+   ],
+   "strong.nom.pl": [
+    "süße"
+   ],
+   "superlative": [
+    "am süßesten",
+    "süßester",
+    "süßeste",
+    "süßestes",
+    "süßesten",
+    "süßestem",
+    "der süßeste",
+    "die süßeste",
+    "das süßeste",
+    "die süßesten",
+    "des süßesten",
+    "der süßesten",
+    "dem süßesten",
+    "den süßesten",
+    "ein süßester",
+    "eine süßeste",
+    "ein süßestes",
+    "eines süßesten",
+    "einer süßesten",
+    "einem süßesten",
+    "einen süßesten"
+   ],
+   "weak.acc.f": [
+    "die süße"
+   ],
+   "weak.acc.m": [
+    "den süßen"
+   ],
+   "weak.acc.n": [
+    "das süße"
+   ],
+   "weak.acc.pl": [
+    "die süßen"
+   ],
+   "weak.dat.f": [
+    "der süßen"
+   ],
+   "weak.dat.m": [
+    "dem süßen"
+   ],
+   "weak.dat.n": [
+    "dem süßen"
+   ],
+   "weak.dat.pl": [
+    "den süßen"
+   ],
+   "weak.gen.f": [
+    "der süßen"
+   ],
+   "weak.gen.m": [
+    "des süßen"
+   ],
+   "weak.gen.n": [
+    "des süßen"
+   ],
+   "weak.gen.pl": [
+    "der süßen"
+   ],
+   "weak.nom.f": [
+    "die süße"
+   ],
+   "weak.nom.m": [
+    "der süße"
+   ],
+   "weak.nom.n": [
+    "das süße"
+   ],
+   "weak.nom.pl": [
+    "die süßen"
+   ]
+  }
+ },
  "tanzen": {
   "all": [
    "getanzt",
@@ -23257,8 +27308,53 @@
    "mixed.nom.pl": [
     "teuren"
    ],
+   "strong.acc.f": [
+    "teure"
+   ],
+   "strong.acc.m": [
+    "teuren"
+   ],
+   "strong.acc.n": [
+    "teures"
+   ],
+   "strong.acc.pl": [
+    "teure"
+   ],
    "strong.dat.f": [
     "teurer"
+   ],
+   "strong.dat.m": [
+    "teurem"
+   ],
+   "strong.dat.n": [
+    "teurem"
+   ],
+   "strong.dat.pl": [
+    "teuren"
+   ],
+   "strong.gen.f": [
+    "teurer"
+   ],
+   "strong.gen.m": [
+    "teuren"
+   ],
+   "strong.gen.n": [
+    "teuren"
+   ],
+   "strong.gen.pl": [
+    "teurer"
+   ],
+   "strong.nom.f": [
+    "teure"
+   ],
+   "strong.nom.m": [
+    "teurer"
+   ],
+   "strong.nom.n": [
+    "teures"
+   ],
+   "strong.nom.pl": [
+    "teure"
    ],
    "superlative": [
     "am teuersten",
@@ -23430,8 +27526,53 @@
    "mixed.nom.pl": [
     "tollen"
    ],
+   "strong.acc.f": [
+    "tolle"
+   ],
+   "strong.acc.m": [
+    "tollen"
+   ],
+   "strong.acc.n": [
+    "tolles"
+   ],
+   "strong.acc.pl": [
+    "tolle"
+   ],
    "strong.dat.f": [
     "toller"
+   ],
+   "strong.dat.m": [
+    "tollem"
+   ],
+   "strong.dat.n": [
+    "tollem"
+   ],
+   "strong.dat.pl": [
+    "tollen"
+   ],
+   "strong.gen.f": [
+    "toller"
+   ],
+   "strong.gen.m": [
+    "tollen"
+   ],
+   "strong.gen.n": [
+    "tollen"
+   ],
+   "strong.gen.pl": [
+    "toller"
+   ],
+   "strong.nom.f": [
+    "tolle"
+   ],
+   "strong.nom.m": [
+    "toller"
+   ],
+   "strong.nom.n": [
+    "tolles"
+   ],
+   "strong.nom.pl": [
+    "tolle"
    ],
    "superlative": [
     "am tollsten",
@@ -23687,8 +27828,53 @@
    "mixed.nom.pl": [
     "traurigen"
    ],
+   "strong.acc.f": [
+    "traurige"
+   ],
+   "strong.acc.m": [
+    "traurigen"
+   ],
+   "strong.acc.n": [
+    "trauriges"
+   ],
+   "strong.acc.pl": [
+    "traurige"
+   ],
    "strong.dat.f": [
     "trauriger"
+   ],
+   "strong.dat.m": [
+    "traurigem"
+   ],
+   "strong.dat.n": [
+    "traurigem"
+   ],
+   "strong.dat.pl": [
+    "traurigen"
+   ],
+   "strong.gen.f": [
+    "trauriger"
+   ],
+   "strong.gen.m": [
+    "traurigen"
+   ],
+   "strong.gen.n": [
+    "traurigen"
+   ],
+   "strong.gen.pl": [
+    "trauriger"
+   ],
+   "strong.nom.f": [
+    "traurige"
+   ],
+   "strong.nom.m": [
+    "trauriger"
+   ],
+   "strong.nom.n": [
+    "trauriges"
+   ],
+   "strong.nom.pl": [
+    "traurige"
    ],
    "superlative": [
     "am traurigsten",
@@ -24387,8 +28573,53 @@
    "mixed.nom.pl": [
     "vollen"
    ],
+   "strong.acc.f": [
+    "volle"
+   ],
+   "strong.acc.m": [
+    "vollen"
+   ],
+   "strong.acc.n": [
+    "volles"
+   ],
+   "strong.acc.pl": [
+    "volle"
+   ],
    "strong.dat.f": [
     "voller"
+   ],
+   "strong.dat.m": [
+    "vollem"
+   ],
+   "strong.dat.n": [
+    "vollem"
+   ],
+   "strong.dat.pl": [
+    "vollen"
+   ],
+   "strong.gen.f": [
+    "voller"
+   ],
+   "strong.gen.m": [
+    "vollen"
+   ],
+   "strong.gen.n": [
+    "vollen"
+   ],
+   "strong.gen.pl": [
+    "voller"
+   ],
+   "strong.nom.f": [
+    "volle"
+   ],
+   "strong.nom.m": [
+    "voller"
+   ],
+   "strong.nom.n": [
+    "volles"
+   ],
+   "strong.nom.pl": [
+    "volle"
    ],
    "superlative": [
     "am vollsten",
@@ -24560,8 +28791,53 @@
    "mixed.nom.pl": [
     "vorsichtigen"
    ],
+   "strong.acc.f": [
+    "vorsichtige"
+   ],
+   "strong.acc.m": [
+    "vorsichtigen"
+   ],
+   "strong.acc.n": [
+    "vorsichtiges"
+   ],
+   "strong.acc.pl": [
+    "vorsichtige"
+   ],
    "strong.dat.f": [
     "vorsichtiger"
+   ],
+   "strong.dat.m": [
+    "vorsichtigem"
+   ],
+   "strong.dat.n": [
+    "vorsichtigem"
+   ],
+   "strong.dat.pl": [
+    "vorsichtigen"
+   ],
+   "strong.gen.f": [
+    "vorsichtiger"
+   ],
+   "strong.gen.m": [
+    "vorsichtigen"
+   ],
+   "strong.gen.n": [
+    "vorsichtigen"
+   ],
+   "strong.gen.pl": [
+    "vorsichtiger"
+   ],
+   "strong.nom.f": [
+    "vorsichtige"
+   ],
+   "strong.nom.m": [
+    "vorsichtiger"
+   ],
+   "strong.nom.n": [
+    "vorsichtiges"
+   ],
+   "strong.nom.pl": [
+    "vorsichtige"
    ],
    "superlative": [
     "am vorsichtigsten",
@@ -24820,8 +29096,53 @@
    "mixed.nom.pl": [
     "warmen"
    ],
+   "strong.acc.f": [
+    "warme"
+   ],
+   "strong.acc.m": [
+    "warmen"
+   ],
+   "strong.acc.n": [
+    "warmes"
+   ],
+   "strong.acc.pl": [
+    "warme"
+   ],
    "strong.dat.f": [
     "warmer"
+   ],
+   "strong.dat.m": [
+    "warmem"
+   ],
+   "strong.dat.n": [
+    "warmem"
+   ],
+   "strong.dat.pl": [
+    "warmen"
+   ],
+   "strong.gen.f": [
+    "warmer"
+   ],
+   "strong.gen.m": [
+    "warmen"
+   ],
+   "strong.gen.n": [
+    "warmen"
+   ],
+   "strong.gen.pl": [
+    "warmer"
+   ],
+   "strong.nom.f": [
+    "warme"
+   ],
+   "strong.nom.m": [
+    "warmer"
+   ],
+   "strong.nom.n": [
+    "warmes"
+   ],
+   "strong.nom.pl": [
+    "warme"
    ],
    "superlative": [
     "am wärmsten",
@@ -25286,8 +29607,53 @@
    "mixed.nom.pl": [
     "weiten"
    ],
+   "strong.acc.f": [
+    "weite"
+   ],
+   "strong.acc.m": [
+    "weiten"
+   ],
+   "strong.acc.n": [
+    "weites"
+   ],
+   "strong.acc.pl": [
+    "weite"
+   ],
    "strong.dat.f": [
     "weiter"
+   ],
+   "strong.dat.m": [
+    "weitem"
+   ],
+   "strong.dat.n": [
+    "weitem"
+   ],
+   "strong.dat.pl": [
+    "weiten"
+   ],
+   "strong.gen.f": [
+    "weiter"
+   ],
+   "strong.gen.m": [
+    "weiten"
+   ],
+   "strong.gen.n": [
+    "weiten"
+   ],
+   "strong.gen.pl": [
+    "weiter"
+   ],
+   "strong.nom.f": [
+    "weite"
+   ],
+   "strong.nom.m": [
+    "weiter"
+   ],
+   "strong.nom.n": [
+    "weites"
+   ],
+   "strong.nom.pl": [
+    "weite"
    ],
    "superlative": [
     "am weitesten",
@@ -25460,8 +29826,53 @@
    "mixed.nom.pl": [
     "weißen"
    ],
+   "strong.acc.f": [
+    "weiße"
+   ],
+   "strong.acc.m": [
+    "weißen"
+   ],
+   "strong.acc.n": [
+    "weißes"
+   ],
+   "strong.acc.pl": [
+    "weiße"
+   ],
    "strong.dat.f": [
     "weißer"
+   ],
+   "strong.dat.m": [
+    "weißem"
+   ],
+   "strong.dat.n": [
+    "weißem"
+   ],
+   "strong.dat.pl": [
+    "weißen"
+   ],
+   "strong.gen.f": [
+    "weißer"
+   ],
+   "strong.gen.m": [
+    "weißen"
+   ],
+   "strong.gen.n": [
+    "weißen"
+   ],
+   "strong.gen.pl": [
+    "weißer"
+   ],
+   "strong.nom.f": [
+    "weiße"
+   ],
+   "strong.nom.m": [
+    "weißer"
+   ],
+   "strong.nom.n": [
+    "weißes"
+   ],
+   "strong.nom.pl": [
+    "weiße"
    ],
    "superlative": [
     "am weißesten",
@@ -25730,8 +30141,53 @@
    "mixed.nom.pl": [
     "wichtigen"
    ],
+   "strong.acc.f": [
+    "wichtige"
+   ],
+   "strong.acc.m": [
+    "wichtigen"
+   ],
+   "strong.acc.n": [
+    "wichtiges"
+   ],
+   "strong.acc.pl": [
+    "wichtige"
+   ],
    "strong.dat.f": [
     "wichtiger"
+   ],
+   "strong.dat.m": [
+    "wichtigem"
+   ],
+   "strong.dat.n": [
+    "wichtigem"
+   ],
+   "strong.dat.pl": [
+    "wichtigen"
+   ],
+   "strong.gen.f": [
+    "wichtiger"
+   ],
+   "strong.gen.m": [
+    "wichtigen"
+   ],
+   "strong.gen.n": [
+    "wichtigen"
+   ],
+   "strong.gen.pl": [
+    "wichtiger"
+   ],
+   "strong.nom.f": [
+    "wichtige"
+   ],
+   "strong.nom.m": [
+    "wichtiger"
+   ],
+   "strong.nom.n": [
+    "wichtiges"
+   ],
+   "strong.nom.pl": [
+    "wichtige"
    ],
    "superlative": [
     "am wichtigsten",

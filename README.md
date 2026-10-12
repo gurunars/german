@@ -71,6 +71,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 23 · Where and where to: in, auf, an… with the dative or the accusative](lessons/23-two-way.json) — 35 cards
 - [Lesson 24 · The red dress: adjective endings after der, die, das](lessons/24-adj-weak.json) — 32 cards
 - [Lesson 25 · A new sofa: adjective endings after ein, kein, mein](lessons/25-adj-mixed.json) — 34 cards
+- [Lesson 26 · Fresh bread, good morning: adjective endings with no article](lessons/26-adj-strong.json) — 33 cards
 
 ## Decks
 

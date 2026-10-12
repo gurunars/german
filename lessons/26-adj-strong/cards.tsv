@@ -1,0 +1,34 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+adj.strong	frisch	strong.nom.n	**Fresh** bread is tasty.	**Frisches** Brot ist lecker.	With no article, the adjective takes the article's ending itself: das → -es. lecker after ist has none.
+adj.strong	heiß	strong.nom.m	**Hot** tea helps with a cold.	**Heißer** Tee hilft bei einer Erkältung.	der Tee → heißer: the -r of der.
+adj.strong	kalt	strong.nom.f	I don't like **cold** milk.	**Kalte** Milch schmeckt mir nicht.	die Milch → kalte: the -e of die.
+adj.strong	süß	strong.nom.m	I don't like **sweet** cake.	**Süßer** Kuchen schmeckt mir nicht.	der Kuchen → süßer.
+adj.strong	weiß	strong.nom.m	**White** rice is cheap.	**Weißer** Reis ist billig.	der Reis → weißer.
+adj.strong	italienisch	strong.nom.m	**Italian** wine is good.	**Italienischer** Wein ist gut.	der Wein → italienischer. Adjectives of nationality are written small.
+adj.strong	frisch	strong.nom.pl	**Fresh** eggs are expensive.	**Frische** Eier sind teuer.	Plural with no article: -e, like die.
+adj.strong	gut	strong.acc.m	**Good** morning!	**Guten** Morgen!	Greetings are wishes in the accusative: der Morgen → guten.
+adj.strong	gut	strong.acc.m	**Good** evening!	**Guten** Abend!	der Abend → guten Abend.
+adj.strong	gut	strong.acc.m	**Good** afternoon!	**Guten** Tag!	der Tag → guten Tag: the everyday hello.
+adj.strong	gut	strong.acc.f	**Good** night!	**Gute** Nacht!	die Nacht → gute.
+adj.strong	schön	strong.acc.n	Have a **nice** weekend!	**Schönes** Wochenende!	das Wochenende → schönes.
+adj.strong	herzlich	strong.acc.m	**Happy** birthday!	**Herzlichen** Glückwunsch zum Geburtstag!	der Glückwunsch → herzlichen, accusative like guten Morgen.
+adj.strong	italienisch	strong.acc.m	I like **Italian** cheese.	Ich mag **italienischen** Käse.	der Käse as the object: -en.
+adj.strong	frisch	strong.acc.m	I like drinking **fresh** juice.	Ich trinke gern **frischen** Saft.	der Saft → frischen in the accusative.
+adj.strong	frisch	strong.acc.m	There's **fresh** fish today.	Heute gibt es **frischen** Fisch.	es gibt takes the accusative: frischen Fisch.
+adj.strong	schwarz	strong.acc.m	**Black** coffee, please.	**Schwarzen** Kaffee, bitte.	Ordering, the accusative is understood: (ich möchte) schwarzen Kaffee.
+adj.strong	frisch	strong.acc.f	We need **fresh** butter.	Wir brauchen **frische** Butter.	die Butter → frische.
+adj.strong	scharf	strong.acc.f	Do you like **spicy** soup? (one friend)	Magst du **scharfe** Suppe?	die Suppe → scharfe.
+adj.strong	warm	strong.acc.f	In the evening I eat **warm** soup.	Am Abend esse ich **warme** Suppe.	die Suppe → warme.
+adj.strong	kalt	strong.acc.n	We're drinking **cold** beer.	Wir trinken **kaltes** Bier.	das Bier → kaltes.
+adj.strong	italienisch	strong.acc.n	I like **Italian** bread.	Ich mag **italienisches** Brot.	das Brot → italienisches.
+adj.strong	rot	strong.acc.pl	We're buying **red** apples.	Wir kaufen **rote** Äpfel.	Plural object with no article: -e.
+adj.strong	wichtig	strong.acc.pl	I have three **important** questions.	Ich habe drei **wichtige** Fragen.	A number is not an article, so the adjective takes the strong -e.
+adj.strong	klein	strong.acc.pl	Two **small** beers, please.	Zwei **kleine** Bier, bitte.	zwei is no article: kleine.
+adj.strong	lecker	strong.acc.pl	There's **tasty** pasta here.	Hier gibt es **leckere** Nudeln.	die Nudeln (plural) → leckere.
+adj.strong	frisch	strong.dat.f	Bread with **fresh** butter.	Brot mit **frischer** Butter.	mit + dative, die Butter → frischer: the -r of der.
+adj.strong	kalt	strong.dat.f	I drink coffee with **cold** milk.	Ich trinke Kaffee mit **kalter** Milch.	die Milch in the dative: kalter.
+adj.strong	italienisch	strong.dat.m	Pasta with **Italian** cheese.	Nudeln mit **italienischem** Käse.	der Käse in the dative: -em, like dem.
+adj.strong	heiß	strong.dat.n	Tea with **hot** water.	Tee mit **heißem** Wasser.	das Wasser in the dative: heißem.
+adj.strong	scharf	strong.dat.f	Rice with **spicy** sausage.	Reis mit **scharfer** Wurst.	die Wurst in the dative: scharfer.
+adj.strong	frisch	strong.dat.pl	I cook with **fresh** tomatoes.	Ich koche mit **frischen** Tomaten.	Dative plural: -en, like den.
+adj.strong	freundlich	strong.dat.pl	With **kind** regards	Mit **freundlichen** Grüßen	The end of a formal letter: mit + dative plural, freundlichen Grüßen.

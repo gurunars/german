@@ -1,0 +1,206 @@
+{
+  "name": "Lesson 26 · Fresh bread, good morning: adjective endings with no article",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**Fresh** bread is tasty.",
+      "back": "**Frisches** Brot ist lecker.",
+      "note": "Adjective endings without an article (strong). With no article, the adjective takes the article's ending itself: das → -es. lecker after ist has none.",
+      "priority": 1
+    },
+    {
+      "front": "**Hot** tea helps with a cold.",
+      "back": "**Heißer** Tee hilft bei einer Erkältung.",
+      "note": "Adjective endings without an article (strong). der Tee → heißer: the -r of der.",
+      "priority": 1
+    },
+    {
+      "front": "I don't like **cold** milk.",
+      "back": "**Kalte** Milch schmeckt mir nicht.",
+      "note": "Adjective endings without an article (strong). die Milch → kalte: the -e of die.",
+      "priority": 1
+    },
+    {
+      "front": "I don't like **sweet** cake.",
+      "back": "**Süßer** Kuchen schmeckt mir nicht.",
+      "note": "Adjective endings without an article (strong). der Kuchen → süßer.",
+      "priority": 1
+    },
+    {
+      "front": "**White** rice is cheap.",
+      "back": "**Weißer** Reis ist billig.",
+      "note": "Adjective endings without an article (strong). der Reis → weißer.",
+      "priority": 1
+    },
+    {
+      "front": "**Italian** wine is good.",
+      "back": "**Italienischer** Wein ist gut.",
+      "note": "Adjective endings without an article (strong). der Wein → italienischer. Adjectives of nationality are written small.",
+      "priority": 1
+    },
+    {
+      "front": "**Fresh** eggs are expensive.",
+      "back": "**Frische** Eier sind teuer.",
+      "note": "Adjective endings without an article (strong). Plural with no article: -e, like die.",
+      "priority": 1
+    },
+    {
+      "front": "**Good** morning!",
+      "back": "**Guten** Morgen!",
+      "note": "Adjective endings without an article (strong). Greetings are wishes in the accusative: der Morgen → guten.",
+      "priority": 1
+    },
+    {
+      "front": "**Good** evening!",
+      "back": "**Guten** Abend!",
+      "note": "Adjective endings without an article (strong). der Abend → guten Abend.",
+      "priority": 1
+    },
+    {
+      "front": "**Good** afternoon!",
+      "back": "**Guten** Tag!",
+      "note": "Adjective endings without an article (strong). der Tag → guten Tag: the everyday hello.",
+      "priority": 1
+    },
+    {
+      "front": "**Good** night!",
+      "back": "**Gute** Nacht!",
+      "note": "Adjective endings without an article (strong). die Nacht → gute.",
+      "priority": 1
+    },
+    {
+      "front": "Have a **nice** weekend!",
+      "back": "**Schönes** Wochenende!",
+      "note": "Adjective endings without an article (strong). das Wochenende → schönes.",
+      "priority": 1
+    },
+    {
+      "front": "**Happy** birthday!",
+      "back": "**Herzlichen** Glückwunsch zum Geburtstag!",
+      "note": "Adjective endings without an article (strong). der Glückwunsch → herzlichen, accusative like guten Morgen.",
+      "priority": 1
+    },
+    {
+      "front": "I like **Italian** cheese.",
+      "back": "Ich mag **italienischen** Käse.",
+      "note": "Adjective endings without an article (strong). der Käse as the object: -en.",
+      "priority": 1
+    },
+    {
+      "front": "I like drinking **fresh** juice.",
+      "back": "Ich trinke gern **frischen** Saft.",
+      "note": "Adjective endings without an article (strong). der Saft → frischen in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "There's **fresh** fish today.",
+      "back": "Heute gibt es **frischen** Fisch.",
+      "note": "Adjective endings without an article (strong). es gibt takes the accusative: frischen Fisch.",
+      "priority": 1
+    },
+    {
+      "front": "**Black** coffee, please.",
+      "back": "**Schwarzen** Kaffee, bitte.",
+      "note": "Adjective endings without an article (strong). Ordering, the accusative is understood: (ich möchte) schwarzen Kaffee.",
+      "priority": 1
+    },
+    {
+      "front": "We need **fresh** butter.",
+      "back": "Wir brauchen **frische** Butter.",
+      "note": "Adjective endings without an article (strong). die Butter → frische.",
+      "priority": 1
+    },
+    {
+      "front": "Do you like **spicy** soup? (one friend)",
+      "back": "Magst du **scharfe** Suppe?",
+      "note": "Adjective endings without an article (strong). die Suppe → scharfe.",
+      "priority": 1
+    },
+    {
+      "front": "In the evening I eat **warm** soup.",
+      "back": "Am Abend esse ich **warme** Suppe.",
+      "note": "Adjective endings without an article (strong). die Suppe → warme.",
+      "priority": 1
+    },
+    {
+      "front": "We're drinking **cold** beer.",
+      "back": "Wir trinken **kaltes** Bier.",
+      "note": "Adjective endings without an article (strong). das Bier → kaltes.",
+      "priority": 1
+    },
+    {
+      "front": "I like **Italian** bread.",
+      "back": "Ich mag **italienisches** Brot.",
+      "note": "Adjective endings without an article (strong). das Brot → italienisches.",
+      "priority": 1
+    },
+    {
+      "front": "We're buying **red** apples.",
+      "back": "Wir kaufen **rote** Äpfel.",
+      "note": "Adjective endings without an article (strong). Plural object with no article: -e.",
+      "priority": 1
+    },
+    {
+      "front": "I have three **important** questions.",
+      "back": "Ich habe drei **wichtige** Fragen.",
+      "note": "Adjective endings without an article (strong). A number is not an article, so the adjective takes the strong -e.",
+      "priority": 1
+    },
+    {
+      "front": "Two **small** beers, please.",
+      "back": "Zwei **kleine** Bier, bitte.",
+      "note": "Adjective endings without an article (strong). zwei is no article: kleine.",
+      "priority": 1
+    },
+    {
+      "front": "There's **tasty** pasta here.",
+      "back": "Hier gibt es **leckere** Nudeln.",
+      "note": "Adjective endings without an article (strong). die Nudeln (plural) → leckere.",
+      "priority": 1
+    },
+    {
+      "front": "Bread with **fresh** butter.",
+      "back": "Brot mit **frischer** Butter.",
+      "note": "Adjective endings without an article (strong). mit + dative, die Butter → frischer: the -r of der.",
+      "priority": 1
+    },
+    {
+      "front": "I drink coffee with **cold** milk.",
+      "back": "Ich trinke Kaffee mit **kalter** Milch.",
+      "note": "Adjective endings without an article (strong). die Milch in the dative: kalter.",
+      "priority": 1
+    },
+    {
+      "front": "Pasta with **Italian** cheese.",
+      "back": "Nudeln mit **italienischem** Käse.",
+      "note": "Adjective endings without an article (strong). der Käse in the dative: -em, like dem.",
+      "priority": 1
+    },
+    {
+      "front": "Tea with **hot** water.",
+      "back": "Tee mit **heißem** Wasser.",
+      "note": "Adjective endings without an article (strong). das Wasser in the dative: heißem.",
+      "priority": 1
+    },
+    {
+      "front": "Rice with **spicy** sausage.",
+      "back": "Reis mit **scharfer** Wurst.",
+      "note": "Adjective endings without an article (strong). die Wurst in the dative: scharfer.",
+      "priority": 1
+    },
+    {
+      "front": "I cook with **fresh** tomatoes.",
+      "back": "Ich koche mit **frischen** Tomaten.",
+      "note": "Adjective endings without an article (strong). Dative plural: -en, like den.",
+      "priority": 1
+    },
+    {
+      "front": "With **kind** regards",
+      "back": "Mit **freundlichen** Grüßen",
+      "note": "Adjective endings without an article (strong). The end of a formal letter: mit + dative plural, freundlichen Grüßen.",
+      "priority": 1
+    }
+  ]
+}
