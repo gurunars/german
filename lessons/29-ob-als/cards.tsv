@@ -1,0 +1,32 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+question.indirect	-	-	I don't know **if** he's coming.	Ich weiß nicht, **ob** er kommt.	ob turns a yes/no question into part of a sentence; its verb goes to the end.
+question.indirect	-	-	She's asking **whether** we have time.	Sie fragt, **ob** wir Zeit haben.	ob: whether. Never wenn here: wenn is for conditions and times.
+question.indirect	regnen	pres.er	Do you know if it **is going to rain** tomorrow? (one friend)	Weißt du, ob es morgen **regnet**?	The verb of the ob clause goes last: regnet.
+question.indirect	-	-	I don't care **whether** it rains.	Es ist mir egal, **ob** es regnet.	Es ist mir egal, ob…: I don't mind whether…. mir is the dative.
+question.indirect	können	pres.du	I'm asking if you **can** help me. (one friend)	Ich frage, ob du mir helfen **kannst**.	The modal goes last, after the infinitive.
+question.indirect	mitkommen	pres.er	Ask him if he **is coming along**! (one friend)	Frag ihn, ob er **mitkommt**!	At the end of the clause the separable verb is whole: mitkommt.
+question.indirect	studieren	pres.er	Do you know if she **studies**? (one friend)	Weißt du, ob sie **studiert**?	studieren: to study at university. Verbs in -ieren are regular.
+question.indirect	sein	pres.er	Can you tell me where the station **is**? (formal)	Können Sie mir sagen, wo der Bahnhof **ist**?	The question word links the clauses, and the verb moves to the end. This is the polite way to ask.
+question.indirect	abfahren	pres.er	Do you know when the train **leaves**? (formal)	Wissen Sie, wann der Zug **abfährt**?	At the end, abfahren is one word: abfährt.
+question.indirect	kosten	pres.er	I don't know what that **costs**.	Ich weiß nicht, was das **kostet**.	was … kostet: the verb last.
+question.indirect	kosten	pres.er	Can you tell me what the ticket **costs**? (formal)	Können Sie mir sagen, was die Fahrkarte **kostet**?	die Fahrkarte: the ticket for a bus or train.
+question.indirect	sein	pres.ich	He's asking how old I **am**.	Er fragt, wie alt ich **bin**.	wie alt … bin: the verb last.
+question.indirect	sein	pres.er	I have no idea where my key **is**.	Ich habe keine Ahnung, wo mein Schlüssel **ist**.	keine Ahnung: no idea.
+question.indirect	lachen	pres.du	Tell me why you **are laughing**! (one friend)	Sag mir, warum du **lachst**!	warum … lachst: the verb last.
+question.indirect	sein	pres.er	Do you know who that **is**? (one friend)	Weißt du, wer das **ist**?	wer … ist: the verb last.
+question.indirect	wohnen	pres.wir	I'd like to know where you **live**. (formal)	Ich möchte wissen, wo Sie **wohnen**.	wo Sie wohnen: the verb last.
+question.indirect	wollen	pres.er	I don't know what he **wants**.	Ich weiß nicht, was er **will**.	was er will: the verb last.
+clause.als.wenn	-	-	**When** I was a child, I lived in a village.	**Als** ich ein Kind war, habe ich in einem Dorf gewohnt.	als for one time or one stretch of time in the past. The verb goes to the end.
+clause.als.wenn	-	-	**When** I was little, we had a dog.	**Als** ich klein war, hatten wir einen Hund.	One period of the past: als. Then the main verb straight after the comma.
+clause.als.wenn	-	-	**When** we were in Berlin, it was cold.	**Als** wir in Berlin waren, war es kalt.	A single visit, so als.
+clause.als.wenn	-	-	**When** he was a student, he had no money.	**Als** er Student war, hatte er kein Geld.	als + war: one period of his life.
+clause.als.wenn	-	-	**When** she had a fever, she stayed at home.	**Als** sie Fieber hatte, ist sie zu Hause geblieben.	One occasion: als.
+clause.als.wenn	-	-	**When** I was a pupil, I sometimes didn't feel like it.	**Als** ich Schüler war, hatte ich manchmal keine Lust.	als for a time of life; manchmal: sometimes.
+clause.als.wenn	-	-	**When** I was a student, I lived with my parents.	**Als** ich Studentin war, habe ich bei meinen Eltern gewohnt.	als + one stretch of the past.
+clause.als.wenn	-	-	**When** we arrived, it was late.	**Als** wir angekommen sind, war es spät.	In a perfect at the end of the clause, the participle comes first and sind last.
+clause.als.wenn	-	-	When were you in Italy? (one friend) – **When** I was twenty.	Wann warst du in Italien? – **Als** ich zwanzig war.	wann asks the question; als answers it for the past.
+clause.als.wenn	-	-	I went to university **when** I was nineteen.	Ich bin zur Universität gegangen, **als** ich neunzehn war.	The als clause can also come second.
+clause.als.wenn	-	-	**Whenever** I was at my grandparents', we always went for a walk.	**Wenn** ich bei meinen Großeltern war, sind wir immer spazieren gegangen.	wenn in the past means whenever: something that happened again and again.
+clause.als.wenn	-	-	**Whenever** we had holidays, we always went to Italy.	**Wenn** wir Ferien hatten, sind wir immer nach Italien gefahren.	Every time, so wenn; immer makes the repetition clear.
+clause.als.wenn	-	-	**Whenever** it was Christmas, we always ate cake.	**Wenn** Weihnachten war, haben wir immer Kuchen gegessen.	Every Christmas, again and again: wenn.
+clause.als.wenn	-	-	We often went for walks **when** the weather was nice.	Wir sind oft spazieren gegangen, **wenn** das Wetter schön war.	oft: many times, so wenn, not als.

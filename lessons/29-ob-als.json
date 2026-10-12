@@ -1,0 +1,194 @@
+{
+  "name": "Lesson 29 · I wonder if: indirect questions; als and wenn in the past",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I don't know **if** he's coming.",
+      "back": "Ich weiß nicht, **ob** er kommt.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. ob turns a yes/no question into part of a sentence; its verb goes to the end.",
+      "priority": 1
+    },
+    {
+      "front": "She's asking **whether** we have time.",
+      "back": "Sie fragt, **ob** wir Zeit haben.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. ob: whether. Never wenn here: wenn is for conditions and times.",
+      "priority": 1
+    },
+    {
+      "front": "Do you know if it **is going to rain** tomorrow? (one friend)",
+      "back": "Weißt du, ob es morgen **regnet**?",
+      "note": "Indirect questions: ob and W-words, the verb at the end. The verb of the ob clause goes last: regnet.",
+      "priority": 1
+    },
+    {
+      "front": "I don't care **whether** it rains.",
+      "back": "Es ist mir egal, **ob** es regnet.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. Es ist mir egal, ob…: I don't mind whether…. mir is the dative.",
+      "priority": 1
+    },
+    {
+      "front": "I'm asking if you **can** help me. (one friend)",
+      "back": "Ich frage, ob du mir helfen **kannst**.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. The modal goes last, after the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "Ask him if he **is coming along**! (one friend)",
+      "back": "Frag ihn, ob er **mitkommt**!",
+      "note": "Indirect questions: ob and W-words, the verb at the end. At the end of the clause the separable verb is whole: mitkommt.",
+      "priority": 1
+    },
+    {
+      "front": "Do you know if she **studies**? (one friend)",
+      "back": "Weißt du, ob sie **studiert**?",
+      "note": "Indirect questions: ob and W-words, the verb at the end. studieren: to study at university. Verbs in -ieren are regular.",
+      "priority": 1
+    },
+    {
+      "front": "Can you tell me where the station **is**? (formal)",
+      "back": "Können Sie mir sagen, wo der Bahnhof **ist**?",
+      "note": "Indirect questions: ob and W-words, the verb at the end. The question word links the clauses, and the verb moves to the end. This is the polite way to ask.",
+      "priority": 1
+    },
+    {
+      "front": "Do you know when the train **leaves**? (formal)",
+      "back": "Wissen Sie, wann der Zug **abfährt**?",
+      "note": "Indirect questions: ob and W-words, the verb at the end. At the end, abfahren is one word: abfährt.",
+      "priority": 1
+    },
+    {
+      "front": "I don't know what that **costs**.",
+      "back": "Ich weiß nicht, was das **kostet**.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. was … kostet: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "Can you tell me what the ticket **costs**? (formal)",
+      "back": "Können Sie mir sagen, was die Fahrkarte **kostet**?",
+      "note": "Indirect questions: ob and W-words, the verb at the end. die Fahrkarte: the ticket for a bus or train.",
+      "priority": 1
+    },
+    {
+      "front": "He's asking how old I **am**.",
+      "back": "Er fragt, wie alt ich **bin**.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. wie alt … bin: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "I have no idea where my key **is**.",
+      "back": "Ich habe keine Ahnung, wo mein Schlüssel **ist**.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. keine Ahnung: no idea.",
+      "priority": 1
+    },
+    {
+      "front": "Tell me why you **are laughing**! (one friend)",
+      "back": "Sag mir, warum du **lachst**!",
+      "note": "Indirect questions: ob and W-words, the verb at the end. warum … lachst: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "Do you know who that **is**? (one friend)",
+      "back": "Weißt du, wer das **ist**?",
+      "note": "Indirect questions: ob and W-words, the verb at the end. wer … ist: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "I'd like to know where you **live**. (formal)",
+      "back": "Ich möchte wissen, wo Sie **wohnen**.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. wo Sie wohnen: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "I don't know what he **wants**.",
+      "back": "Ich weiß nicht, was er **will**.",
+      "note": "Indirect questions: ob and W-words, the verb at the end. was er will: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "**When** I was a child, I lived in a village.",
+      "back": "**Als** ich ein Kind war, habe ich in einem Dorf gewohnt.",
+      "note": "als and wenn in the past: once, or every time. als for one time or one stretch of time in the past. The verb goes to the end.",
+      "priority": 1
+    },
+    {
+      "front": "**When** I was little, we had a dog.",
+      "back": "**Als** ich klein war, hatten wir einen Hund.",
+      "note": "als and wenn in the past: once, or every time. One period of the past: als. Then the main verb straight after the comma.",
+      "priority": 1
+    },
+    {
+      "front": "**When** we were in Berlin, it was cold.",
+      "back": "**Als** wir in Berlin waren, war es kalt.",
+      "note": "als and wenn in the past: once, or every time. A single visit, so als.",
+      "priority": 1
+    },
+    {
+      "front": "**When** he was a student, he had no money.",
+      "back": "**Als** er Student war, hatte er kein Geld.",
+      "note": "als and wenn in the past: once, or every time. als + war: one period of his life.",
+      "priority": 1
+    },
+    {
+      "front": "**When** she had a fever, she stayed at home.",
+      "back": "**Als** sie Fieber hatte, ist sie zu Hause geblieben.",
+      "note": "als and wenn in the past: once, or every time. One occasion: als.",
+      "priority": 1
+    },
+    {
+      "front": "**When** I was a pupil, I sometimes didn't feel like it.",
+      "back": "**Als** ich Schüler war, hatte ich manchmal keine Lust.",
+      "note": "als and wenn in the past: once, or every time. als for a time of life; manchmal: sometimes.",
+      "priority": 1
+    },
+    {
+      "front": "**When** I was a student, I lived with my parents.",
+      "back": "**Als** ich Studentin war, habe ich bei meinen Eltern gewohnt.",
+      "note": "als and wenn in the past: once, or every time. als + one stretch of the past.",
+      "priority": 1
+    },
+    {
+      "front": "**When** we arrived, it was late.",
+      "back": "**Als** wir angekommen sind, war es spät.",
+      "note": "als and wenn in the past: once, or every time. In a perfect at the end of the clause, the participle comes first and sind last.",
+      "priority": 1
+    },
+    {
+      "front": "When were you in Italy? (one friend) – **When** I was twenty.",
+      "back": "Wann warst du in Italien? – **Als** ich zwanzig war.",
+      "note": "als and wenn in the past: once, or every time. wann asks the question; als answers it for the past.",
+      "priority": 1
+    },
+    {
+      "front": "I went to university **when** I was nineteen.",
+      "back": "Ich bin zur Universität gegangen, **als** ich neunzehn war.",
+      "note": "als and wenn in the past: once, or every time. The als clause can also come second.",
+      "priority": 1
+    },
+    {
+      "front": "**Whenever** I was at my grandparents', we always went for a walk.",
+      "back": "**Wenn** ich bei meinen Großeltern war, sind wir immer spazieren gegangen.",
+      "note": "als and wenn in the past: once, or every time. wenn in the past means whenever: something that happened again and again.",
+      "priority": 1
+    },
+    {
+      "front": "**Whenever** we had holidays, we always went to Italy.",
+      "back": "**Wenn** wir Ferien hatten, sind wir immer nach Italien gefahren.",
+      "note": "als and wenn in the past: once, or every time. Every time, so wenn; immer makes the repetition clear.",
+      "priority": 1
+    },
+    {
+      "front": "**Whenever** it was Christmas, we always ate cake.",
+      "back": "**Wenn** Weihnachten war, haben wir immer Kuchen gegessen.",
+      "note": "als and wenn in the past: once, or every time. Every Christmas, again and again: wenn.",
+      "priority": 1
+    },
+    {
+      "front": "We often went for walks **when** the weather was nice.",
+      "back": "Wir sind oft spazieren gegangen, **wenn** das Wetter schön war.",
+      "note": "als and wenn in the past: once, or every time. oft: many times, so wenn, not als.",
+      "priority": 1
+    }
+  ]
+}

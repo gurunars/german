@@ -65,6 +65,38 @@
    ]
   }
  },
+ "Ahnung": {
+  "all": [
+   "Ahnung",
+   "Ahnungen"
+  ],
+  "english": "idea, notion",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Ahnungen"
+   ],
+   "acc.sg": [
+    "Ahnung"
+   ],
+   "dat.pl": [
+    "Ahnungen"
+   ],
+   "dat.sg": [
+    "Ahnung"
+   ],
+   "gen.sg": [
+    "Ahnung"
+   ],
+   "nom.pl": [
+    "Ahnungen"
+   ],
+   "nom.sg": [
+    "Ahnung"
+   ]
+  }
+ },
  "Angst": {
   "all": [
    "Angst",
@@ -1120,6 +1152,46 @@
    ]
   }
  },
+ "Dorf": {
+  "all": [
+   "Dorf",
+   "Dorfe",
+   "Dorfes",
+   "Dorfs",
+   "Dörfchen",
+   "Dörfer",
+   "Dörfern",
+   "Dörflein"
+  ],
+  "english": "village",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Dörfer"
+   ],
+   "acc.sg": [
+    "Dorf"
+   ],
+   "dat.pl": [
+    "Dörfern"
+   ],
+   "dat.sg": [
+    "Dorf",
+    "Dorfe"
+   ],
+   "gen.sg": [
+    "Dorfes",
+    "Dorfs"
+   ],
+   "nom.pl": [
+    "Dörfer"
+   ],
+   "nom.sg": [
+    "Dorf"
+   ]
+  }
+ },
  "Durst": {
   "all": [
    "Durst",
@@ -1382,6 +1454,38 @@
    ],
    "nom.sg": [
     "Euro"
+   ]
+  }
+ },
+ "Fahrkarte": {
+  "all": [
+   "Fahrkarte",
+   "Fahrkarten"
+  ],
+  "english": "ticket",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Fahrkarten"
+   ],
+   "acc.sg": [
+    "Fahrkarte"
+   ],
+   "dat.pl": [
+    "Fahrkarten"
+   ],
+   "dat.sg": [
+    "Fahrkarte"
+   ],
+   "gen.sg": [
+    "Fahrkarte"
+   ],
+   "nom.pl": [
+    "Fahrkarten"
+   ],
+   "nom.sg": [
+    "Fahrkarte"
    ]
   }
  },
@@ -2627,6 +2731,25 @@
    ],
    "nom.sg": [
     "Glückwunsch"
+   ]
+  }
+ },
+ "Großeltern": {
+  "all": [
+   "Großeltern"
+  ],
+  "english": "grandparents",
+  "gender": "pl",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Großeltern"
+   ],
+   "dat.pl": [
+    "Großeltern"
+   ],
+   "nom.pl": [
+    "Großeltern"
    ]
   }
  },
@@ -5687,6 +5810,40 @@
    ]
   }
  },
+ "Schüler": {
+  "all": [
+   "Schüler",
+   "Schülerin",
+   "Schülern",
+   "Schülers"
+  ],
+  "english": "pupil (male)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Schüler"
+   ],
+   "acc.sg": [
+    "Schüler"
+   ],
+   "dat.pl": [
+    "Schülern"
+   ],
+   "dat.sg": [
+    "Schüler"
+   ],
+   "gen.sg": [
+    "Schülers"
+   ],
+   "nom.pl": [
+    "Schüler"
+   ],
+   "nom.sg": [
+    "Schüler"
+   ]
+  }
+ },
  "September": {
   "all": [
    "September",
@@ -6068,6 +6225,72 @@
    ],
    "nom.sg": [
     "Straßenbahn"
+   ]
+  }
+ },
+ "Student": {
+  "all": [
+   "Student",
+   "Studenten",
+   "Studentin"
+  ],
+  "english": "student (male)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Studenten"
+   ],
+   "acc.sg": [
+    "Studenten"
+   ],
+   "dat.pl": [
+    "Studenten"
+   ],
+   "dat.sg": [
+    "Studenten"
+   ],
+   "gen.sg": [
+    "Studenten"
+   ],
+   "nom.pl": [
+    "Studenten"
+   ],
+   "nom.sg": [
+    "Student"
+   ]
+  }
+ },
+ "Studentin": {
+  "all": [
+   "Student",
+   "Studentin",
+   "Studentinnen"
+  ],
+  "english": "student (female)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Studentinnen"
+   ],
+   "acc.sg": [
+    "Studentin"
+   ],
+   "dat.pl": [
+    "Studentinnen"
+   ],
+   "dat.sg": [
+    "Studentin"
+   ],
+   "gen.sg": [
+    "Studentin"
+   ],
+   "nom.pl": [
+    "Studentinnen"
+   ],
+   "nom.sg": [
+    "Studentin"
    ]
   }
  },
@@ -6713,6 +6936,38 @@
    ]
   }
  },
+ "Universität": {
+  "all": [
+   "Universität",
+   "Universitäten"
+  ],
+  "english": "university",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Universitäten"
+   ],
+   "acc.sg": [
+    "Universität"
+   ],
+   "dat.pl": [
+    "Universitäten"
+   ],
+   "dat.sg": [
+    "Universität"
+   ],
+   "gen.sg": [
+    "Universität"
+   ],
+   "nom.pl": [
+    "Universitäten"
+   ],
+   "nom.sg": [
+    "Universität"
+   ]
+  }
+ },
  "Urlaub": {
   "all": [
    "Urlaub",
@@ -6968,6 +7223,40 @@
    ],
    "nom.sg": [
     "Weg"
+   ]
+  }
+ },
+ "Weihnachten": {
+  "all": [
+   "Weihnacht",
+   "Weihnachten",
+   "Weihnachtens"
+  ],
+  "english": "Christmas",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Weihnachten"
+   ],
+   "acc.sg": [
+    "Weihnachten"
+   ],
+   "dat.pl": [
+    "Weihnachten"
+   ],
+   "dat.sg": [
+    "Weihnachten"
+   ],
+   "gen.sg": [
+    "Weihnachten",
+    "Weihnachtens"
+   ],
+   "nom.pl": [
+    "Weihnachten"
+   ],
+   "nom.sg": [
+    "Weihnachten"
    ]
   }
  },
@@ -28166,6 +28455,90 @@
    ]
   }
  },
+ "spazieren": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "spazier",
+   "spaziere",
+   "spazieren",
+   "spazierend",
+   "spazierest",
+   "spazieret",
+   "spazierst",
+   "spaziert",
+   "spazierte",
+   "spazierten",
+   "spaziertest",
+   "spaziertet",
+   "werdest"
+  ],
+  "english": "to stroll; spazieren gehen: to go for a walk",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "spazier",
+    "spaziere"
+   ],
+   "imp.ihr": [
+    "spaziert"
+   ],
+   "perf.du": [
+    "bist spaziert",
+    "hast spaziert"
+   ],
+   "perf.er": [
+    "ist spaziert",
+    "hat spaziert"
+   ],
+   "perf.ich": [
+    "bin spaziert",
+    "habe spaziert"
+   ],
+   "perf.ihr": [
+    "seid spaziert",
+    "habt spaziert"
+   ],
+   "perf.wir": [
+    "sind spaziert",
+    "haben spaziert"
+   ],
+   "pres.du": [
+    "spazierst"
+   ],
+   "pres.er": [
+    "spaziert"
+   ],
+   "pres.ich": [
+    "spaziere"
+   ],
+   "pres.ihr": [
+    "spaziert"
+   ],
+   "pres.wir": [
+    "spazieren"
+   ],
+   "pret.du": [
+    "spaziertest"
+   ],
+   "pret.er": [
+    "spazierte"
+   ],
+   "pret.ich": [
+    "spazierte"
+   ],
+   "pret.ihr": [
+    "spaziertet"
+   ],
+   "pret.wir": [
+    "spazierten"
+   ]
+  }
+ },
  "spielen": {
   "all": [
    "gespielt",
@@ -28965,6 +29338,82 @@
    ],
    "pret.wir": [
     "stellten"
+   ]
+  }
+ },
+ "studieren": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "studier",
+   "studiere",
+   "studieren",
+   "studierend",
+   "studierest",
+   "studieret",
+   "studierst",
+   "studiert",
+   "studierte",
+   "studierten",
+   "studiertest",
+   "studiertet",
+   "werdest"
+  ],
+  "english": "to study (at university)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "studier",
+    "studiere"
+   ],
+   "imp.ihr": [
+    "studiert"
+   ],
+   "perf.du": [
+    "hast studiert"
+   ],
+   "perf.er": [
+    "hat studiert"
+   ],
+   "perf.ich": [
+    "habe studiert"
+   ],
+   "perf.ihr": [
+    "habt studiert"
+   ],
+   "perf.wir": [
+    "haben studiert"
+   ],
+   "pres.du": [
+    "studierst"
+   ],
+   "pres.er": [
+    "studiert"
+   ],
+   "pres.ich": [
+    "studiere"
+   ],
+   "pres.ihr": [
+    "studiert"
+   ],
+   "pres.wir": [
+    "studieren"
+   ],
+   "pret.du": [
+    "studiertest"
+   ],
+   "pret.er": [
+    "studierte"
+   ],
+   "pret.ich": [
+    "studierte"
+   ],
+   "pret.ihr": [
+    "studiertet"
+   ],
+   "pret.wir": [
+    "studierten"
    ]
   }
  },

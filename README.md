@@ -74,6 +74,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 26 · Fresh bread, good morning: adjective endings with no article](lessons/26-adj-strong.json) — 33 cards
 - [Lesson 27 · Bigger, the biggest: comparison, als and wie](lessons/27-comparison.json) — 33 cards
 - [Lesson 28 · Because, that, if: weil, dass, wenn and the verb at the end](lessons/28-weil-dass-wenn.json) — 30 cards
+- [Lesson 29 · I wonder if: indirect questions; als and wenn in the past](lessons/29-ob-als.json) — 31 cards
 
 ## Decks
 
