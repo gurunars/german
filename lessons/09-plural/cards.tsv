@@ -1,0 +1,39 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+plural	Hund	nom.pl	**The dogs** are small.	**Die Hunde** sind klein.	Many der-words add -e. In the plural the article is always die, whatever the gender.
+plural	Tisch	acc.pl	We have two **tables**.	Wir haben zwei **Tische**.	der Tisch → Tische: -e, no umlaut.
+plural	Tag	acc.pl	I'm working three **days**.	Ich arbeite drei **Tage**.	der Tag → Tage.
+plural	Jahr	acc.pl	I am twenty **years** old.	Ich bin zwanzig **Jahre** alt.	das Jahr → Jahre. Jahre alt is the full way to give an age.
+plural	Stuhl	nom.pl	**The chairs** are new.	**Die Stühle** sind neu.	Some words add -e and an umlaut: Stuhl → Stühle.
+plural	Zug	nom.pl	**The trains** are old.	**Die Züge** sind alt.	der Zug → Züge: u becomes ü.
+plural	Stadt	nom.pl	**The cities** are big.	**Die Städte** sind groß.	die Stadt → Städte: a becomes ä, plus -e.
+plural	Baum	nom.pl	**The trees** are tall.	**Die Bäume** sind groß.	der Baum → Bäume: au becomes äu.
+plural	Kind	nom.pl	**The children** are playing.	**Die Kinder** spielen.	Many das-words add -er: Kind → Kinder. The verb is plural: spielen.
+plural	Buch	acc.pl	I'm reading two **books**.	Ich lese zwei **Bücher**.	-er comes with an umlaut where it can: Buch → Bücher.
+plural	Haus	nom.pl	**The houses** are old.	**Die Häuser** sind alt.	das Haus → Häuser: umlaut plus -er.
+plural	Land	acc.pl	We see many **countries**.	Wir sehen viele **Länder**.	das Land → Länder. viele: many, with a plural.
+plural	Bild	nom.pl	**The pictures** are beautiful.	**Die Bilder** sind schön.	das Bild → Bilder: -er, no umlaut possible.
+plural	Ei	acc.pl	I'm buying ten **eggs**.	Ich kaufe zehn **Eier**.	das Ei → Eier.
+plural	Glas	acc.pl	We're buying six **glasses**.	Wir kaufen sechs **Gläser**.	das Glas → Gläser: a becomes ä, plus -er.
+plural	Frau	nom.pl	**The women** are tired.	**Die Frauen** sind müde.	Most die-words add -n or -en: Frau → Frauen.
+plural	Katze	nom.pl	**The cats** are sleeping.	**Die Katzen** schlafen.	A word in -e adds only -n: Katze → Katzen.
+plural	Frage	acc.pl	I have two **questions**.	Ich habe zwei **Fragen**.	die Frage → Fragen.
+plural	Blume	acc.pl	She's buying **flowers**.	Sie kauft **Blumen**.	ein has no plural: a flower, but just flowers — Blumen with no article.
+plural	Flasche	acc.pl	We're buying three **bottles** of water.	Wir kaufen drei **Flaschen** Wasser.	die Flasche → Flaschen. German needs no word for of here.
+plural	Tomate	acc.pl	Do you eat **tomatoes**? (one friend)	Isst du **Tomaten**?	die Tomate → Tomaten.
+plural	Kartoffel	acc.pl	I like eating **potatoes**.	Ich esse gern **Kartoffeln**.	A die-word in -el adds -n: Kartoffeln.
+plural	Zeitung	acc.pl	He reads two **newspapers**.	Er liest zwei **Zeitungen**.	Words in -ung always add -en: Zeitungen.
+plural	Freundin	acc.pl	She has three **friends**. (women)	Sie hat drei **Freundinnen**.	-in doubles its n before -en: Freundinnen.
+plural	Auto	nom.pl	**The cars** are expensive.	**Die Autos** sind teuer.	Words ending in a vowel other than -e, often from other languages, add -s: Autos.
+plural	Handy	acc.pl	The children have **mobile phones**.	Die Kinder haben **Handys**.	das Handy, the German word for a mobile, takes -s: Handys.
+plural	Foto	acc.pl	I have a lot of **photos**.	Ich habe viele **Fotos**.	das Foto → Fotos.
+plural	Lehrer	nom.pl	**The teachers** are here.	**Die Lehrer** sind hier.	der-words in -er add nothing: der Lehrer, die Lehrer. Only the article shows the plural.
+plural	Zimmer	nom.pl	**The rooms** are small.	**Die Zimmer** sind klein.	das Zimmer → die Zimmer: no ending.
+plural	Kuchen	acc.pl	I'm buying two **cakes**.	Ich kaufe zwei **Kuchen**.	Words in -en add nothing: Kuchen.
+plural	Mädchen	nom.pl	**The girls** are playing football.	**Die Mädchen** spielen Fußball.	-chen words never change: das Mädchen, die Mädchen. das, because -chen makes every word neuter.
+plural	Bruder	acc.pl	I have two **brothers**.	Ich habe zwei **Brüder**.	Some der-words in -er only add an umlaut: Bruder → Brüder.
+plural	Apfel	nom.pl	**The apples** are cheap.	**Die Äpfel** sind billig.	der Apfel → Äpfel: umlaut only.
+plural	Tochter	nom.pl	**Her daughters** are tall.	**Ihre Töchter** sind groß.	die Tochter → Töchter: umlaut only. ihre, as ein would have in the plural.
+plural	Junge	nom.pl	**The boys** are eleven.	**Die Jungen** sind elf.	der Junge → Jungen: masculine words in -e add -n.
+plural	Eltern	nom.pl	**My parents** live here.	**Meine Eltern** wohnen hier.	die Eltern only exists in the plural; the possessive takes -e: meine.
+plural	Geschwister	acc.pl	Do you have **siblings**? (one friend)	Hast du **Geschwister**?	Geschwister: brothers and sisters together, a plural with no ending.
+plural	Kind	acc.pl	We don't have **children**.	Wir haben **keine Kinder**.	kein has a plural: keine Kinder, while ein has none.

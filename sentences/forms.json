@@ -10,6 +10,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Abende"
+   ],
    "acc.sg": [
     "Abend"
    ],
@@ -46,6 +49,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Äpfel"
+   ],
    "acc.sg": [
     "Apfel"
    ],
@@ -75,6 +81,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Autos"
+   ],
    "acc.sg": [
     "Auto"
    ],
@@ -110,6 +119,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Bahnhöfe"
+   ],
    "acc.sg": [
     "Bahnhof"
    ],
@@ -132,6 +144,120 @@
    ]
   }
  },
+ "Baum": {
+  "all": [
+   "Baum",
+   "Baume",
+   "Baumes",
+   "Baums",
+   "Bäumchen",
+   "Bäume",
+   "Bäumen",
+   "Bäumlein"
+  ],
+  "english": "tree",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Bäume"
+   ],
+   "acc.sg": [
+    "Baum"
+   ],
+   "dat.pl": [
+    "Bäumen"
+   ],
+   "dat.sg": [
+    "Baum",
+    "Baume"
+   ],
+   "gen.sg": [
+    "Baumes",
+    "Baums"
+   ],
+   "nom.pl": [
+    "Bäume"
+   ],
+   "nom.sg": [
+    "Baum"
+   ]
+  }
+ },
+ "Bild": {
+  "all": [
+   "Bild",
+   "Bildchen",
+   "Bilde",
+   "Bilder",
+   "Bildern",
+   "Bildes",
+   "Bilds"
+  ],
+  "english": "picture",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Bilder"
+   ],
+   "acc.sg": [
+    "Bild"
+   ],
+   "dat.pl": [
+    "Bildern"
+   ],
+   "dat.sg": [
+    "Bild",
+    "Bilde"
+   ],
+   "gen.sg": [
+    "Bildes",
+    "Bilds"
+   ],
+   "nom.pl": [
+    "Bilder"
+   ],
+   "nom.sg": [
+    "Bild"
+   ]
+  }
+ },
+ "Blume": {
+  "all": [
+   "Blume",
+   "Blumen",
+   "Blümchen",
+   "Blümelein",
+   "Blümlein"
+  ],
+  "english": "flower",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Blumen"
+   ],
+   "acc.sg": [
+    "Blume"
+   ],
+   "dat.pl": [
+    "Blumen"
+   ],
+   "dat.sg": [
+    "Blume"
+   ],
+   "gen.sg": [
+    "Blume"
+   ],
+   "nom.pl": [
+    "Blumen"
+   ],
+   "nom.sg": [
+    "Blume"
+   ]
+  }
+ },
  "Brot": {
   "all": [
    "Brod",
@@ -146,6 +272,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Brote"
+   ],
    "acc.sg": [
     "Brot"
    ],
@@ -181,6 +310,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Brüder"
+   ],
    "acc.sg": [
     "Bruder"
    ],
@@ -216,6 +348,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Bücher"
+   ],
    "acc.sg": [
     "Buch"
    ],
@@ -249,6 +384,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Busse"
+   ],
    "acc.sg": [
     "Bus"
    ],
@@ -280,6 +418,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Computer"
+   ],
    "acc.sg": [
     "Computer"
    ],
@@ -300,6 +441,69 @@
    ]
   }
  },
+ "Ei": {
+  "all": [
+   "Ei",
+   "Eichen",
+   "Eie",
+   "Eier",
+   "Eierchen",
+   "Eiern",
+   "Eies",
+   "Eilein",
+   "Eis"
+  ],
+  "english": "egg",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Eier"
+   ],
+   "acc.sg": [
+    "Ei"
+   ],
+   "dat.pl": [
+    "Eiern"
+   ],
+   "dat.sg": [
+    "Ei",
+    "Eie"
+   ],
+   "gen.sg": [
+    "Eies",
+    "Eis"
+   ],
+   "nom.pl": [
+    "Eier"
+   ],
+   "nom.sg": [
+    "Ei"
+   ]
+  }
+ },
+ "Eltern": {
+  "all": [
+   "Aeltern",
+   "Elteren",
+   "Eltern",
+   "Ältern"
+  ],
+  "english": "parents",
+  "gender": "pl",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Eltern"
+   ],
+   "dat.pl": [
+    "Eltern"
+   ],
+   "nom.pl": [
+    "Eltern"
+   ]
+  }
+ },
  "Euro": {
   "all": [
    "Euro",
@@ -309,6 +513,10 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Euros",
+    "Euro"
+   ],
    "acc.sg": [
     "Euro"
    ],
@@ -345,6 +553,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Fahrräder"
+   ],
    "acc.sg": [
     "Fahrrad"
    ],
@@ -376,6 +587,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Familien"
+   ],
    "acc.sg": [
     "Familie"
    ],
@@ -409,6 +623,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Filme"
+   ],
    "acc.sg": [
     "Film"
    ],
@@ -447,6 +664,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Fische"
+   ],
    "acc.sg": [
     "Fisch"
    ],
@@ -466,6 +686,43 @@
    ],
    "nom.sg": [
     "Fisch"
+   ]
+  }
+ },
+ "Flasche": {
+  "all": [
+   "Flasche",
+   "Flaschen",
+   "Flascherl",
+   "Flaschi",
+   "Fläschchen",
+   "Fläschle",
+   "Fläschlein"
+  ],
+  "english": "bottle",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Flaschen"
+   ],
+   "acc.sg": [
+    "Flasche"
+   ],
+   "dat.pl": [
+    "Flaschen"
+   ],
+   "dat.sg": [
+    "Flasche"
+   ],
+   "gen.sg": [
+    "Flasche"
+   ],
+   "nom.pl": [
+    "Flaschen"
+   ],
+   "nom.sg": [
+    "Flasche"
    ]
   }
  },
@@ -500,6 +757,39 @@
    ]
   }
  },
+ "Foto": {
+  "all": [
+   "Foto",
+   "Fotos",
+   "Photo"
+  ],
+  "english": "photo",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Fotos"
+   ],
+   "acc.sg": [
+    "Foto"
+   ],
+   "dat.pl": [
+    "Fotos"
+   ],
+   "dat.sg": [
+    "Foto"
+   ],
+   "gen.sg": [
+    "Fotos"
+   ],
+   "nom.pl": [
+    "Fotos"
+   ],
+   "nom.sg": [
+    "Foto"
+   ]
+  }
+ },
  "Frage": {
   "all": [
    "Frage",
@@ -509,6 +799,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Fragen"
+   ],
    "acc.sg": [
     "Frage"
    ],
@@ -545,6 +838,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Frauen"
+   ],
    "acc.sg": [
     "Frau"
    ],
@@ -583,6 +879,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Freunde"
+   ],
    "acc.sg": [
     "Freund"
    ],
@@ -615,6 +914,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Freundinnen"
+   ],
    "acc.sg": [
     "Freundin"
    ],
@@ -649,6 +951,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Fußbälle"
+   ],
    "acc.sg": [
     "Fußball"
    ],
@@ -683,6 +988,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Gärten"
+   ],
    "acc.sg": [
     "Garten"
    ],
@@ -716,6 +1024,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Gelder"
+   ],
    "acc.sg": [
     "Geld"
    ],
@@ -735,6 +1046,121 @@
    ],
    "nom.sg": [
     "Geld"
+   ]
+  }
+ },
+ "Geschwister": {
+  "all": [
+   "Geschwister",
+   "Geschwisterchen",
+   "Geschwisterl",
+   "Geschwisterlein",
+   "Geschwistern",
+   "Geschwisters"
+  ],
+  "english": "siblings, brothers and sisters",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Geschwister"
+   ],
+   "acc.sg": [
+    "Geschwister"
+   ],
+   "dat.pl": [
+    "Geschwistern"
+   ],
+   "dat.sg": [
+    "Geschwister"
+   ],
+   "gen.sg": [
+    "Geschwisters"
+   ],
+   "nom.pl": [
+    "Geschwister"
+   ],
+   "nom.sg": [
+    "Geschwister"
+   ]
+  }
+ },
+ "Glas": {
+  "all": [
+   "Glas",
+   "Glase",
+   "Glaserl",
+   "Glases",
+   "Glasl",
+   "Gläschen",
+   "Gläser",
+   "Gläsern",
+   "Gläslein"
+  ],
+  "english": "glass",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Gläser",
+    "Glas"
+   ],
+   "acc.sg": [
+    "Glas"
+   ],
+   "dat.pl": [
+    "Gläsern",
+    "Glas"
+   ],
+   "dat.sg": [
+    "Glas",
+    "Glase"
+   ],
+   "gen.sg": [
+    "Glases"
+   ],
+   "nom.pl": [
+    "Gläser",
+    "Glas"
+   ],
+   "nom.sg": [
+    "Glas"
+   ]
+  }
+ },
+ "Handy": {
+  "all": [
+   "Handies",
+   "Handy",
+   "Handys"
+  ],
+  "english": "mobile phone",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Handys",
+    "Handies"
+   ],
+   "acc.sg": [
+    "Handy"
+   ],
+   "dat.pl": [
+    "Handys",
+    "Handies"
+   ],
+   "dat.sg": [
+    "Handy"
+   ],
+   "gen.sg": [
+    "Handys"
+   ],
+   "nom.pl": [
+    "Handys",
+    "Handies"
+   ],
+   "nom.sg": [
+    "Handy"
    ]
   }
  },
@@ -766,6 +1192,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Häuser"
+   ],
    "acc.sg": [
     "Haus"
    ],
@@ -812,6 +1241,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Hunde"
+   ],
    "acc.sg": [
     "Hund"
    ],
@@ -857,6 +1289,48 @@
    ]
   }
  },
+ "Jahr": {
+  "all": [
+   "Jahr",
+   "Jahre",
+   "Jahren",
+   "Jahres",
+   "Jahrs",
+   "Jährchen",
+   "Jährlein"
+  ],
+  "english": "year",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Jahre",
+    "Jahr"
+   ],
+   "acc.sg": [
+    "Jahr"
+   ],
+   "dat.pl": [
+    "Jahren",
+    "Jahr"
+   ],
+   "dat.sg": [
+    "Jahr",
+    "Jahre"
+   ],
+   "gen.sg": [
+    "Jahres",
+    "Jahrs"
+   ],
+   "nom.pl": [
+    "Jahre",
+    "Jahr"
+   ],
+   "nom.sg": [
+    "Jahr"
+   ]
+  }
+ },
  "Junge": {
   "all": [
    "Jung",
@@ -873,6 +1347,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Jungen"
+   ],
    "acc.sg": [
     "Jungen"
    ],
@@ -917,6 +1394,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Kaffees"
+   ],
    "acc.sg": [
     "Kaffee"
    ],
@@ -934,6 +1414,39 @@
    ],
    "nom.sg": [
     "Kaffee"
+   ]
+  }
+ },
+ "Kartoffel": {
+  "all": [
+   "Kartoffel",
+   "Kartoffeln",
+   "Kartöffelchen"
+  ],
+  "english": "potato",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kartoffeln"
+   ],
+   "acc.sg": [
+    "Kartoffel"
+   ],
+   "dat.pl": [
+    "Kartoffeln"
+   ],
+   "dat.sg": [
+    "Kartoffel"
+   ],
+   "gen.sg": [
+    "Kartoffel"
+   ],
+   "nom.pl": [
+    "Kartoffeln"
+   ],
+   "nom.sg": [
+    "Kartoffel"
    ]
   }
  },
@@ -957,6 +1470,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Katzen"
+   ],
    "acc.sg": [
     "Katze"
    ],
@@ -995,6 +1511,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Kinder"
+   ],
    "acc.sg": [
     "Kind"
    ],
@@ -1026,6 +1545,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Kinos"
+   ],
    "acc.sg": [
     "Kino"
    ],
@@ -1063,6 +1585,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Köpfe"
+   ],
    "acc.sg": [
     "Kopf"
    ],
@@ -1096,6 +1621,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Kuchen"
+   ],
    "acc.sg": [
     "Kuchen"
    ],
@@ -1127,6 +1655,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Lampen"
+   ],
    "acc.sg": [
     "Lampe"
    ],
@@ -1147,6 +1678,51 @@
    ]
   }
  },
+ "Land": {
+  "all": [
+   "Land",
+   "Lande",
+   "Landen",
+   "Landes",
+   "Lands",
+   "Landt",
+   "Ländchen",
+   "Länder",
+   "Ländern",
+   "Ländlein"
+  ],
+  "english": "country",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Länder",
+    "Lande"
+   ],
+   "acc.sg": [
+    "Land"
+   ],
+   "dat.pl": [
+    "Ländern",
+    "Landen"
+   ],
+   "dat.sg": [
+    "Land",
+    "Lande"
+   ],
+   "gen.sg": [
+    "Landes",
+    "Lands"
+   ],
+   "nom.pl": [
+    "Länder",
+    "Lande"
+   ],
+   "nom.sg": [
+    "Land"
+   ]
+  }
+ },
  "Lehrer": {
   "all": [
    "Lehrer",
@@ -1158,6 +1734,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Lehrer"
+   ],
    "acc.sg": [
     "Lehrer"
    ],
@@ -1188,6 +1767,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Lehrerinnen"
+   ],
    "acc.sg": [
     "Lehrerin"
    ],
@@ -1231,6 +1813,10 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Männer",
+    "Mann"
+   ],
    "acc.sg": [
     "Mann"
    ],
@@ -1265,6 +1851,10 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Milchen",
+    "Milche"
+   ],
    "acc.sg": [
     "Milch"
    ],
@@ -1296,6 +1886,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Musiken"
+   ],
    "acc.sg": [
     "Musik"
    ],
@@ -1334,6 +1927,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Mütter"
+   ],
    "acc.sg": [
     "Mutter"
    ],
@@ -1364,6 +1960,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Mädchen"
+   ],
    "acc.sg": [
     "Mädchen"
    ],
@@ -1395,6 +1994,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Nächte"
+   ],
    "acc.sg": [
     "Nacht"
    ],
@@ -1427,6 +2029,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Namen"
+   ],
    "acc.sg": [
     "Namen"
    ],
@@ -1456,6 +2061,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Omas"
+   ],
    "acc.sg": [
     "Oma"
    ],
@@ -1487,6 +2095,10 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Onkel",
+    "Onkels"
+   ],
    "acc.sg": [
     "Onkel"
    ],
@@ -1519,6 +2131,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Opas"
+   ],
    "acc.sg": [
     "Opa"
    ],
@@ -1551,6 +2166,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Probleme"
+   ],
    "acc.sg": [
     "Problem"
    ],
@@ -1582,6 +2200,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Schwestern"
+   ],
    "acc.sg": [
     "Schwester"
    ],
@@ -1617,6 +2238,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Söhne"
+   ],
    "acc.sg": [
     "Sohn"
    ],
@@ -1639,6 +2263,41 @@
    ]
   }
  },
+ "Stadt": {
+  "all": [
+   "Stadt",
+   "Städtchen",
+   "Städte",
+   "Städten",
+   "Städtlein"
+  ],
+  "english": "town, city",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Städte"
+   ],
+   "acc.sg": [
+    "Stadt"
+   ],
+   "dat.pl": [
+    "Städten"
+   ],
+   "dat.sg": [
+    "Stadt"
+   ],
+   "gen.sg": [
+    "Stadt"
+   ],
+   "nom.pl": [
+    "Städte"
+   ],
+   "nom.sg": [
+    "Stadt"
+   ]
+  }
+ },
  "Stuhl": {
   "all": [
    "Stuhl",
@@ -1653,6 +2312,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Stühle"
+   ],
    "acc.sg": [
     "Stuhl"
    ],
@@ -1686,6 +2348,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Suppen"
+   ],
    "acc.sg": [
     "Suppe"
    ],
@@ -1720,6 +2385,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Tage"
+   ],
    "acc.sg": [
     "Tag"
    ],
@@ -1752,6 +2420,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Tanten"
+   ],
    "acc.sg": [
     "Tante"
    ],
@@ -1786,6 +2457,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Taschen"
+   ],
    "acc.sg": [
     "Tasche"
    ],
@@ -1816,6 +2490,10 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Tees",
+    "Tee"
+   ],
    "acc.sg": [
     "Tee"
    ],
@@ -1853,6 +2531,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Tische"
+   ],
    "acc.sg": [
     "Tisch"
    ],
@@ -1888,6 +2569,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Töchter"
+   ],
    "acc.sg": [
     "Tochter"
    ],
@@ -1908,6 +2592,38 @@
    ]
   }
  },
+ "Tomate": {
+  "all": [
+   "Tomate",
+   "Tomaten"
+  ],
+  "english": "tomato",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Tomaten"
+   ],
+   "acc.sg": [
+    "Tomate"
+   ],
+   "dat.pl": [
+    "Tomaten"
+   ],
+   "dat.sg": [
+    "Tomate"
+   ],
+   "gen.sg": [
+    "Tomate"
+   ],
+   "nom.pl": [
+    "Tomaten"
+   ],
+   "nom.sg": [
+    "Tomate"
+   ]
+  }
+ },
  "Vater": {
   "all": [
    "Vater",
@@ -1921,6 +2637,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Väter"
+   ],
    "acc.sg": [
     "Vater"
    ],
@@ -1955,6 +2674,10 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Wasser",
+    "Wässer"
+   ],
    "acc.sg": [
     "Wasser"
    ],
@@ -1991,6 +2714,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Wege"
+   ],
    "acc.sg": [
     "Weg"
    ],
@@ -2022,6 +2748,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Welten"
+   ],
    "acc.sg": [
     "Welt"
    ],
@@ -2051,6 +2780,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Wohnungen"
+   ],
    "acc.sg": [
     "Wohnung"
    ],
@@ -2081,6 +2813,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Zeiten"
+   ],
    "acc.sg": [
     "Zeit"
    ],
@@ -2110,6 +2845,9 @@
   "gender": "f",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Zeitungen"
+   ],
    "acc.sg": [
     "Zeitung"
    ],
@@ -2141,6 +2879,9 @@
   "gender": "n",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Zimmer"
+   ],
    "acc.sg": [
     "Zimmer"
    ],
@@ -2174,6 +2915,9 @@
   "gender": "m",
   "pos": "noun",
   "slots": {
+   "acc.pl": [
+    "Züge"
+   ],
    "acc.sg": [
     "Zug"
    ],

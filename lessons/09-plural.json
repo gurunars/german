@@ -1,0 +1,236 @@
+{
+  "name": "Lesson 9 · More than one: the plural of nouns",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**The dogs** are small.",
+      "back": "**Die Hunde** sind klein.",
+      "note": "Plural of nouns. Many der-words add -e. In the plural the article is always die, whatever the gender.",
+      "priority": 1
+    },
+    {
+      "front": "We have two **tables**.",
+      "back": "Wir haben zwei **Tische**.",
+      "note": "Plural of nouns. der Tisch → Tische: -e, no umlaut.",
+      "priority": 1
+    },
+    {
+      "front": "I'm working three **days**.",
+      "back": "Ich arbeite drei **Tage**.",
+      "note": "Plural of nouns. der Tag → Tage.",
+      "priority": 1
+    },
+    {
+      "front": "I am twenty **years** old.",
+      "back": "Ich bin zwanzig **Jahre** alt.",
+      "note": "Plural of nouns. das Jahr → Jahre. Jahre alt is the full way to give an age.",
+      "priority": 1
+    },
+    {
+      "front": "**The chairs** are new.",
+      "back": "**Die Stühle** sind neu.",
+      "note": "Plural of nouns. Some words add -e and an umlaut: Stuhl → Stühle.",
+      "priority": 1
+    },
+    {
+      "front": "**The trains** are old.",
+      "back": "**Die Züge** sind alt.",
+      "note": "Plural of nouns. der Zug → Züge: u becomes ü.",
+      "priority": 1
+    },
+    {
+      "front": "**The cities** are big.",
+      "back": "**Die Städte** sind groß.",
+      "note": "Plural of nouns. die Stadt → Städte: a becomes ä, plus -e.",
+      "priority": 1
+    },
+    {
+      "front": "**The trees** are tall.",
+      "back": "**Die Bäume** sind groß.",
+      "note": "Plural of nouns. der Baum → Bäume: au becomes äu.",
+      "priority": 1
+    },
+    {
+      "front": "**The children** are playing.",
+      "back": "**Die Kinder** spielen.",
+      "note": "Plural of nouns. Many das-words add -er: Kind → Kinder. The verb is plural: spielen.",
+      "priority": 1
+    },
+    {
+      "front": "I'm reading two **books**.",
+      "back": "Ich lese zwei **Bücher**.",
+      "note": "Plural of nouns. -er comes with an umlaut where it can: Buch → Bücher.",
+      "priority": 1
+    },
+    {
+      "front": "**The houses** are old.",
+      "back": "**Die Häuser** sind alt.",
+      "note": "Plural of nouns. das Haus → Häuser: umlaut plus -er.",
+      "priority": 1
+    },
+    {
+      "front": "We see many **countries**.",
+      "back": "Wir sehen viele **Länder**.",
+      "note": "Plural of nouns. das Land → Länder. viele: many, with a plural.",
+      "priority": 1
+    },
+    {
+      "front": "**The pictures** are beautiful.",
+      "back": "**Die Bilder** sind schön.",
+      "note": "Plural of nouns. das Bild → Bilder: -er, no umlaut possible.",
+      "priority": 1
+    },
+    {
+      "front": "I'm buying ten **eggs**.",
+      "back": "Ich kaufe zehn **Eier**.",
+      "note": "Plural of nouns. das Ei → Eier.",
+      "priority": 1
+    },
+    {
+      "front": "We're buying six **glasses**.",
+      "back": "Wir kaufen sechs **Gläser**.",
+      "note": "Plural of nouns. das Glas → Gläser: a becomes ä, plus -er.",
+      "priority": 1
+    },
+    {
+      "front": "**The women** are tired.",
+      "back": "**Die Frauen** sind müde.",
+      "note": "Plural of nouns. Most die-words add -n or -en: Frau → Frauen.",
+      "priority": 1
+    },
+    {
+      "front": "**The cats** are sleeping.",
+      "back": "**Die Katzen** schlafen.",
+      "note": "Plural of nouns. A word in -e adds only -n: Katze → Katzen.",
+      "priority": 1
+    },
+    {
+      "front": "I have two **questions**.",
+      "back": "Ich habe zwei **Fragen**.",
+      "note": "Plural of nouns. die Frage → Fragen.",
+      "priority": 1
+    },
+    {
+      "front": "She's buying **flowers**.",
+      "back": "Sie kauft **Blumen**.",
+      "note": "Plural of nouns. ein has no plural: a flower, but just flowers — Blumen with no article.",
+      "priority": 1
+    },
+    {
+      "front": "We're buying three **bottles** of water.",
+      "back": "Wir kaufen drei **Flaschen** Wasser.",
+      "note": "Plural of nouns. die Flasche → Flaschen. German needs no word for of here.",
+      "priority": 1
+    },
+    {
+      "front": "Do you eat **tomatoes**? (one friend)",
+      "back": "Isst du **Tomaten**?",
+      "note": "Plural of nouns. die Tomate → Tomaten.",
+      "priority": 1
+    },
+    {
+      "front": "I like eating **potatoes**.",
+      "back": "Ich esse gern **Kartoffeln**.",
+      "note": "Plural of nouns. A die-word in -el adds -n: Kartoffeln.",
+      "priority": 1
+    },
+    {
+      "front": "He reads two **newspapers**.",
+      "back": "Er liest zwei **Zeitungen**.",
+      "note": "Plural of nouns. Words in -ung always add -en: Zeitungen.",
+      "priority": 1
+    },
+    {
+      "front": "She has three **friends**. (women)",
+      "back": "Sie hat drei **Freundinnen**.",
+      "note": "Plural of nouns. -in doubles its n before -en: Freundinnen.",
+      "priority": 1
+    },
+    {
+      "front": "**The cars** are expensive.",
+      "back": "**Die Autos** sind teuer.",
+      "note": "Plural of nouns. Words ending in a vowel other than -e, often from other languages, add -s: Autos.",
+      "priority": 1
+    },
+    {
+      "front": "The children have **mobile phones**.",
+      "back": "Die Kinder haben **Handys**.",
+      "note": "Plural of nouns. das Handy, the German word for a mobile, takes -s: Handys.",
+      "priority": 1
+    },
+    {
+      "front": "I have a lot of **photos**.",
+      "back": "Ich habe viele **Fotos**.",
+      "note": "Plural of nouns. das Foto → Fotos.",
+      "priority": 1
+    },
+    {
+      "front": "**The teachers** are here.",
+      "back": "**Die Lehrer** sind hier.",
+      "note": "Plural of nouns. der-words in -er add nothing: der Lehrer, die Lehrer. Only the article shows the plural.",
+      "priority": 1
+    },
+    {
+      "front": "**The rooms** are small.",
+      "back": "**Die Zimmer** sind klein.",
+      "note": "Plural of nouns. das Zimmer → die Zimmer: no ending.",
+      "priority": 1
+    },
+    {
+      "front": "I'm buying two **cakes**.",
+      "back": "Ich kaufe zwei **Kuchen**.",
+      "note": "Plural of nouns. Words in -en add nothing: Kuchen.",
+      "priority": 1
+    },
+    {
+      "front": "**The girls** are playing football.",
+      "back": "**Die Mädchen** spielen Fußball.",
+      "note": "Plural of nouns. -chen words never change: das Mädchen, die Mädchen. das, because -chen makes every word neuter.",
+      "priority": 1
+    },
+    {
+      "front": "I have two **brothers**.",
+      "back": "Ich habe zwei **Brüder**.",
+      "note": "Plural of nouns. Some der-words in -er only add an umlaut: Bruder → Brüder.",
+      "priority": 1
+    },
+    {
+      "front": "**The apples** are cheap.",
+      "back": "**Die Äpfel** sind billig.",
+      "note": "Plural of nouns. der Apfel → Äpfel: umlaut only.",
+      "priority": 1
+    },
+    {
+      "front": "**Her daughters** are tall.",
+      "back": "**Ihre Töchter** sind groß.",
+      "note": "Plural of nouns. die Tochter → Töchter: umlaut only. ihre, as ein would have in the plural.",
+      "priority": 1
+    },
+    {
+      "front": "**The boys** are eleven.",
+      "back": "**Die Jungen** sind elf.",
+      "note": "Plural of nouns. der Junge → Jungen: masculine words in -e add -n.",
+      "priority": 1
+    },
+    {
+      "front": "**My parents** live here.",
+      "back": "**Meine Eltern** wohnen hier.",
+      "note": "Plural of nouns. die Eltern only exists in the plural; the possessive takes -e: meine.",
+      "priority": 1
+    },
+    {
+      "front": "Do you have **siblings**? (one friend)",
+      "back": "Hast du **Geschwister**?",
+      "note": "Plural of nouns. Geschwister: brothers and sisters together, a plural with no ending.",
+      "priority": 1
+    },
+    {
+      "front": "We don't have **children**.",
+      "back": "Wir haben **keine Kinder**.",
+      "note": "Plural of nouns. kein has a plural: keine Kinder, while ein has none.",
+      "priority": 1
+    }
+  ]
+}

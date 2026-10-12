@@ -69,9 +69,9 @@ def entries(lemma):
 
 
 def gender_of(entry):
-    """m, f or n from the head line, e.g. "Hund m (strong, …)"."""
+    """m, f or n from the head line, e.g. "Hund m (strong, …)"; pl for a plural-only noun (Eltern)."""
     for head in entry.get("head_templates", []):
-        match = re.match(r"\S+ ([mfn])\b", head.get("expansion", ""))
+        match = re.match(r"\S+ ([mfn]|pl)\b", head.get("expansion", ""))
         if match:
             return match.group(1)
     return None

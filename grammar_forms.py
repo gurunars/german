@@ -31,6 +31,7 @@ SLOTS = {
         "dat.sg": ({"dative", "singular"}, "dative singular"),
         "gen.sg": ({"genitive", "singular"}, "genitive singular"),
         "nom.pl": ({"nominative", "plural"}, "nominative plural"),
+        "acc.pl": ({"accusative", "plural"}, "accusative plural"),
         "dat.pl": ({"dative", "plural"}, "dative plural"),
     },
     "adj": {
@@ -80,4 +81,4 @@ def matches(tags, wanted):
     return wanted <= tags and not (tags & EXCLUDED) - wanted
 
 
-GENDER_WORD = {"m": "der", "f": "die", "n": "das"}
+GENDER_WORD = {"m": "der", "f": "die", "n": "das", "pl": "die"}
