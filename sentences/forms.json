@@ -329,6 +329,48 @@
    ]
   }
  },
+ "Bier": {
+  "all": [
+   "Bier",
+   "Bierchen",
+   "Biere",
+   "Bieren",
+   "Bieres",
+   "Biern",
+   "Biers"
+  ],
+  "english": "beer",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Biere",
+    "Bier"
+   ],
+   "acc.sg": [
+    "Bier"
+   ],
+   "dat.pl": [
+    "Bieren",
+    "Biern"
+   ],
+   "dat.sg": [
+    "Bier",
+    "Biere"
+   ],
+   "gen.sg": [
+    "Bieres",
+    "Biers"
+   ],
+   "nom.pl": [
+    "Biere",
+    "Bier"
+   ],
+   "nom.sg": [
+    "Bier"
+   ]
+  }
+ },
  "Bild": {
   "all": [
    "Bild",
@@ -810,6 +852,45 @@
    ],
    "nom.sg": [
     "Ei"
+   ]
+  }
+ },
+ "Eis": {
+  "all": [
+   "Eis",
+   "Eischen",
+   "Eise",
+   "Eisen",
+   "Eises"
+  ],
+  "english": "ice cream; ice",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Eis",
+    "Eise"
+   ],
+   "acc.sg": [
+    "Eis"
+   ],
+   "dat.pl": [
+    "Eis",
+    "Eisen"
+   ],
+   "dat.sg": [
+    "Eis",
+    "Eise"
+   ],
+   "gen.sg": [
+    "Eises"
+   ],
+   "nom.pl": [
+    "Eis",
+    "Eise"
+   ],
+   "nom.sg": [
+    "Eis"
    ]
   }
  },
@@ -1490,6 +1571,39 @@
    ]
   }
  },
+ "Gemüse": {
+  "all": [
+   "Gemüse",
+   "Gemüsen",
+   "Gemüses"
+  ],
+  "english": "vegetables",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Gemüse"
+   ],
+   "acc.sg": [
+    "Gemüse"
+   ],
+   "dat.pl": [
+    "Gemüsen"
+   ],
+   "dat.sg": [
+    "Gemüse"
+   ],
+   "gen.sg": [
+    "Gemüses"
+   ],
+   "nom.pl": [
+    "Gemüse"
+   ],
+   "nom.sg": [
+    "Gemüse"
+   ]
+  }
+ },
  "Geschenk": {
   "all": [
    "Geschenk",
@@ -1724,6 +1838,38 @@
    ],
    "nom.sg": [
     "Haus"
+   ]
+  }
+ },
+ "Hausaufgabe": {
+  "all": [
+   "Hausaufgabe",
+   "Hausaufgaben"
+  ],
+  "english": "homework (task)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Hausaufgaben"
+   ],
+   "acc.sg": [
+    "Hausaufgabe"
+   ],
+   "dat.pl": [
+    "Hausaufgaben"
+   ],
+   "dat.sg": [
+    "Hausaufgabe"
+   ],
+   "gen.sg": [
+    "Hausaufgabe"
+   ],
+   "nom.pl": [
+    "Hausaufgaben"
+   ],
+   "nom.sg": [
+    "Hausaufgabe"
    ]
   }
  },
@@ -2920,6 +3066,33 @@
    ]
   }
  },
+ "Obst": {
+  "all": [
+   "Obst",
+   "Obste",
+   "Obstes",
+   "Obsts"
+  ],
+  "english": "fruit",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Obst"
+   ],
+   "dat.sg": [
+    "Obst",
+    "Obste"
+   ],
+   "gen.sg": [
+    "Obstes",
+    "Obsts"
+   ],
+   "nom.sg": [
+    "Obst"
+   ]
+  }
+ },
  "Oktober": {
   "all": [
    "October",
@@ -3102,6 +3275,40 @@
    ]
   }
  },
+ "Pause": {
+  "all": [
+   "Pause",
+   "Pausen",
+   "Pauserl",
+   "Päuschen"
+  ],
+  "english": "break",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Pausen"
+   ],
+   "acc.sg": [
+    "Pause"
+   ],
+   "dat.pl": [
+    "Pausen"
+   ],
+   "dat.sg": [
+    "Pause"
+   ],
+   "gen.sg": [
+    "Pause"
+   ],
+   "nom.pl": [
+    "Pausen"
+   ],
+   "nom.sg": [
+    "Pause"
+   ]
+  }
+ },
  "Problem": {
   "all": [
    "Problem",
@@ -3169,6 +3376,44 @@
    ]
   }
  },
+ "Salat": {
+  "all": [
+   "Salat",
+   "Salate",
+   "Salaten",
+   "Salates",
+   "Salats",
+   "Salätchen"
+  ],
+  "english": "salad",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Salate"
+   ],
+   "acc.sg": [
+    "Salat"
+   ],
+   "dat.pl": [
+    "Salaten"
+   ],
+   "dat.sg": [
+    "Salat",
+    "Salate"
+   ],
+   "gen.sg": [
+    "Salats",
+    "Salates"
+   ],
+   "nom.pl": [
+    "Salate"
+   ],
+   "nom.sg": [
+    "Salat"
+   ]
+  }
+ },
  "Samstag": {
   "all": [
    "Samstag",
@@ -3203,6 +3448,42 @@
    ],
    "nom.sg": [
     "Samstag"
+   ]
+  }
+ },
+ "Schokolade": {
+  "all": [
+   "Chocolade",
+   "Chokolade",
+   "Schoki",
+   "Schoko",
+   "Schokolade",
+   "Schokoladen"
+  ],
+  "english": "chocolate",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Schokoladen"
+   ],
+   "acc.sg": [
+    "Schokolade"
+   ],
+   "dat.pl": [
+    "Schokoladen"
+   ],
+   "dat.sg": [
+    "Schokolade"
+   ],
+   "gen.sg": [
+    "Schokolade"
+   ],
+   "nom.pl": [
+    "Schokoladen"
+   ],
+   "nom.sg": [
+    "Schokolade"
    ]
   }
  },
@@ -3490,6 +3771,38 @@
    ],
    "nom.sg": [
     "Suppe"
+   ]
+  }
+ },
+ "Tablette": {
+  "all": [
+   "Tablette",
+   "Tabletten"
+  ],
+  "english": "tablet, pill",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Tabletten"
+   ],
+   "acc.sg": [
+    "Tablette"
+   ],
+   "dat.pl": [
+    "Tabletten"
+   ],
+   "dat.sg": [
+    "Tablette"
+   ],
+   "gen.sg": [
+    "Tablette"
+   ],
+   "nom.pl": [
+    "Tabletten"
+   ],
+   "nom.sg": [
+    "Tablette"
    ]
   }
  },
@@ -4033,6 +4346,43 @@
    ],
    "nom.sg": [
     "Weg"
+   ]
+  }
+ },
+ "Wein": {
+  "all": [
+   "Wein",
+   "Weine",
+   "Weinen",
+   "Weines",
+   "Weins"
+  ],
+  "english": "wine",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Weine"
+   ],
+   "acc.sg": [
+    "Wein"
+   ],
+   "dat.pl": [
+    "Weinen"
+   ],
+   "dat.sg": [
+    "Wein",
+    "Weine"
+   ],
+   "gen.sg": [
+    "Weines",
+    "Weins"
+   ],
+   "nom.pl": [
+    "Weine"
+   ],
+   "nom.sg": [
+    "Wein"
    ]
   }
  },
@@ -4620,6 +4970,23 @@
     "bleib",
     "bleibe"
    ],
+   "konj2.du": [
+    "bliebest",
+    "bliebst"
+   ],
+   "konj2.er": [
+    "bliebe"
+   ],
+   "konj2.ich": [
+    "bliebe"
+   ],
+   "konj2.ihr": [
+    "bliebet",
+    "bliebt"
+   ],
+   "konj2.wir": [
+    "blieben"
+   ],
    "perf.er": [
     "ist geblieben"
    ],
@@ -4673,6 +5040,26 @@
    "imp.du": [
     "brauch",
     "brauche"
+   ],
+   "konj2.du": [
+    "brauchtest",
+    "bräuchtest"
+   ],
+   "konj2.er": [
+    "brauchte",
+    "bräuchte"
+   ],
+   "konj2.ich": [
+    "brauchte",
+    "bräuchte"
+   ],
+   "konj2.ihr": [
+    "brauchtet",
+    "bräuchtet"
+   ],
+   "konj2.wir": [
+    "brauchten",
+    "bräuchten"
    ],
    "perf.er": [
     "hat gebraucht"
@@ -4728,6 +5115,21 @@
     "bring",
     "bringe"
    ],
+   "konj2.du": [
+    "brächtest"
+   ],
+   "konj2.er": [
+    "brächte"
+   ],
+   "konj2.ich": [
+    "brächte"
+   ],
+   "konj2.ihr": [
+    "brächtet"
+   ],
+   "konj2.wir": [
+    "brächten"
+   ],
    "perf.er": [
     "hat gebracht"
    ],
@@ -4748,6 +5150,71 @@
    ],
    "pret.er": [
     "brachte"
+   ]
+  }
+ },
+ "dürfen": {
+  "all": [
+   "darf",
+   "darfst",
+   "durfte",
+   "durften",
+   "durftest",
+   "durftet",
+   "dürfe",
+   "dürfen",
+   "dürfend",
+   "dürfest",
+   "dürfet",
+   "dürft",
+   "dürfte",
+   "dürften",
+   "dürftest",
+   "dürftet",
+   "gedurft",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "may, to be allowed to",
+  "pos": "verb",
+  "slots": {
+   "konj2.du": [
+    "dürftest"
+   ],
+   "konj2.er": [
+    "dürfte"
+   ],
+   "konj2.ich": [
+    "dürfte"
+   ],
+   "konj2.ihr": [
+    "dürftet"
+   ],
+   "konj2.wir": [
+    "dürften"
+   ],
+   "perf.er": [
+    "hat gedurft"
+   ],
+   "pres.du": [
+    "darfst"
+   ],
+   "pres.er": [
+    "darf"
+   ],
+   "pres.ich": [
+    "darf"
+   ],
+   "pres.ihr": [
+    "dürft"
+   ],
+   "pres.wir": [
+    "dürfen"
+   ],
+   "pret.er": [
+    "durfte"
    ]
   }
  },
@@ -4983,6 +5450,21 @@
     "find",
     "finde"
    ],
+   "konj2.du": [
+    "fändest"
+   ],
+   "konj2.er": [
+    "fände"
+   ],
+   "konj2.ich": [
+    "fände"
+   ],
+   "konj2.ihr": [
+    "fändet"
+   ],
+   "konj2.wir": [
+    "fänden"
+   ],
    "perf.er": [
     "hat gefunden"
    ],
@@ -5214,6 +5696,23 @@
    "imp.du": [
     "gib"
    ],
+   "konj2.du": [
+    "gäbest",
+    "gäbst"
+   ],
+   "konj2.er": [
+    "gäbe"
+   ],
+   "konj2.ich": [
+    "gäbe"
+   ],
+   "konj2.ihr": [
+    "gäbet",
+    "gäbt"
+   ],
+   "konj2.wir": [
+    "gäben"
+   ],
    "perf.er": [
     "hat gegeben"
    ],
@@ -5266,6 +5765,23 @@
    "imp.du": [
     "geh",
     "gehe"
+   ],
+   "konj2.du": [
+    "gingest",
+    "gingst"
+   ],
+   "konj2.er": [
+    "ginge"
+   ],
+   "konj2.ich": [
+    "ginge"
+   ],
+   "konj2.ihr": [
+    "ginget",
+    "gingt"
+   ],
+   "konj2.wir": [
+    "gingen"
    ],
    "perf.er": [
     "ist gegangen"
@@ -5664,6 +6180,21 @@
     "hab",
     "habe"
    ],
+   "konj2.du": [
+    "hättest"
+   ],
+   "konj2.er": [
+    "hätte"
+   ],
+   "konj2.ich": [
+    "hätte"
+   ],
+   "konj2.ihr": [
+    "hättet"
+   ],
+   "konj2.wir": [
+    "hätten"
+   ],
    "perf.er": [
     "hat gehabt"
    ],
@@ -5747,6 +6278,23 @@
    "imp.du": [
     "heiß",
     "heiße"
+   ],
+   "konj2.du": [
+    "hießest",
+    "hießt"
+   ],
+   "konj2.er": [
+    "hieße"
+   ],
+   "konj2.ich": [
+    "hieße"
+   ],
+   "konj2.ihr": [
+    "hießet",
+    "hießt"
+   ],
+   "konj2.wir": [
+    "hießen"
    ],
    "perf.er": [
     "hat geheißen"
@@ -6326,6 +6874,23 @@
     "komm",
     "komme"
    ],
+   "konj2.du": [
+    "kämest",
+    "kämst"
+   ],
+   "konj2.er": [
+    "käme"
+   ],
+   "konj2.ich": [
+    "käme"
+   ],
+   "konj2.ihr": [
+    "kämet",
+    "kämt"
+   ],
+   "konj2.wir": [
+    "kämen"
+   ],
    "perf.er": [
     "ist gekommen"
    ],
@@ -6615,6 +7180,21 @@
   "english": "can, to be able to",
   "pos": "verb",
   "slots": {
+   "konj2.du": [
+    "könntest"
+   ],
+   "konj2.er": [
+    "könnte"
+   ],
+   "konj2.ich": [
+    "könnte"
+   ],
+   "konj2.ihr": [
+    "könntet"
+   ],
+   "konj2.wir": [
+    "könnten"
+   ],
    "perf.er": [
     "hat gekonnt",
     "hat können"
@@ -6668,6 +7248,23 @@
    "imp.du": [
     "lass",
     "lasse"
+   ],
+   "konj2.du": [
+    "ließest",
+    "ließt"
+   ],
+   "konj2.er": [
+    "ließe"
+   ],
+   "konj2.ich": [
+    "ließe"
+   ],
+   "konj2.ihr": [
+    "ließet",
+    "ließt"
+   ],
+   "konj2.wir": [
+    "ließen"
    ],
    "perf.er": [
     "hat gelassen",
@@ -6723,6 +7320,23 @@
     "lauf",
     "laufe"
    ],
+   "konj2.du": [
+    "liefest",
+    "liefst"
+   ],
+   "konj2.er": [
+    "liefe"
+   ],
+   "konj2.ich": [
+    "liefe"
+   ],
+   "konj2.ihr": [
+    "liefet",
+    "lieft"
+   ],
+   "konj2.wir": [
+    "liefen"
+   ],
    "perf.er": [
     "ist gelaufen"
    ],
@@ -6743,6 +7357,92 @@
    ],
    "pret.er": [
     "lief"
+   ]
+  }
+ },
+ "laut": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "laut",
+   "laute",
+   "lautem",
+   "lauten",
+   "lauter",
+   "lautere",
+   "lauterem",
+   "lauteren",
+   "lauterer",
+   "lauteres",
+   "lautes",
+   "lauteste",
+   "lautestem",
+   "lautesten",
+   "lautester",
+   "lautestes"
+  ],
+  "english": "loud",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "lauter",
+    "lauterer",
+    "lautere",
+    "lauteres",
+    "lauteren",
+    "lauterem",
+    "der lautere",
+    "die lautere",
+    "das lautere",
+    "die lauteren",
+    "des lauteren",
+    "der lauteren",
+    "dem lauteren",
+    "den lauteren",
+    "ein lauterer",
+    "eine lautere",
+    "ein lauteres",
+    "eines lauteren",
+    "einer lauteren",
+    "einem lauteren",
+    "einen lauteren"
+   ],
+   "mixed.acc.m": [
+    "einen lauten"
+   ],
+   "mixed.nom.n": [
+    "ein lautes"
+   ],
+   "strong.dat.f": [
+    "lauter"
+   ],
+   "superlative": [
+    "am lautesten",
+    "lautester",
+    "lauteste",
+    "lautestes",
+    "lautesten",
+    "lautestem",
+    "der lauteste",
+    "die lauteste",
+    "das lauteste",
+    "die lautesten",
+    "des lautesten",
+    "der lautesten",
+    "dem lautesten",
+    "den lautesten",
+    "ein lautester",
+    "eine lauteste",
+    "ein lautestes",
+    "eines lautesten",
+    "einer lautesten",
+    "einem lautesten",
+    "einen lautesten"
+   ],
+   "weak.nom.m": [
+    "der laute"
    ]
   }
  },
@@ -7000,6 +7700,71 @@
    ]
   }
  },
+ "mögen": {
+  "all": [
+   "gemocht",
+   "haben",
+   "habest",
+   "habet",
+   "mag",
+   "magst",
+   "mochte",
+   "mochten",
+   "mochtest",
+   "mochtet",
+   "möchte",
+   "möchten",
+   "möchtest",
+   "möchtet",
+   "möge",
+   "mögen",
+   "mögend",
+   "mögest",
+   "möget",
+   "mögt",
+   "werdest"
+  ],
+  "english": "to like; möchte: would like",
+  "pos": "verb",
+  "slots": {
+   "konj2.du": [
+    "möchtest"
+   ],
+   "konj2.er": [
+    "möchte"
+   ],
+   "konj2.ich": [
+    "möchte"
+   ],
+   "konj2.ihr": [
+    "möchtet"
+   ],
+   "konj2.wir": [
+    "möchten"
+   ],
+   "perf.er": [
+    "hat gemocht"
+   ],
+   "pres.du": [
+    "magst"
+   ],
+   "pres.er": [
+    "mag"
+   ],
+   "pres.ich": [
+    "mag"
+   ],
+   "pres.ihr": [
+    "mögt"
+   ],
+   "pres.wir": [
+    "mögen"
+   ],
+   "pret.er": [
+    "mochte"
+   ]
+  }
+ },
  "müde": {
   "all": [
    "am",
@@ -7113,6 +7878,21 @@
   "english": "must, to have to",
   "pos": "verb",
   "slots": {
+   "konj2.du": [
+    "müsstest"
+   ],
+   "konj2.er": [
+    "müsste"
+   ],
+   "konj2.ich": [
+    "müsste"
+   ],
+   "konj2.ihr": [
+    "müsstet"
+   ],
+   "konj2.wir": [
+    "müssten"
+   ],
    "perf.er": [
     "hat gemusst"
    ],
@@ -7168,6 +7948,23 @@
   "slots": {
    "imp.du": [
     "nimm"
+   ],
+   "konj2.du": [
+    "nähmest",
+    "nähmst"
+   ],
+   "konj2.er": [
+    "nähme"
+   ],
+   "konj2.ich": [
+    "nähme"
+   ],
+   "konj2.ihr": [
+    "nähmet",
+    "nähmt"
+   ],
+   "konj2.wir": [
+    "nähmen"
    ],
    "perf.er": [
     "hat genommen"
@@ -8136,6 +8933,23 @@
     "sieh",
     "siehe"
    ],
+   "konj2.du": [
+    "sähest",
+    "sähst"
+   ],
+   "konj2.er": [
+    "sähe"
+   ],
+   "konj2.ich": [
+    "sähe"
+   ],
+   "konj2.ihr": [
+    "sähet",
+    "säht"
+   ],
+   "konj2.wir": [
+    "sähen"
+   ],
    "perf.er": [
     "hat gesehen"
    ],
@@ -8198,6 +9012,23 @@
   "slots": {
    "imp.du": [
     "sei"
+   ],
+   "konj2.du": [
+    "wärst",
+    "wärest"
+   ],
+   "konj2.er": [
+    "wäre"
+   ],
+   "konj2.ich": [
+    "wäre"
+   ],
+   "konj2.ihr": [
+    "wärt",
+    "wäret"
+   ],
+   "konj2.wir": [
+    "wären"
    ],
    "perf.er": [
     "ist gewesen"
@@ -8275,6 +9106,67 @@
    ],
    "pret.er": [
     "sang"
+   ]
+  }
+ },
+ "sollen": {
+  "all": [
+   "gesollt",
+   "haben",
+   "habest",
+   "habet",
+   "soll",
+   "solle",
+   "sollen",
+   "sollend",
+   "sollest",
+   "sollet",
+   "sollst",
+   "sollt",
+   "sollte",
+   "sollten",
+   "solltest",
+   "solltet",
+   "werdest"
+  ],
+  "english": "to be supposed to, shall",
+  "pos": "verb",
+  "slots": {
+   "konj2.du": [
+    "solltest"
+   ],
+   "konj2.er": [
+    "sollte"
+   ],
+   "konj2.ich": [
+    "sollte"
+   ],
+   "konj2.ihr": [
+    "solltet"
+   ],
+   "konj2.wir": [
+    "sollten"
+   ],
+   "perf.er": [
+    "hat gesollt"
+   ],
+   "pres.du": [
+    "sollst"
+   ],
+   "pres.er": [
+    "soll"
+   ],
+   "pres.ich": [
+    "soll"
+   ],
+   "pres.ihr": [
+    "sollt"
+   ],
+   "pres.wir": [
+    "sollen"
+   ],
+   "pret.er": [
+    "sollte"
    ]
   }
  },
@@ -9063,6 +9955,21 @@
     "werd",
     "werde"
    ],
+   "konj2.du": [
+    "würdest"
+   ],
+   "konj2.er": [
+    "würde"
+   ],
+   "konj2.ich": [
+    "würde"
+   ],
+   "konj2.ihr": [
+    "würdet"
+   ],
+   "konj2.wir": [
+    "würden"
+   ],
    "perf.er": [
     "ist geworden"
    ],
@@ -9202,6 +10109,21 @@
    "imp.du": [
     "wisse"
    ],
+   "konj2.du": [
+    "wüsstest"
+   ],
+   "konj2.er": [
+    "wüsste"
+   ],
+   "konj2.ich": [
+    "wüsste"
+   ],
+   "konj2.ihr": [
+    "wüsstet"
+   ],
+   "konj2.wir": [
+    "wüssten"
+   ],
    "perf.er": [
     "hat gewusst"
    ],
@@ -9298,6 +10220,21 @@
   "english": "to want",
   "pos": "verb",
   "slots": {
+   "konj2.du": [
+    "wolltest"
+   ],
+   "konj2.er": [
+    "wollte"
+   ],
+   "konj2.ich": [
+    "wollte"
+   ],
+   "konj2.ihr": [
+    "wolltet"
+   ],
+   "konj2.wir": [
+    "wollten"
+   ],
    "perf.er": [
     "hat gewollt"
    ],

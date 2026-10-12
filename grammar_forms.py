@@ -11,7 +11,20 @@ EXCLUDED that the slot does not ask for.
 EXCLUDED = {
     "subjunctive", "comparative", "superlative", "negative", "rare", "nonstandard",
     "archaic", "obsolete", "dated", "error-unknown-tag", "formal", "colloquial",
+    # würde + infinitive is tagged future and subjunctive-ii: kept out of the one-word Konjunktiv II.
+    "future",
 }
+
+_PERSONS = {
+    "ich": {"first-person", "singular"}, "du": {"second-person", "singular"}, "er": {"third-person", "singular"},
+    "wir": {"first-person", "plural"}, "ihr": {"second-person", "plural"},
+}
+
+
+def _persons(prefix, tags, label):
+    """One slot per person: prefix.ich … prefix.ihr (wir also serves sie and Sie)."""
+    return {"%s.%s" % (prefix, person): (tags | number, "%s, %s" % (label, person))
+            for person, number in _PERSONS.items()}
 
 # slot → (tags, label shown on the card)
 SLOTS = {
@@ -24,6 +37,8 @@ SLOTS = {
         "pret.er": ({"preterite", "indicative", "third-person", "singular"}, "simple past (Präteritum), er/sie/es"),
         "perf.er": ({"perfect", "indicative", "third-person", "singular"}, "perfect, er/sie/es"),
         "imp.du": ({"imperative", "second-person", "singular"}, "imperative, du"),
+        # Konjunktiv II in one word: möchte, hätte, wäre, könnte.
+        **_persons("konj2", {"subjunctive", "subjunctive-ii"}, "Konjunktiv II"),
     },
     "noun": {
         "nom.sg": ({"nominative", "singular"}, "nominative singular"),

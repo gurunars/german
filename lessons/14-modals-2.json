@@ -1,0 +1,206 @@
+{
+  "name": "Lesson 14 · May, should, would like: dürfen, sollen, möchten; mögen",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**May** I smoke here?",
+      "back": "**Darf** ich hier rauchen?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. dürfen asks for permission. ich darf: no -e, and ü becomes a in the singular.",
+      "priority": 1
+    },
+    {
+      "front": "You **mustn't** smoke here. (one friend)",
+      "back": "Hier **darfst** du nicht rauchen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. nicht dürfen is mustn't: you are not allowed to.",
+      "priority": 1
+    },
+    {
+      "front": "The child **is allowed to** eat ice cream today.",
+      "back": "Das Kind **darf** heute Eis essen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. es darf, the same as ich darf: no -t.",
+      "priority": 1
+    },
+    {
+      "front": "We **mustn't** be loud.",
+      "back": "Wir **dürfen** nicht laut sein.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. wir dürfen: the plural keeps the ü. sein is the infinitive at the end.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **allowed to** play outside? (several friends)",
+      "back": "**Dürft** ihr draußen spielen?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. ihr dürft: ü plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "You **mustn't** drink beer. (formal)",
+      "back": "Sie **dürfen** kein Bier trinken.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. kein Bier inside the bracket; trinken at the end.",
+      "priority": 1
+    },
+    {
+      "front": "**May** we go now?",
+      "back": "**Dürfen** wir jetzt gehen?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. Dürfen wir…? asks politely for permission.",
+      "priority": 1
+    },
+    {
+      "front": "I **am supposed to** take a tablet.",
+      "back": "Ich **soll** eine Tablette nehmen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. sollen: someone else, here the doctor, wants it. ich soll, no -e.",
+      "priority": 1
+    },
+    {
+      "front": "You **are supposed to** do your homework. (one friend)",
+      "back": "Du **sollst** deine Hausaufgaben machen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. du sollst. Hausaufgaben machen: to do homework, usually in the plural.",
+      "priority": 1
+    },
+    {
+      "front": "He **is supposed to** eat vegetables.",
+      "back": "Er **soll** Gemüse essen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. er soll, the same as ich soll.",
+      "priority": 1
+    },
+    {
+      "front": "**Shall** we wait?",
+      "back": "**Sollen** wir warten?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. Sollen wir…? offers to do something: shall we…?",
+      "priority": 1
+    },
+    {
+      "front": "**Shall** I pay?",
+      "back": "**Soll** ich bezahlen?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. Soll ich…? offers: shall I…?",
+      "priority": 1
+    },
+    {
+      "front": "What **are** you **supposed to** do? (several friends)",
+      "back": "Was **sollt** ihr machen?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. ihr sollt: soll- plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "Children **should** eat fruit.",
+      "back": "Kinder **sollen** Obst essen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. sollen for a rule or advice that comes from outside.",
+      "priority": 1
+    },
+    {
+      "front": "**Shall** we eat outside?",
+      "back": "**Sollen** wir draußen essen?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. Sollen wir…? suggests: shall we…?",
+      "priority": 1
+    },
+    {
+      "front": "I **like** chocolate.",
+      "back": "Ich **mag** Schokolade.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. mögen + a noun: to like. ich mag: no -e, ö becomes a.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **like** fish? (one friend)",
+      "back": "**Magst** du Fisch?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. du magst.",
+      "priority": 1
+    },
+    {
+      "front": "She **doesn't like** beer.",
+      "back": "Sie **mag** kein Bier.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. sie mag, no -t. kein Bier: not any beer.",
+      "priority": 1
+    },
+    {
+      "front": "We **like** our teacher. (a woman)",
+      "back": "Wir **mögen** unsere Lehrerin.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. mögen also works for people: wir mögen.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **like** salad? (several friends)",
+      "back": "**Mögt** ihr Salat?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. ihr mögt: ö plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "My dog **doesn't like** cats.",
+      "back": "Mein Hund **mag** keine Katzen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. er mag + keine Katzen, the plural object.",
+      "priority": 1
+    },
+    {
+      "front": "I **like** him.",
+      "back": "Ich **mag** ihn.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. mögen + a person: ich mag ihn.",
+      "priority": 1
+    },
+    {
+      "front": "I **don't like** vegetables, but I have to eat them.",
+      "back": "Ich **mag** kein Gemüse, aber ich muss es essen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. das Gemüse → es: one das-word in German, though English says them.",
+      "priority": 1
+    },
+    {
+      "front": "**Don't** you **like** wine? (one friend) – Yes, I do!",
+      "back": "**Magst** du keinen Wein? – Doch!",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. A negative question gets doch for yes.",
+      "priority": 1
+    },
+    {
+      "front": "I **would like** a coffee.",
+      "back": "Ich **möchte** einen Kaffee.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. möchte is the polite form of mögen: I would like. It is how you order.",
+      "priority": 1
+    },
+    {
+      "front": "**Would** you **like** some more tea? (one friend)",
+      "back": "**Möchtest** du noch Tee?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. du möchtest. noch: some more.",
+      "priority": 1
+    },
+    {
+      "front": "She **would like to** pay.",
+      "back": "Sie **möchte** bezahlen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. sie möchte, with no -t: the same as ich. The infinitive goes at the end.",
+      "priority": 1
+    },
+    {
+      "front": "We **would like** two beers.",
+      "back": "Wir **möchten** zwei Bier.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. wir möchten. Ordering, Bier counts in portions: zwei Bier.",
+      "priority": 1
+    },
+    {
+      "front": "**Would** you **like** some wine? (several friends)",
+      "back": "**Möchtet** ihr Wein?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. ihr möchtet: möcht- plus -et.",
+      "priority": 1
+    },
+    {
+      "front": "**Would** you **like** a salad? (formal)",
+      "back": "**Möchten** Sie einen Salat?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. Sie möchten: polite and formal.",
+      "priority": 1
+    },
+    {
+      "front": "I **would like to** take a break.",
+      "back": "Ich **möchte** eine Pause machen.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. möchte + infinitive at the end: eine Pause machen.",
+      "priority": 1
+    },
+    {
+      "front": "He **would like** an ice cream, but he's not allowed.",
+      "back": "Er **möchte** ein Eis, aber er darf nicht.",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. möchte says what he wants; darf nicht says it is not allowed. The infinitive can drop when it is clear.",
+      "priority": 1
+    },
+    {
+      "front": "What **would** you **like** to drink? (formal)",
+      "back": "Was **möchten** Sie trinken?",
+      "note": "Modal verbs: dürfen, sollen, möchten; mögen. Was möchten Sie…? is the waiter's question.",
+      "priority": 1
+    }
+  ]
+}
