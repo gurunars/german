@@ -55,6 +55,11 @@
       "name": "Lesson 11 · Dates: the months, im, numbers to 100, der dritte Mai",
       "url": "11-dates.json",
       "cards": 35
+    },
+    {
+      "name": "Lesson 12 · For me, without you: accusative prepositions and pronouns",
+      "url": "12-acc-prep.json",
+      "cards": 38
     }
   ]
 }

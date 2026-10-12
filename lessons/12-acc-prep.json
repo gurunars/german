@@ -1,0 +1,236 @@
+{
+  "name": "Lesson 12 · For me, without you: accusative prepositions and pronouns",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "The present is for **my father**.",
+      "back": "Das Geschenk ist für **meinen Vater**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. für always takes the accusative: der Vater → meinen Vater.",
+      "priority": 1
+    },
+    {
+      "front": "I'm buying a cake for **my brother**.",
+      "back": "Ich kaufe einen Kuchen für **meinen Bruder**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. für + accusative: meinen Bruder.",
+      "priority": 1
+    },
+    {
+      "front": "The flowers are for **my mother**.",
+      "back": "Die Blumen sind für **meine Mutter**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. die-words do not change: für meine Mutter.",
+      "priority": 1
+    },
+    {
+      "front": "I need the car for **one day**.",
+      "back": "Ich brauche das Auto für **einen Tag**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. für with a length of time: für einen Tag.",
+      "priority": 1
+    },
+    {
+      "front": "He's going without **his coat**.",
+      "back": "Er geht ohne **seinen Mantel**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. ohne takes the accusative: seinen Mantel.",
+      "priority": 1
+    },
+    {
+      "front": "I drink coffee **without** sugar.",
+      "back": "Ich trinke Kaffee **ohne** Zucker.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. ohne + a noun with no article: ohne Zucker, ohne Milch.",
+      "priority": 1
+    },
+    {
+      "front": "She's coming **without** money.",
+      "back": "Sie kommt **ohne** Geld.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. ohne: without. Like English, no article here.",
+      "priority": 1
+    },
+    {
+      "front": "We're walking through **the park**.",
+      "back": "Wir gehen durch **den Park**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. durch takes the accusative: der Park → den Park.",
+      "priority": 1
+    },
+    {
+      "front": "The bus goes through **the town**.",
+      "back": "Der Bus fährt durch **die Stadt**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. durch die Stadt: die stays die.",
+      "priority": 1
+    },
+    {
+      "front": "He **runs** through the forest.",
+      "back": "Er **läuft** durch den Wald.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. laufen changes au to äu: er läuft. durch den Wald: accusative.",
+      "priority": 1
+    },
+    {
+      "front": "We walk through **the woods**.",
+      "back": "Wir laufen durch **den Wald**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. der Wald → den Wald after durch.",
+      "priority": 1
+    },
+    {
+      "front": "The bus goes down **the street**.",
+      "back": "Der Bus fährt durch **die Straße**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. durch: along and through, from one end to the other.",
+      "priority": 1
+    },
+    {
+      "front": "The car drives into **a tree**.",
+      "back": "Das Auto fährt gegen **einen Baum**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. gegen: against, also hitting something. der Baum → einen Baum.",
+      "priority": 1
+    },
+    {
+      "front": "The children are playing against **the parents**.",
+      "back": "Die Kinder spielen gegen **die Eltern**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. gegen + accusative; the plural die stays die.",
+      "priority": 1
+    },
+    {
+      "front": "On Saturday we play against **your team**. (several friends)",
+      "back": "Am Samstag spielen wir gegen **euer Team**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. gegen + accusative: das Team → euer Team, no ending.",
+      "priority": 1
+    },
+    {
+      "front": "I'm coming **around** eight.",
+      "back": "Ich komme **gegen** acht.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. gegen before a time means roughly: around eight. um acht would be exactly at eight.",
+      "priority": 1
+    },
+    {
+      "front": "The cinema is around **the corner**.",
+      "back": "Das Kino ist um **die Ecke**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. um as a place means around: um die Ecke, with the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "The children are running around **the table**.",
+      "back": "Die Kinder laufen um **den Tisch**.",
+      "note": "Prepositions with the accusative: für, ohne, durch, gegen, um. um + accusative: der Tisch → den Tisch.",
+      "priority": 1
+    },
+    {
+      "front": "Do you know **me**? (one friend)",
+      "back": "Kennst du **mich**?",
+      "note": "Accusative pronouns: mich, dich, ihn…. ich as the object becomes mich.",
+      "priority": 1
+    },
+    {
+      "front": "Do you need **me**? (formal)",
+      "back": "Brauchen Sie **mich**?",
+      "note": "Accusative pronouns: mich, dich, ihn…. mich: me, the object.",
+      "priority": 1
+    },
+    {
+      "front": "I love **you**. (one person)",
+      "back": "Ich liebe **dich**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. du as the object becomes dich.",
+      "priority": 1
+    },
+    {
+      "front": "The present is for **you**. (one friend)",
+      "back": "Das Geschenk ist für **dich**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. für takes the accusative, so für dich.",
+      "priority": 1
+    },
+    {
+      "front": "I'm not going without **you**. (one friend)",
+      "back": "Ich gehe nicht ohne **dich**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. ohne + accusative: dich.",
+      "priority": 1
+    },
+    {
+      "front": "I don't know **him**.",
+      "back": "Ich kenne **ihn** nicht.",
+      "note": "Accusative pronouns: mich, dich, ihn…. er as the object becomes ihn. nicht comes after the pronoun.",
+      "priority": 1
+    },
+    {
+      "front": "Who knows **him**?",
+      "back": "Wer kennt **ihn**?",
+      "note": "Accusative pronouns: mich, dich, ihn…. ihn: him.",
+      "priority": 1
+    },
+    {
+      "front": "We're going without **him**.",
+      "back": "Wir gehen ohne **ihn**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. ohne + accusative: ihn.",
+      "priority": 1
+    },
+    {
+      "front": "The coat? I need **it**.",
+      "back": "Der Mantel? Ich brauche **ihn**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. A der-word is ihn as an object, even a thing.",
+      "priority": 1
+    },
+    {
+      "front": "How do you like the film? (one friend) – I like **it**.",
+      "back": "Wie findest du den Film? – Ich finde **ihn** gut.",
+      "note": "Accusative pronouns: mich, dich, ihn…. der Film → ihn: the pronoun follows the noun's gender, not English it.",
+      "priority": 1
+    },
+    {
+      "front": "We're visiting **her** tomorrow.",
+      "back": "Wir besuchen **sie** morgen.",
+      "note": "Accusative pronouns: mich, dich, ihn…. sie stays sie as the object.",
+      "priority": 1
+    },
+    {
+      "front": "The bag? I'll take **it**.",
+      "back": "Die Tasche? Ich nehme **sie**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. A die-word is sie as an object too.",
+      "priority": 1
+    },
+    {
+      "front": "The book? I'm buying **it**.",
+      "back": "Das Buch? Ich kaufe **es**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. A das-word is es, as subject or object.",
+      "priority": 1
+    },
+    {
+      "front": "She loves him, and he loves **her**.",
+      "back": "Sie liebt ihn, und er liebt **sie**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. sie does not change in the accusative; er does: ihn.",
+      "priority": 1
+    },
+    {
+      "front": "Are you visiting **us** on Sunday? (one friend)",
+      "back": "Besuchst du **uns** am Sonntag?",
+      "note": "Accusative pronouns: mich, dich, ihn…. wir as the object becomes uns.",
+      "priority": 1
+    },
+    {
+      "front": "Is he against **us**?",
+      "back": "Ist er gegen **uns**?",
+      "note": "Accusative pronouns: mich, dich, ihn…. gegen + accusative: uns.",
+      "priority": 1
+    },
+    {
+      "front": "I'm asking **you**. (several friends)",
+      "back": "Ich frage **euch**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. ihr as the object becomes euch.",
+      "priority": 1
+    },
+    {
+      "front": "That is for **you**. (several friends)",
+      "back": "Das ist für **euch**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. für + accusative: euch.",
+      "priority": 1
+    },
+    {
+      "front": "I'm asking **you**. (formal)",
+      "back": "Ich frage **Sie**.",
+      "note": "Accusative pronouns: mich, dich, ihn…. Formal Sie does not change in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "My parents? I visit **them** often.",
+      "back": "Meine Eltern? Ich besuche **sie** oft.",
+      "note": "Accusative pronouns: mich, dich, ihn…. sie (they) as the object is still sie.",
+      "priority": 1
+    }
+  ]
+}

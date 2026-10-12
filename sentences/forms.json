@@ -624,6 +624,42 @@
    ]
   }
  },
+ "Ecke": {
+  "all": [
+   "Eck",
+   "Eckchen",
+   "Ecke",
+   "Ecken",
+   "Eckerl",
+   "Ecklein"
+  ],
+  "english": "corner",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Ecken"
+   ],
+   "acc.sg": [
+    "Ecke"
+   ],
+   "dat.pl": [
+    "Ecken"
+   ],
+   "dat.sg": [
+    "Ecke"
+   ],
+   "gen.sg": [
+    "Ecke"
+   ],
+   "nom.pl": [
+    "Ecken"
+   ],
+   "nom.sg": [
+    "Ecke"
+   ]
+  }
+ },
  "Ei": {
   "all": [
    "Ei",
@@ -1339,6 +1375,43 @@
    ],
    "nom.sg": [
     "Geld"
+   ]
+  }
+ },
+ "Geschenk": {
+  "all": [
+   "Geschenk",
+   "Geschenke",
+   "Geschenken",
+   "Geschenkes",
+   "Geschenks"
+  ],
+  "english": "present, gift",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Geschenke"
+   ],
+   "acc.sg": [
+    "Geschenk"
+   ],
+   "dat.pl": [
+    "Geschenken"
+   ],
+   "dat.sg": [
+    "Geschenk",
+    "Geschenke"
+   ],
+   "gen.sg": [
+    "Geschenkes",
+    "Geschenks"
+   ],
+   "nom.pl": [
+    "Geschenke"
+   ],
+   "nom.sg": [
+    "Geschenk"
    ]
   }
  },
@@ -2272,6 +2345,42 @@
    ]
   }
  },
+ "Mantel": {
+  "all": [
+   "Mantel",
+   "Mantels",
+   "Mäntel",
+   "Mäntelchen",
+   "Mänteln",
+   "Mäntlein"
+  ],
+  "english": "coat",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Mäntel"
+   ],
+   "acc.sg": [
+    "Mantel"
+   ],
+   "dat.pl": [
+    "Mänteln"
+   ],
+   "dat.sg": [
+    "Mantel"
+   ],
+   "gen.sg": [
+    "Mantels"
+   ],
+   "nom.pl": [
+    "Mäntel"
+   ],
+   "nom.sg": [
+    "Mantel"
+   ]
+  }
+ },
  "Milch": {
   "all": [
    "Milch",
@@ -2803,6 +2912,51 @@
    ]
   }
  },
+ "Park": {
+  "all": [
+   "Park",
+   "Parke",
+   "Parken",
+   "Parkes",
+   "Parks",
+   "Pärke",
+   "Pärken"
+  ],
+  "english": "park",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Parks",
+    "Parke",
+    "Pärke"
+   ],
+   "acc.sg": [
+    "Park"
+   ],
+   "dat.pl": [
+    "Parks",
+    "Parken",
+    "Pärken"
+   ],
+   "dat.sg": [
+    "Park",
+    "Parke"
+   ],
+   "gen.sg": [
+    "Parks",
+    "Parkes"
+   ],
+   "nom.pl": [
+    "Parks",
+    "Parke",
+    "Pärke"
+   ],
+   "nom.sg": [
+    "Park"
+   ]
+  }
+ },
  "Problem": {
   "all": [
    "Problem",
@@ -3055,6 +3209,40 @@
    ]
   }
  },
+ "Straße": {
+  "all": [
+   "Straße",
+   "Straßen",
+   "Sträßchen",
+   "Sträßlein"
+  ],
+  "english": "street",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Straßen"
+   ],
+   "acc.sg": [
+    "Straße"
+   ],
+   "dat.pl": [
+    "Straßen"
+   ],
+   "dat.sg": [
+    "Straße"
+   ],
+   "gen.sg": [
+    "Straße"
+   ],
+   "nom.pl": [
+    "Straßen"
+   ],
+   "nom.sg": [
+    "Straße"
+   ]
+  }
+ },
  "Stuhl": {
   "all": [
    "Stuhl",
@@ -3234,6 +3422,38 @@
    ],
    "nom.sg": [
     "Tasche"
+   ]
+  }
+ },
+ "Team": {
+  "all": [
+   "Team",
+   "Teams"
+  ],
+  "english": "team",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Teams"
+   ],
+   "acc.sg": [
+    "Team"
+   ],
+   "dat.pl": [
+    "Teams"
+   ],
+   "dat.sg": [
+    "Team"
+   ],
+   "gen.sg": [
+    "Teams"
+   ],
+   "nom.pl": [
+    "Teams"
+   ],
+   "nom.sg": [
+    "Team"
    ]
   }
  },
@@ -3483,6 +3703,46 @@
    ]
   }
  },
+ "Wald": {
+  "all": [
+   "Wald",
+   "Walde",
+   "Waldes",
+   "Walds",
+   "Wäldchen",
+   "Wälder",
+   "Wäldern",
+   "Wäldlein"
+  ],
+  "english": "forest, woods",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Wälder"
+   ],
+   "acc.sg": [
+    "Wald"
+   ],
+   "dat.pl": [
+    "Wäldern"
+   ],
+   "dat.sg": [
+    "Wald",
+    "Walde"
+   ],
+   "gen.sg": [
+    "Waldes",
+    "Walds"
+   ],
+   "nom.pl": [
+    "Wälder"
+   ],
+   "nom.sg": [
+    "Wald"
+   ]
+  }
+ },
  "Wasser": {
   "all": [
    "Wasser",
@@ -3725,6 +3985,40 @@
    ]
   }
  },
+ "Zucker": {
+  "all": [
+   "Zucker",
+   "Zuckern",
+   "Zuckers",
+   "Zukker"
+  ],
+  "english": "sugar",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Zucker"
+   ],
+   "acc.sg": [
+    "Zucker"
+   ],
+   "dat.pl": [
+    "Zuckern"
+   ],
+   "dat.sg": [
+    "Zucker"
+   ],
+   "gen.sg": [
+    "Zuckers"
+   ],
+   "nom.pl": [
+    "Zucker"
+   ],
+   "nom.sg": [
+    "Zucker"
+   ]
+  }
+ },
  "Zug": {
   "all": [
    "Zug",
@@ -3895,6 +4189,55 @@
    ],
    "pret.er": [
     "arbeitete"
+   ]
+  }
+ },
+ "besuchen": {
+  "all": [
+   "besuch",
+   "besuche",
+   "besuchen",
+   "besuchend",
+   "besuchest",
+   "besuchet",
+   "besuchst",
+   "besucht",
+   "besuchte",
+   "besuchten",
+   "besuchtest",
+   "besuchtet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to visit",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "besuch",
+    "besuche"
+   ],
+   "perf.er": [
+    "hat besucht"
+   ],
+   "pres.du": [
+    "besuchst"
+   ],
+   "pres.er": [
+    "besucht"
+   ],
+   "pres.ich": [
+    "besuche"
+   ],
+   "pres.ihr": [
+    "besucht"
+   ],
+   "pres.wir": [
+    "besuchen"
+   ],
+   "pret.er": [
+    "besuchte"
    ]
   }
  },
@@ -5356,6 +5699,60 @@
    ]
   }
  },
+ "kennen": {
+  "all": [
+   "gekannt",
+   "haben",
+   "habest",
+   "habet",
+   "kannte",
+   "kannten",
+   "kanntest",
+   "kanntet",
+   "kenn",
+   "kenne",
+   "kennen",
+   "kennend",
+   "kennest",
+   "kennet",
+   "kennst",
+   "kennt",
+   "kennte",
+   "kennten",
+   "kenntest",
+   "kenntet",
+   "werdest"
+  ],
+  "english": "to know (a person, a place)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "kenn",
+    "kenne"
+   ],
+   "perf.er": [
+    "hat gekannt"
+   ],
+   "pres.du": [
+    "kennst"
+   ],
+   "pres.er": [
+    "kennt"
+   ],
+   "pres.ich": [
+    "kenne"
+   ],
+   "pres.ihr": [
+    "kennt"
+   ],
+   "pres.wir": [
+    "kennen"
+   ],
+   "pret.er": [
+    "kannte"
+   ]
+  }
+ },
  "klar": {
   "all": [
    "am",
@@ -5926,6 +6323,59 @@
    ],
    "pret.er": [
     "ließ"
+   ]
+  }
+ },
+ "laufen": {
+  "all": [
+   "gelaufen",
+   "lauf",
+   "laufe",
+   "laufen",
+   "laufend",
+   "laufest",
+   "laufet",
+   "lauft",
+   "lief",
+   "liefe",
+   "liefen",
+   "liefest",
+   "liefet",
+   "liefst",
+   "lieft",
+   "läufst",
+   "läuft",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to run, to walk",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lauf",
+    "laufe"
+   ],
+   "perf.er": [
+    "ist gelaufen"
+   ],
+   "pres.du": [
+    "läufst"
+   ],
+   "pres.er": [
+    "läuft"
+   ],
+   "pres.ich": [
+    "laufe"
+   ],
+   "pres.ihr": [
+    "lauft"
+   ],
+   "pres.wir": [
+    "laufen"
+   ],
+   "pret.er": [
+    "lief"
    ]
   }
  },

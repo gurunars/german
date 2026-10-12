@@ -1,0 +1,39 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+prep.acc	Vater	acc.sg	The present is for **my father**.	Das Geschenk ist für **meinen Vater**.	für always takes the accusative: der Vater → meinen Vater.
+prep.acc	Bruder	acc.sg	I'm buying a cake for **my brother**.	Ich kaufe einen Kuchen für **meinen Bruder**.	für + accusative: meinen Bruder.
+prep.acc	Mutter	acc.sg	The flowers are for **my mother**.	Die Blumen sind für **meine Mutter**.	die-words do not change: für meine Mutter.
+prep.acc	Tag	acc.sg	I need the car for **one day**.	Ich brauche das Auto für **einen Tag**.	für with a length of time: für einen Tag.
+prep.acc	Mantel	acc.sg	He's going without **his coat**.	Er geht ohne **seinen Mantel**.	ohne takes the accusative: seinen Mantel.
+prep.acc	-	-	I drink coffee **without** sugar.	Ich trinke Kaffee **ohne** Zucker.	ohne + a noun with no article: ohne Zucker, ohne Milch.
+prep.acc	-	-	She's coming **without** money.	Sie kommt **ohne** Geld.	ohne: without. Like English, no article here.
+prep.acc	Park	acc.sg	We're walking through **the park**.	Wir gehen durch **den Park**.	durch takes the accusative: der Park → den Park.
+prep.acc	Stadt	acc.sg	The bus goes through **the town**.	Der Bus fährt durch **die Stadt**.	durch die Stadt: die stays die.
+prep.acc	laufen	pres.er	He **runs** through the forest.	Er **läuft** durch den Wald.	laufen changes au to äu: er läuft. durch den Wald: accusative.
+prep.acc	Wald	acc.sg	We walk through **the woods**.	Wir laufen durch **den Wald**.	der Wald → den Wald after durch.
+prep.acc	Straße	acc.sg	The bus goes down **the street**.	Der Bus fährt durch **die Straße**.	durch: along and through, from one end to the other.
+prep.acc	Baum	acc.sg	The car drives into **a tree**.	Das Auto fährt gegen **einen Baum**.	gegen: against, also hitting something. der Baum → einen Baum.
+prep.acc	Eltern	acc.pl	The children are playing against **the parents**.	Die Kinder spielen gegen **die Eltern**.	gegen + accusative; the plural die stays die.
+prep.acc	Team	acc.sg	On Saturday we play against **your team**. (several friends)	Am Samstag spielen wir gegen **euer Team**.	gegen + accusative: das Team → euer Team, no ending.
+prep.acc	-	-	I'm coming **around** eight.	Ich komme **gegen** acht.	gegen before a time means roughly: around eight. um acht would be exactly at eight.
+prep.acc	Ecke	acc.sg	The cinema is around **the corner**.	Das Kino ist um **die Ecke**.	um as a place means around: um die Ecke, with the accusative.
+prep.acc	Tisch	acc.sg	The children are running around **the table**.	Die Kinder laufen um **den Tisch**.	um + accusative: der Tisch → den Tisch.
+pronoun.acc	-	-	Do you know **me**? (one friend)	Kennst du **mich**?	ich as the object becomes mich.
+pronoun.acc	-	-	Do you need **me**? (formal)	Brauchen Sie **mich**?	mich: me, the object.
+pronoun.acc	-	-	I love **you**. (one person)	Ich liebe **dich**.	du as the object becomes dich.
+pronoun.acc	-	-	The present is for **you**. (one friend)	Das Geschenk ist für **dich**.	für takes the accusative, so für dich.
+pronoun.acc	-	-	I'm not going without **you**. (one friend)	Ich gehe nicht ohne **dich**.	ohne + accusative: dich.
+pronoun.acc	-	-	I don't know **him**.	Ich kenne **ihn** nicht.	er as the object becomes ihn. nicht comes after the pronoun.
+pronoun.acc	-	-	Who knows **him**?	Wer kennt **ihn**?	ihn: him.
+pronoun.acc	-	-	We're going without **him**.	Wir gehen ohne **ihn**.	ohne + accusative: ihn.
+pronoun.acc	-	-	The coat? I need **it**.	Der Mantel? Ich brauche **ihn**.	A der-word is ihn as an object, even a thing.
+pronoun.acc	-	-	How do you like the film? (one friend) – I like **it**.	Wie findest du den Film? – Ich finde **ihn** gut.	der Film → ihn: the pronoun follows the noun's gender, not English it.
+pronoun.acc	-	-	We're visiting **her** tomorrow.	Wir besuchen **sie** morgen.	sie stays sie as the object.
+pronoun.acc	-	-	The bag? I'll take **it**.	Die Tasche? Ich nehme **sie**.	A die-word is sie as an object too.
+pronoun.acc	-	-	The book? I'm buying **it**.	Das Buch? Ich kaufe **es**.	A das-word is es, as subject or object.
+pronoun.acc	-	-	She loves him, and he loves **her**.	Sie liebt ihn, und er liebt **sie**.	sie does not change in the accusative; er does: ihn.
+pronoun.acc	-	-	Are you visiting **us** on Sunday? (one friend)	Besuchst du **uns** am Sonntag?	wir as the object becomes uns.
+pronoun.acc	-	-	Is he against **us**?	Ist er gegen **uns**?	gegen + accusative: uns.
+pronoun.acc	-	-	I'm asking **you**. (several friends)	Ich frage **euch**.	ihr as the object becomes euch.
+pronoun.acc	-	-	That is for **you**. (several friends)	Das ist für **euch**.	für + accusative: euch.
+pronoun.acc	-	-	I'm asking **you**. (formal)	Ich frage **Sie**.	Formal Sie does not change in the accusative.
+pronoun.acc	-	-	My parents? I visit **them** often.	Meine Eltern? Ich besuche **sie** oft.	sie (they) as the object is still sie.
