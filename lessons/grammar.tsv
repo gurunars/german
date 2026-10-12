@@ -66,3 +66,5 @@ past.modal	33	The simple past of the modals: konnte, musste, wollte…
 past.verbs	33	The simple past of other verbs: sagte, ging, kam, gab
 konj2.polite	34	Konjunktiv II for politeness: könnten Sie, würden Sie, hätte gern
 konj2.wish	34	Konjunktiv II for wishes and what is not real: wenn ich … hätte
+relative.nom	35	Relative clauses: der, die, das as the subject
+relative.acc	35	Relative clauses: den, die, das as the object

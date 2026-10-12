@@ -1,0 +1,188 @@
+{
+  "name": "Lesson 35 · The man who, the film that: relative clauses",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "The man **who** lives next to us is a waiter.",
+      "back": "Der Mann, **der** neben uns wohnt, ist Kellner.",
+      "note": "Relative clauses: der, die, das as the subject. The relative pronoun takes the gender of its noun: der Mann → der. Its verb goes to the end of the clause.",
+      "priority": 1
+    },
+    {
+      "front": "The woman **who** works here is nice.",
+      "back": "Die Frau, **die** hier arbeitet, ist nett.",
+      "note": "Relative clauses: der, die, das as the subject. die Frau → die, the subject of arbeitet.",
+      "priority": 1
+    },
+    {
+      "front": "The child **who** is playing outside is my son.",
+      "back": "Das Kind, **das** draußen spielt, ist mein Sohn.",
+      "note": "Relative clauses: der, die, das as the subject. das Kind → das. Commas close the relative clause on both sides.",
+      "priority": 1
+    },
+    {
+      "front": "The people **who** live here are friendly.",
+      "back": "Die Leute, **die** hier wohnen, sind freundlich.",
+      "note": "Relative clauses: der, die, das as the subject. Plural: die, for every gender.",
+      "priority": 1
+    },
+    {
+      "front": "I have a friend **who** lives in Spain.",
+      "back": "Ich habe einen Freund, **der** in Spanien lebt.",
+      "note": "Relative clauses: der, die, das as the subject. einen Freund is the object of habe, but in his own clause he is the subject: der.",
+      "priority": 1
+    },
+    {
+      "front": "That is the bus **that** goes to the station.",
+      "back": "Das ist der Bus, **der** zum Bahnhof fährt.",
+      "note": "Relative clauses: der, die, das as the subject. For things too: der Bus → der, never was.",
+      "priority": 1
+    },
+    {
+      "front": "I'm looking for a company **that** repairs computers.",
+      "back": "Ich suche eine Firma, **die** Computer repariert.",
+      "note": "Relative clauses: der, die, das as the subject. eine Firma → die, the subject of repariert.",
+      "priority": 1
+    },
+    {
+      "front": "The flat **that** has a garden is expensive.",
+      "back": "Die Wohnung, **die** einen Garten hat, ist teuer.",
+      "note": "Relative clauses: der, die, das as the subject. The relative clause sits right after its noun, inside the main clause.",
+      "priority": 1
+    },
+    {
+      "front": "A person **who** reads a lot knows a lot.",
+      "back": "Ein Mensch, **der** viel liest, weiß viel.",
+      "note": "Relative clauses: der, die, das as the subject. der Mensch → der.",
+      "priority": 1
+    },
+    {
+      "front": "Is that the bag **that** belongs to you? (one friend)",
+      "back": "Ist das die Tasche, **die** dir gehört?",
+      "note": "Relative clauses: der, die, das as the subject. die Tasche → die. gehört goes last.",
+      "priority": 1
+    },
+    {
+      "front": "The shop assistant **who** helped me was nice.",
+      "back": "Der Verkäufer, **der** mir geholfen hat, war nett.",
+      "note": "Relative clauses: der, die, das as the subject. In a perfect at the end, the participle comes first, hat last.",
+      "priority": 1
+    },
+    {
+      "front": "Where is the stop **that** is next to the bakery?",
+      "back": "Wo ist die Haltestelle, **die** neben der Bäckerei ist?",
+      "note": "Relative clauses: der, die, das as the subject. die Haltestelle → die.",
+      "priority": 1
+    },
+    {
+      "front": "Children **who** read a lot learn fast.",
+      "back": "Kinder, **die** viel lesen, lernen schnell.",
+      "note": "Relative clauses: der, die, das as the subject. Plural: die.",
+      "priority": 1
+    },
+    {
+      "front": "The book **that** is on the table belongs to me.",
+      "back": "Das Buch, **das** auf dem Tisch liegt, gehört mir.",
+      "note": "Relative clauses: der, die, das as the subject. das Buch → das, the subject of liegt.",
+      "priority": 1
+    },
+    {
+      "front": "The man **who** sees me is my neighbour.",
+      "back": "Der Mann, **der** mich sieht, ist mein Nachbar.",
+      "note": "Relative clauses: der, die, das as the subject. The man does the seeing, so he is the subject: der.",
+      "priority": 1
+    },
+    {
+      "front": "The man **whom** I see is my neighbour.",
+      "back": "Der Mann, **den** ich sehe, ist mein Nachbar.",
+      "note": "Relative clauses: den, die, das as the object. Now ich sees him: he is the object, so den.",
+      "priority": 1
+    },
+    {
+      "front": "The man **(that)** I met yesterday is a waiter.",
+      "back": "Der Mann, **den** ich gestern kennengelernt habe, ist Kellner.",
+      "note": "Relative clauses: den, die, das as the object. English can drop whom; German never drops the relative pronoun. Object, so den.",
+      "priority": 1
+    },
+    {
+      "front": "The film **that** we saw was boring.",
+      "back": "Der Film, **den** wir gesehen haben, war langweilig.",
+      "note": "Relative clauses: den, die, das as the object. der Film is the object of gesehen, so den.",
+      "priority": 1
+    },
+    {
+      "front": "The woman **whom** you see is my teacher. (one friend)",
+      "back": "Die Frau, **die** du siehst, ist meine Lehrerin.",
+      "note": "Relative clauses: den, die, das as the object. die stays die in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "The book **that** I'm reading is interesting.",
+      "back": "Das Buch, **das** ich lese, ist interessant.",
+      "note": "Relative clauses: den, die, das as the object. das stays das in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "Where is the cake **that** I bought?",
+      "back": "Wo ist der Kuchen, **den** ich gekauft habe?",
+      "note": "Relative clauses: den, die, das as the object. der Kuchen as the object: den.",
+      "priority": 1
+    },
+    {
+      "front": "The novel **that** you recommended to me is great. (one friend)",
+      "back": "Der Roman, **den** du mir empfohlen hast, ist toll.",
+      "note": "Relative clauses: den, die, das as the object. der Roman → den, the object of empfohlen.",
+      "priority": 1
+    },
+    {
+      "front": "These are the photos **that** I took.",
+      "back": "Das sind die Fotos, **die** ich gemacht habe.",
+      "note": "Relative clauses: den, die, das as the object. Plural object: die. German makes photos: Fotos machen.",
+      "priority": 1
+    },
+    {
+      "front": "The jacket **that** she ordered is too big.",
+      "back": "Die Jacke, **die** sie bestellt hat, ist zu groß.",
+      "note": "Relative clauses: den, die, das as the object. die Jacke → die. zu before an adjective: too.",
+      "priority": 1
+    },
+    {
+      "front": "The colleague **whom** I called is coming tomorrow.",
+      "back": "Der Kollege, **den** ich angerufen habe, kommt morgen.",
+      "note": "Relative clauses: den, die, das as the object. der Kollege as the object: den.",
+      "priority": 1
+    },
+    {
+      "front": "The waiter recommended a wine **that** we didn't know.",
+      "back": "Der Kellner hat einen Wein empfohlen, **den** wir nicht kannten.",
+      "note": "Relative clauses: den, die, das as the object. der Wein → den. kannten: the simple past of kennen.",
+      "priority": 1
+    },
+    {
+      "front": "The people **whom** we met were nice.",
+      "back": "Die Leute, **die** wir getroffen haben, waren nett.",
+      "note": "Relative clauses: den, die, das as the object. Plural: die, as subject or object.",
+      "priority": 1
+    },
+    {
+      "front": "The car **that** he repaired is running again.",
+      "back": "Das Auto, **das** er repariert hat, fährt wieder.",
+      "note": "Relative clauses: den, die, das as the object. das Auto → das.",
+      "priority": 1
+    },
+    {
+      "front": "The shop assistant **whom** I asked didn't know.",
+      "back": "Die Verkäuferin, **die** ich gefragt habe, wusste es nicht.",
+      "note": "Relative clauses: den, die, das as the object. die Verkäuferin → die.",
+      "priority": 1
+    },
+    {
+      "front": "The waitress **whom** we asked was very kind.",
+      "back": "Die Kellnerin, **die** wir gefragt haben, war sehr freundlich.",
+      "note": "Relative clauses: den, die, das as the object. die Kellnerin as the object: die.",
+      "priority": 1
+    }
+  ]
+}

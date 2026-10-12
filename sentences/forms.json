@@ -1820,6 +1820,38 @@
    ]
   }
  },
+ "Firma": {
+  "all": [
+   "Firma",
+   "Firmen"
+  ],
+  "english": "company, firm",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Firmen"
+   ],
+   "acc.sg": [
+    "Firma"
+   ],
+   "dat.pl": [
+    "Firmen"
+   ],
+   "dat.sg": [
+    "Firma"
+   ],
+   "gen.sg": [
+    "Firma"
+   ],
+   "nom.pl": [
+    "Firmen"
+   ],
+   "nom.sg": [
+    "Firma"
+   ]
+  }
+ },
  "Fisch": {
   "all": [
    "Fisch",
@@ -2903,6 +2935,38 @@
    ]
   }
  },
+ "Haltestelle": {
+  "all": [
+   "Haltestelle",
+   "Haltestellen"
+  ],
+  "english": "(bus, tram) stop",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Haltestellen"
+   ],
+   "acc.sg": [
+    "Haltestelle"
+   ],
+   "dat.pl": [
+    "Haltestellen"
+   ],
+   "dat.sg": [
+    "Haltestelle"
+   ],
+   "gen.sg": [
+    "Haltestelle"
+   ],
+   "nom.pl": [
+    "Haltestellen"
+   ],
+   "nom.sg": [
+    "Haltestelle"
+   ]
+  }
+ },
  "Hand": {
   "all": [
    "Hand",
@@ -3679,6 +3743,73 @@
    ]
   }
  },
+ "Kellner": {
+  "all": [
+   "Kellner",
+   "Kellnerin",
+   "Kellnern",
+   "Kellners"
+  ],
+  "english": "waiter",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kellner"
+   ],
+   "acc.sg": [
+    "Kellner"
+   ],
+   "dat.pl": [
+    "Kellnern"
+   ],
+   "dat.sg": [
+    "Kellner"
+   ],
+   "gen.sg": [
+    "Kellners"
+   ],
+   "nom.pl": [
+    "Kellner"
+   ],
+   "nom.sg": [
+    "Kellner"
+   ]
+  }
+ },
+ "Kellnerin": {
+  "all": [
+   "Kellner",
+   "Kellnerin",
+   "Kellnerinnen"
+  ],
+  "english": "waitress",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kellnerinnen"
+   ],
+   "acc.sg": [
+    "Kellnerin"
+   ],
+   "dat.pl": [
+    "Kellnerinnen"
+   ],
+   "dat.sg": [
+    "Kellnerin"
+   ],
+   "gen.sg": [
+    "Kellnerin"
+   ],
+   "nom.pl": [
+    "Kellnerinnen"
+   ],
+   "nom.sg": [
+    "Kellnerin"
+   ]
+  }
+ },
  "Kind": {
   "all": [
    "Kind",
@@ -4397,6 +4528,30 @@
    ]
   }
  },
+ "Leute": {
+  "all": [
+   "Leude",
+   "Leut",
+   "Leutchen",
+   "Leute",
+   "Leuten",
+   "Leutlein"
+  ],
+  "english": "people",
+  "gender": "pl",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Leute"
+   ],
+   "dat.pl": [
+    "Leuten"
+   ],
+   "nom.pl": [
+    "Leute"
+   ]
+  }
+ },
  "Licht": {
   "all": [
    "Licht",
@@ -4632,6 +4787,41 @@
    ],
    "nom.sg": [
     "Meer"
+   ]
+  }
+ },
+ "Mensch": {
+  "all": [
+   "Mensch",
+   "Menschchen",
+   "Menschen",
+   "Menschin",
+   "Menschlein"
+  ],
+  "english": "person, human being",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Menschen"
+   ],
+   "acc.sg": [
+    "Menschen"
+   ],
+   "dat.pl": [
+    "Menschen"
+   ],
+   "dat.sg": [
+    "Menschen"
+   ],
+   "gen.sg": [
+    "Menschen"
+   ],
+   "nom.pl": [
+    "Menschen"
+   ],
+   "nom.sg": [
+    "Mensch"
    ]
   }
  },
@@ -6004,6 +6194,43 @@
    ],
    "nom.sg": [
     "Rock"
+   ]
+  }
+ },
+ "Roman": {
+  "all": [
+   "Roman",
+   "Romane",
+   "Romanen",
+   "Romanes",
+   "Romans"
+  ],
+  "english": "novel",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Romane"
+   ],
+   "acc.sg": [
+    "Roman"
+   ],
+   "dat.pl": [
+    "Romanen"
+   ],
+   "dat.sg": [
+    "Roman",
+    "Romane"
+   ],
+   "gen.sg": [
+    "Romanes",
+    "Romans"
+   ],
+   "nom.pl": [
+    "Romane"
+   ],
+   "nom.sg": [
+    "Roman"
    ]
   }
  },
@@ -7781,6 +8008,73 @@
    ],
    "nom.sg": [
     "Vater"
+   ]
+  }
+ },
+ "Verkäufer": {
+  "all": [
+   "Verkäufer",
+   "Verkäuferin",
+   "Verkäufern",
+   "Verkäufers"
+  ],
+  "english": "shop assistant (male)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Verkäufer"
+   ],
+   "acc.sg": [
+    "Verkäufer"
+   ],
+   "dat.pl": [
+    "Verkäufern"
+   ],
+   "dat.sg": [
+    "Verkäufer"
+   ],
+   "gen.sg": [
+    "Verkäufers"
+   ],
+   "nom.pl": [
+    "Verkäufer"
+   ],
+   "nom.sg": [
+    "Verkäufer"
+   ]
+  }
+ },
+ "Verkäuferin": {
+  "all": [
+   "Verkäufer",
+   "Verkäuferin",
+   "Verkäuferinnen"
+  ],
+  "english": "shop assistant (female)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Verkäuferinnen"
+   ],
+   "acc.sg": [
+    "Verkäuferin"
+   ],
+   "dat.pl": [
+    "Verkäuferinnen"
+   ],
+   "dat.sg": [
+    "Verkäuferin"
+   ],
+   "gen.sg": [
+    "Verkäuferin"
+   ],
+   "nom.pl": [
+    "Verkäuferinnen"
+   ],
+   "nom.sg": [
+    "Verkäuferin"
    ]
   }
  },
@@ -11160,6 +11454,97 @@
    ]
   }
  },
+ "bestellen": {
+  "all": [
+   "bestell",
+   "bestelle",
+   "bestellen",
+   "bestellend",
+   "bestellest",
+   "bestellet",
+   "bestellst",
+   "bestellt",
+   "bestellte",
+   "bestellten",
+   "bestelltest",
+   "bestelltet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to order",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "bestell",
+    "bestelle"
+   ],
+   "imp.ihr": [
+    "bestellt"
+   ],
+   "perf.du": [
+    "hast bestellt"
+   ],
+   "perf.er": [
+    "hat bestellt"
+   ],
+   "perf.ich": [
+    "habe bestellt"
+   ],
+   "perf.ihr": [
+    "habt bestellt"
+   ],
+   "perf.wir": [
+    "haben bestellt"
+   ],
+   "pres.du": [
+    "bestellst"
+   ],
+   "pres.er": [
+    "bestellt"
+   ],
+   "pres.ich": [
+    "bestelle"
+   ],
+   "pres.ihr": [
+    "bestellt"
+   ],
+   "pres.wir": [
+    "bestellen"
+   ],
+   "pret.du": [
+    "bestelltest"
+   ],
+   "pret.er": [
+    "bestellte"
+   ],
+   "pret.ich": [
+    "bestellte"
+   ],
+   "pret.ihr": [
+    "bestelltet"
+   ],
+   "pret.wir": [
+    "bestellten"
+   ],
+   "wuerde.du": [
+    "würdest bestellen"
+   ],
+   "wuerde.er": [
+    "würde bestellen"
+   ],
+   "wuerde.ich": [
+    "würde bestellen"
+   ],
+   "wuerde.ihr": [
+    "würdet bestellen"
+   ],
+   "wuerde.wir": [
+    "würden bestellen"
+   ]
+  }
+ },
  "besuchen": {
   "all": [
    "besuch",
@@ -13790,6 +14175,110 @@
    ],
    "wuerde.wir": [
     "würden einschlafen"
+   ]
+  }
+ },
+ "empfehlen": {
+  "all": [
+   "empfahl",
+   "empfahlen",
+   "empfahlst",
+   "empfahlt",
+   "empfehle",
+   "empfehlen",
+   "empfehlend",
+   "empfehlest",
+   "empfehlet",
+   "empfehlt",
+   "empfiehl",
+   "empfiehlst",
+   "empfiehlt",
+   "empfohlen",
+   "empfähle",
+   "empfählen",
+   "empfählest",
+   "empfählet",
+   "empfählst",
+   "empfählt",
+   "empföhle",
+   "empföhlen",
+   "empföhlest",
+   "empföhlet",
+   "empföhlst",
+   "empföhlt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to recommend",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "empfiehl"
+   ],
+   "imp.ihr": [
+    "empfehlt"
+   ],
+   "perf.du": [
+    "hast empfohlen"
+   ],
+   "perf.er": [
+    "hat empfohlen"
+   ],
+   "perf.ich": [
+    "habe empfohlen"
+   ],
+   "perf.ihr": [
+    "habt empfohlen"
+   ],
+   "perf.wir": [
+    "haben empfohlen"
+   ],
+   "pres.du": [
+    "empfiehlst"
+   ],
+   "pres.er": [
+    "empfiehlt"
+   ],
+   "pres.ich": [
+    "empfehle"
+   ],
+   "pres.ihr": [
+    "empfehlt"
+   ],
+   "pres.wir": [
+    "empfehlen"
+   ],
+   "pret.du": [
+    "empfahlst"
+   ],
+   "pret.er": [
+    "empfahl"
+   ],
+   "pret.ich": [
+    "empfahl"
+   ],
+   "pret.ihr": [
+    "empfahlt"
+   ],
+   "pret.wir": [
+    "empfahlen"
+   ],
+   "wuerde.du": [
+    "würdest empfehlen"
+   ],
+   "wuerde.er": [
+    "würde empfehlen"
+   ],
+   "wuerde.ich": [
+    "würde empfehlen"
+   ],
+   "wuerde.ihr": [
+    "würdet empfehlen"
+   ],
+   "wuerde.wir": [
+    "würden empfehlen"
    ]
   }
  },
@@ -21387,6 +21876,120 @@
    ]
   }
  },
+ "kennenlernen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "kennen",
+   "kennengelernt",
+   "kennenlerne",
+   "kennenlernen",
+   "kennenlernend",
+   "kennenlernest",
+   "kennenlernet",
+   "kennenlernst",
+   "kennenlernt",
+   "kennenlernte",
+   "kennenlernten",
+   "kennenlerntest",
+   "kennenlerntet",
+   "kennenzulernen",
+   "lern",
+   "lerne",
+   "lernen",
+   "lernest",
+   "lernet",
+   "lernst",
+   "lernt",
+   "lernte",
+   "lernten",
+   "lerntest",
+   "lerntet",
+   "werdest"
+  ],
+  "english": "to get to know, to meet (for the first time)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lern kennen",
+    "lerne kennen"
+   ],
+   "imp.ihr": [
+    "lernt kennen"
+   ],
+   "perf.du": [
+    "hast kennengelernt"
+   ],
+   "perf.er": [
+    "hat kennengelernt"
+   ],
+   "perf.ich": [
+    "habe kennengelernt"
+   ],
+   "perf.ihr": [
+    "habt kennengelernt"
+   ],
+   "perf.wir": [
+    "haben kennengelernt"
+   ],
+   "pres.du": [
+    "lernst kennen",
+    "kennenlernst"
+   ],
+   "pres.er": [
+    "lernt kennen",
+    "kennenlernt"
+   ],
+   "pres.ich": [
+    "lerne kennen",
+    "kennenlerne"
+   ],
+   "pres.ihr": [
+    "lernt kennen",
+    "kennenlernt"
+   ],
+   "pres.wir": [
+    "lernen kennen",
+    "kennenlernen"
+   ],
+   "pret.du": [
+    "lerntest kennen",
+    "kennenlerntest"
+   ],
+   "pret.er": [
+    "lernte kennen",
+    "kennenlernte"
+   ],
+   "pret.ich": [
+    "lernte kennen",
+    "kennenlernte"
+   ],
+   "pret.ihr": [
+    "lerntet kennen",
+    "kennenlerntet"
+   ],
+   "pret.wir": [
+    "lernten kennen",
+    "kennenlernten"
+   ],
+   "wuerde.du": [
+    "würdest kennenlernen"
+   ],
+   "wuerde.er": [
+    "würde kennenlernen"
+   ],
+   "wuerde.ich": [
+    "würde kennenlernen"
+   ],
+   "wuerde.ihr": [
+    "würdet kennenlernen"
+   ],
+   "wuerde.wir": [
+    "würden kennenlernen"
+   ]
+  }
+ },
  "klar": {
   "all": [
    "am",
@@ -28908,6 +29511,97 @@
    ],
    "wuerde.wir": [
     "würden reisen"
+   ]
+  }
+ },
+ "reparieren": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "reparier",
+   "repariere",
+   "reparieren",
+   "reparierend",
+   "reparierest",
+   "reparieret",
+   "reparierst",
+   "repariert",
+   "reparierte",
+   "reparierten",
+   "repariertest",
+   "repariertet",
+   "werdest"
+  ],
+  "english": "to repair",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "reparier",
+    "repariere"
+   ],
+   "imp.ihr": [
+    "repariert"
+   ],
+   "perf.du": [
+    "hast repariert"
+   ],
+   "perf.er": [
+    "hat repariert"
+   ],
+   "perf.ich": [
+    "habe repariert"
+   ],
+   "perf.ihr": [
+    "habt repariert"
+   ],
+   "perf.wir": [
+    "haben repariert"
+   ],
+   "pres.du": [
+    "reparierst"
+   ],
+   "pres.er": [
+    "repariert"
+   ],
+   "pres.ich": [
+    "repariere"
+   ],
+   "pres.ihr": [
+    "repariert"
+   ],
+   "pres.wir": [
+    "reparieren"
+   ],
+   "pret.du": [
+    "repariertest"
+   ],
+   "pret.er": [
+    "reparierte"
+   ],
+   "pret.ich": [
+    "reparierte"
+   ],
+   "pret.ihr": [
+    "repariertet"
+   ],
+   "pret.wir": [
+    "reparierten"
+   ],
+   "wuerde.du": [
+    "würdest reparieren"
+   ],
+   "wuerde.er": [
+    "würde reparieren"
+   ],
+   "wuerde.ich": [
+    "würde reparieren"
+   ],
+   "wuerde.ihr": [
+    "würdet reparieren"
+   ],
+   "wuerde.wir": [
+    "würden reparieren"
    ]
   }
  },

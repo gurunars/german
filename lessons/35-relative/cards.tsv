@@ -1,0 +1,31 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+relative.nom	-	-	The man **who** lives next to us is a waiter.	Der Mann, **der** neben uns wohnt, ist Kellner.	The relative pronoun takes the gender of its noun: der Mann → der. Its verb goes to the end of the clause.
+relative.nom	-	-	The woman **who** works here is nice.	Die Frau, **die** hier arbeitet, ist nett.	die Frau → die, the subject of arbeitet.
+relative.nom	-	-	The child **who** is playing outside is my son.	Das Kind, **das** draußen spielt, ist mein Sohn.	das Kind → das. Commas close the relative clause on both sides.
+relative.nom	-	-	The people **who** live here are friendly.	Die Leute, **die** hier wohnen, sind freundlich.	Plural: die, for every gender.
+relative.nom	-	-	I have a friend **who** lives in Spain.	Ich habe einen Freund, **der** in Spanien lebt.	einen Freund is the object of habe, but in his own clause he is the subject: der.
+relative.nom	-	-	That is the bus **that** goes to the station.	Das ist der Bus, **der** zum Bahnhof fährt.	For things too: der Bus → der, never was.
+relative.nom	-	-	I'm looking for a company **that** repairs computers.	Ich suche eine Firma, **die** Computer repariert.	eine Firma → die, the subject of repariert.
+relative.nom	-	-	The flat **that** has a garden is expensive.	Die Wohnung, **die** einen Garten hat, ist teuer.	The relative clause sits right after its noun, inside the main clause.
+relative.nom	-	-	A person **who** reads a lot knows a lot.	Ein Mensch, **der** viel liest, weiß viel.	der Mensch → der.
+relative.nom	-	-	Is that the bag **that** belongs to you? (one friend)	Ist das die Tasche, **die** dir gehört?	die Tasche → die. gehört goes last.
+relative.nom	-	-	The shop assistant **who** helped me was nice.	Der Verkäufer, **der** mir geholfen hat, war nett.	In a perfect at the end, the participle comes first, hat last.
+relative.nom	-	-	Where is the stop **that** is next to the bakery?	Wo ist die Haltestelle, **die** neben der Bäckerei ist?	die Haltestelle → die.
+relative.nom	-	-	Children **who** read a lot learn fast.	Kinder, **die** viel lesen, lernen schnell.	Plural: die.
+relative.nom	-	-	The book **that** is on the table belongs to me.	Das Buch, **das** auf dem Tisch liegt, gehört mir.	das Buch → das, the subject of liegt.
+relative.nom	-	-	The man **who** sees me is my neighbour.	Der Mann, **der** mich sieht, ist mein Nachbar.	The man does the seeing, so he is the subject: der.
+relative.acc	-	-	The man **whom** I see is my neighbour.	Der Mann, **den** ich sehe, ist mein Nachbar.	Now ich sees him: he is the object, so den.
+relative.acc	-	-	The man **(that)** I met yesterday is a waiter.	Der Mann, **den** ich gestern kennengelernt habe, ist Kellner.	English can drop whom; German never drops the relative pronoun. Object, so den.
+relative.acc	-	-	The film **that** we saw was boring.	Der Film, **den** wir gesehen haben, war langweilig.	der Film is the object of gesehen, so den.
+relative.acc	-	-	The woman **whom** you see is my teacher. (one friend)	Die Frau, **die** du siehst, ist meine Lehrerin.	die stays die in the accusative.
+relative.acc	-	-	The book **that** I'm reading is interesting.	Das Buch, **das** ich lese, ist interessant.	das stays das in the accusative.
+relative.acc	-	-	Where is the cake **that** I bought?	Wo ist der Kuchen, **den** ich gekauft habe?	der Kuchen as the object: den.
+relative.acc	-	-	The novel **that** you recommended to me is great. (one friend)	Der Roman, **den** du mir empfohlen hast, ist toll.	der Roman → den, the object of empfohlen.
+relative.acc	-	-	These are the photos **that** I took.	Das sind die Fotos, **die** ich gemacht habe.	Plural object: die. German makes photos: Fotos machen.
+relative.acc	-	-	The jacket **that** she ordered is too big.	Die Jacke, **die** sie bestellt hat, ist zu groß.	die Jacke → die. zu before an adjective: too.
+relative.acc	-	-	The colleague **whom** I called is coming tomorrow.	Der Kollege, **den** ich angerufen habe, kommt morgen.	der Kollege as the object: den.
+relative.acc	-	-	The waiter recommended a wine **that** we didn't know.	Der Kellner hat einen Wein empfohlen, **den** wir nicht kannten.	der Wein → den. kannten: the simple past of kennen.
+relative.acc	-	-	The people **whom** we met were nice.	Die Leute, **die** wir getroffen haben, waren nett.	Plural: die, as subject or object.
+relative.acc	-	-	The car **that** he repaired is running again.	Das Auto, **das** er repariert hat, fährt wieder.	das Auto → das.
+relative.acc	-	-	The shop assistant **whom** I asked didn't know.	Die Verkäuferin, **die** ich gefragt habe, wusste es nicht.	die Verkäuferin → die.
+relative.acc	-	-	The waitress **whom** we asked was very kind.	Die Kellnerin, **die** wir gefragt haben, war sehr freundlich.	die Kellnerin as the object: die.

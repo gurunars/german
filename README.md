@@ -80,6 +80,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 32 · Waiting for, thinking of: verbs with prepositions, darauf, worauf](lessons/32-verb-prep.json) — 33 cards
 - [Lesson 33 · Once upon a time: konnte, musste, wollte; ging, kam, gab, sagte](lessons/33-preterite.json) — 36 cards
 - [Lesson 34 · Would, could: würde, hätte, wäre, könnte](lessons/34-konjunktiv.json) — 32 cards
+- [Lesson 35 · The man who, the film that: relative clauses](lessons/35-relative.json) — 30 cards
 
 ## Decks
 
