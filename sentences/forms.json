@@ -72,6 +72,79 @@
    ]
   }
  },
+ "April": {
+  "all": [
+   "April",
+   "Aprile",
+   "Aprilen",
+   "Aprils"
+  ],
+  "english": "April",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Aprile"
+   ],
+   "acc.sg": [
+    "April"
+   ],
+   "dat.pl": [
+    "Aprilen"
+   ],
+   "dat.sg": [
+    "April"
+   ],
+   "gen.sg": [
+    "April",
+    "Aprils"
+   ],
+   "nom.pl": [
+    "Aprile"
+   ],
+   "nom.sg": [
+    "April"
+   ]
+  }
+ },
+ "August": {
+  "all": [
+   "August",
+   "Auguste",
+   "Augusten",
+   "Augustes",
+   "Augusts"
+  ],
+  "english": "August",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Auguste"
+   ],
+   "acc.sg": [
+    "August"
+   ],
+   "dat.pl": [
+    "Augusten"
+   ],
+   "dat.sg": [
+    "August",
+    "Auguste"
+   ],
+   "gen.sg": [
+    "August",
+    "Augusts",
+    "Augustes"
+   ],
+   "nom.pl": [
+    "Auguste"
+   ],
+   "nom.sg": [
+    "August"
+   ]
+  }
+ },
  "Auto": {
   "all": [
    "Auto",
@@ -441,6 +514,42 @@
    ]
   }
  },
+ "Dezember": {
+  "all": [
+   "December",
+   "Dezember",
+   "Dezembern",
+   "Dezembers",
+   "Xber"
+  ],
+  "english": "December",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Dezember"
+   ],
+   "acc.sg": [
+    "Dezember"
+   ],
+   "dat.pl": [
+    "Dezembern"
+   ],
+   "dat.sg": [
+    "Dezember"
+   ],
+   "gen.sg": [
+    "Dezembers",
+    "Dezember"
+   ],
+   "nom.pl": [
+    "Dezember"
+   ],
+   "nom.sg": [
+    "Dezember"
+   ]
+  }
+ },
  "Dienstag": {
   "all": [
    "Dienstag",
@@ -681,6 +790,42 @@
    ],
    "nom.sg": [
     "Familie"
+   ]
+  }
+ },
+ "Februar": {
+  "all": [
+   "Feber",
+   "Februar",
+   "Februare",
+   "Februaren",
+   "Februars"
+  ],
+  "english": "February",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Februare"
+   ],
+   "acc.sg": [
+    "Februar"
+   ],
+   "dat.pl": [
+    "Februaren"
+   ],
+   "dat.sg": [
+    "Februar"
+   ],
+   "gen.sg": [
+    "Februars",
+    "Februar"
+   ],
+   "nom.pl": [
+    "Februare"
+   ],
+   "nom.sg": [
+    "Februar"
    ]
   }
  },
@@ -1122,6 +1267,43 @@
    ]
   }
  },
+ "Geburtstag": {
+  "all": [
+   "Geburtstag",
+   "Geburtstage",
+   "Geburtstagen",
+   "Geburtstages",
+   "Geburtstags"
+  ],
+  "english": "birthday",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Geburtstage"
+   ],
+   "acc.sg": [
+    "Geburtstag"
+   ],
+   "dat.pl": [
+    "Geburtstagen"
+   ],
+   "dat.sg": [
+    "Geburtstag",
+    "Geburtstage"
+   ],
+   "gen.sg": [
+    "Geburtstages",
+    "Geburtstags"
+   ],
+   "nom.pl": [
+    "Geburtstage"
+   ],
+   "nom.sg": [
+    "Geburtstag"
+   ]
+  }
+ },
  "Geld": {
   "all": [
    "Geld",
@@ -1442,6 +1624,75 @@
    ]
   }
  },
+ "Januar": {
+  "all": [
+   "Januar",
+   "Januare",
+   "Januaren",
+   "Januars"
+  ],
+  "english": "January",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Januare"
+   ],
+   "acc.sg": [
+    "Januar"
+   ],
+   "dat.pl": [
+    "Januaren"
+   ],
+   "dat.sg": [
+    "Januar"
+   ],
+   "gen.sg": [
+    "Januars",
+    "Januar"
+   ],
+   "nom.pl": [
+    "Januare"
+   ],
+   "nom.sg": [
+    "Januar"
+   ]
+  }
+ },
+ "Juli": {
+  "all": [
+   "Julei",
+   "Juli",
+   "Julis"
+  ],
+  "english": "July",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Julis"
+   ],
+   "acc.sg": [
+    "Juli"
+   ],
+   "dat.pl": [
+    "Julis"
+   ],
+   "dat.sg": [
+    "Juli"
+   ],
+   "gen.sg": [
+    "Julis",
+    "Juli"
+   ],
+   "nom.pl": [
+    "Julis"
+   ],
+   "nom.sg": [
+    "Juli"
+   ]
+  }
+ },
  "Junge": {
   "all": [
    "Jung",
@@ -1478,6 +1729,40 @@
    ],
    "nom.sg": [
     "Junge"
+   ]
+  }
+ },
+ "Juni": {
+  "all": [
+   "Juni",
+   "Junis",
+   "Juno"
+  ],
+  "english": "June",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Junis"
+   ],
+   "acc.sg": [
+    "Juni"
+   ],
+   "dat.pl": [
+    "Junis"
+   ],
+   "dat.sg": [
+    "Juni"
+   ],
+   "gen.sg": [
+    "Junis",
+    "Juni"
+   ],
+   "nom.pl": [
+    "Junis"
+   ],
+   "nom.sg": [
+    "Juni"
    ]
   }
  },
@@ -1901,6 +2186,41 @@
    ]
   }
  },
+ "Mai": {
+  "all": [
+   "Mai",
+   "Maie",
+   "Maien",
+   "Mais"
+  ],
+  "english": "May",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Maie"
+   ],
+   "acc.sg": [
+    "Mai"
+   ],
+   "dat.pl": [
+    "Maien"
+   ],
+   "dat.sg": [
+    "Mai"
+   ],
+   "gen.sg": [
+    "Mais",
+    "Mai"
+   ],
+   "nom.pl": [
+    "Maie"
+   ],
+   "nom.sg": [
+    "Mai"
+   ]
+  }
+ },
  "Mann": {
   "all": [
    "Man",
@@ -2019,6 +2339,43 @@
    ],
    "nom.sg": [
     "Mittwoch"
+   ]
+  }
+ },
+ "Monat": {
+  "all": [
+   "Monat",
+   "Monate",
+   "Monaten",
+   "Monates",
+   "Monats"
+  ],
+  "english": "month",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Monate"
+   ],
+   "acc.sg": [
+    "Monat"
+   ],
+   "dat.pl": [
+    "Monaten"
+   ],
+   "dat.sg": [
+    "Monat",
+    "Monate"
+   ],
+   "gen.sg": [
+    "Monates",
+    "Monats"
+   ],
+   "nom.pl": [
+    "Monate"
+   ],
+   "nom.sg": [
+    "Monat"
    ]
   }
  },
@@ -2166,6 +2523,46 @@
    ]
   }
  },
+ "März": {
+  "all": [
+   "Merz",
+   "Merze",
+   "März",
+   "Märze",
+   "Märzen",
+   "Märzes",
+   "m",
+   "or"
+  ],
+  "english": "March",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Märze"
+   ],
+   "acc.sg": [
+    "März"
+   ],
+   "dat.pl": [
+    "Märzen"
+   ],
+   "dat.sg": [
+    "März",
+    "Märze"
+   ],
+   "gen.sg": [
+    "März",
+    "Märzes"
+   ],
+   "nom.pl": [
+    "Märze"
+   ],
+   "nom.sg": [
+    "März"
+   ]
+  }
+ },
  "Nacht": {
   "all": [
    "Nacht",
@@ -2232,6 +2629,75 @@
    ],
    "nom.sg": [
     "Name"
+   ]
+  }
+ },
+ "November": {
+  "all": [
+   "November",
+   "Novembern",
+   "Novembers"
+  ],
+  "english": "November",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "November"
+   ],
+   "acc.sg": [
+    "November"
+   ],
+   "dat.pl": [
+    "Novembern"
+   ],
+   "dat.sg": [
+    "November"
+   ],
+   "gen.sg": [
+    "Novembers",
+    "November"
+   ],
+   "nom.pl": [
+    "November"
+   ],
+   "nom.sg": [
+    "November"
+   ]
+  }
+ },
+ "Oktober": {
+  "all": [
+   "October",
+   "Oktober",
+   "Oktobern",
+   "Oktobers"
+  ],
+  "english": "October",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Oktober"
+   ],
+   "acc.sg": [
+    "Oktober"
+   ],
+   "dat.pl": [
+    "Oktobern"
+   ],
+   "dat.sg": [
+    "Oktober"
+   ],
+   "gen.sg": [
+    "Oktobers",
+    "Oktober"
+   ],
+   "nom.pl": [
+    "Oktober"
+   ],
+   "nom.sg": [
+    "Oktober"
    ]
   }
  },
@@ -2440,6 +2906,40 @@
    ],
    "nom.sg": [
     "Schwester"
+   ]
+  }
+ },
+ "September": {
+  "all": [
+   "September",
+   "Septembern",
+   "Septembers"
+  ],
+  "english": "September",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "September"
+   ],
+   "acc.sg": [
+    "September"
+   ],
+   "dat.pl": [
+    "Septembern"
+   ],
+   "dat.sg": [
+    "September"
+   ],
+   "gen.sg": [
+    "Septembers",
+    "September"
+   ],
+   "nom.pl": [
+    "September"
+   ],
+   "nom.sg": [
+    "September"
    ]
   }
  },

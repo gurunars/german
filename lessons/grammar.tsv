@@ -19,3 +19,6 @@ plural	9	Plural of nouns
 numbers.59	10	Numbers 21–59: the unit, und, the ten
 time.clock	10	The clock: Uhr, halb, Viertel, vor, nach
 time.um.am	10	um for clock times, am for days
+numbers.100	11	Numbers to 100
+time.months	11	The months, and im for a month
+date.ordinal	11	Dates: der dritte Mai, am dritten Mai

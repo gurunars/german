@@ -1,0 +1,36 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+numbers.100	-	-	My grandpa is **sixty**.	Mein Opa ist **sechzig**.	sechs drops its s before -zig: sechzig, as in sechzehn.
+numbers.100	-	-	My grandma is **seventy**.	Meine Oma ist **siebzig**.	sieben drops its -en: siebzig, as in siebzehn.
+numbers.100	-	-	The bicycle costs **eighty** euros.	Das Fahrrad kostet **achtzig** Euro.	acht + zig, nothing dropped.
+numbers.100	-	-	The computer costs **ninety** euros.	Der Computer kostet **neunzig** Euro.	neun + zig: neunzig.
+numbers.100	-	-	The bicycle costs **a hundred** euros.	Das Fahrrad kostet **hundert** Euro.	hundert needs no word for a; einhundert is also possible.
+numbers.100	-	-	The bag costs **sixty-five** euros.	Die Tasche kostet **fünfundsechzig** Euro.	The unit, und, the ten: fünfundsechzig.
+numbers.100	-	-	The phone costs **ninety-nine** euros.	Das Handy kostet **neunundneunzig** Euro.	neun und neunzig, in one word.
+numbers.100	-	-	My grandpa is **seventy-seven**.	Mein Opa ist **siebenundsiebzig**.	The unit keeps its full form, siebenund-; only the ten shortens to siebzig.
+numbers.100	-	-	My grandma is **eighty-two**.	Meine Oma ist **zweiundachtzig**.	zwei und achtzig: two-and-eighty.
+numbers.100	-	-	February has **twenty-eight** days.	Der Februar hat **achtundzwanzig** Tage.	acht und zwanzig. Months take der, so der Februar.
+time.months	-	-	**In January** it's cold.	**Im Januar** ist es kalt.	im before a month: im Januar. The months are all der-words.
+time.months	-	-	My birthday is **in February**.	Mein Geburtstag ist **im Februar**.	im Februar: in February.
+time.months	-	-	**In March** my parents are coming.	**Im März** kommen meine Eltern.	im März takes the first place; the verb follows.
+time.months	-	-	**In April** I'm working a lot.	**Im April** arbeite ich viel.	im April: the verb second, ich after it.
+time.months	-	-	**In May** it's warm.	**Im Mai** ist es warm.	im Mai.
+time.months	-	-	**In June** we play a lot of football.	**Im Juni** spielen wir viel Fußball.	im Juni.
+time.months	-	-	**In July** we swim a lot.	**Im Juli** schwimmen wir viel.	im Juli. Juni and Juli sound alike; on the phone people say Juno and Julei.
+time.months	-	-	It's very warm **in August**.	Es ist **im August** sehr warm.	im August, stressed on the second syllable: Au-GUST.
+time.months	-	-	He's learning German **in September**.	Er lernt **im September** Deutsch.	im September: a time phrase goes before the object.
+time.months	-	-	October has **thirty-one** days.	Der Oktober hat **einunddreißig** Tage.	der Oktober. einunddreißig: one-and-thirty.
+time.months	-	-	**In November** I drink a lot of tea.	**Im November** trinke ich viel Tee.	im November.
+time.months	-	-	**In December** we eat a lot of cake.	**Im Dezember** essen wir viel Kuchen.	im Dezember.
+time.months	Monat	acc.pl	A year has twelve **months**.	Ein Jahr hat zwölf **Monate**.	der Monat → Monate, the -e plural.
+date.ordinal	-	-	Today is **the first** of May.	Heute ist **der erste** Mai.	Dates use ordinals: erste, first. German says the first May, with no of.
+date.ordinal	-	-	**On the second** of January I'm working.	**Am zweiten** Januar arbeite ich.	After am the ordinal ends in -en: am zweiten.
+date.ordinal	-	-	My birthday is **on the third** of June.	Mein Geburtstag ist **am dritten** Juni.	dritte is irregular, like English third: am dritten.
+date.ordinal	-	-	Today is **the fourth** of October.	Heute ist **der vierte** Oktober.	Up to 19, the ordinal adds -t-: vier → vierte.
+date.ordinal	-	-	When is your birthday? (one friend) – **On the fourth** of August.	Wann ist dein Geburtstag? – **Am vierten** August.	am vierten: -ten after am.
+date.ordinal	-	-	**On the seventh** of July my brother is coming.	**Am siebten** Juli kommt mein Bruder.	sieben drops -en: siebte, am siebten.
+date.ordinal	-	-	**On the tenth** of December we're cooking.	**Am zehnten** Dezember kochen wir.	zehn + -t-: am zehnten.
+date.ordinal	-	-	Today is **the twentieth** of March.	Heute ist **der zwanzigste** März.	From 20 on, the ordinal adds -st-: zwanzigste.
+date.ordinal	-	-	**On the thirty-first** of December we eat fish.	**Am einunddreißigsten** Dezember essen wir Fisch.	From 20 on, -st-: einunddreißigsten.
+date.ordinal	-	-	Is your birthday **on the first** of April? (one friend)	Ist dein Geburtstag **am ersten** April?	erste is irregular: am ersten, never einsten.
+date.ordinal	-	-	Today is **the third** of May.	Heute ist **der dritte** Mai.	der dritte: after der, the ordinal ends in -e.
+date.ordinal	-	-	On Friday it's **the seventh**.	Am Freitag ist **der siebte**.	The month can be left out when it is clear: der siebte.

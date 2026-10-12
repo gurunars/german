@@ -50,6 +50,11 @@
       "name": "Lesson 10 · Telling the time: the clock, the days, um and am",
       "url": "10-clock.json",
       "cards": 36
+    },
+    {
+      "name": "Lesson 11 · Dates: the months, im, numbers to 100, der dritte Mai",
+      "url": "11-dates.json",
+      "cards": 35
     }
   ]
 }

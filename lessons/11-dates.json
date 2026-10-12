@@ -1,0 +1,218 @@
+{
+  "name": "Lesson 11 · Dates: the months, im, numbers to 100, der dritte Mai",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "My grandpa is **sixty**.",
+      "back": "Mein Opa ist **sechzig**.",
+      "note": "Numbers to 100. sechs drops its s before -zig: sechzig, as in sechzehn.",
+      "priority": 1
+    },
+    {
+      "front": "My grandma is **seventy**.",
+      "back": "Meine Oma ist **siebzig**.",
+      "note": "Numbers to 100. sieben drops its -en: siebzig, as in siebzehn.",
+      "priority": 1
+    },
+    {
+      "front": "The bicycle costs **eighty** euros.",
+      "back": "Das Fahrrad kostet **achtzig** Euro.",
+      "note": "Numbers to 100. acht + zig, nothing dropped.",
+      "priority": 1
+    },
+    {
+      "front": "The computer costs **ninety** euros.",
+      "back": "Der Computer kostet **neunzig** Euro.",
+      "note": "Numbers to 100. neun + zig: neunzig.",
+      "priority": 1
+    },
+    {
+      "front": "The bicycle costs **a hundred** euros.",
+      "back": "Das Fahrrad kostet **hundert** Euro.",
+      "note": "Numbers to 100. hundert needs no word for a; einhundert is also possible.",
+      "priority": 1
+    },
+    {
+      "front": "The bag costs **sixty-five** euros.",
+      "back": "Die Tasche kostet **fünfundsechzig** Euro.",
+      "note": "Numbers to 100. The unit, und, the ten: fünfundsechzig.",
+      "priority": 1
+    },
+    {
+      "front": "The phone costs **ninety-nine** euros.",
+      "back": "Das Handy kostet **neunundneunzig** Euro.",
+      "note": "Numbers to 100. neun und neunzig, in one word.",
+      "priority": 1
+    },
+    {
+      "front": "My grandpa is **seventy-seven**.",
+      "back": "Mein Opa ist **siebenundsiebzig**.",
+      "note": "Numbers to 100. The unit keeps its full form, siebenund-; only the ten shortens to siebzig.",
+      "priority": 1
+    },
+    {
+      "front": "My grandma is **eighty-two**.",
+      "back": "Meine Oma ist **zweiundachtzig**.",
+      "note": "Numbers to 100. zwei und achtzig: two-and-eighty.",
+      "priority": 1
+    },
+    {
+      "front": "February has **twenty-eight** days.",
+      "back": "Der Februar hat **achtundzwanzig** Tage.",
+      "note": "Numbers to 100. acht und zwanzig. Months take der, so der Februar.",
+      "priority": 1
+    },
+    {
+      "front": "**In January** it's cold.",
+      "back": "**Im Januar** ist es kalt.",
+      "note": "The months, and im for a month. im before a month: im Januar. The months are all der-words.",
+      "priority": 1
+    },
+    {
+      "front": "My birthday is **in February**.",
+      "back": "Mein Geburtstag ist **im Februar**.",
+      "note": "The months, and im for a month. im Februar: in February.",
+      "priority": 1
+    },
+    {
+      "front": "**In March** my parents are coming.",
+      "back": "**Im März** kommen meine Eltern.",
+      "note": "The months, and im for a month. im März takes the first place; the verb follows.",
+      "priority": 1
+    },
+    {
+      "front": "**In April** I'm working a lot.",
+      "back": "**Im April** arbeite ich viel.",
+      "note": "The months, and im for a month. im April: the verb second, ich after it.",
+      "priority": 1
+    },
+    {
+      "front": "**In May** it's warm.",
+      "back": "**Im Mai** ist es warm.",
+      "note": "The months, and im for a month. im Mai.",
+      "priority": 1
+    },
+    {
+      "front": "**In June** we play a lot of football.",
+      "back": "**Im Juni** spielen wir viel Fußball.",
+      "note": "The months, and im for a month. im Juni.",
+      "priority": 1
+    },
+    {
+      "front": "**In July** we swim a lot.",
+      "back": "**Im Juli** schwimmen wir viel.",
+      "note": "The months, and im for a month. im Juli. Juni and Juli sound alike; on the phone people say Juno and Julei.",
+      "priority": 1
+    },
+    {
+      "front": "It's very warm **in August**.",
+      "back": "Es ist **im August** sehr warm.",
+      "note": "The months, and im for a month. im August, stressed on the second syllable: Au-GUST.",
+      "priority": 1
+    },
+    {
+      "front": "He's learning German **in September**.",
+      "back": "Er lernt **im September** Deutsch.",
+      "note": "The months, and im for a month. im September: a time phrase goes before the object.",
+      "priority": 1
+    },
+    {
+      "front": "October has **thirty-one** days.",
+      "back": "Der Oktober hat **einunddreißig** Tage.",
+      "note": "The months, and im for a month. der Oktober. einunddreißig: one-and-thirty.",
+      "priority": 1
+    },
+    {
+      "front": "**In November** I drink a lot of tea.",
+      "back": "**Im November** trinke ich viel Tee.",
+      "note": "The months, and im for a month. im November.",
+      "priority": 1
+    },
+    {
+      "front": "**In December** we eat a lot of cake.",
+      "back": "**Im Dezember** essen wir viel Kuchen.",
+      "note": "The months, and im for a month. im Dezember.",
+      "priority": 1
+    },
+    {
+      "front": "A year has twelve **months**.",
+      "back": "Ein Jahr hat zwölf **Monate**.",
+      "note": "The months, and im for a month. der Monat → Monate, the -e plural.",
+      "priority": 1
+    },
+    {
+      "front": "Today is **the first** of May.",
+      "back": "Heute ist **der erste** Mai.",
+      "note": "Dates: der dritte Mai, am dritten Mai. Dates use ordinals: erste, first. German says the first May, with no of.",
+      "priority": 1
+    },
+    {
+      "front": "**On the second** of January I'm working.",
+      "back": "**Am zweiten** Januar arbeite ich.",
+      "note": "Dates: der dritte Mai, am dritten Mai. After am the ordinal ends in -en: am zweiten.",
+      "priority": 1
+    },
+    {
+      "front": "My birthday is **on the third** of June.",
+      "back": "Mein Geburtstag ist **am dritten** Juni.",
+      "note": "Dates: der dritte Mai, am dritten Mai. dritte is irregular, like English third: am dritten.",
+      "priority": 1
+    },
+    {
+      "front": "Today is **the fourth** of October.",
+      "back": "Heute ist **der vierte** Oktober.",
+      "note": "Dates: der dritte Mai, am dritten Mai. Up to 19, the ordinal adds -t-: vier → vierte.",
+      "priority": 1
+    },
+    {
+      "front": "When is your birthday? (one friend) – **On the fourth** of August.",
+      "back": "Wann ist dein Geburtstag? – **Am vierten** August.",
+      "note": "Dates: der dritte Mai, am dritten Mai. am vierten: -ten after am.",
+      "priority": 1
+    },
+    {
+      "front": "**On the seventh** of July my brother is coming.",
+      "back": "**Am siebten** Juli kommt mein Bruder.",
+      "note": "Dates: der dritte Mai, am dritten Mai. sieben drops -en: siebte, am siebten.",
+      "priority": 1
+    },
+    {
+      "front": "**On the tenth** of December we're cooking.",
+      "back": "**Am zehnten** Dezember kochen wir.",
+      "note": "Dates: der dritte Mai, am dritten Mai. zehn + -t-: am zehnten.",
+      "priority": 1
+    },
+    {
+      "front": "Today is **the twentieth** of March.",
+      "back": "Heute ist **der zwanzigste** März.",
+      "note": "Dates: der dritte Mai, am dritten Mai. From 20 on, the ordinal adds -st-: zwanzigste.",
+      "priority": 1
+    },
+    {
+      "front": "**On the thirty-first** of December we eat fish.",
+      "back": "**Am einunddreißigsten** Dezember essen wir Fisch.",
+      "note": "Dates: der dritte Mai, am dritten Mai. From 20 on, -st-: einunddreißigsten.",
+      "priority": 1
+    },
+    {
+      "front": "Is your birthday **on the first** of April? (one friend)",
+      "back": "Ist dein Geburtstag **am ersten** April?",
+      "note": "Dates: der dritte Mai, am dritten Mai. erste is irregular: am ersten, never einsten.",
+      "priority": 1
+    },
+    {
+      "front": "Today is **the third** of May.",
+      "back": "Heute ist **der dritte** Mai.",
+      "note": "Dates: der dritte Mai, am dritten Mai. der dritte: after der, the ordinal ends in -e.",
+      "priority": 1
+    },
+    {
+      "front": "On Friday it's **the seventh**.",
+      "back": "Am Freitag ist **der siebte**.",
+      "note": "Dates: der dritte Mai, am dritten Mai. The month can be left out when it is clear: der siebte.",
+      "priority": 1
+    }
+  ]
+}
