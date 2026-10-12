@@ -1,0 +1,200 @@
+{
+  "name": "Lesson 6 · Counting: numbers 0–20, prices and age",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**One**, two, three!",
+      "back": "**Eins**, zwei, drei!",
+      "note": "Numbers 0–20. Counting, one is eins; before a noun it becomes the article ein.",
+      "priority": 1
+    },
+    {
+      "front": "One, **two**, three!",
+      "back": "Eins, **zwei**, drei!",
+      "note": "Numbers 0–20. zwei. On the phone Germans often say zwo, so it is not mixed up with drei.",
+      "priority": 1
+    },
+    {
+      "front": "The child is **three**.",
+      "back": "Das Kind ist **drei**.",
+      "note": "Numbers 0–20. For age, sein and the number are enough: ist drei.",
+      "priority": 1
+    },
+    {
+      "front": "The coffee costs **two** euros.",
+      "back": "Der Kaffee kostet **zwei** Euro.",
+      "note": "Numbers 0–20. Euro takes no plural ending after a number: zwei Euro.",
+      "priority": 1
+    },
+    {
+      "front": "The bread costs **four** euros.",
+      "back": "Das Brot kostet **vier** Euro.",
+      "note": "Numbers 0–20. vier: the ie is a long i, as in English see.",
+      "priority": 1
+    },
+    {
+      "front": "The tea costs **five** euros.",
+      "back": "Der Tee kostet **fünf** Euro.",
+      "note": "Numbers 0–20. fünf, with ü.",
+      "priority": 1
+    },
+    {
+      "front": "The child is **six**.",
+      "back": "Das Kind ist **sechs**.",
+      "note": "Numbers 0–20. sechs: the chs sounds like ks.",
+      "priority": 1
+    },
+    {
+      "front": "He is **seven**.",
+      "back": "Er ist **sieben**.",
+      "note": "Numbers 0–20. sieben has two syllables: sie-ben.",
+      "priority": 1
+    },
+    {
+      "front": "The cat is **eight**.",
+      "back": "Die Katze ist **acht**.",
+      "note": "Numbers 0–20. acht, with the ch from the back of the throat.",
+      "priority": 1
+    },
+    {
+      "front": "She is **nine**.",
+      "back": "Sie ist **neun**.",
+      "note": "Numbers 0–20. neun: eu sounds like oy in boy.",
+      "priority": 1
+    },
+    {
+      "front": "The book costs **ten** euros.",
+      "back": "Das Buch kostet **zehn** Euro.",
+      "note": "Numbers 0–20. zehn: the z sounds like ts, the h is silent.",
+      "priority": 1
+    },
+    {
+      "front": "She is **eleven**.",
+      "back": "Sie ist **elf**.",
+      "note": "Numbers 0–20. elf is a word of its own, like English eleven.",
+      "priority": 1
+    },
+    {
+      "front": "How old is the dog? – He is **twelve**.",
+      "back": "Wie alt ist der Hund? – Er ist **zwölf**.",
+      "note": "Numbers 0–20. zwölf, like elf, is not built from zehn.",
+      "priority": 1
+    },
+    {
+      "front": "The brother is **thirteen**.",
+      "back": "Der Bruder ist **dreizehn**.",
+      "note": "Numbers 0–20. From 13, the unit comes first, then zehn: drei-zehn, like thir-teen.",
+      "priority": 1
+    },
+    {
+      "front": "The sister is **fourteen**.",
+      "back": "Die Schwester ist **vierzehn**.",
+      "note": "Numbers 0–20. vier + zehn, written as one word.",
+      "priority": 1
+    },
+    {
+      "front": "The cinema costs **fifteen** euros.",
+      "back": "Das Kino kostet **fünfzehn** Euro.",
+      "note": "Numbers 0–20. fünf + zehn: fünfzehn.",
+      "priority": 1
+    },
+    {
+      "front": "The cake costs **sixteen** euros.",
+      "back": "Der Kuchen kostet **sechzehn** Euro.",
+      "note": "Numbers 0–20. sechzehn drops the s of sechs: not sechszehn.",
+      "priority": 1
+    },
+    {
+      "front": "The book costs **seventeen** euros.",
+      "back": "Das Buch kostet **siebzehn** Euro.",
+      "note": "Numbers 0–20. siebzehn drops the -en of sieben: not siebenzehn.",
+      "priority": 1
+    },
+    {
+      "front": "I am **eighteen**.",
+      "back": "Ich bin **achtzehn**.",
+      "note": "Numbers 0–20. acht + zehn, nothing dropped.",
+      "priority": 1
+    },
+    {
+      "front": "How old are you? (one friend) – I am **nineteen**.",
+      "back": "Wie alt bist du? – Ich bin **neunzehn**.",
+      "note": "Numbers 0–20. neun + zehn: neunzehn.",
+      "priority": 1
+    },
+    {
+      "front": "I am **twenty**.",
+      "back": "Ich bin **zwanzig**.",
+      "note": "Numbers 0–20. zwanzig: the tens end in -zig, and zwei shortens to zwan-.",
+      "priority": 1
+    },
+    {
+      "front": "The lamp costs **twenty** euros.",
+      "back": "Die Lampe kostet **zwanzig** Euro.",
+      "note": "Numbers 0–20. zwanzig Euro: Euro stays the same after any number.",
+      "priority": 1
+    },
+    {
+      "front": "I have **zero** time today.",
+      "back": "Ich habe heute **null** Zeit.",
+      "note": "Numbers 0–20. null before a noun is a casual way of saying none at all, as with English zero.",
+      "priority": 1
+    },
+    {
+      "front": "**Zero**, one, two!",
+      "back": "**Null**, eins, zwei!",
+      "note": "Numbers 0–20. null: zero. Counting starts with null, eins.",
+      "priority": 1
+    },
+    {
+      "front": "Is the cat ten? – No, she is **eleven**.",
+      "back": "Ist die Katze zehn? – Nein, sie ist **elf**.",
+      "note": "Numbers 0–20. A question with the verb first gets ja or nein; elf is eleven.",
+      "priority": 1
+    },
+    {
+      "front": "Is he **seven** or eight?",
+      "back": "Ist er **sieben** oder acht?",
+      "note": "Numbers 0–20. sieben, acht: seven, eight.",
+      "priority": 1
+    },
+    {
+      "front": "What does the bread cost? – **Three** euros.",
+      "back": "Was kostet das Brot? – **Drei** Euro.",
+      "note": "Numbers 0–20. drei Euro: the number, then Euro without a plural ending.",
+      "priority": 1
+    },
+    {
+      "front": "Does the coffee cost **two** or three euros?",
+      "back": "Kostet der Kaffee **zwei** oder drei Euro?",
+      "note": "Numbers 0–20. A yes/no question with the verb first; zwei Euro.",
+      "priority": 1
+    },
+    {
+      "front": "The apple costs **one** euro.",
+      "back": "Der Apfel kostet **einen** Euro.",
+      "note": "Numbers 0–20. Before a noun one is the article ein, and kostet takes the accusative: einen Euro.",
+      "priority": 1
+    },
+    {
+      "front": "The milk costs **one** euro.",
+      "back": "Die Milch kostet **einen** Euro.",
+      "note": "Numbers 0–20. der Euro, so einen Euro, whatever the thing that costs it.",
+      "priority": 1
+    },
+    {
+      "front": "We are **fifteen**.",
+      "back": "Wir sind **fünfzehn**.",
+      "note": "Numbers 0–20. Ages work the same for everyone: sein + the number.",
+      "priority": 1
+    },
+    {
+      "front": "Why does the tea cost **twenty** euros?",
+      "back": "Warum kostet der Tee **zwanzig** Euro?",
+      "note": "Numbers 0–20. Question word first, then kostet, then the subject.",
+      "priority": 1
+    }
+  ]
+}

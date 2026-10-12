@@ -25,6 +25,11 @@
       "name": "Lesson 5 · Asking: W-questions and yes/no questions",
       "url": "05-questions.json",
       "cards": 38
+    },
+    {
+      "name": "Lesson 6 · Counting: numbers 0–20, prices and age",
+      "url": "06-numbers.json",
+      "cards": 32
     }
   ]
 }

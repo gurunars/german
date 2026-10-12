@@ -1,0 +1,33 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+numbers.20	-	-	**One**, two, three!	**Eins**, zwei, drei!	Counting, one is eins; before a noun it becomes the article ein.
+numbers.20	-	-	One, **two**, three!	Eins, **zwei**, drei!	zwei. On the phone Germans often say zwo, so it is not mixed up with drei.
+numbers.20	-	-	The child is **three**.	Das Kind ist **drei**.	For age, sein and the number are enough: ist drei.
+numbers.20	-	-	The coffee costs **two** euros.	Der Kaffee kostet **zwei** Euro.	Euro takes no plural ending after a number: zwei Euro.
+numbers.20	-	-	The bread costs **four** euros.	Das Brot kostet **vier** Euro.	vier: the ie is a long i, as in English see.
+numbers.20	-	-	The tea costs **five** euros.	Der Tee kostet **fünf** Euro.	fünf, with ü.
+numbers.20	-	-	The child is **six**.	Das Kind ist **sechs**.	sechs: the chs sounds like ks.
+numbers.20	-	-	He is **seven**.	Er ist **sieben**.	sieben has two syllables: sie-ben.
+numbers.20	-	-	The cat is **eight**.	Die Katze ist **acht**.	acht, with the ch from the back of the throat.
+numbers.20	-	-	She is **nine**.	Sie ist **neun**.	neun: eu sounds like oy in boy.
+numbers.20	-	-	The book costs **ten** euros.	Das Buch kostet **zehn** Euro.	zehn: the z sounds like ts, the h is silent.
+numbers.20	-	-	She is **eleven**.	Sie ist **elf**.	elf is a word of its own, like English eleven.
+numbers.20	-	-	How old is the dog? – He is **twelve**.	Wie alt ist der Hund? – Er ist **zwölf**.	zwölf, like elf, is not built from zehn.
+numbers.20	-	-	The brother is **thirteen**.	Der Bruder ist **dreizehn**.	From 13, the unit comes first, then zehn: drei-zehn, like thir-teen.
+numbers.20	-	-	The sister is **fourteen**.	Die Schwester ist **vierzehn**.	vier + zehn, written as one word.
+numbers.20	-	-	The cinema costs **fifteen** euros.	Das Kino kostet **fünfzehn** Euro.	fünf + zehn: fünfzehn.
+numbers.20	-	-	The cake costs **sixteen** euros.	Der Kuchen kostet **sechzehn** Euro.	sechzehn drops the s of sechs: not sechszehn.
+numbers.20	-	-	The book costs **seventeen** euros.	Das Buch kostet **siebzehn** Euro.	siebzehn drops the -en of sieben: not siebenzehn.
+numbers.20	-	-	I am **eighteen**.	Ich bin **achtzehn**.	acht + zehn, nothing dropped.
+numbers.20	-	-	How old are you? (one friend) – I am **nineteen**.	Wie alt bist du? – Ich bin **neunzehn**.	neun + zehn: neunzehn.
+numbers.20	-	-	I am **twenty**.	Ich bin **zwanzig**.	zwanzig: the tens end in -zig, and zwei shortens to zwan-.
+numbers.20	-	-	The lamp costs **twenty** euros.	Die Lampe kostet **zwanzig** Euro.	zwanzig Euro: Euro stays the same after any number.
+numbers.20	-	-	I have **zero** time today.	Ich habe heute **null** Zeit.	null before a noun is a casual way of saying none at all, as with English zero.
+numbers.20	-	-	**Zero**, one, two!	**Null**, eins, zwei!	null: zero. Counting starts with null, eins.
+numbers.20	-	-	Is the cat ten? – No, she is **eleven**.	Ist die Katze zehn? – Nein, sie ist **elf**.	A question with the verb first gets ja or nein; elf is eleven.
+numbers.20	-	-	Is he **seven** or eight?	Ist er **sieben** oder acht?	sieben, acht: seven, eight.
+numbers.20	-	-	What does the bread cost? – **Three** euros.	Was kostet das Brot? – **Drei** Euro.	drei Euro: the number, then Euro without a plural ending.
+numbers.20	-	-	Does the coffee cost **two** or three euros?	Kostet der Kaffee **zwei** oder drei Euro?	A yes/no question with the verb first; zwei Euro.
+numbers.20	-	-	The apple costs **one** euro.	Der Apfel kostet **einen** Euro.	Before a noun one is the article ein, and kostet takes the accusative: einen Euro.
+numbers.20	-	-	The milk costs **one** euro.	Die Milch kostet **einen** Euro.	der Euro, so einen Euro, whatever the thing that costs it.
+numbers.20	-	-	We are **fifteen**.	Wir sind **fünfzehn**.	Ages work the same for everyone: sein + the number.
+numbers.20	-	-	Why does the tea cost **twenty** euros?	Warum kostet der Tee **zwanzig** Euro?	Question word first, then kostet, then the subject.
