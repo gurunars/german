@@ -1415,6 +1415,130 @@
    ]
   }
  },
+ "Name": {
+  "all": [
+   "Nahme",
+   "Nahmen",
+   "Name",
+   "Namen",
+   "Namens"
+  ],
+  "english": "name",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Namen"
+   ],
+   "dat.pl": [
+    "Namen"
+   ],
+   "dat.sg": [
+    "Namen"
+   ],
+   "gen.sg": [
+    "Namens"
+   ],
+   "nom.pl": [
+    "Namen"
+   ],
+   "nom.sg": [
+    "Name"
+   ]
+  }
+ },
+ "Oma": {
+  "all": [
+   "Oma",
+   "Omas"
+  ],
+  "english": "grandma",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Oma"
+   ],
+   "dat.pl": [
+    "Omas"
+   ],
+   "dat.sg": [
+    "Oma"
+   ],
+   "gen.sg": [
+    "Oma",
+    "Omas"
+   ],
+   "nom.pl": [
+    "Omas"
+   ],
+   "nom.sg": [
+    "Oma"
+   ]
+  }
+ },
+ "Onkel": {
+  "all": [
+   "Onkel",
+   "Onkeln",
+   "Onkels"
+  ],
+  "english": "uncle",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Onkel"
+   ],
+   "dat.pl": [
+    "Onkeln",
+    "Onkels"
+   ],
+   "dat.sg": [
+    "Onkel"
+   ],
+   "gen.sg": [
+    "Onkels"
+   ],
+   "nom.pl": [
+    "Onkel",
+    "Onkels"
+   ],
+   "nom.sg": [
+    "Onkel"
+   ]
+  }
+ },
+ "Opa": {
+  "all": [
+   "Opa",
+   "Opachen",
+   "Opas"
+  ],
+  "english": "grandpa",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Opa"
+   ],
+   "dat.pl": [
+    "Opas"
+   ],
+   "dat.sg": [
+    "Opa"
+   ],
+   "gen.sg": [
+    "Opas"
+   ],
+   "nom.pl": [
+    "Opas"
+   ],
+   "nom.sg": [
+    "Opa"
+   ]
+  }
+ },
  "Problem": {
   "all": [
    "Problem",
@@ -1618,6 +1742,36 @@
    ]
   }
  },
+ "Tante": {
+  "all": [
+   "Tantchen",
+   "Tante",
+   "Tanten"
+  ],
+  "english": "aunt",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Tante"
+   ],
+   "dat.pl": [
+    "Tanten"
+   ],
+   "dat.sg": [
+    "Tante"
+   ],
+   "gen.sg": [
+    "Tante"
+   ],
+   "nom.pl": [
+    "Tanten"
+   ],
+   "nom.sg": [
+    "Tante"
+   ]
+  }
+ },
  "Tasche": {
   "all": [
    "Tasche",
@@ -1718,6 +1872,39 @@
    ],
    "nom.sg": [
     "Tisch"
+   ]
+  }
+ },
+ "Tochter": {
+  "all": [
+   "Tochter",
+   "Töchter",
+   "Töchterchen",
+   "Töchterl",
+   "Töchterlein",
+   "Töchtern"
+  ],
+  "english": "daughter",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Tochter"
+   ],
+   "dat.pl": [
+    "Töchtern"
+   ],
+   "dat.sg": [
+    "Tochter"
+   ],
+   "gen.sg": [
+    "Tochter"
+   ],
+   "nom.pl": [
+    "Töchter"
+   ],
+   "nom.sg": [
+    "Tochter"
    ]
   }
  },
@@ -4297,6 +4484,56 @@
    ],
    "pret.er": [
     "las"
+   ]
+  }
+ },
+ "lieben": {
+  "all": [
+   "geliebt",
+   "haben",
+   "habest",
+   "habet",
+   "lieb",
+   "liebe",
+   "lieben",
+   "liebend",
+   "liebest",
+   "liebet",
+   "liebst",
+   "liebt",
+   "liebte",
+   "liebten",
+   "liebtest",
+   "liebtet",
+   "werdest"
+  ],
+  "english": "to love",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lieb",
+    "liebe"
+   ],
+   "perf.er": [
+    "hat geliebt"
+   ],
+   "pres.du": [
+    "liebst"
+   ],
+   "pres.er": [
+    "liebt"
+   ],
+   "pres.ich": [
+    "liebe"
+   ],
+   "pres.ihr": [
+    "liebt"
+   ],
+   "pres.wir": [
+    "lieben"
+   ],
+   "pret.er": [
+    "liebte"
    ]
   }
  },

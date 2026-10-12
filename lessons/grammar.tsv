@@ -14,3 +14,4 @@ question.w	5	W-questions: the question word, then the verb
 question.yesno	5	Yes/no questions: the verb first
 numbers.20	6	Numbers 0–20
 present.stemchange	7	Stem-changing verbs: du and er change the vowel
+possessive	8	Possessive articles: mein, dein, sein…

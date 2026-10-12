@@ -1,0 +1,224 @@
+{
+  "name": "Lesson 8 · Family: mein, dein, sein, ihr, unser, euer, Ihr",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**My father** is old.",
+      "back": "**Mein Vater** ist alt.",
+      "note": "Possessive articles: mein, dein, sein…. A possessive takes the endings of ein: der Vater → ein Vater → mein Vater.",
+      "priority": 1
+    },
+    {
+      "front": "**My mother** is a teacher.",
+      "back": "**Meine Mutter** ist Lehrerin.",
+      "note": "Possessive articles: mein, dein, sein…. die Mutter → eine Mutter → meine Mutter. A job after sein takes no article.",
+      "priority": 1
+    },
+    {
+      "front": "**Your brother** is tall. (one friend)",
+      "back": "**Dein Bruder** ist groß.",
+      "note": "Possessive articles: mein, dein, sein…. dein: your, for someone you say du to.",
+      "priority": 1
+    },
+    {
+      "front": "Where is **your mother**? (one friend)",
+      "back": "Wo ist **deine Mutter**?",
+      "note": "Possessive articles: mein, dein, sein…. die Mutter → deine Mutter.",
+      "priority": 1
+    },
+    {
+      "front": "**His sister** is ill.",
+      "back": "**Seine Schwester** ist krank.",
+      "note": "Possessive articles: mein, dein, sein…. sein: his. die Schwester → seine Schwester.",
+      "priority": 1
+    },
+    {
+      "front": "**His daughter** is nineteen.",
+      "back": "**Seine Tochter** ist neunzehn.",
+      "note": "Possessive articles: mein, dein, sein…. The ending follows the noun, not the owner: seine, because die Tochter.",
+      "priority": 1
+    },
+    {
+      "front": "The child is tired. **Its mother** is here.",
+      "back": "Das Kind ist müde. **Seine Mutter** ist hier.",
+      "note": "Possessive articles: mein, dein, sein…. A das-word owns with sein too: das Kind → seine Mutter.",
+      "priority": 1
+    },
+    {
+      "front": "**Her father** is a teacher.",
+      "back": "**Ihr Vater** ist Lehrer.",
+      "note": "Possessive articles: mein, dein, sein…. ihr: her. der Vater → ihr Vater, no ending.",
+      "priority": 1
+    },
+    {
+      "front": "**Their grandma** is old.",
+      "back": "**Ihre Oma** ist alt.",
+      "note": "Possessive articles: mein, dein, sein…. ihr also means their; only the context tells her from their.",
+      "priority": 1
+    },
+    {
+      "front": "**Her uncle** doesn't have a car.",
+      "back": "**Ihr Onkel** hat kein Auto.",
+      "note": "Possessive articles: mein, dein, sein…. der Onkel → ihr Onkel.",
+      "priority": 1
+    },
+    {
+      "front": "**Our daughter** is twelve.",
+      "back": "**Unsere Tochter** ist zwölf.",
+      "note": "Possessive articles: mein, dein, sein…. unser + e: unsere Tochter. The -er of unser is part of the word, not an ending.",
+      "priority": 1
+    },
+    {
+      "front": "**Our grandpa** reads a lot.",
+      "back": "**Unser Opa** liest viel.",
+      "note": "Possessive articles: mein, dein, sein…. der Opa → unser Opa.",
+      "priority": 1
+    },
+    {
+      "front": "Our flat is small, but **our garden** is big.",
+      "back": "Unsere Wohnung ist klein, aber **unser Garten** ist groß.",
+      "note": "Possessive articles: mein, dein, sein…. die Wohnung → unsere, der Garten → unser.",
+      "priority": 1
+    },
+    {
+      "front": "**Your son** is tired. (several friends)",
+      "back": "**Euer Sohn** ist müde.",
+      "note": "Possessive articles: mein, dein, sein…. euer: your, for several people you say ihr to.",
+      "priority": 1
+    },
+    {
+      "front": "**Your family** is big. (several friends)",
+      "back": "**Eure Familie** ist groß.",
+      "note": "Possessive articles: mein, dein, sein…. euer drops its second e when an ending follows: eure, not euere.",
+      "priority": 1
+    },
+    {
+      "front": "What is **your name**? (formal)",
+      "back": "Wie ist **Ihr Name**?",
+      "note": "Possessive articles: mein, dein, sein…. Ihr with a capital I is the formal your, to go with Sie.",
+      "priority": 1
+    },
+    {
+      "front": "Is that **your dog**? (formal)",
+      "back": "Ist das **Ihr Hund**?",
+      "note": "Possessive articles: mein, dein, sein…. der Hund → Ihr Hund.",
+      "priority": 1
+    },
+    {
+      "front": "Where is **your son**? (formal)",
+      "back": "Wo ist **Ihr Sohn**?",
+      "note": "Possessive articles: mein, dein, sein…. Formal your: Ihr, capital I.",
+      "priority": 1
+    },
+    {
+      "front": "**My uncle** drives a lot.",
+      "back": "**Mein Onkel** fährt viel Auto.",
+      "note": "Possessive articles: mein, dein, sein…. der Onkel → mein Onkel.",
+      "priority": 1
+    },
+    {
+      "front": "**My aunt** speaks English.",
+      "back": "**Meine Tante** spricht Englisch.",
+      "note": "Possessive articles: mein, dein, sein…. die Tante → meine Tante.",
+      "priority": 1
+    },
+    {
+      "front": "Does **your uncle** have a car? (one friend)",
+      "back": "Hat **dein Onkel** ein Auto?",
+      "note": "Possessive articles: mein, dein, sein…. der Onkel → dein Onkel, the subject after the verb.",
+      "priority": 1
+    },
+    {
+      "front": "I love **my family**.",
+      "back": "Ich liebe **meine Familie**.",
+      "note": "Possessive articles: mein, dein, sein…. die-words stay the same in the accusative: meine Familie.",
+      "priority": 1
+    },
+    {
+      "front": "Do you have **your bag**? (one friend)",
+      "back": "Hast du **deine Tasche**?",
+      "note": "Possessive articles: mein, dein, sein…. die Tasche → deine Tasche, unchanged as the object.",
+      "priority": 1
+    },
+    {
+      "front": "He sees **his brother**.",
+      "back": "Er sieht **seinen Bruder**.",
+      "note": "Possessive articles: mein, dein, sein…. der-words take -en in the accusative, like einen: seinen Bruder.",
+      "priority": 1
+    },
+    {
+      "front": "He loves **his daughter**.",
+      "back": "Er liebt **seine Tochter**.",
+      "note": "Possessive articles: mein, dein, sein…. die Tochter → seine Tochter, as subject or object.",
+      "priority": 1
+    },
+    {
+      "front": "She loves **her son**.",
+      "back": "Sie liebt **ihren Sohn**.",
+      "note": "Possessive articles: mein, dein, sein…. der Sohn as the object: ihren Sohn.",
+      "priority": 1
+    },
+    {
+      "front": "They are eating **their soup**.",
+      "back": "Sie essen **ihre Suppe**.",
+      "note": "Possessive articles: mein, dein, sein…. die Suppe → ihre Suppe.",
+      "priority": 1
+    },
+    {
+      "front": "We love **our grandma**.",
+      "back": "Wir lieben **unsere Oma**.",
+      "note": "Possessive articles: mein, dein, sein…. die Oma → unsere Oma.",
+      "priority": 1
+    },
+    {
+      "front": "Do you see **your father**? (several friends)",
+      "back": "Seht ihr **euren Vater**?",
+      "note": "Possessive articles: mein, dein, sein…. der Vater as the object: euren, with the e of euer dropped.",
+      "priority": 1
+    },
+    {
+      "front": "I'm drinking **my coffee**.",
+      "back": "Ich trinke **meinen Kaffee**.",
+      "note": "Possessive articles: mein, dein, sein…. der Kaffee → meinen Kaffee.",
+      "priority": 1
+    },
+    {
+      "front": "Are you reading **your newspaper**? (formal)",
+      "back": "Lesen Sie **Ihre Zeitung**?",
+      "note": "Possessive articles: mein, dein, sein…. die Zeitung → Ihre Zeitung.",
+      "priority": 1
+    },
+    {
+      "front": "I don't see **my dog**.",
+      "back": "Ich sehe **meinen Hund** nicht.",
+      "note": "Possessive articles: mein, dein, sein…. meinen Hund is a particular dog, so nicht goes after it.",
+      "priority": 1
+    },
+    {
+      "front": "My grandpa is reading **his newspaper**.",
+      "back": "Mein Opa liest **seine Zeitung**.",
+      "note": "Possessive articles: mein, dein, sein…. die Zeitung → seine Zeitung.",
+      "priority": 1
+    },
+    {
+      "front": "Our son loves **his grandpa**.",
+      "back": "Unser Sohn liebt **seinen Opa**.",
+      "note": "Possessive articles: mein, dein, sein…. der Opa as the object: seinen Opa.",
+      "priority": 1
+    },
+    {
+      "front": "Are you seeing **your aunt** today? (one friend)",
+      "back": "Siehst du heute **deine Tante**?",
+      "note": "Possessive articles: mein, dein, sein…. die Tante → deine Tante.",
+      "priority": 1
+    },
+    {
+      "front": "He is driving **his car** today.",
+      "back": "Er fährt heute **sein Auto**.",
+      "note": "Possessive articles: mein, dein, sein…. das Auto → sein Auto: das-words add nothing in the accusative either.",
+      "priority": 1
+    }
+  ]
+}

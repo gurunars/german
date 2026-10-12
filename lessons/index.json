@@ -35,6 +35,11 @@
       "name": "Lesson 7 · Verbs that change their vowel: fahren, essen, lesen, sehen…",
       "url": "07-stem-change.json",
       "cards": 37
+    },
+    {
+      "name": "Lesson 8 · Family: mein, dein, sein, ihr, unser, euer, Ihr",
+      "url": "08-possessives.json",
+      "cards": 36
     }
   ]
 }

@@ -1,0 +1,37 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+possessive	Vater	nom.sg	**My father** is old.	**Mein Vater** ist alt.	A possessive takes the endings of ein: der Vater → ein Vater → mein Vater.
+possessive	Mutter	nom.sg	**My mother** is a teacher.	**Meine Mutter** ist Lehrerin.	die Mutter → eine Mutter → meine Mutter. A job after sein takes no article.
+possessive	Bruder	nom.sg	**Your brother** is tall. (one friend)	**Dein Bruder** ist groß.	dein: your, for someone you say du to.
+possessive	Mutter	nom.sg	Where is **your mother**? (one friend)	Wo ist **deine Mutter**?	die Mutter → deine Mutter.
+possessive	Schwester	nom.sg	**His sister** is ill.	**Seine Schwester** ist krank.	sein: his. die Schwester → seine Schwester.
+possessive	Tochter	nom.sg	**His daughter** is nineteen.	**Seine Tochter** ist neunzehn.	The ending follows the noun, not the owner: seine, because die Tochter.
+possessive	Mutter	nom.sg	The child is tired. **Its mother** is here.	Das Kind ist müde. **Seine Mutter** ist hier.	A das-word owns with sein too: das Kind → seine Mutter.
+possessive	Vater	nom.sg	**Her father** is a teacher.	**Ihr Vater** ist Lehrer.	ihr: her. der Vater → ihr Vater, no ending.
+possessive	Oma	nom.sg	**Their grandma** is old.	**Ihre Oma** ist alt.	ihr also means their; only the context tells her from their.
+possessive	Onkel	nom.sg	**Her uncle** doesn't have a car.	**Ihr Onkel** hat kein Auto.	der Onkel → ihr Onkel.
+possessive	Tochter	nom.sg	**Our daughter** is twelve.	**Unsere Tochter** ist zwölf.	unser + e: unsere Tochter. The -er of unser is part of the word, not an ending.
+possessive	Opa	nom.sg	**Our grandpa** reads a lot.	**Unser Opa** liest viel.	der Opa → unser Opa.
+possessive	Garten	nom.sg	Our flat is small, but **our garden** is big.	Unsere Wohnung ist klein, aber **unser Garten** ist groß.	die Wohnung → unsere, der Garten → unser.
+possessive	Sohn	nom.sg	**Your son** is tired. (several friends)	**Euer Sohn** ist müde.	euer: your, for several people you say ihr to.
+possessive	Familie	nom.sg	**Your family** is big. (several friends)	**Eure Familie** ist groß.	euer drops its second e when an ending follows: eure, not euere.
+possessive	Name	nom.sg	What is **your name**? (formal)	Wie ist **Ihr Name**?	Ihr with a capital I is the formal your, to go with Sie.
+possessive	Hund	nom.sg	Is that **your dog**? (formal)	Ist das **Ihr Hund**?	der Hund → Ihr Hund.
+possessive	Sohn	nom.sg	Where is **your son**? (formal)	Wo ist **Ihr Sohn**?	Formal your: Ihr, capital I.
+possessive	Onkel	nom.sg	**My uncle** drives a lot.	**Mein Onkel** fährt viel Auto.	der Onkel → mein Onkel.
+possessive	Tante	nom.sg	**My aunt** speaks English.	**Meine Tante** spricht Englisch.	die Tante → meine Tante.
+possessive	Onkel	nom.sg	Does **your uncle** have a car? (one friend)	Hat **dein Onkel** ein Auto?	der Onkel → dein Onkel, the subject after the verb.
+possessive	Familie	acc.sg	I love **my family**.	Ich liebe **meine Familie**.	die-words stay the same in the accusative: meine Familie.
+possessive	Tasche	acc.sg	Do you have **your bag**? (one friend)	Hast du **deine Tasche**?	die Tasche → deine Tasche, unchanged as the object.
+possessive	Bruder	acc.sg	He sees **his brother**.	Er sieht **seinen Bruder**.	der-words take -en in the accusative, like einen: seinen Bruder.
+possessive	Tochter	acc.sg	He loves **his daughter**.	Er liebt **seine Tochter**.	die Tochter → seine Tochter, as subject or object.
+possessive	Sohn	acc.sg	She loves **her son**.	Sie liebt **ihren Sohn**.	der Sohn as the object: ihren Sohn.
+possessive	Suppe	acc.sg	They are eating **their soup**.	Sie essen **ihre Suppe**.	die Suppe → ihre Suppe.
+possessive	Oma	acc.sg	We love **our grandma**.	Wir lieben **unsere Oma**.	die Oma → unsere Oma.
+possessive	Vater	acc.sg	Do you see **your father**? (several friends)	Seht ihr **euren Vater**?	der Vater as the object: euren, with the e of euer dropped.
+possessive	Kaffee	acc.sg	I'm drinking **my coffee**.	Ich trinke **meinen Kaffee**.	der Kaffee → meinen Kaffee.
+possessive	Zeitung	acc.sg	Are you reading **your newspaper**? (formal)	Lesen Sie **Ihre Zeitung**?	die Zeitung → Ihre Zeitung.
+possessive	Hund	acc.sg	I don't see **my dog**.	Ich sehe **meinen Hund** nicht.	meinen Hund is a particular dog, so nicht goes after it.
+possessive	Zeitung	acc.sg	My grandpa is reading **his newspaper**.	Mein Opa liest **seine Zeitung**.	die Zeitung → seine Zeitung.
+possessive	Opa	acc.sg	Our son loves **his grandpa**.	Unser Sohn liebt **seinen Opa**.	der Opa as the object: seinen Opa.
+possessive	Tante	acc.sg	Are you seeing **your aunt** today? (one friend)	Siehst du heute **deine Tante**?	die Tante → deine Tante.
+possessive	Auto	acc.sg	He is driving **his car** today.	Er fährt heute **sein Auto**.	das Auto → sein Auto: das-words add nothing in the accusative either.

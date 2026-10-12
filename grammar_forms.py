@@ -51,15 +51,18 @@ SLOTS = {
 _DEF = {"m": "der den dem des", "f": "die die der der", "n": "das das dem des"}
 _CASES = ["nom", "acc", "dat", "gen"]
 _PLURAL_DEF = {"nom": "die", "acc": "die", "dat": "den", "gen": "der"}
-# The ein-words all take ein's endings — ein Hund, kein Hund; einen Hund, keinen Hund — and the
-# plural ones take the endings ein would have if it had a plural.
-EIN_WORDS = ["ein", "kein"]
+# The ein-words — ein, kein and the possessives — all take ein's endings: ein Hund, kein Hund,
+# mein Hund; einen Hund, keinen Hund, meinen Hund. The plural ones take the endings ein would have
+# if it had a plural. Ihr (formal your) is ihr with a capital, and sentences are compared lower-case.
+EIN_WORDS = ["ein", "kein", "mein", "dein", "sein", "ihr", "unser", "euer"]
 EIN_ENDINGS = {"m": ["", "en", "em", "es"], "f": ["e", "e", "er", "er"], "n": ["", "", "em", "es"],
                "pl": ["e", "e", "en", "er"]}
 
 
 def ein_word(word, ending):
-    """The ein-word [word] with [ending]: kein + en → keinen."""
+    """The ein-word [word] with [ending]: kein + en → keinen; euer drops its e before an ending: eure."""
+    if word == "euer" and ending:
+        return "eur" + ending
     return word + ending
 
 
