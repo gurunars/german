@@ -1,0 +1,188 @@
+{
+  "name": "Lesson 28 · Because, that, if: weil, dass, wenn and the verb at the end",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I'm staying at home because I **am** ill.",
+      "back": "Ich bleibe zu Hause, weil ich krank **bin**.",
+      "note": "weil: because — the verb goes to the end. weil sends the verb to the very end of its clause.",
+      "priority": 1
+    },
+    {
+      "front": "He isn't coming because he **has** to work.",
+      "back": "Er kommt nicht, weil er arbeiten **muss**.",
+      "note": "weil: because — the verb goes to the end. With a modal, the modal itself goes last, after the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "I'm learning German because my girlfriend **comes** from Berlin.",
+      "back": "Ich lerne Deutsch, weil meine Freundin aus Berlin **kommt**.",
+      "note": "weil: because — the verb goes to the end. The subject stays right after weil; only the verb moves to the end.",
+      "priority": 1
+    },
+    {
+      "front": "We're eating now because we **are** hungry.",
+      "back": "Wir essen jetzt, weil wir Hunger **haben**.",
+      "note": "weil: because — the verb goes to the end. weil … haben: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "She is tired because she **works** a lot.",
+      "back": "Sie ist müde, weil sie viel **arbeitet**.",
+      "note": "weil: because — the verb goes to the end. A comma always comes before weil.",
+      "priority": 1
+    },
+    {
+      "front": "Why are you laughing? (one friend) – Because the film **is** so funny.",
+      "back": "Warum lachst du? – Weil der Film so lustig **ist**.",
+      "note": "weil: because — the verb goes to the end. A weil clause can answer warum on its own; the verb is still last.",
+      "priority": 1
+    },
+    {
+      "front": "I'm taking the bus because it **is raining**.",
+      "back": "Ich nehme den Bus, weil es **regnet**.",
+      "note": "weil: because — the verb goes to the end. weil es regnet: the verb at the end.",
+      "priority": 1
+    },
+    {
+      "front": "Because I **am** tired, I'm going home.",
+      "back": "Weil ich müde **bin**, gehe ich nach Hause.",
+      "note": "weil: because — the verb goes to the end. The whole weil clause takes the first place, so the main verb comes straight after the comma: gehe ich.",
+      "priority": 1
+    },
+    {
+      "front": "I'm waiting here because my sister **is picking** me **up**.",
+      "back": "Ich warte hier, weil meine Schwester mich **abholt**.",
+      "note": "weil: because — the verb goes to the end. At the end of a clause, a separable verb is one word again: abholt.",
+      "priority": 1
+    },
+    {
+      "front": "I'm learning German because it **is** fun.",
+      "back": "Ich lerne Deutsch, weil es Spaß **macht**.",
+      "note": "weil: because — the verb goes to the end. Spaß machen: to be fun. macht goes last.",
+      "priority": 1
+    },
+    {
+      "front": "I'm not coming because I **have** a headache.",
+      "back": "Ich komme nicht, weil ich Kopfschmerzen **habe**.",
+      "note": "weil: because — the verb goes to the end. Kopfschmerzen, plural in German. habe last.",
+      "priority": 1
+    },
+    {
+      "front": "I think that the restaurant **is** good.",
+      "back": "Ich glaube, dass das Restaurant gut **ist**.",
+      "note": "dass: that — the verb goes to the end. dass also sends the verb to the end. English can drop that; German keeps dass.",
+      "priority": 1
+    },
+    {
+      "front": "I know that you **have** no time. (one friend)",
+      "back": "Ich weiß, dass du keine Zeit **hast**.",
+      "note": "dass: that — the verb goes to the end. dass du … hast: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "I **know** that he lives here.",
+      "back": "Ich **weiß**, dass er hier wohnt.",
+      "note": "dass: that — the verb goes to the end. wissen is irregular: ich weiß, with no ending, and er weiß too.",
+      "priority": 1
+    },
+    {
+      "front": "She says that she **is coming** tomorrow.",
+      "back": "Sie sagt, dass sie morgen **kommt**.",
+      "note": "dass: that — the verb goes to the end. Reported speech with dass: the verb at the end.",
+      "priority": 1
+    },
+    {
+      "front": "We hope the weather **is** nice tomorrow.",
+      "back": "Wir hoffen, dass das Wetter morgen schön **ist**.",
+      "note": "dass: that — the verb goes to the end. hoffen, dass…: the verb last.",
+      "priority": 1
+    },
+    {
+      "front": "Do you know that the bus **isn't running** today? (one friend)",
+      "back": "Weißt du, dass der Bus heute nicht **fährt**?",
+      "note": "dass: that — the verb goes to the end. nicht stays just before the verb at the end.",
+      "priority": 1
+    },
+    {
+      "front": "I'm sure that he **can** come.",
+      "back": "Ich bin sicher, dass er kommen **kann**.",
+      "note": "dass: that — the verb goes to the end. The modal goes last: kommen kann.",
+      "priority": 1
+    },
+    {
+      "front": "He thinks the exam **is** easy.",
+      "back": "Er meint, dass die Prüfung leicht **ist**.",
+      "note": "dass: that — the verb goes to the end. meinen: to think, to have an opinion.",
+      "priority": 1
+    },
+    {
+      "front": "I hope you **pass** the exam. (one friend)",
+      "back": "Ich hoffe, dass du die Prüfung **bestehst**.",
+      "note": "dass: that — the verb goes to the end. eine Prüfung bestehen: to pass an exam. bestehst last.",
+      "priority": 1
+    },
+    {
+      "front": "I didn't know that you **smoke**. (one friend)",
+      "back": "Ich habe nicht gewusst, dass du **rauchst**.",
+      "note": "dass: that — the verb goes to the end. The main clause is in the perfect; the dass clause still ends with its verb.",
+      "priority": 1
+    },
+    {
+      "front": "I know that I **have** to learn more.",
+      "back": "Ich weiß, dass ich mehr lernen **muss**.",
+      "note": "dass: that — the verb goes to the end. The modal last, after the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "If it **rains**, we'll stay at home.",
+      "back": "Wenn es **regnet**, bleiben wir zu Hause.",
+      "note": "wenn: if, when — the verb goes to the end. wenn sends the verb to the end; then the main verb follows straight after the comma.",
+      "priority": 1
+    },
+    {
+      "front": "If you **have** time, call me. (one friend)",
+      "back": "Wenn du Zeit **hast**, ruf mich an.",
+      "note": "wenn: if, when — the verb goes to the end. wenn … hast, then the imperative.",
+      "priority": 1
+    },
+    {
+      "front": "If the sun **is shining**, we'll go swimming.",
+      "back": "Wenn die Sonne **scheint**, gehen wir schwimmen.",
+      "note": "wenn: if, when — the verb goes to the end. gehen + infinitive: to go and do something.",
+      "priority": 1
+    },
+    {
+      "front": "When I **am** tired, I drink coffee.",
+      "back": "Wenn ich müde **bin**, trinke ich Kaffee.",
+      "note": "wenn: if, when — the verb goes to the end. wenn also means when, for something that happens every time.",
+      "priority": 1
+    },
+    {
+      "front": "If you **want**, you can come along. (one friend)",
+      "back": "Wenn du **willst**, kannst du mitkommen.",
+      "note": "wenn: if, when — the verb goes to the end. wenn du willst: the verb last, then kannst right after the comma.",
+      "priority": 1
+    },
+    {
+      "front": "I go by bike when the weather **is** nice.",
+      "back": "Ich fahre mit dem Fahrrad, wenn das Wetter schön **ist**.",
+      "note": "wenn: if, when — the verb goes to the end. The wenn clause can also come second.",
+      "priority": 1
+    },
+    {
+      "front": "If you **are** ill, you have to go to the doctor. (formal)",
+      "back": "Wenn Sie krank **sind**, müssen Sie zum Arzt gehen.",
+      "note": "wenn: if, when — the verb goes to the end. wenn … sind, then müssen Sie.",
+      "priority": 1
+    },
+    {
+      "front": "If you **feel like** it, we can dance. (one friend)",
+      "back": "Wenn du Lust **hast**, können wir tanzen.",
+      "note": "wenn: if, when — the verb goes to the end. Lust haben: to feel like doing something.",
+      "priority": 1
+    }
+  ]
+}

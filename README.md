@@ -73,6 +73,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 25 · A new sofa: adjective endings after ein, kein, mein](lessons/25-adj-mixed.json) — 34 cards
 - [Lesson 26 · Fresh bread, good morning: adjective endings with no article](lessons/26-adj-strong.json) — 33 cards
 - [Lesson 27 · Bigger, the biggest: comparison, als and wie](lessons/27-comparison.json) — 33 cards
+- [Lesson 28 · Because, that, if: weil, dass, wenn and the verb at the end](lessons/28-weil-dass-wenn.json) — 30 cards
 
 ## Decks
 

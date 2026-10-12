@@ -3532,6 +3532,41 @@
    ]
   }
  },
+ "Kopfschmerz": {
+  "all": [
+   "Kopfschmerz",
+   "Kopfschmerze",
+   "Kopfschmerzen",
+   "Kopfschmerzes"
+  ],
+  "english": "headache (usually plural: Kopfschmerzen)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kopfschmerzen"
+   ],
+   "acc.sg": [
+    "Kopfschmerz"
+   ],
+   "dat.pl": [
+    "Kopfschmerzen"
+   ],
+   "dat.sg": [
+    "Kopfschmerz",
+    "Kopfschmerze"
+   ],
+   "gen.sg": [
+    "Kopfschmerzes"
+   ],
+   "nom.pl": [
+    "Kopfschmerzen"
+   ],
+   "nom.sg": [
+    "Kopfschmerz"
+   ]
+  }
+ },
  "Kuchen": {
   "all": [
    "Kuchen",
@@ -3898,6 +3933,39 @@
    ],
    "nom.sg": [
     "Licht"
+   ]
+  }
+ },
+ "Lust": {
+  "all": [
+   "Lust",
+   "Lüste",
+   "Lüsten"
+  ],
+  "english": "desire; Lust haben: to feel like it",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Lüste"
+   ],
+   "acc.sg": [
+    "Lust"
+   ],
+   "dat.pl": [
+    "Lüsten"
+   ],
+   "dat.sg": [
+    "Lust"
+   ],
+   "gen.sg": [
+    "Lust"
+   ],
+   "nom.pl": [
+    "Lüste"
+   ],
+   "nom.sg": [
+    "Lust"
    ]
   }
  },
@@ -5018,6 +5086,38 @@
    ]
   }
  },
+ "Prüfung": {
+  "all": [
+   "Prüfung",
+   "Prüfungen"
+  ],
+  "english": "exam",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Prüfungen"
+   ],
+   "acc.sg": [
+    "Prüfung"
+   ],
+   "dat.pl": [
+    "Prüfungen"
+   ],
+   "dat.sg": [
+    "Prüfung"
+   ],
+   "gen.sg": [
+    "Prüfung"
+   ],
+   "nom.pl": [
+    "Prüfungen"
+   ],
+   "nom.sg": [
+    "Prüfung"
+   ]
+  }
+ },
  "Pullover": {
   "all": [
    "Pulli",
@@ -5727,6 +5827,38 @@
    ]
   }
  },
+ "Sonne": {
+  "all": [
+   "Sonne",
+   "Sonnen"
+  ],
+  "english": "sun",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Sonnen"
+   ],
+   "acc.sg": [
+    "Sonne"
+   ],
+   "dat.pl": [
+    "Sonnen"
+   ],
+   "dat.sg": [
+    "Sonne"
+   ],
+   "gen.sg": [
+    "Sonne"
+   ],
+   "nom.pl": [
+    "Sonnen"
+   ],
+   "nom.sg": [
+    "Sonne"
+   ]
+  }
+ },
  "Sonntag": {
   "all": [
    "Sonntag",
@@ -5761,6 +5893,45 @@
    ],
    "nom.sg": [
     "Sonntag"
+   ]
+  }
+ },
+ "Spaß": {
+  "all": [
+   "Spass",
+   "Spaß",
+   "Spaße",
+   "Spaßes",
+   "Späßchen",
+   "Späße",
+   "Späßen",
+   "Späßlein"
+  ],
+  "english": "fun",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Späße"
+   ],
+   "acc.sg": [
+    "Spaß"
+   ],
+   "dat.pl": [
+    "Späßen"
+   ],
+   "dat.sg": [
+    "Spaß",
+    "Spaße"
+   ],
+   "gen.sg": [
+    "Spaßes"
+   ],
+   "nom.pl": [
+    "Späße"
+   ],
+   "nom.sg": [
+    "Spaß"
    ]
   }
  },
@@ -9151,6 +9322,92 @@
    ],
    "weak.nom.pl": [
     "die bequemen"
+   ]
+  }
+ },
+ "bestehen": {
+  "all": [
+   "bestand",
+   "bestanden",
+   "bestandest",
+   "bestandet",
+   "bestandst",
+   "besteh",
+   "bestehe",
+   "bestehen",
+   "bestehend",
+   "bestehest",
+   "bestehet",
+   "bestehst",
+   "besteht",
+   "bestände",
+   "beständen",
+   "beständest",
+   "beständet",
+   "bestünde",
+   "bestünden",
+   "bestündest",
+   "bestündet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to pass (an exam)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "besteh",
+    "bestehe"
+   ],
+   "imp.ihr": [
+    "besteht"
+   ],
+   "perf.du": [
+    "hast bestanden"
+   ],
+   "perf.er": [
+    "hat bestanden"
+   ],
+   "perf.ich": [
+    "habe bestanden"
+   ],
+   "perf.ihr": [
+    "habt bestanden"
+   ],
+   "perf.wir": [
+    "haben bestanden"
+   ],
+   "pres.du": [
+    "bestehst"
+   ],
+   "pres.er": [
+    "besteht"
+   ],
+   "pres.ich": [
+    "bestehe"
+   ],
+   "pres.ihr": [
+    "besteht"
+   ],
+   "pres.wir": [
+    "bestehen"
+   ],
+   "pret.du": [
+    "bestandest",
+    "bestandst"
+   ],
+   "pret.er": [
+    "bestand"
+   ],
+   "pret.ich": [
+    "bestand"
+   ],
+   "pret.ihr": [
+    "bestandet"
+   ],
+   "pret.wir": [
+    "bestanden"
    ]
   }
  },
@@ -16182,6 +16439,83 @@
    ]
   }
  },
+ "hoffen": {
+  "all": [
+   "gehofft",
+   "haben",
+   "habest",
+   "habet",
+   "hoff",
+   "hoffe",
+   "hoffen",
+   "hoffend",
+   "hoffest",
+   "hoffet",
+   "hoffst",
+   "hofft",
+   "hoffte",
+   "hofften",
+   "hofftest",
+   "hofftet",
+   "werdest"
+  ],
+  "english": "to hope",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "hoff",
+    "hoffe"
+   ],
+   "imp.ihr": [
+    "hofft"
+   ],
+   "perf.du": [
+    "hast gehofft"
+   ],
+   "perf.er": [
+    "hat gehofft"
+   ],
+   "perf.ich": [
+    "habe gehofft"
+   ],
+   "perf.ihr": [
+    "habt gehofft"
+   ],
+   "perf.wir": [
+    "haben gehofft"
+   ],
+   "pres.du": [
+    "hoffst"
+   ],
+   "pres.er": [
+    "hofft"
+   ],
+   "pres.ich": [
+    "hoffe"
+   ],
+   "pres.ihr": [
+    "hofft"
+   ],
+   "pres.wir": [
+    "hoffen"
+   ],
+   "pret.du": [
+    "hofftest"
+   ],
+   "pret.er": [
+    "hoffte"
+   ],
+   "pret.ich": [
+    "hoffte"
+   ],
+   "pret.ihr": [
+    "hofftet"
+   ],
+   "pret.wir": [
+    "hofften"
+   ]
+  }
+ },
  "hängen": {
   "all": [
    "gehangen",
@@ -22092,6 +22426,86 @@
    ]
   }
  },
+ "meinen": {
+  "all": [
+   "gemeint",
+   "haben",
+   "habest",
+   "habet",
+   "mainen",
+   "maynen",
+   "mein",
+   "meine",
+   "meinen",
+   "meinend",
+   "meinest",
+   "meinet",
+   "meinst",
+   "meint",
+   "meinte",
+   "meinten",
+   "meintest",
+   "meintet",
+   "meynen",
+   "werdest"
+  ],
+  "english": "to think, to mean",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "mein",
+    "meine"
+   ],
+   "imp.ihr": [
+    "meint"
+   ],
+   "perf.du": [
+    "hast gemeint"
+   ],
+   "perf.er": [
+    "hat gemeint"
+   ],
+   "perf.ich": [
+    "habe gemeint"
+   ],
+   "perf.ihr": [
+    "habt gemeint"
+   ],
+   "perf.wir": [
+    "haben gemeint"
+   ],
+   "pres.du": [
+    "meinst"
+   ],
+   "pres.er": [
+    "meint"
+   ],
+   "pres.ich": [
+    "meine"
+   ],
+   "pres.ihr": [
+    "meint"
+   ],
+   "pres.wir": [
+    "meinen"
+   ],
+   "pret.du": [
+    "meintest"
+   ],
+   "pret.er": [
+    "meinte"
+   ],
+   "pret.ich": [
+    "meinte"
+   ],
+   "pret.ihr": [
+    "meintet"
+   ],
+   "pret.wir": [
+    "meinten"
+   ]
+  }
+ },
  "mitbringen": {
   "all": [
    "brachte",
@@ -24823,6 +25237,87 @@
    ]
   }
  },
+ "scheinen": {
+  "all": [
+   "gescheint",
+   "geschienen",
+   "haben",
+   "habest",
+   "habet",
+   "schein",
+   "scheine",
+   "scheinen",
+   "scheinend",
+   "scheinest",
+   "scheinet",
+   "scheinst",
+   "scheint",
+   "schien",
+   "schiene",
+   "schienen",
+   "schienest",
+   "schienet",
+   "schienst",
+   "schient",
+   "werdest"
+  ],
+  "english": "to shine; to seem",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schein",
+    "scheine"
+   ],
+   "imp.ihr": [
+    "scheint"
+   ],
+   "perf.du": [
+    "hast geschienen"
+   ],
+   "perf.er": [
+    "hat geschienen"
+   ],
+   "perf.ich": [
+    "habe geschienen"
+   ],
+   "perf.ihr": [
+    "habt geschienen"
+   ],
+   "perf.wir": [
+    "haben geschienen"
+   ],
+   "pres.du": [
+    "scheinst"
+   ],
+   "pres.er": [
+    "scheint"
+   ],
+   "pres.ich": [
+    "scheine"
+   ],
+   "pres.ihr": [
+    "scheint"
+   ],
+   "pres.wir": [
+    "scheinen"
+   ],
+   "pret.du": [
+    "schienst"
+   ],
+   "pret.er": [
+    "schien"
+   ],
+   "pret.ich": [
+    "schien"
+   ],
+   "pret.ihr": [
+    "schient"
+   ],
+   "pret.wir": [
+    "schienen"
+   ]
+  }
+ },
  "schenken": {
   "all": [
    "geschenkt",
@@ -27157,6 +27652,258 @@
    ],
    "pret.wir": [
     "waren"
+   ]
+  }
+ },
+ "sicher": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "sicher",
+   "sichere",
+   "sicherem",
+   "sicheren",
+   "sicherer",
+   "sicherere",
+   "sichererem",
+   "sichereren",
+   "sichererer",
+   "sichereres",
+   "sicheres",
+   "sicherste",
+   "sicherstem",
+   "sichersten",
+   "sicherster",
+   "sicherstes",
+   "sichrer",
+   "sichrere",
+   "sichrerem",
+   "sichreren",
+   "sichrerer",
+   "sichreres"
+  ],
+  "english": "sure; safe",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "sicherer",
+    "sichrer",
+    "sichererer",
+    "sichrerer",
+    "sicherere",
+    "sichrere",
+    "sichereres",
+    "sichreres",
+    "sichereren",
+    "sichreren",
+    "sichererem",
+    "sichrerem",
+    "der sicherere",
+    "der sichrere",
+    "die sicherere",
+    "die sichrere",
+    "das sicherere",
+    "das sichrere",
+    "die sichereren",
+    "die sichreren",
+    "des sichereren",
+    "des sichreren",
+    "der sichereren",
+    "der sichreren",
+    "dem sichereren",
+    "dem sichreren",
+    "den sichereren",
+    "den sichreren",
+    "ein sichererer",
+    "ein sichrerer",
+    "eine sicherere",
+    "eine sichrere",
+    "ein sichereres",
+    "ein sichreres",
+    "eines sichereren",
+    "eines sichreren",
+    "einer sichereren",
+    "einer sichreren",
+    "einem sichereren",
+    "einem sichreren",
+    "einen sichereren",
+    "einen sichreren"
+   ],
+   "comparative.pred": [
+    "sicherer",
+    "sichrer"
+   ],
+   "mixed.acc.f": [
+    "eine sichere"
+   ],
+   "mixed.acc.m": [
+    "einen sicheren"
+   ],
+   "mixed.acc.n": [
+    "ein sicheres"
+   ],
+   "mixed.acc.pl": [
+    "sicheren"
+   ],
+   "mixed.dat.f": [
+    "einer sicheren"
+   ],
+   "mixed.dat.m": [
+    "einem sicheren"
+   ],
+   "mixed.dat.n": [
+    "einem sicheren"
+   ],
+   "mixed.dat.pl": [
+    "sicheren"
+   ],
+   "mixed.gen.f": [
+    "einer sicheren"
+   ],
+   "mixed.gen.m": [
+    "eines sicheren"
+   ],
+   "mixed.gen.n": [
+    "eines sicheren"
+   ],
+   "mixed.gen.pl": [
+    "sicheren"
+   ],
+   "mixed.nom.f": [
+    "eine sichere"
+   ],
+   "mixed.nom.m": [
+    "ein sicherer"
+   ],
+   "mixed.nom.n": [
+    "ein sicheres"
+   ],
+   "mixed.nom.pl": [
+    "sicheren"
+   ],
+   "strong.acc.f": [
+    "sichere"
+   ],
+   "strong.acc.m": [
+    "sicheren"
+   ],
+   "strong.acc.n": [
+    "sicheres"
+   ],
+   "strong.acc.pl": [
+    "sichere"
+   ],
+   "strong.dat.f": [
+    "sicherer"
+   ],
+   "strong.dat.m": [
+    "sicherem"
+   ],
+   "strong.dat.n": [
+    "sicherem"
+   ],
+   "strong.dat.pl": [
+    "sicheren"
+   ],
+   "strong.gen.f": [
+    "sicherer"
+   ],
+   "strong.gen.m": [
+    "sicheren"
+   ],
+   "strong.gen.n": [
+    "sicheren"
+   ],
+   "strong.gen.pl": [
+    "sicherer"
+   ],
+   "strong.nom.f": [
+    "sichere"
+   ],
+   "strong.nom.m": [
+    "sicherer"
+   ],
+   "strong.nom.n": [
+    "sicheres"
+   ],
+   "strong.nom.pl": [
+    "sichere"
+   ],
+   "superlative": [
+    "am sichersten",
+    "sicherster",
+    "sicherste",
+    "sicherstes",
+    "sichersten",
+    "sicherstem",
+    "der sicherste",
+    "die sicherste",
+    "das sicherste",
+    "die sichersten",
+    "des sichersten",
+    "der sichersten",
+    "dem sichersten",
+    "den sichersten",
+    "ein sicherster",
+    "eine sicherste",
+    "ein sicherstes",
+    "eines sichersten",
+    "einer sichersten",
+    "einem sichersten",
+    "einen sichersten"
+   ],
+   "superlative.pred": [
+    "am sichersten"
+   ],
+   "weak.acc.f": [
+    "die sichere"
+   ],
+   "weak.acc.m": [
+    "den sicheren"
+   ],
+   "weak.acc.n": [
+    "das sichere"
+   ],
+   "weak.acc.pl": [
+    "die sicheren"
+   ],
+   "weak.dat.f": [
+    "der sicheren"
+   ],
+   "weak.dat.m": [
+    "dem sicheren"
+   ],
+   "weak.dat.n": [
+    "dem sicheren"
+   ],
+   "weak.dat.pl": [
+    "den sicheren"
+   ],
+   "weak.gen.f": [
+    "der sicheren"
+   ],
+   "weak.gen.m": [
+    "des sicheren"
+   ],
+   "weak.gen.n": [
+    "des sicheren"
+   ],
+   "weak.gen.pl": [
+    "der sicheren"
+   ],
+   "weak.nom.f": [
+    "die sichere"
+   ],
+   "weak.nom.m": [
+    "der sichere"
+   ],
+   "weak.nom.n": [
+    "das sichere"
+   ],
+   "weak.nom.pl": [
+    "die sicheren"
    ]
   }
  },

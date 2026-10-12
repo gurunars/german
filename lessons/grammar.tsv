@@ -51,3 +51,6 @@ adj.strong	26	Adjective endings without an article (strong)
 comparative	27	The comparative: -er, and als
 superlative	27	The superlative: am -sten, der -ste
 comparison.wie	27	so … wie: as … as
+clause.weil	28	weil: because — the verb goes to the end
+clause.dass	28	dass: that — the verb goes to the end
+clause.wenn	28	wenn: if, when — the verb goes to the end
