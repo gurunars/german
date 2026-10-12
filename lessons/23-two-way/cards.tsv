@@ -1,0 +1,36 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+prep.twoway.wo	Tisch	dat.sg	The book is on **the table**.	Das Buch liegt auf **dem Tisch**.	Where something is (wo?): auf + dative.
+prep.twoway.wo	Wand	dat.sg	The picture is hanging on **the wall**.	Das Bild hängt an **der Wand**.	an for a vertical surface; where it is, so dative: der Wand.
+prep.twoway.wo	Bett	dat.sg	The cat is sleeping under **the bed**.	Die Katze schläft unter **dem Bett**.	unter + dative for where: dem Bett.
+prep.twoway.wo	Haus	dat.sg	The bicycle is behind **the house**.	Das Fahrrad steht hinter **dem Haus**.	hinter + dative: dem Haus.
+prep.twoway.wo	Bäckerei	dat.sg	The pharmacy is next to **the bakery**.	Die Apotheke ist neben **der Bäckerei**.	neben + dative: der Bäckerei.
+prep.twoway.wo	Tisch	dat.sg	The lamp is hanging above **the table**.	Die Lampe hängt über **dem Tisch**.	über + dative: above, where it is.
+prep.twoway.wo	Haus	dat.sg	The car is in front of **the house**.	Das Auto steht vor **dem Haus**.	vor + dative: in front of.
+prep.twoway.wo	Stuhl	dat.pl	The cat is sitting between **the chairs**.	Die Katze sitzt zwischen **den Stühlen**.	zwischen + dative plural: den Stühlen, with -n.
+prep.twoway.wo	Küche	dat.sg	My mother is in **the kitchen**.	Meine Mutter ist in **der Küche**.	in + dative for where: der Küche.
+prep.twoway.wo	Tasche	dat.sg	Where is my key? – In **the bag**.	Wo ist mein Schlüssel? – In **der Tasche**.	wo? asks for a place, and the answer takes the dative.
+prep.twoway.wo	-	-	The children are playing **in the** garden.	Die Kinder spielen **im** Garten.	in dem becomes im: where, so dative.
+prep.twoway.wo	-	-	The milk is **in the** fridge.	Die Milch steht **im** Kühlschrank.	im = in dem. Bottles stand, so steht.
+prep.twoway.wo	-	-	I'm **at the** station.	Ich bin **am** Bahnhof.	an dem becomes am: at the station.
+prep.twoway.wo	-	-	We live **in** Berlin.	Wir wohnen **in** Berlin.	in + a town, no article.
+prep.twoway.wohin	Tisch	acc.sg	I'm putting the book on **the table**.	Ich lege das Buch auf **den Tisch**.	Where to (wohin?): auf + accusative, den Tisch.
+prep.twoway.wohin	Kühlschrank	acc.sg	I'm putting the milk in **the fridge**.	Ich stelle die Milch in **den Kühlschrank**.	A movement to a place: accusative, den Kühlschrank.
+prep.twoway.wohin	Wand	acc.sg	He's hanging the picture on **the wall**.	Er hängt das Bild an **die Wand**.	an + accusative for where to: die Wand.
+prep.twoway.wohin	Bett	acc.sg	The cat runs under **the bed**.	Die Katze läuft unter **das Bett**.	It moves there, so accusative: das Bett.
+prep.twoway.wohin	Küche	acc.sg	She's going into **the kitchen**.	Sie geht in **die Küche**.	Going in: in + accusative, die Küche.
+prep.twoway.wohin	Haus	acc.sg	Put the bike behind **the house**! (one friend)	Stell das Fahrrad hinter **das Haus**!	A change of place: hinter + accusative.
+prep.twoway.wohin	Tisch	acc.sg	I'm putting the chair between **the table** and the window.	Ich stelle den Stuhl zwischen **den Tisch** und das Fenster.	zwischen + accusative for where to: den Tisch.
+prep.twoway.wohin	Stadt	acc.sg	Where are you going? (one friend) – Into **town**.	Wohin gehst du? – In **die Stadt**.	wohin? asks for a direction; the answer takes the accusative.
+prep.twoway.wohin	-	-	We're going **to the** cinema.	Wir gehen **ins** Kino.	in das becomes ins: into, so accusative.
+prep.twoway.wohin	-	-	**Put** the books on the shelf! (several friends)	**Stellt** die Bücher ins Regal!	ins Regal: into the shelf, accusative. stellen for books upright.
+position.verbs	stehen	pres.er	The glass **is** on the table.	Das Glas **steht** auf dem Tisch.	Upright things stehen; stehen is where something is, so the dative follows.
+position.verbs	stellen	pres.ich	I **put** the glass on the table.	Ich **stelle** das Glas auf den Tisch.	stellen: to put something upright; it moves, so the accusative follows.
+position.verbs	liegen	pres.er	The newspaper **is lying** on the bed.	Die Zeitung **liegt** auf dem Bett.	Flat things liegen: dative, where it is.
+position.verbs	legen	imp.du	**Put** the newspaper on the bed! (one friend)	**Leg** die Zeitung auf das Bett!	legen: to lay something flat; accusative, where to.
+position.verbs	hängen	pres.er	The coat **is hanging** in the wardrobe.	Der Mantel **hängt** im Schrank.	hängen for where it hangs: im Schrank, dative.
+position.verbs	hängen	pres.ich	I **hang** my coat in the wardrobe.	Ich **hänge** meinen Mantel in den Schrank.	hängen for putting it there: in den Schrank, accusative. The same verb does both.
+position.verbs	stehen	pres.wir	The books **are** on the shelf.	Die Bücher **stehen** im Regal.	Books upright on a shelf stehen.
+position.verbs	sitzen	pres.er	The child **is sitting** at the table.	Das Kind **sitzt** am Tisch.	sitzen: where someone sits, so the dative: am Tisch.
+position.verbs	legen	perf.du	Where **did** you **put** my key? (one friend)	Wohin **hast** du meinen Schlüssel **gelegt**?	Wohin? asks where to: legen, regular, gelegt.
+position.verbs	stehen	pres.wir	Where are the glasses? – They **are** in the cupboard.	Wo sind die Gläser? – Sie **stehen** im Schrank.	German says where things stand or lie where English just says are.
+position.verbs	liegen	pres.wir	The keys **are** under the newspaper.	Die Schlüssel **liegen** unter der Zeitung.	Keys lie flat: liegen, and unter + dative.

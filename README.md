@@ -68,6 +68,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 20 · What I did: the perfect with haben](lessons/20-perfect-haben.json) — 37 cards
 - [Lesson 21 · Where I went: the perfect with sein; aufgestanden, verstanden](lessons/21-perfect-sein.json) — 33 cards
 - [Lesson 22 · How it was: war and hatte](lessons/22-war-hatte.json) — 34 cards
+- [Lesson 23 · Where and where to: in, auf, an… with the dative or the accusative](lessons/23-two-way.json) — 35 cards
 
 ## Decks
 

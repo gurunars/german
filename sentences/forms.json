@@ -466,6 +466,46 @@
    ]
   }
  },
+ "Bett": {
+  "all": [
+   "Bett",
+   "Bettchen",
+   "Bette",
+   "Betten",
+   "Betterl",
+   "Bettes",
+   "Bettlein",
+   "Betts"
+  ],
+  "english": "bed",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Betten"
+   ],
+   "acc.sg": [
+    "Bett"
+   ],
+   "dat.pl": [
+    "Betten"
+   ],
+   "dat.sg": [
+    "Bett",
+    "Bette"
+   ],
+   "gen.sg": [
+    "Bettes",
+    "Betts"
+   ],
+   "nom.pl": [
+    "Betten"
+   ],
+   "nom.sg": [
+    "Bett"
+   ]
+  }
+ },
  "Bier": {
   "all": [
    "Bier",
@@ -3207,6 +3247,79 @@
    ]
   }
  },
+ "Küche": {
+  "all": [
+   "Küche",
+   "Küchelchen",
+   "Küchelein",
+   "Küchen",
+   "Küchlein"
+  ],
+  "english": "kitchen",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Küchen"
+   ],
+   "acc.sg": [
+    "Küche"
+   ],
+   "dat.pl": [
+    "Küchen"
+   ],
+   "dat.sg": [
+    "Küche"
+   ],
+   "gen.sg": [
+    "Küche"
+   ],
+   "nom.pl": [
+    "Küchen"
+   ],
+   "nom.sg": [
+    "Küche"
+   ]
+  }
+ },
+ "Kühlschrank": {
+  "all": [
+   "Kühlschrank",
+   "Kühlschranke",
+   "Kühlschrankes",
+   "Kühlschranks",
+   "Kühlschränke",
+   "Kühlschränken"
+  ],
+  "english": "fridge",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Kühlschränke"
+   ],
+   "acc.sg": [
+    "Kühlschrank"
+   ],
+   "dat.pl": [
+    "Kühlschränken"
+   ],
+   "dat.sg": [
+    "Kühlschrank",
+    "Kühlschranke"
+   ],
+   "gen.sg": [
+    "Kühlschrankes",
+    "Kühlschranks"
+   ],
+   "nom.pl": [
+    "Kühlschränke"
+   ],
+   "nom.sg": [
+    "Kühlschrank"
+   ]
+  }
+ },
  "Lampe": {
   "all": [
    "Lampe",
@@ -4478,6 +4591,44 @@
    ]
   }
  },
+ "Regal": {
+  "all": [
+   "Real",
+   "Regal",
+   "Regale",
+   "Regalen",
+   "Regales",
+   "Regals"
+  ],
+  "english": "shelf, bookcase",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Regale"
+   ],
+   "acc.sg": [
+    "Regal"
+   ],
+   "dat.pl": [
+    "Regalen"
+   ],
+   "dat.sg": [
+    "Regal",
+    "Regale"
+   ],
+   "gen.sg": [
+    "Regals",
+    "Regales"
+   ],
+   "nom.pl": [
+    "Regale"
+   ],
+   "nom.sg": [
+    "Regal"
+   ]
+  }
+ },
  "Restaurant": {
   "all": [
    "Restaurant",
@@ -4676,6 +4827,45 @@
    ],
    "nom.sg": [
     "Schokolade"
+   ]
+  }
+ },
+ "Schrank": {
+  "all": [
+   "Schrank",
+   "Schranke",
+   "Schrankes",
+   "Schranks",
+   "Schränkchen",
+   "Schränke",
+   "Schränken"
+  ],
+  "english": "cupboard, wardrobe",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Schränke"
+   ],
+   "acc.sg": [
+    "Schrank"
+   ],
+   "dat.pl": [
+    "Schränken"
+   ],
+   "dat.sg": [
+    "Schrank",
+    "Schranke"
+   ],
+   "gen.sg": [
+    "Schrankes",
+    "Schranks"
+   ],
+   "nom.pl": [
+    "Schränke"
+   ],
+   "nom.sg": [
+    "Schrank"
    ]
   }
  },
@@ -5711,6 +5901,39 @@
    ],
    "nom.sg": [
     "Wald"
+   ]
+  }
+ },
+ "Wand": {
+  "all": [
+   "Wand",
+   "Wände",
+   "Wänden"
+  ],
+  "english": "wall",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Wände"
+   ],
+   "acc.sg": [
+    "Wand"
+   ],
+   "dat.pl": [
+    "Wänden"
+   ],
+   "dat.sg": [
+    "Wand"
+   ],
+   "gen.sg": [
+    "Wand"
+   ],
+   "nom.pl": [
+    "Wände"
+   ],
+   "nom.sg": [
+    "Wand"
    ]
   }
  },
@@ -10857,6 +11080,101 @@
    ]
   }
  },
+ "hängen": {
+  "all": [
+   "gehangen",
+   "haben",
+   "habest",
+   "habet",
+   "hang",
+   "hange",
+   "hangen",
+   "hangest",
+   "hanget",
+   "hangst",
+   "hangt",
+   "hing",
+   "hinge",
+   "hingen",
+   "hingest",
+   "hinget",
+   "hingst",
+   "hingt",
+   "häng",
+   "hänge",
+   "hängen",
+   "hängend",
+   "hängest",
+   "hänget",
+   "hängst",
+   "hängt",
+   "or",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to hang",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "häng",
+    "hänge"
+   ],
+   "imp.ihr": [
+    "hängt"
+   ],
+   "perf.du": [
+    "hast gehangen",
+    "bist gehangen"
+   ],
+   "perf.er": [
+    "hat gehangen",
+    "ist gehangen"
+   ],
+   "perf.ich": [
+    "habe gehangen",
+    "bin gehangen"
+   ],
+   "perf.ihr": [
+    "habt gehangen",
+    "seid gehangen"
+   ],
+   "perf.wir": [
+    "haben gehangen",
+    "sind gehangen"
+   ],
+   "pres.du": [
+    "hängst"
+   ],
+   "pres.er": [
+    "hängt"
+   ],
+   "pres.ich": [
+    "hänge"
+   ],
+   "pres.ihr": [
+    "hängt"
+   ],
+   "pres.wir": [
+    "hängen"
+   ],
+   "pret.du": [
+    "hingst"
+   ],
+   "pret.er": [
+    "hing"
+   ],
+   "pret.ich": [
+    "hing"
+   ],
+   "pret.ihr": [
+    "hingt"
+   ],
+   "pret.wir": [
+    "hingen"
+   ]
+  }
+ },
  "hören": {
   "all": [
    "gehört",
@@ -12589,6 +12907,83 @@
    ]
   }
  },
+ "legen": {
+  "all": [
+   "gelegt",
+   "haben",
+   "habest",
+   "habet",
+   "leg",
+   "lege",
+   "legen",
+   "legend",
+   "legest",
+   "leget",
+   "legst",
+   "legt",
+   "legte",
+   "legten",
+   "legtest",
+   "legtet",
+   "werdest"
+  ],
+  "english": "to lay, to put (flat)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "leg",
+    "lege"
+   ],
+   "imp.ihr": [
+    "legt"
+   ],
+   "perf.du": [
+    "hast gelegt"
+   ],
+   "perf.er": [
+    "hat gelegt"
+   ],
+   "perf.ich": [
+    "habe gelegt"
+   ],
+   "perf.ihr": [
+    "habt gelegt"
+   ],
+   "perf.wir": [
+    "haben gelegt"
+   ],
+   "pres.du": [
+    "legst"
+   ],
+   "pres.er": [
+    "legt"
+   ],
+   "pres.ich": [
+    "lege"
+   ],
+   "pres.ihr": [
+    "legt"
+   ],
+   "pres.wir": [
+    "legen"
+   ],
+   "pret.du": [
+    "legtest"
+   ],
+   "pret.er": [
+    "legte"
+   ],
+   "pret.ich": [
+    "legte"
+   ],
+   "pret.ihr": [
+    "legtet"
+   ],
+   "pret.wir": [
+    "legten"
+   ]
+  }
+ },
  "leihen": {
   "all": [
    "geliehen",
@@ -12988,6 +13383,115 @@
    ],
    "pret.wir": [
     "liebten"
+   ]
+  }
+ },
+ "liegen": {
+  "all": [
+   "gelegen",
+   "haben",
+   "habest",
+   "habet",
+   "lag",
+   "lagen",
+   "lagst",
+   "lagt",
+   "licken",
+   "lieg",
+   "liege",
+   "liegen",
+   "liegend",
+   "liegest",
+   "lieget",
+   "liegst",
+   "liegt",
+   "läge",
+   "lägen",
+   "lägest",
+   "läget",
+   "lägst",
+   "lägt",
+   "or",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to lie, to be (lying flat)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lieg",
+    "liege"
+   ],
+   "imp.ihr": [
+    "liegt"
+   ],
+   "konj2.du": [
+    "lägest",
+    "lägst"
+   ],
+   "konj2.er": [
+    "läge"
+   ],
+   "konj2.ich": [
+    "läge"
+   ],
+   "konj2.ihr": [
+    "läget",
+    "lägt"
+   ],
+   "konj2.wir": [
+    "lägen"
+   ],
+   "perf.du": [
+    "hast gelegen",
+    "bist gelegen"
+   ],
+   "perf.er": [
+    "hat gelegen",
+    "ist gelegen"
+   ],
+   "perf.ich": [
+    "habe gelegen",
+    "bin gelegen"
+   ],
+   "perf.ihr": [
+    "habt gelegen",
+    "seid gelegen"
+   ],
+   "perf.wir": [
+    "haben gelegen",
+    "sind gelegen"
+   ],
+   "pres.du": [
+    "liegst"
+   ],
+   "pres.er": [
+    "liegt"
+   ],
+   "pres.ich": [
+    "liege"
+   ],
+   "pres.ihr": [
+    "liegt"
+   ],
+   "pres.wir": [
+    "liegen"
+   ],
+   "pret.du": [
+    "lagst"
+   ],
+   "pret.er": [
+    "lag"
+   ],
+   "pret.ich": [
+    "lag"
+   ],
+   "pret.ihr": [
+    "lagt"
+   ],
+   "pret.wir": [
+    "lagen"
    ]
   }
  },
@@ -15744,6 +16248,97 @@
    ]
   }
  },
+ "sitzen": {
+  "all": [
+   "gesessen",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "saß",
+   "saßen",
+   "saßest",
+   "saßt",
+   "sein",
+   "seist",
+   "sitz",
+   "sitze",
+   "sitzen",
+   "sitzend",
+   "sitzest",
+   "sitzet",
+   "sitzt",
+   "sizen",
+   "säße",
+   "säßen",
+   "säßest",
+   "säßet",
+   "säßt",
+   "werdest"
+  ],
+  "english": "to sit",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "sitz",
+    "sitze"
+   ],
+   "imp.ihr": [
+    "sitzt"
+   ],
+   "perf.du": [
+    "hast gesessen",
+    "bist gesessen"
+   ],
+   "perf.er": [
+    "hat gesessen",
+    "ist gesessen"
+   ],
+   "perf.ich": [
+    "habe gesessen",
+    "bin gesessen"
+   ],
+   "perf.ihr": [
+    "habt gesessen",
+    "seid gesessen"
+   ],
+   "perf.wir": [
+    "haben gesessen",
+    "sind gesessen"
+   ],
+   "pres.du": [
+    "sitzt"
+   ],
+   "pres.er": [
+    "sitzt"
+   ],
+   "pres.ich": [
+    "sitze"
+   ],
+   "pres.ihr": [
+    "sitzt"
+   ],
+   "pres.wir": [
+    "sitzen"
+   ],
+   "pret.du": [
+    "saßest",
+    "saßt"
+   ],
+   "pret.er": [
+    "saß"
+   ],
+   "pret.ich": [
+    "saß"
+   ],
+   "pret.ihr": [
+    "saßt"
+   ],
+   "pret.wir": [
+    "saßen"
+   ]
+  }
+ },
  "sollen": {
   "all": [
    "gesollt",
@@ -16072,6 +16667,199 @@
    ],
    "weak.nom.m": [
     "der späte"
+   ]
+  }
+ },
+ "stehen": {
+  "all": [
+   "gestanden",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "sein",
+   "seist",
+   "stand",
+   "standen",
+   "standest",
+   "standet",
+   "standst",
+   "steh",
+   "stehe",
+   "stehen",
+   "stehend",
+   "stehest",
+   "stehet",
+   "stehn",
+   "stehst",
+   "steht",
+   "stände",
+   "ständen",
+   "ständest",
+   "ständet",
+   "stünde",
+   "stünden",
+   "stündest",
+   "stündet",
+   "werdest"
+  ],
+  "english": "to stand, to be (upright)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "steh",
+    "stehe"
+   ],
+   "imp.ihr": [
+    "steht"
+   ],
+   "konj2.du": [
+    "ständest",
+    "stündest"
+   ],
+   "konj2.er": [
+    "stände",
+    "stünde"
+   ],
+   "konj2.ich": [
+    "stände",
+    "stünde"
+   ],
+   "konj2.ihr": [
+    "ständet",
+    "stündet"
+   ],
+   "konj2.wir": [
+    "ständen",
+    "stünden"
+   ],
+   "perf.du": [
+    "hast gestanden",
+    "bist gestanden"
+   ],
+   "perf.er": [
+    "hat gestanden",
+    "ist gestanden"
+   ],
+   "perf.ich": [
+    "habe gestanden",
+    "bin gestanden"
+   ],
+   "perf.ihr": [
+    "habt gestanden",
+    "seid gestanden"
+   ],
+   "perf.wir": [
+    "haben gestanden",
+    "sind gestanden"
+   ],
+   "pres.du": [
+    "stehst"
+   ],
+   "pres.er": [
+    "steht"
+   ],
+   "pres.ich": [
+    "stehe"
+   ],
+   "pres.ihr": [
+    "steht"
+   ],
+   "pres.wir": [
+    "stehen"
+   ],
+   "pret.du": [
+    "standest",
+    "standst"
+   ],
+   "pret.er": [
+    "stand"
+   ],
+   "pret.ich": [
+    "stand"
+   ],
+   "pret.ihr": [
+    "standet"
+   ],
+   "pret.wir": [
+    "standen"
+   ]
+  }
+ },
+ "stellen": {
+  "all": [
+   "gestellt",
+   "haben",
+   "habest",
+   "habet",
+   "stell",
+   "stelle",
+   "stellen",
+   "stellend",
+   "stellest",
+   "stellet",
+   "stellst",
+   "stellt",
+   "stellte",
+   "stellten",
+   "stelltest",
+   "stelltet",
+   "werdest"
+  ],
+  "english": "to put (upright)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "stell",
+    "stelle"
+   ],
+   "imp.ihr": [
+    "stellt"
+   ],
+   "perf.du": [
+    "hast gestellt"
+   ],
+   "perf.er": [
+    "hat gestellt"
+   ],
+   "perf.ich": [
+    "habe gestellt"
+   ],
+   "perf.ihr": [
+    "habt gestellt"
+   ],
+   "perf.wir": [
+    "haben gestellt"
+   ],
+   "pres.du": [
+    "stellst"
+   ],
+   "pres.er": [
+    "stellt"
+   ],
+   "pres.ich": [
+    "stelle"
+   ],
+   "pres.ihr": [
+    "stellt"
+   ],
+   "pres.wir": [
+    "stellen"
+   ],
+   "pret.du": [
+    "stelltest"
+   ],
+   "pret.er": [
+    "stellte"
+   ],
+   "pret.ich": [
+    "stellte"
+   ],
+   "pret.ihr": [
+    "stelltet"
+   ],
+   "pret.wir": [
+    "stellten"
    ]
   }
  },

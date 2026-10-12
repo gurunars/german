@@ -1,0 +1,218 @@
+{
+  "name": "Lesson 23 · Where and where to: in, auf, an… with the dative or the accusative",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "The book is on **the table**.",
+      "back": "Das Buch liegt auf **dem Tisch**.",
+      "note": "Two-way prepositions: wo? takes the dative. Where something is (wo?): auf + dative.",
+      "priority": 1
+    },
+    {
+      "front": "The picture is hanging on **the wall**.",
+      "back": "Das Bild hängt an **der Wand**.",
+      "note": "Two-way prepositions: wo? takes the dative. an for a vertical surface; where it is, so dative: der Wand.",
+      "priority": 1
+    },
+    {
+      "front": "The cat is sleeping under **the bed**.",
+      "back": "Die Katze schläft unter **dem Bett**.",
+      "note": "Two-way prepositions: wo? takes the dative. unter + dative for where: dem Bett.",
+      "priority": 1
+    },
+    {
+      "front": "The bicycle is behind **the house**.",
+      "back": "Das Fahrrad steht hinter **dem Haus**.",
+      "note": "Two-way prepositions: wo? takes the dative. hinter + dative: dem Haus.",
+      "priority": 1
+    },
+    {
+      "front": "The pharmacy is next to **the bakery**.",
+      "back": "Die Apotheke ist neben **der Bäckerei**.",
+      "note": "Two-way prepositions: wo? takes the dative. neben + dative: der Bäckerei.",
+      "priority": 1
+    },
+    {
+      "front": "The lamp is hanging above **the table**.",
+      "back": "Die Lampe hängt über **dem Tisch**.",
+      "note": "Two-way prepositions: wo? takes the dative. über + dative: above, where it is.",
+      "priority": 1
+    },
+    {
+      "front": "The car is in front of **the house**.",
+      "back": "Das Auto steht vor **dem Haus**.",
+      "note": "Two-way prepositions: wo? takes the dative. vor + dative: in front of.",
+      "priority": 1
+    },
+    {
+      "front": "The cat is sitting between **the chairs**.",
+      "back": "Die Katze sitzt zwischen **den Stühlen**.",
+      "note": "Two-way prepositions: wo? takes the dative. zwischen + dative plural: den Stühlen, with -n.",
+      "priority": 1
+    },
+    {
+      "front": "My mother is in **the kitchen**.",
+      "back": "Meine Mutter ist in **der Küche**.",
+      "note": "Two-way prepositions: wo? takes the dative. in + dative for where: der Küche.",
+      "priority": 1
+    },
+    {
+      "front": "Where is my key? – In **the bag**.",
+      "back": "Wo ist mein Schlüssel? – In **der Tasche**.",
+      "note": "Two-way prepositions: wo? takes the dative. wo? asks for a place, and the answer takes the dative.",
+      "priority": 1
+    },
+    {
+      "front": "The children are playing **in the** garden.",
+      "back": "Die Kinder spielen **im** Garten.",
+      "note": "Two-way prepositions: wo? takes the dative. in dem becomes im: where, so dative.",
+      "priority": 1
+    },
+    {
+      "front": "The milk is **in the** fridge.",
+      "back": "Die Milch steht **im** Kühlschrank.",
+      "note": "Two-way prepositions: wo? takes the dative. im = in dem. Bottles stand, so steht.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **at the** station.",
+      "back": "Ich bin **am** Bahnhof.",
+      "note": "Two-way prepositions: wo? takes the dative. an dem becomes am: at the station.",
+      "priority": 1
+    },
+    {
+      "front": "We live **in** Berlin.",
+      "back": "Wir wohnen **in** Berlin.",
+      "note": "Two-way prepositions: wo? takes the dative. in + a town, no article.",
+      "priority": 1
+    },
+    {
+      "front": "I'm putting the book on **the table**.",
+      "back": "Ich lege das Buch auf **den Tisch**.",
+      "note": "Two-way prepositions: wohin? takes the accusative. Where to (wohin?): auf + accusative, den Tisch.",
+      "priority": 1
+    },
+    {
+      "front": "I'm putting the milk in **the fridge**.",
+      "back": "Ich stelle die Milch in **den Kühlschrank**.",
+      "note": "Two-way prepositions: wohin? takes the accusative. A movement to a place: accusative, den Kühlschrank.",
+      "priority": 1
+    },
+    {
+      "front": "He's hanging the picture on **the wall**.",
+      "back": "Er hängt das Bild an **die Wand**.",
+      "note": "Two-way prepositions: wohin? takes the accusative. an + accusative for where to: die Wand.",
+      "priority": 1
+    },
+    {
+      "front": "The cat runs under **the bed**.",
+      "back": "Die Katze läuft unter **das Bett**.",
+      "note": "Two-way prepositions: wohin? takes the accusative. It moves there, so accusative: das Bett.",
+      "priority": 1
+    },
+    {
+      "front": "She's going into **the kitchen**.",
+      "back": "Sie geht in **die Küche**.",
+      "note": "Two-way prepositions: wohin? takes the accusative. Going in: in + accusative, die Küche.",
+      "priority": 1
+    },
+    {
+      "front": "Put the bike behind **the house**! (one friend)",
+      "back": "Stell das Fahrrad hinter **das Haus**!",
+      "note": "Two-way prepositions: wohin? takes the accusative. A change of place: hinter + accusative.",
+      "priority": 1
+    },
+    {
+      "front": "I'm putting the chair between **the table** and the window.",
+      "back": "Ich stelle den Stuhl zwischen **den Tisch** und das Fenster.",
+      "note": "Two-way prepositions: wohin? takes the accusative. zwischen + accusative for where to: den Tisch.",
+      "priority": 1
+    },
+    {
+      "front": "Where are you going? (one friend) – Into **town**.",
+      "back": "Wohin gehst du? – In **die Stadt**.",
+      "note": "Two-way prepositions: wohin? takes the accusative. wohin? asks for a direction; the answer takes the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "We're going **to the** cinema.",
+      "back": "Wir gehen **ins** Kino.",
+      "note": "Two-way prepositions: wohin? takes the accusative. in das becomes ins: into, so accusative.",
+      "priority": 1
+    },
+    {
+      "front": "**Put** the books on the shelf! (several friends)",
+      "back": "**Stellt** die Bücher ins Regal!",
+      "note": "Two-way prepositions: wohin? takes the accusative. ins Regal: into the shelf, accusative. stellen for books upright.",
+      "priority": 1
+    },
+    {
+      "front": "The glass **is** on the table.",
+      "back": "Das Glas **steht** auf dem Tisch.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. Upright things stehen; stehen is where something is, so the dative follows.",
+      "priority": 1
+    },
+    {
+      "front": "I **put** the glass on the table.",
+      "back": "Ich **stelle** das Glas auf den Tisch.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. stellen: to put something upright; it moves, so the accusative follows.",
+      "priority": 1
+    },
+    {
+      "front": "The newspaper **is lying** on the bed.",
+      "back": "Die Zeitung **liegt** auf dem Bett.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. Flat things liegen: dative, where it is.",
+      "priority": 1
+    },
+    {
+      "front": "**Put** the newspaper on the bed! (one friend)",
+      "back": "**Leg** die Zeitung auf das Bett!",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. legen: to lay something flat; accusative, where to.",
+      "priority": 1
+    },
+    {
+      "front": "The coat **is hanging** in the wardrobe.",
+      "back": "Der Mantel **hängt** im Schrank.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. hängen for where it hangs: im Schrank, dative.",
+      "priority": 1
+    },
+    {
+      "front": "I **hang** my coat in the wardrobe.",
+      "back": "Ich **hänge** meinen Mantel in den Schrank.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. hängen for putting it there: in den Schrank, accusative. The same verb does both.",
+      "priority": 1
+    },
+    {
+      "front": "The books **are** on the shelf.",
+      "back": "Die Bücher **stehen** im Regal.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. Books upright on a shelf stehen.",
+      "priority": 1
+    },
+    {
+      "front": "The child **is sitting** at the table.",
+      "back": "Das Kind **sitzt** am Tisch.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. sitzen: where someone sits, so the dative: am Tisch.",
+      "priority": 1
+    },
+    {
+      "front": "Where **did** you **put** my key? (one friend)",
+      "back": "Wohin **hast** du meinen Schlüssel **gelegt**?",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. Wohin? asks where to: legen, regular, gelegt.",
+      "priority": 1
+    },
+    {
+      "front": "Where are the glasses? – They **are** in the cupboard.",
+      "back": "Wo sind die Gläser? – Sie **stehen** im Schrank.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. German says where things stand or lie where English just says are.",
+      "priority": 1
+    },
+    {
+      "front": "The keys **are** under the newspaper.",
+      "back": "Die Schlüssel **liegen** unter der Zeitung.",
+      "note": "stehen/stellen, liegen/legen, hängen: being somewhere, putting it there. Keys lie flat: liegen, and unter + dative.",
+      "priority": 1
+    }
+  ]
+}
