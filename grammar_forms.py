@@ -69,6 +69,8 @@ SLOTS = {
         "perf.er": ({"perfect", "indicative", "third-person", "singular"}, "perfect, er/sie/es"),
         "perf.wir": ({"perfect", "indicative", "first-person", "plural"}, "perfect, wir"),
         "perf.ihr": ({"perfect", "indicative", "second-person", "plural"}, "perfect, ihr"),
+        # The future: werde kommen, wirst machen.
+        **_persons("fut", {"future", "future-i", "indicative"}, "future with werden"),
         "imp.du": ({"imperative", "second-person", "singular"}, "imperative, du"),
         "imp.ihr": ({"imperative", "second-person", "plural"}, "imperative, ihr"),
         "inf.zu": ({"infinitive", "infinitive-zu"}, "infinitive with zu (one word: anzurufen)"),

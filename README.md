@@ -83,6 +83,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 35 · The man who, the film that: relative clauses](lessons/35-relative.json) — 30 cards
 - [Lesson 36 · Trying to, in order to: the infinitive with zu, um … zu](lessons/36-zu.json) — 30 cards
 - [Lesson 37 · Whose: the genitive, des Vaters, wegen](lessons/37-genitive.json) — 29 cards
+- [Lesson 38 · What will be: the future with werden; man, jemand, nichts, alle](lessons/38-future.json) — 33 cards
 
 ## Decks
 

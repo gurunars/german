@@ -8008,6 +8008,47 @@
    ]
   }
  },
+ "Spiel": {
+  "all": [
+   "Spiel",
+   "Spielchen",
+   "Spiele",
+   "Spielen",
+   "Spieles",
+   "Spiels"
+  ],
+  "english": "game, match",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Spiele"
+   ],
+   "acc.sg": [
+    "Spiel"
+   ],
+   "dat.pl": [
+    "Spielen"
+   ],
+   "dat.sg": [
+    "Spiel",
+    "Spiele"
+   ],
+   "gen.pl": [
+    "Spiele"
+   ],
+   "gen.sg": [
+    "Spiels",
+    "Spieles"
+   ],
+   "nom.pl": [
+    "Spiele"
+   ],
+   "nom.sg": [
+    "Spiel"
+   ]
+  }
+ },
  "Sport": {
   "all": [
    "Sport",
@@ -10192,6 +10233,42 @@
    ]
   }
  },
+ "Zukunft": {
+  "all": [
+   "Zukunft",
+   "Zukünfte",
+   "Zukünften"
+  ],
+  "english": "future",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Zukünfte"
+   ],
+   "acc.sg": [
+    "Zukunft"
+   ],
+   "dat.pl": [
+    "Zukünften"
+   ],
+   "dat.sg": [
+    "Zukunft"
+   ],
+   "gen.pl": [
+    "Zukünfte"
+   ],
+   "gen.sg": [
+    "Zukunft"
+   ],
+   "nom.pl": [
+    "Zukünfte"
+   ],
+   "nom.sg": [
+    "Zukunft"
+   ]
+  }
+ },
  "abfahren": {
   "all": [
    "ab",
@@ -10244,6 +10321,21 @@
   "english": "to leave, to depart",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst abfahren"
+   ],
+   "fut.er": [
+    "wird abfahren"
+   ],
+   "fut.ich": [
+    "werde abfahren"
+   ],
+   "fut.ihr": [
+    "werdet abfahren"
+   ],
+   "fut.wir": [
+    "werden abfahren"
+   ],
    "imp.du": [
     "fahr ab",
     "fahre ab"
@@ -10366,6 +10458,21 @@
   "english": "to pick up, to collect",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst abholen"
+   ],
+   "fut.er": [
+    "wird abholen"
+   ],
+   "fut.ich": [
+    "werde abholen"
+   ],
+   "fut.ihr": [
+    "werdet abholen"
+   ],
+   "fut.wir": [
+    "werden abholen"
+   ],
    "imp.du": [
     "hol ab",
     "hole ab"
@@ -10719,6 +10826,21 @@
   "english": "to start, to begin",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst anfangen"
+   ],
+   "fut.er": [
+    "wird anfangen"
+   ],
+   "fut.ich": [
+    "werde anfangen"
+   ],
+   "fut.ihr": [
+    "werdet anfangen"
+   ],
+   "fut.wir": [
+    "werden anfangen"
+   ],
    "imp.du": [
     "fang an",
     "fange an"
@@ -10847,6 +10969,21 @@
   "english": "to arrive",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst ankommen"
+   ],
+   "fut.er": [
+    "wird ankommen"
+   ],
+   "fut.ich": [
+    "werde ankommen"
+   ],
+   "fut.ihr": [
+    "werdet ankommen"
+   ],
+   "fut.wir": [
+    "werden ankommen"
+   ],
    "imp.du": [
     "komm an",
     "komme an"
@@ -10994,6 +11131,21 @@
   "english": "to call (on the phone)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst anrufen"
+   ],
+   "fut.er": [
+    "wird anrufen"
+   ],
+   "fut.ich": [
+    "werde anrufen"
+   ],
+   "fut.ihr": [
+    "werdet anrufen"
+   ],
+   "fut.wir": [
+    "werden anrufen"
+   ],
    "imp.du": [
     "ruf an",
     "rufe an"
@@ -11097,6 +11249,21 @@
   "english": "to answer",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst antworten"
+   ],
+   "fut.er": [
+    "wird antworten"
+   ],
+   "fut.ich": [
+    "werde antworten"
+   ],
+   "fut.ihr": [
+    "werdet antworten"
+   ],
+   "fut.wir": [
+    "werden antworten"
+   ],
    "imp.du": [
     "antwort",
     "antworte"
@@ -11216,6 +11383,21 @@
   "english": "to put on (clothes)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst anziehen"
+   ],
+   "fut.er": [
+    "wird anziehen"
+   ],
+   "fut.ich": [
+    "werde anziehen"
+   ],
+   "fut.ihr": [
+    "werdet anziehen"
+   ],
+   "fut.wir": [
+    "werden anziehen"
+   ],
    "imp.du": [
     "zieh an",
     "ziehe an"
@@ -11324,6 +11506,21 @@
   "english": "to work",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst arbeiten"
+   ],
+   "fut.er": [
+    "wird arbeiten"
+   ],
+   "fut.ich": [
+    "werde arbeiten"
+   ],
+   "fut.ihr": [
+    "werdet arbeiten"
+   ],
+   "fut.wir": [
+    "werden arbeiten"
+   ],
    "imp.du": [
     "arbeit",
     "arbeite"
@@ -11428,6 +11625,21 @@
   "english": "to stop",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst aufhören"
+   ],
+   "fut.er": [
+    "wird aufhören"
+   ],
+   "fut.ich": [
+    "werde aufhören"
+   ],
+   "fut.ihr": [
+    "werdet aufhören"
+   ],
+   "fut.wir": [
+    "werden aufhören"
+   ],
    "imp.du": [
     "hör auf",
     "höre auf"
@@ -11545,6 +11757,21 @@
   "english": "to open",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst aufmachen"
+   ],
+   "fut.er": [
+    "wird aufmachen"
+   ],
+   "fut.ich": [
+    "werde aufmachen"
+   ],
+   "fut.ihr": [
+    "werdet aufmachen"
+   ],
+   "fut.wir": [
+    "werden aufmachen"
+   ],
    "imp.du": [
     "mach auf",
     "mache auf"
@@ -11660,6 +11887,21 @@
   "english": "aufpassen auf: to look after, to watch",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst aufpassen"
+   ],
+   "fut.er": [
+    "wird aufpassen"
+   ],
+   "fut.ich": [
+    "werde aufpassen"
+   ],
+   "fut.ihr": [
+    "werdet aufpassen"
+   ],
+   "fut.wir": [
+    "werden aufpassen"
+   ],
    "imp.du": [
     "pass auf",
     "passe auf"
@@ -11777,6 +12019,21 @@
   "english": "to tidy up",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst aufräumen"
+   ],
+   "fut.er": [
+    "wird aufräumen"
+   ],
+   "fut.ich": [
+    "werde aufräumen"
+   ],
+   "fut.ihr": [
+    "werdet aufräumen"
+   ],
+   "fut.wir": [
+    "werden aufräumen"
+   ],
    "imp.du": [
     "räum auf",
     "räume auf"
@@ -11915,6 +12172,21 @@
   "english": "to get up",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst aufstehen"
+   ],
+   "fut.er": [
+    "wird aufstehen"
+   ],
+   "fut.ich": [
+    "werde aufstehen"
+   ],
+   "fut.ihr": [
+    "werdet aufstehen"
+   ],
+   "fut.wir": [
+    "werden aufstehen"
+   ],
    "imp.du": [
     "steh auf",
     "stehe auf"
@@ -12068,6 +12340,21 @@
   "english": "to wake up",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst aufwachen"
+   ],
+   "fut.er": [
+    "wird aufwachen"
+   ],
+   "fut.ich": [
+    "werde aufwachen"
+   ],
+   "fut.ihr": [
+    "werdet aufwachen"
+   ],
+   "fut.wir": [
+    "werden aufwachen"
+   ],
    "imp.du": [
     "wach auf",
     "wache auf"
@@ -12185,6 +12472,21 @@
   "english": "to fill in",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst ausfüllen"
+   ],
+   "fut.er": [
+    "wird ausfüllen"
+   ],
+   "fut.ich": [
+    "werde ausfüllen"
+   ],
+   "fut.ihr": [
+    "werdet ausfüllen"
+   ],
+   "fut.wir": [
+    "werden ausfüllen"
+   ],
    "imp.du": [
     "füll aus",
     "fülle aus"
@@ -12307,6 +12609,21 @@
   "english": "to go out",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst ausgehen"
+   ],
+   "fut.er": [
+    "wird ausgehen"
+   ],
+   "fut.ich": [
+    "werde ausgehen"
+   ],
+   "fut.ihr": [
+    "werdet ausgehen"
+   ],
+   "fut.wir": [
+    "werden ausgehen"
+   ],
    "imp.du": [
     "geh aus",
     "gehe aus"
@@ -12448,6 +12765,21 @@
   "english": "to switch off",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst ausmachen"
+   ],
+   "fut.er": [
+    "wird ausmachen"
+   ],
+   "fut.ich": [
+    "werde ausmachen"
+   ],
+   "fut.ihr": [
+    "werdet ausmachen"
+   ],
+   "fut.wir": [
+    "werden ausmachen"
+   ],
    "imp.du": [
     "mach aus",
     "mache aus"
@@ -12565,6 +12897,21 @@
   "english": "sich ausruhen: to rest",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst ausruhen"
+   ],
+   "fut.er": [
+    "wird ausruhen"
+   ],
+   "fut.ich": [
+    "werde ausruhen"
+   ],
+   "fut.ihr": [
+    "werdet ausruhen"
+   ],
+   "fut.wir": [
+    "werden ausruhen"
+   ],
    "imp.du": [
     "ruh aus",
     "ruhe aus"
@@ -12669,6 +13016,21 @@
   "english": "sich beeilen: to hurry",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst beeilen"
+   ],
+   "fut.er": [
+    "wird beeilen"
+   ],
+   "fut.ich": [
+    "werde beeilen"
+   ],
+   "fut.ihr": [
+    "werdet beeilen"
+   ],
+   "fut.wir": [
+    "werden beeilen"
+   ],
    "imp.du": [
     "beeil",
     "beeile"
@@ -12769,6 +13131,21 @@
   "english": "to get, to receive",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst bekommen"
+   ],
+   "fut.er": [
+    "wird bekommen"
+   ],
+   "fut.ich": [
+    "werde bekommen"
+   ],
+   "fut.ihr": [
+    "werdet bekommen"
+   ],
+   "fut.wir": [
+    "werden bekommen"
+   ],
    "imp.du": [
     "bekomm",
     "bekomme"
@@ -13098,6 +13475,21 @@
   "english": "to pass (an exam)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst bestehen"
+   ],
+   "fut.er": [
+    "wird bestehen"
+   ],
+   "fut.ich": [
+    "werde bestehen"
+   ],
+   "fut.ihr": [
+    "werdet bestehen"
+   ],
+   "fut.wir": [
+    "werden bestehen"
+   ],
    "imp.du": [
     "besteh",
     "bestehe"
@@ -13190,6 +13582,21 @@
   "english": "to order",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst bestellen"
+   ],
+   "fut.er": [
+    "wird bestellen"
+   ],
+   "fut.ich": [
+    "werde bestellen"
+   ],
+   "fut.ihr": [
+    "werdet bestellen"
+   ],
+   "fut.wir": [
+    "werden bestellen"
+   ],
    "imp.du": [
     "bestell",
     "bestelle"
@@ -13281,6 +13688,21 @@
   "english": "to visit",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst besuchen"
+   ],
+   "fut.er": [
+    "wird besuchen"
+   ],
+   "fut.ich": [
+    "werde besuchen"
+   ],
+   "fut.ihr": [
+    "werdet besuchen"
+   ],
+   "fut.wir": [
+    "werden besuchen"
+   ],
    "imp.du": [
     "besuch",
     "besuche"
@@ -13372,6 +13794,21 @@
   "english": "to pay",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst bezahlen"
+   ],
+   "fut.er": [
+    "wird bezahlen"
+   ],
+   "fut.ich": [
+    "werde bezahlen"
+   ],
+   "fut.ihr": [
+    "werdet bezahlen"
+   ],
+   "fut.wir": [
+    "werden bezahlen"
+   ],
    "imp.du": [
     "bezahl",
     "bezahle"
@@ -13943,6 +14380,21 @@
   "english": "to stay",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst bleiben"
+   ],
+   "fut.er": [
+    "wird bleiben"
+   ],
+   "fut.ich": [
+    "werde bleiben"
+   ],
+   "fut.ihr": [
+    "werdet bleiben"
+   ],
+   "fut.wir": [
+    "werden bleiben"
+   ],
    "imp.du": [
     "bleib",
     "bleibe"
@@ -14056,6 +14508,21 @@
   "english": "to need",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst brauchen"
+   ],
+   "fut.er": [
+    "wird brauchen"
+   ],
+   "fut.ich": [
+    "werde brauchen"
+   ],
+   "fut.ihr": [
+    "werdet brauchen"
+   ],
+   "fut.wir": [
+    "werden brauchen"
+   ],
    "imp.du": [
     "brauch",
     "brauche"
@@ -14407,6 +14874,21 @@
   "english": "to bring",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst bringen"
+   ],
+   "fut.er": [
+    "wird bringen"
+   ],
+   "fut.ich": [
+    "werde bringen"
+   ],
+   "fut.ihr": [
+    "werdet bringen"
+   ],
+   "fut.wir": [
+    "werden bringen"
+   ],
    "imp.du": [
     "bring",
     "bringe"
@@ -14514,6 +14996,21 @@
   "english": "to thank",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst danken"
+   ],
+   "fut.er": [
+    "wird danken"
+   ],
+   "fut.ich": [
+    "werde danken"
+   ],
+   "fut.ihr": [
+    "werdet danken"
+   ],
+   "fut.wir": [
+    "werden danken"
+   ],
    "imp.du": [
     "dank",
     "danke"
@@ -14610,6 +15107,21 @@
   "english": "to think",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst denken"
+   ],
+   "fut.er": [
+    "wird denken"
+   ],
+   "fut.ich": [
+    "werde denken"
+   ],
+   "fut.ihr": [
+    "werdet denken"
+   ],
+   "fut.wir": [
+    "werden denken"
+   ],
    "imp.du": [
     "denk",
     "denke"
@@ -15037,6 +15549,21 @@
   "english": "to shower",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst duschen"
+   ],
+   "fut.er": [
+    "wird duschen"
+   ],
+   "fut.ich": [
+    "werde duschen"
+   ],
+   "fut.ihr": [
+    "werdet duschen"
+   ],
+   "fut.wir": [
+    "werden duschen"
+   ],
    "imp.du": [
     "dusch",
     "dusche"
@@ -15134,6 +15661,21 @@
   "english": "may, to be allowed to",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst dürfen"
+   ],
+   "fut.er": [
+    "wird dürfen"
+   ],
+   "fut.ich": [
+    "werde dürfen"
+   ],
+   "fut.ihr": [
+    "werdet dürfen"
+   ],
+   "fut.wir": [
+    "werden dürfen"
+   ],
    "konj2.du": [
     "dürftest"
    ],
@@ -15693,6 +16235,21 @@
   "english": "to do the shopping",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst einkaufen"
+   ],
+   "fut.er": [
+    "wird einkaufen"
+   ],
+   "fut.ich": [
+    "werde einkaufen"
+   ],
+   "fut.ihr": [
+    "werdet einkaufen"
+   ],
+   "fut.wir": [
+    "werden einkaufen"
+   ],
    "imp.du": [
     "kauf ein",
     "kaufe ein"
@@ -15816,6 +16373,21 @@
   "english": "to fall asleep",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst einschlafen"
+   ],
+   "fut.er": [
+    "wird einschlafen"
+   ],
+   "fut.ich": [
+    "werde einschlafen"
+   ],
+   "fut.ihr": [
+    "werdet einschlafen"
+   ],
+   "fut.wir": [
+    "werden einschlafen"
+   ],
    "imp.du": [
     "schlaf ein",
     "schlafe ein"
@@ -15934,6 +16506,21 @@
   "english": "to recommend",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst empfehlen"
+   ],
+   "fut.er": [
+    "wird empfehlen"
+   ],
+   "fut.ich": [
+    "werde empfehlen"
+   ],
+   "fut.ihr": [
+    "werdet empfehlen"
+   ],
+   "fut.wir": [
+    "werden empfehlen"
+   ],
    "imp.du": [
     "empfiehl"
    ],
@@ -16027,6 +16614,21 @@
   "english": "sich erinnern an: to remember",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst erinnern"
+   ],
+   "fut.er": [
+    "wird erinnern"
+   ],
+   "fut.ich": [
+    "werde erinnern"
+   ],
+   "fut.ihr": [
+    "werdet erinnern"
+   ],
+   "fut.wir": [
+    "werden erinnern"
+   ],
    "imp.du": [
     "erinnre",
     "erinner",
@@ -16121,6 +16723,21 @@
   "english": "to explain",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst erklären"
+   ],
+   "fut.er": [
+    "wird erklären"
+   ],
+   "fut.ich": [
+    "werde erklären"
+   ],
+   "fut.ihr": [
+    "werdet erklären"
+   ],
+   "fut.wir": [
+    "werden erklären"
+   ],
    "imp.du": [
     "erklär",
     "erkläre"
@@ -16212,6 +16829,21 @@
   "english": "to reach; to catch (a train)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst erreichen"
+   ],
+   "fut.er": [
+    "wird erreichen"
+   ],
+   "fut.ich": [
+    "werde erreichen"
+   ],
+   "fut.ihr": [
+    "werdet erreichen"
+   ],
+   "fut.wir": [
+    "werden erreichen"
+   ],
    "imp.du": [
     "erreich",
     "erreiche"
@@ -16303,6 +16935,21 @@
   "english": "to tell (a story)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst erzählen"
+   ],
+   "fut.er": [
+    "wird erzählen"
+   ],
+   "fut.ich": [
+    "werde erzählen"
+   ],
+   "fut.ihr": [
+    "werdet erzählen"
+   ],
+   "fut.wir": [
+    "werden erzählen"
+   ],
    "imp.du": [
     "erzähl",
     "erzähle"
@@ -16401,6 +17048,21 @@
   "english": "to eat",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst essen"
+   ],
+   "fut.er": [
+    "wird essen"
+   ],
+   "fut.ich": [
+    "werde essen"
+   ],
+   "fut.ihr": [
+    "werdet essen"
+   ],
+   "fut.wir": [
+    "werden essen"
+   ],
    "imp.du": [
     "iss"
    ],
@@ -16503,6 +17165,21 @@
   "english": "to drive, to go (by vehicle)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst fahren"
+   ],
+   "fut.er": [
+    "wird fahren"
+   ],
+   "fut.ich": [
+    "werde fahren"
+   ],
+   "fut.ihr": [
+    "werdet fahren"
+   ],
+   "fut.wir": [
+    "werden fahren"
+   ],
    "imp.du": [
     "fahr",
     "fahre"
@@ -16603,6 +17280,21 @@
   "english": "to fall",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst fallen"
+   ],
+   "fut.er": [
+    "wird fallen"
+   ],
+   "fut.ich": [
+    "werde fallen"
+   ],
+   "fut.ihr": [
+    "werdet fallen"
+   ],
+   "fut.wir": [
+    "werden fallen"
+   ],
    "imp.du": [
     "fall",
     "falle"
@@ -16739,6 +17431,21 @@
   "english": "to watch TV",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst fernsehen"
+   ],
+   "fut.er": [
+    "wird fernsehen"
+   ],
+   "fut.ich": [
+    "werde fernsehen"
+   ],
+   "fut.ihr": [
+    "werdet fernsehen"
+   ],
+   "fut.wir": [
+    "werden fernsehen"
+   ],
    "imp.du": [
     "sieh fern",
     "siehe fern"
@@ -16871,6 +17578,21 @@
   "english": "to find",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst finden"
+   ],
+   "fut.er": [
+    "wird finden"
+   ],
+   "fut.ich": [
+    "werde finden"
+   ],
+   "fut.ihr": [
+    "werdet finden"
+   ],
+   "fut.wir": [
+    "werden finden"
+   ],
    "imp.du": [
     "find",
     "finde"
@@ -16988,6 +17710,21 @@
   "english": "to fly",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst fliegen"
+   ],
+   "fut.er": [
+    "wird fliegen"
+   ],
+   "fut.ich": [
+    "werde fliegen"
+   ],
+   "fut.ihr": [
+    "werdet fliegen"
+   ],
+   "fut.wir": [
+    "werden fliegen"
+   ],
    "imp.du": [
     "flieg",
     "fliege"
@@ -17097,6 +17834,21 @@
   "english": "to ask",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst fragen"
+   ],
+   "fut.er": [
+    "wird fragen"
+   ],
+   "fut.ich": [
+    "werde fragen"
+   ],
+   "fut.ihr": [
+    "werdet fragen"
+   ],
+   "fut.wir": [
+    "werden fragen"
+   ],
    "imp.du": [
     "frag",
     "frage"
@@ -17441,6 +18193,21 @@
   "english": "sich freuen: to be glad",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst freuen"
+   ],
+   "fut.er": [
+    "wird freuen"
+   ],
+   "fut.ich": [
+    "werde freuen"
+   ],
+   "fut.ihr": [
+    "werdet freuen"
+   ],
+   "fut.wir": [
+    "werden freuen"
+   ],
    "imp.du": [
     "freu",
     "freue"
@@ -18259,6 +19026,21 @@
   "english": "to have breakfast",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst frühstücken"
+   ],
+   "fut.er": [
+    "wird frühstücken"
+   ],
+   "fut.ich": [
+    "werde frühstücken"
+   ],
+   "fut.ihr": [
+    "werdet frühstücken"
+   ],
+   "fut.wir": [
+    "werden frühstücken"
+   ],
    "imp.du": [
     "frühstück",
     "frühstücke"
@@ -18351,6 +19133,21 @@
   "english": "sich fühlen: to feel",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst fühlen"
+   ],
+   "fut.er": [
+    "wird fühlen"
+   ],
+   "fut.ich": [
+    "werde fühlen"
+   ],
+   "fut.ihr": [
+    "werdet fühlen"
+   ],
+   "fut.wir": [
+    "werden fühlen"
+   ],
    "imp.du": [
     "fühl",
     "fühle"
@@ -18450,6 +19247,21 @@
   "english": "to give",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst geben"
+   ],
+   "fut.er": [
+    "wird geben"
+   ],
+   "fut.ich": [
+    "werde geben"
+   ],
+   "fut.ihr": [
+    "werdet geben"
+   ],
+   "fut.wir": [
+    "werden geben"
+   ],
    "imp.du": [
     "gib"
    ],
@@ -18561,6 +19373,21 @@
   "english": "to please; X gefällt mir: I like X",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst gefallen"
+   ],
+   "fut.er": [
+    "wird gefallen"
+   ],
+   "fut.ich": [
+    "werde gefallen"
+   ],
+   "fut.ihr": [
+    "werdet gefallen"
+   ],
+   "fut.wir": [
+    "werden gefallen"
+   ],
    "imp.du": [
     "gefall",
     "gefalle"
@@ -18656,6 +19483,21 @@
   "english": "to go",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst gehen"
+   ],
+   "fut.er": [
+    "wird gehen"
+   ],
+   "fut.ich": [
+    "werde gehen"
+   ],
+   "fut.ihr": [
+    "werdet gehen"
+   ],
+   "fut.wir": [
+    "werden gehen"
+   ],
    "imp.du": [
     "geh",
     "gehe"
@@ -18764,6 +19606,21 @@
   "english": "to belong to",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst gehören"
+   ],
+   "fut.er": [
+    "wird gehören"
+   ],
+   "fut.ich": [
+    "werde gehören"
+   ],
+   "fut.ihr": [
+    "werdet gehören"
+   ],
+   "fut.wir": [
+    "werden gehören"
+   ],
    "imp.du": [
     "gehör",
     "gehöre"
@@ -19513,6 +20370,125 @@
    ]
   }
  },
+ "gewinnen": {
+  "all": [
+   "gewann",
+   "gewannen",
+   "gewannst",
+   "gewannt",
+   "gewinn",
+   "gewinne",
+   "gewinnen",
+   "gewinnend",
+   "gewinnest",
+   "gewinnet",
+   "gewinnst",
+   "gewinnt",
+   "gewonnen",
+   "gewänne",
+   "gewännen",
+   "gewännest",
+   "gewännet",
+   "gewännst",
+   "gewännt",
+   "gewönne",
+   "gewönnen",
+   "gewönnest",
+   "gewönnet",
+   "gewönnst",
+   "gewönnt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to win",
+  "pos": "verb",
+  "slots": {
+   "fut.du": [
+    "wirst gewinnen"
+   ],
+   "fut.er": [
+    "wird gewinnen"
+   ],
+   "fut.ich": [
+    "werde gewinnen"
+   ],
+   "fut.ihr": [
+    "werdet gewinnen"
+   ],
+   "fut.wir": [
+    "werden gewinnen"
+   ],
+   "imp.du": [
+    "gewinn",
+    "gewinne"
+   ],
+   "imp.ihr": [
+    "gewinnt"
+   ],
+   "perf.du": [
+    "hast gewonnen"
+   ],
+   "perf.er": [
+    "hat gewonnen"
+   ],
+   "perf.ich": [
+    "habe gewonnen"
+   ],
+   "perf.ihr": [
+    "habt gewonnen"
+   ],
+   "perf.wir": [
+    "haben gewonnen"
+   ],
+   "pres.du": [
+    "gewinnst"
+   ],
+   "pres.er": [
+    "gewinnt"
+   ],
+   "pres.ich": [
+    "gewinne"
+   ],
+   "pres.ihr": [
+    "gewinnt"
+   ],
+   "pres.wir": [
+    "gewinnen"
+   ],
+   "pret.du": [
+    "gewannst"
+   ],
+   "pret.er": [
+    "gewann"
+   ],
+   "pret.ich": [
+    "gewann"
+   ],
+   "pret.ihr": [
+    "gewannt"
+   ],
+   "pret.wir": [
+    "gewannen"
+   ],
+   "wuerde.du": [
+    "würdest gewinnen"
+   ],
+   "wuerde.er": [
+    "würde gewinnen"
+   ],
+   "wuerde.ich": [
+    "würde gewinnen"
+   ],
+   "wuerde.ihr": [
+    "würdet gewinnen"
+   ],
+   "wuerde.wir": [
+    "würden gewinnen"
+   ]
+  }
+ },
  "gießen": {
   "all": [
    "gegossen",
@@ -19540,6 +20516,21 @@
   "english": "to water",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst gießen"
+   ],
+   "fut.er": [
+    "wird gießen"
+   ],
+   "fut.ich": [
+    "werde gießen"
+   ],
+   "fut.ihr": [
+    "werdet gießen"
+   ],
+   "fut.wir": [
+    "werden gießen"
+   ],
    "imp.du": [
     "gieß",
     "gieße"
@@ -19635,6 +20626,21 @@
   "english": "to believe",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst glauben"
+   ],
+   "fut.er": [
+    "wird glauben"
+   ],
+   "fut.ich": [
+    "werde glauben"
+   ],
+   "fut.ihr": [
+    "werdet glauben"
+   ],
+   "fut.wir": [
+    "werden glauben"
+   ],
    "imp.du": [
     "glaub",
     "glaube"
@@ -20570,6 +21576,21 @@
   "english": "to have",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst haben"
+   ],
+   "fut.er": [
+    "wird haben"
+   ],
+   "fut.ich": [
+    "werde haben"
+   ],
+   "fut.ihr": [
+    "werdet haben"
+   ],
+   "fut.wir": [
+    "werden haben"
+   ],
    "imp.du": [
     "hab",
     "habe"
@@ -20812,6 +21833,111 @@
    ],
    "weak.nom.pl": [
     "die halben"
+   ]
+  }
+ },
+ "heiraten": {
+  "all": [
+   "geheiratet",
+   "haben",
+   "habest",
+   "habet",
+   "heirat",
+   "heirate",
+   "heiraten",
+   "heiratend",
+   "heiratest",
+   "heiratet",
+   "heiratete",
+   "heirateten",
+   "heiratetest",
+   "heiratetet",
+   "werdest"
+  ],
+  "english": "to marry",
+  "pos": "verb",
+  "slots": {
+   "fut.du": [
+    "wirst heiraten"
+   ],
+   "fut.er": [
+    "wird heiraten"
+   ],
+   "fut.ich": [
+    "werde heiraten"
+   ],
+   "fut.ihr": [
+    "werdet heiraten"
+   ],
+   "fut.wir": [
+    "werden heiraten"
+   ],
+   "imp.du": [
+    "heirat",
+    "heirate"
+   ],
+   "imp.ihr": [
+    "heiratet"
+   ],
+   "perf.du": [
+    "hast geheiratet"
+   ],
+   "perf.er": [
+    "hat geheiratet"
+   ],
+   "perf.ich": [
+    "habe geheiratet"
+   ],
+   "perf.ihr": [
+    "habt geheiratet"
+   ],
+   "perf.wir": [
+    "haben geheiratet"
+   ],
+   "pres.du": [
+    "heiratest"
+   ],
+   "pres.er": [
+    "heiratet"
+   ],
+   "pres.ich": [
+    "heirate"
+   ],
+   "pres.ihr": [
+    "heiratet"
+   ],
+   "pres.wir": [
+    "heiraten"
+   ],
+   "pret.du": [
+    "heiratetest"
+   ],
+   "pret.er": [
+    "heiratete"
+   ],
+   "pret.ich": [
+    "heiratete"
+   ],
+   "pret.ihr": [
+    "heiratetet"
+   ],
+   "pret.wir": [
+    "heirateten"
+   ],
+   "wuerde.du": [
+    "würdest heiraten"
+   ],
+   "wuerde.er": [
+    "würde heiraten"
+   ],
+   "wuerde.ich": [
+    "würde heiraten"
+   ],
+   "wuerde.ihr": [
+    "würdet heiraten"
+   ],
+   "wuerde.wir": [
+    "würden heiraten"
    ]
   }
  },
@@ -21069,6 +22195,21 @@
   "english": "to be called",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst heißen"
+   ],
+   "fut.er": [
+    "wird heißen"
+   ],
+   "fut.ich": [
+    "werde heißen"
+   ],
+   "fut.ihr": [
+    "werdet heißen"
+   ],
+   "fut.wir": [
+    "werden heißen"
+   ],
    "imp.du": [
     "heiß",
     "heiße"
@@ -21186,6 +22327,21 @@
   "english": "to help",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst helfen"
+   ],
+   "fut.er": [
+    "wird helfen"
+   ],
+   "fut.ich": [
+    "werde helfen"
+   ],
+   "fut.ihr": [
+    "werdet helfen"
+   ],
+   "fut.wir": [
+    "werden helfen"
+   ],
    "imp.du": [
     "hilf"
    ],
@@ -21951,6 +23107,21 @@
   "english": "to hope",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst hoffen"
+   ],
+   "fut.er": [
+    "wird hoffen"
+   ],
+   "fut.ich": [
+    "werde hoffen"
+   ],
+   "fut.ihr": [
+    "werdet hoffen"
+   ],
+   "fut.wir": [
+    "werden hoffen"
+   ],
    "imp.du": [
     "hoff",
     "hoffe"
@@ -22056,6 +23227,21 @@
   "english": "to hang",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst hängen"
+   ],
+   "fut.er": [
+    "wird hängen"
+   ],
+   "fut.ich": [
+    "werde hängen"
+   ],
+   "fut.ihr": [
+    "werdet hängen"
+   ],
+   "fut.wir": [
+    "werden hängen"
+   ],
    "imp.du": [
     "häng",
     "hänge"
@@ -22378,6 +23564,21 @@
   "english": "to hear, to listen",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst hören"
+   ],
+   "fut.er": [
+    "wird hören"
+   ],
+   "fut.ich": [
+    "werde hören"
+   ],
+   "fut.ihr": [
+    "werdet hören"
+   ],
+   "fut.wir": [
+    "werden hören"
+   ],
    "imp.du": [
     "hör",
     "höre"
@@ -22693,6 +23894,21 @@
   "english": "sich interessieren für: to be interested in",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst interessieren"
+   ],
+   "fut.er": [
+    "wird interessieren"
+   ],
+   "fut.ich": [
+    "werde interessieren"
+   ],
+   "fut.ihr": [
+    "werdet interessieren"
+   ],
+   "fut.wir": [
+    "werden interessieren"
+   ],
    "imp.du": [
     "interessier",
     "interessiere"
@@ -23622,6 +24838,21 @@
   "english": "to buy",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst kaufen"
+   ],
+   "fut.er": [
+    "wird kaufen"
+   ],
+   "fut.ich": [
+    "werde kaufen"
+   ],
+   "fut.ihr": [
+    "werdet kaufen"
+   ],
+   "fut.wir": [
+    "werden kaufen"
+   ],
    "imp.du": [
     "kauf",
     "kaufe"
@@ -23718,6 +24949,21 @@
   "english": "to know (a person, a place)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst kennen"
+   ],
+   "fut.er": [
+    "wird kennen"
+   ],
+   "fut.ich": [
+    "werde kennen"
+   ],
+   "fut.ihr": [
+    "werdet kennen"
+   ],
+   "fut.wir": [
+    "werden kennen"
+   ],
    "imp.du": [
     "kenn",
     "kenne"
@@ -23822,6 +25068,21 @@
   "english": "to get to know, to meet (for the first time)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst kennenlernen"
+   ],
+   "fut.er": [
+    "wird kennenlernen"
+   ],
+   "fut.ich": [
+    "werde kennenlernen"
+   ],
+   "fut.ihr": [
+    "werdet kennenlernen"
+   ],
+   "fut.wir": [
+    "werden kennenlernen"
+   ],
    "imp.du": [
     "lern kennen",
     "lerne kennen"
@@ -24375,6 +25636,21 @@
   "english": "to cook",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst kochen"
+   ],
+   "fut.er": [
+    "wird kochen"
+   ],
+   "fut.ich": [
+    "werde kochen"
+   ],
+   "fut.ihr": [
+    "werdet kochen"
+   ],
+   "fut.wir": [
+    "werden kochen"
+   ],
    "imp.du": [
     "koch",
     "koche"
@@ -24475,6 +25751,21 @@
   "english": "to come",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst kommen"
+   ],
+   "fut.er": [
+    "wird kommen"
+   ],
+   "fut.ich": [
+    "werde kommen"
+   ],
+   "fut.ihr": [
+    "werdet kommen"
+   ],
+   "fut.wir": [
+    "werden kommen"
+   ],
    "imp.du": [
     "komm",
     "komme"
@@ -24582,6 +25873,21 @@
   "english": "to cost",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst kosten"
+   ],
+   "fut.er": [
+    "wird kosten"
+   ],
+   "fut.ich": [
+    "werde kosten"
+   ],
+   "fut.ihr": [
+    "werdet kosten"
+   ],
+   "fut.wir": [
+    "werden kosten"
+   ],
    "imp.du": [
     "kost",
     "koste"
@@ -25236,6 +26542,21 @@
   "english": "can, to be able to",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst können"
+   ],
+   "fut.er": [
+    "wird können"
+   ],
+   "fut.ich": [
+    "werde können"
+   ],
+   "fut.ihr": [
+    "werdet können"
+   ],
+   "fut.wir": [
+    "werden können"
+   ],
    "konj2.du": [
     "könntest"
    ],
@@ -25341,6 +26662,21 @@
   "english": "to laugh",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst lachen"
+   ],
+   "fut.er": [
+    "wird lachen"
+   ],
+   "fut.ich": [
+    "werde lachen"
+   ],
+   "fut.ihr": [
+    "werdet lachen"
+   ],
+   "fut.wir": [
+    "werden lachen"
+   ],
    "imp.du": [
     "lach",
     "lache"
@@ -26109,6 +27445,21 @@
   "english": "to let, to leave",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst lassen"
+   ],
+   "fut.er": [
+    "wird lassen"
+   ],
+   "fut.ich": [
+    "werde lassen"
+   ],
+   "fut.ihr": [
+    "werdet lassen"
+   ],
+   "fut.wir": [
+    "werden lassen"
+   ],
    "imp.du": [
     "lass",
     "lasse"
@@ -26227,6 +27578,21 @@
   "english": "to run, to walk",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst laufen"
+   ],
+   "fut.er": [
+    "wird laufen"
+   ],
+   "fut.ich": [
+    "werde laufen"
+   ],
+   "fut.ihr": [
+    "werdet laufen"
+   ],
+   "fut.wir": [
+    "werden laufen"
+   ],
    "imp.du": [
     "lauf",
     "laufe"
@@ -26560,6 +27926,21 @@
   "english": "to live",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst leben"
+   ],
+   "fut.er": [
+    "wird leben"
+   ],
+   "fut.ich": [
+    "werde leben"
+   ],
+   "fut.ihr": [
+    "werdet leben"
+   ],
+   "fut.wir": [
+    "werden leben"
+   ],
    "imp.du": [
     "leb",
     "lebe"
@@ -27090,6 +28471,21 @@
   "english": "to lay, to put (flat)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst legen"
+   ],
+   "fut.er": [
+    "wird legen"
+   ],
+   "fut.ich": [
+    "werde legen"
+   ],
+   "fut.ihr": [
+    "werdet legen"
+   ],
+   "fut.wir": [
+    "werden legen"
+   ],
    "imp.du": [
     "leg",
     "lege"
@@ -27409,6 +28805,21 @@
   "english": "to lend",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst leihen"
+   ],
+   "fut.er": [
+    "wird leihen"
+   ],
+   "fut.ich": [
+    "werde leihen"
+   ],
+   "fut.ihr": [
+    "werdet leihen"
+   ],
+   "fut.wir": [
+    "werden leihen"
+   ],
    "imp.du": [
     "leih",
     "leihe"
@@ -27725,6 +29136,21 @@
   "english": "to learn, to study",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst lernen"
+   ],
+   "fut.er": [
+    "wird lernen"
+   ],
+   "fut.ich": [
+    "werde lernen"
+   ],
+   "fut.ihr": [
+    "werdet lernen"
+   ],
+   "fut.wir": [
+    "werden lernen"
+   ],
    "imp.du": [
     "lern",
     "lerne"
@@ -27822,6 +29248,21 @@
   "english": "to read",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst lesen"
+   ],
+   "fut.er": [
+    "wird lesen"
+   ],
+   "fut.ich": [
+    "werde lesen"
+   ],
+   "fut.ihr": [
+    "werdet lesen"
+   ],
+   "fut.wir": [
+    "werden lesen"
+   ],
    "imp.du": [
     "lies"
    ],
@@ -28138,6 +29579,21 @@
   "english": "to love",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst lieben"
+   ],
+   "fut.er": [
+    "wird lieben"
+   ],
+   "fut.ich": [
+    "werde lieben"
+   ],
+   "fut.ihr": [
+    "werdet lieben"
+   ],
+   "fut.wir": [
+    "werden lieben"
+   ],
    "imp.du": [
     "lieb",
     "liebe"
@@ -28240,6 +29696,21 @@
   "english": "to lie, to be (lying flat)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst liegen"
+   ],
+   "fut.er": [
+    "wird liegen"
+   ],
+   "fut.ich": [
+    "werde liegen"
+   ],
+   "fut.ihr": [
+    "werdet liegen"
+   ],
+   "fut.wir": [
+    "werden liegen"
+   ],
    "imp.du": [
     "lieg",
     "liege"
@@ -28578,6 +30049,21 @@
   "english": "to do, to make",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst machen"
+   ],
+   "fut.er": [
+    "wird machen"
+   ],
+   "fut.ich": [
+    "werde machen"
+   ],
+   "fut.ihr": [
+    "werdet machen"
+   ],
+   "fut.wir": [
+    "werden machen"
+   ],
    "imp.du": [
     "mach",
     "mache"
@@ -28673,6 +30159,21 @@
   "english": "to think, to mean",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst meinen"
+   ],
+   "fut.er": [
+    "wird meinen"
+   ],
+   "fut.ich": [
+    "werde meinen"
+   ],
+   "fut.ihr": [
+    "werdet meinen"
+   ],
+   "fut.wir": [
+    "werden meinen"
+   ],
    "imp.du": [
     "mein",
     "meine"
@@ -28785,6 +30286,21 @@
   "english": "to bring along",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst mitbringen"
+   ],
+   "fut.er": [
+    "wird mitbringen"
+   ],
+   "fut.ich": [
+    "werde mitbringen"
+   ],
+   "fut.ihr": [
+    "werdet mitbringen"
+   ],
+   "fut.wir": [
+    "werden mitbringen"
+   ],
    "imp.du": [
     "bring mit",
     "bringe mit"
@@ -28933,6 +30449,21 @@
   "english": "to come along",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst mitkommen"
+   ],
+   "fut.er": [
+    "wird mitkommen"
+   ],
+   "fut.ich": [
+    "werde mitkommen"
+   ],
+   "fut.ihr": [
+    "werdet mitkommen"
+   ],
+   "fut.wir": [
+    "werden mitkommen"
+   ],
    "imp.du": [
     "komm mit",
     "komme mit"
@@ -29066,6 +30597,21 @@
   "english": "to like; möchte: would like",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst mögen"
+   ],
+   "fut.er": [
+    "wird mögen"
+   ],
+   "fut.ich": [
+    "werde mögen"
+   ],
+   "fut.ihr": [
+    "werdet mögen"
+   ],
+   "fut.wir": [
+    "werden mögen"
+   ],
    "konj2.du": [
     "möchtest"
    ],
@@ -29555,6 +31101,21 @@
   "english": "must, to have to",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst müssen"
+   ],
+   "fut.er": [
+    "wird müssen"
+   ],
+   "fut.ich": [
+    "werde müssen"
+   ],
+   "fut.ihr": [
+    "werdet müssen"
+   ],
+   "fut.wir": [
+    "werden müssen"
+   ],
    "konj2.du": [
     "müsstest"
    ],
@@ -29629,6 +31190,231 @@
    ],
    "wuerde.wir": [
     "würden müssen"
+   ]
+  }
+ },
+ "nah": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "nah",
+   "nahe",
+   "nahem",
+   "nahen",
+   "naher",
+   "nahes",
+   "nächste",
+   "nächstem",
+   "nächsten",
+   "nächster",
+   "nächstes",
+   "näher",
+   "nähere",
+   "näherem",
+   "näheren",
+   "näherer",
+   "näheres"
+  ],
+  "english": "near; nächste: next",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "näher",
+    "näherer",
+    "nähere",
+    "näheres",
+    "näheren",
+    "näherem",
+    "der nähere",
+    "die nähere",
+    "das nähere",
+    "die näheren",
+    "des näheren",
+    "der näheren",
+    "dem näheren",
+    "den näheren",
+    "ein näherer",
+    "eine nähere",
+    "ein näheres",
+    "eines näheren",
+    "einer näheren",
+    "einem näheren",
+    "einen näheren"
+   ],
+   "comparative.pred": [
+    "näher"
+   ],
+   "mixed.acc.f": [
+    "eine nahe"
+   ],
+   "mixed.acc.m": [
+    "einen nahen"
+   ],
+   "mixed.acc.n": [
+    "ein nahes"
+   ],
+   "mixed.acc.pl": [
+    "nahen"
+   ],
+   "mixed.dat.f": [
+    "einer nahen"
+   ],
+   "mixed.dat.m": [
+    "einem nahen"
+   ],
+   "mixed.dat.n": [
+    "einem nahen"
+   ],
+   "mixed.dat.pl": [
+    "nahen"
+   ],
+   "mixed.gen.f": [
+    "einer nahen"
+   ],
+   "mixed.gen.m": [
+    "eines nahen"
+   ],
+   "mixed.gen.n": [
+    "eines nahen"
+   ],
+   "mixed.gen.pl": [
+    "nahen"
+   ],
+   "mixed.nom.f": [
+    "eine nahe"
+   ],
+   "mixed.nom.m": [
+    "ein naher"
+   ],
+   "mixed.nom.n": [
+    "ein nahes"
+   ],
+   "mixed.nom.pl": [
+    "nahen"
+   ],
+   "strong.acc.f": [
+    "nahe"
+   ],
+   "strong.acc.m": [
+    "nahen"
+   ],
+   "strong.acc.n": [
+    "nahes"
+   ],
+   "strong.acc.pl": [
+    "nahe"
+   ],
+   "strong.dat.f": [
+    "naher"
+   ],
+   "strong.dat.m": [
+    "nahem"
+   ],
+   "strong.dat.n": [
+    "nahem"
+   ],
+   "strong.dat.pl": [
+    "nahen"
+   ],
+   "strong.gen.f": [
+    "naher"
+   ],
+   "strong.gen.m": [
+    "nahen"
+   ],
+   "strong.gen.n": [
+    "nahen"
+   ],
+   "strong.gen.pl": [
+    "naher"
+   ],
+   "strong.nom.f": [
+    "nahe"
+   ],
+   "strong.nom.m": [
+    "naher"
+   ],
+   "strong.nom.n": [
+    "nahes"
+   ],
+   "strong.nom.pl": [
+    "nahe"
+   ],
+   "superlative": [
+    "am nächsten",
+    "nächster",
+    "nächste",
+    "nächstes",
+    "nächsten",
+    "nächstem",
+    "der nächste",
+    "die nächste",
+    "das nächste",
+    "die nächsten",
+    "des nächsten",
+    "der nächsten",
+    "dem nächsten",
+    "den nächsten",
+    "ein nächster",
+    "eine nächste",
+    "ein nächstes",
+    "eines nächsten",
+    "einer nächsten",
+    "einem nächsten",
+    "einen nächsten"
+   ],
+   "superlative.pred": [
+    "am nächsten"
+   ],
+   "weak.acc.f": [
+    "die nahe"
+   ],
+   "weak.acc.m": [
+    "den nahen"
+   ],
+   "weak.acc.n": [
+    "das nahe"
+   ],
+   "weak.acc.pl": [
+    "die nahen"
+   ],
+   "weak.dat.f": [
+    "der nahen"
+   ],
+   "weak.dat.m": [
+    "dem nahen"
+   ],
+   "weak.dat.n": [
+    "dem nahen"
+   ],
+   "weak.dat.pl": [
+    "den nahen"
+   ],
+   "weak.gen.f": [
+    "der nahen"
+   ],
+   "weak.gen.m": [
+    "des nahen"
+   ],
+   "weak.gen.n": [
+    "des nahen"
+   ],
+   "weak.gen.pl": [
+    "der nahen"
+   ],
+   "weak.nom.f": [
+    "die nahe"
+   ],
+   "weak.nom.m": [
+    "der nahe"
+   ],
+   "weak.nom.n": [
+    "das nahe"
+   ],
+   "weak.nom.pl": [
+    "die nahen"
    ]
   }
  },
@@ -29942,6 +31728,21 @@
   "english": "to take",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst nehmen"
+   ],
+   "fut.er": [
+    "wird nehmen"
+   ],
+   "fut.ich": [
+    "werde nehmen"
+   ],
+   "fut.ihr": [
+    "werdet nehmen"
+   ],
+   "fut.wir": [
+    "werden nehmen"
+   ],
    "imp.du": [
     "nimm"
    ],
@@ -30527,6 +32328,21 @@
   "english": "to pack",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst packen"
+   ],
+   "fut.er": [
+    "wird packen"
+   ],
+   "fut.ich": [
+    "werde packen"
+   ],
+   "fut.ihr": [
+    "werdet packen"
+   ],
+   "fut.wir": [
+    "werden packen"
+   ],
    "imp.du": [
     "pack",
     "packe"
@@ -30618,6 +32434,21 @@
   "english": "to fit",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst passen"
+   ],
+   "fut.er": [
+    "wird passen"
+   ],
+   "fut.ich": [
+    "werde passen"
+   ],
+   "fut.ihr": [
+    "werdet passen"
+   ],
+   "fut.wir": [
+    "werden passen"
+   ],
    "imp.du": [
     "pass",
     "passe"
@@ -30712,6 +32543,21 @@
   "english": "to happen",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst passieren"
+   ],
+   "fut.er": [
+    "wird passieren"
+   ],
+   "fut.ich": [
+    "werde passieren"
+   ],
+   "fut.ihr": [
+    "werdet passieren"
+   ],
+   "fut.wir": [
+    "werden passieren"
+   ],
    "imp.du": [
     "passier",
     "passiere"
@@ -30808,6 +32654,21 @@
   "english": "to clean",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst putzen"
+   ],
+   "fut.er": [
+    "wird putzen"
+   ],
+   "fut.ich": [
+    "werde putzen"
+   ],
+   "fut.ihr": [
+    "werdet putzen"
+   ],
+   "fut.wir": [
+    "werden putzen"
+   ],
    "imp.du": [
     "putz",
     "putze"
@@ -31124,6 +32985,21 @@
   "english": "to smoke",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst rauchen"
+   ],
+   "fut.er": [
+    "wird rauchen"
+   ],
+   "fut.ich": [
+    "werde rauchen"
+   ],
+   "fut.ihr": [
+    "werdet rauchen"
+   ],
+   "fut.wir": [
+    "werden rauchen"
+   ],
    "imp.du": [
     "rauch",
     "rauche"
@@ -31213,6 +33089,21 @@
   "english": "to rain",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst regnen"
+   ],
+   "fut.er": [
+    "wird regnen"
+   ],
+   "fut.ich": [
+    "werde regnen"
+   ],
+   "fut.ihr": [
+    "werdet regnen"
+   ],
+   "fut.wir": [
+    "werden regnen"
+   ],
    "imp.du": [
     "regne"
    ],
@@ -31526,6 +33417,21 @@
   "english": "to travel",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst reisen"
+   ],
+   "fut.er": [
+    "wird reisen"
+   ],
+   "fut.ich": [
+    "werde reisen"
+   ],
+   "fut.ihr": [
+    "werdet reisen"
+   ],
+   "fut.wir": [
+    "werden reisen"
+   ],
    "imp.du": [
     "reis",
     "reise"
@@ -31617,6 +33523,21 @@
   "english": "to repair",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst reparieren"
+   ],
+   "fut.er": [
+    "wird reparieren"
+   ],
+   "fut.ich": [
+    "werde reparieren"
+   ],
+   "fut.ihr": [
+    "werdet reparieren"
+   ],
+   "fut.wir": [
+    "werden reparieren"
+   ],
    "imp.du": [
     "reparier",
     "repariere"
@@ -31992,6 +33913,21 @@
   "english": "to call",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst rufen"
+   ],
+   "fut.er": [
+    "wird rufen"
+   ],
+   "fut.ich": [
+    "werde rufen"
+   ],
+   "fut.ihr": [
+    "werdet rufen"
+   ],
+   "fut.wir": [
+    "werden rufen"
+   ],
    "imp.du": [
     "ruf",
     "rufe"
@@ -32308,6 +34244,21 @@
   "english": "to say",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst sagen"
+   ],
+   "fut.er": [
+    "wird sagen"
+   ],
+   "fut.ich": [
+    "werde sagen"
+   ],
+   "fut.ihr": [
+    "werdet sagen"
+   ],
+   "fut.wir": [
+    "werden sagen"
+   ],
    "imp.du": [
     "sag",
     "sage"
@@ -32853,6 +34804,21 @@
   "english": "to shine; to seem",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst scheinen"
+   ],
+   "fut.er": [
+    "wird scheinen"
+   ],
+   "fut.ich": [
+    "werde scheinen"
+   ],
+   "fut.ihr": [
+    "werdet scheinen"
+   ],
+   "fut.wir": [
+    "werden scheinen"
+   ],
    "imp.du": [
     "schein",
     "scheine"
@@ -32945,6 +34911,21 @@
   "english": "to give (as a present)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst schenken"
+   ],
+   "fut.er": [
+    "wird schenken"
+   ],
+   "fut.ich": [
+    "werde schenken"
+   ],
+   "fut.ihr": [
+    "werdet schenken"
+   ],
+   "fut.wir": [
+    "werden schenken"
+   ],
    "imp.du": [
     "schenk",
     "schenke"
@@ -33041,6 +35022,21 @@
   "english": "to sleep",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst schlafen"
+   ],
+   "fut.er": [
+    "wird schlafen"
+   ],
+   "fut.ich": [
+    "werde schlafen"
+   ],
+   "fut.ihr": [
+    "werdet schlafen"
+   ],
+   "fut.wir": [
+    "werden schlafen"
+   ],
    "imp.du": [
     "schlaf",
     "schlafe"
@@ -33362,6 +35358,21 @@
   "english": "to close",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst schließen"
+   ],
+   "fut.er": [
+    "wird schließen"
+   ],
+   "fut.ich": [
+    "werde schließen"
+   ],
+   "fut.ihr": [
+    "werdet schließen"
+   ],
+   "fut.wir": [
+    "werden schließen"
+   ],
    "imp.du": [
     "schließ",
     "schließe"
@@ -33455,6 +35466,21 @@
   "english": "to taste (good)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst schmecken"
+   ],
+   "fut.er": [
+    "wird schmecken"
+   ],
+   "fut.ich": [
+    "werde schmecken"
+   ],
+   "fut.ihr": [
+    "werdet schmecken"
+   ],
+   "fut.wir": [
+    "werden schmecken"
+   ],
    "imp.du": [
     "schmeck",
     "schmecke"
@@ -33748,6 +35774,141 @@
    ]
   }
  },
+ "schneien": {
+  "all": [
+   "geschneit",
+   "geschnien",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "schnei",
+   "schneie",
+   "schneien",
+   "schneiend",
+   "schneiest",
+   "schneiet",
+   "schneist",
+   "schneit",
+   "schneite",
+   "schneiten",
+   "schneitest",
+   "schneitet",
+   "schnie",
+   "schnien",
+   "schniest",
+   "schniet",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to snow",
+  "pos": "verb",
+  "slots": {
+   "fut.du": [
+    "wirst schneien"
+   ],
+   "fut.er": [
+    "wird schneien"
+   ],
+   "fut.ich": [
+    "werde schneien"
+   ],
+   "fut.ihr": [
+    "werdet schneien"
+   ],
+   "fut.wir": [
+    "werden schneien"
+   ],
+   "imp.du": [
+    "schnei",
+    "schneie"
+   ],
+   "imp.ihr": [
+    "schneit"
+   ],
+   "perf.du": [
+    "hast geschneit",
+    "hast geschnien",
+    "bist geschneit",
+    "bist geschnien"
+   ],
+   "perf.er": [
+    "hat geschneit",
+    "hat geschnien",
+    "ist geschneit",
+    "ist geschnien"
+   ],
+   "perf.ich": [
+    "habe geschneit",
+    "habe geschnien",
+    "bin geschneit",
+    "bin geschnien"
+   ],
+   "perf.ihr": [
+    "habt geschneit",
+    "habt geschnien",
+    "seid geschneit",
+    "seid geschnien"
+   ],
+   "perf.wir": [
+    "haben geschneit",
+    "haben geschnien",
+    "sind geschneit",
+    "sind geschnien"
+   ],
+   "pres.du": [
+    "schneist"
+   ],
+   "pres.er": [
+    "schneit"
+   ],
+   "pres.ich": [
+    "schneie"
+   ],
+   "pres.ihr": [
+    "schneit"
+   ],
+   "pres.wir": [
+    "schneien"
+   ],
+   "pret.du": [
+    "schneitest",
+    "schniest"
+   ],
+   "pret.er": [
+    "schneite",
+    "schnie"
+   ],
+   "pret.ich": [
+    "schneite",
+    "schnie"
+   ],
+   "pret.ihr": [
+    "schneitet",
+    "schniet"
+   ],
+   "pret.wir": [
+    "schneiten",
+    "schnien"
+   ],
+   "wuerde.du": [
+    "würdest schneien"
+   ],
+   "wuerde.er": [
+    "würde schneien"
+   ],
+   "wuerde.ich": [
+    "würde schneien"
+   ],
+   "wuerde.ihr": [
+    "würdet schneien"
+   ],
+   "wuerde.wir": [
+    "würden schneien"
+   ]
+  }
+ },
  "schnell": {
   "all": [
    "am",
@@ -33998,6 +36159,21 @@
   "english": "to write",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst schreiben"
+   ],
+   "fut.er": [
+    "wird schreiben"
+   ],
+   "fut.ich": [
+    "werde schreiben"
+   ],
+   "fut.ihr": [
+    "werdet schreiben"
+   ],
+   "fut.wir": [
+    "werden schreiben"
+   ],
    "imp.du": [
     "schreib",
     "schreibe"
@@ -34836,6 +37012,21 @@
   "english": "to swim",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst schwimmen"
+   ],
+   "fut.er": [
+    "wird schwimmen"
+   ],
+   "fut.ich": [
+    "werde schwimmen"
+   ],
+   "fut.ihr": [
+    "werdet schwimmen"
+   ],
+   "fut.wir": [
+    "werden schwimmen"
+   ],
    "imp.du": [
     "schwimm",
     "schwimme"
@@ -35171,6 +37362,21 @@
   "english": "to see",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst sehen"
+   ],
+   "fut.er": [
+    "wird sehen"
+   ],
+   "fut.ich": [
+    "werde sehen"
+   ],
+   "fut.ihr": [
+    "werdet sehen"
+   ],
+   "fut.wir": [
+    "werden sehen"
+   ],
    "imp.du": [
     "sieh",
     "siehe"
@@ -35294,6 +37500,21 @@
   "english": "to be",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst sein"
+   ],
+   "fut.er": [
+    "wird sein"
+   ],
+   "fut.ich": [
+    "werde sein"
+   ],
+   "fut.ihr": [
+    "werdet sein"
+   ],
+   "fut.wir": [
+    "werden sein"
+   ],
    "imp.du": [
     "sei"
    ],
@@ -35402,6 +37623,21 @@
   "english": "sich setzen: to sit down",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst setzen"
+   ],
+   "fut.er": [
+    "wird setzen"
+   ],
+   "fut.ich": [
+    "werde setzen"
+   ],
+   "fut.ihr": [
+    "werdet setzen"
+   ],
+   "fut.wir": [
+    "werden setzen"
+   ],
    "imp.du": [
     "setz",
     "setze"
@@ -35752,6 +37988,21 @@
   "english": "to sing",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst singen"
+   ],
+   "fut.er": [
+    "wird singen"
+   ],
+   "fut.ich": [
+    "werde singen"
+   ],
+   "fut.ihr": [
+    "werdet singen"
+   ],
+   "fut.wir": [
+    "werden singen"
+   ],
    "imp.du": [
     "sing",
     "singe"
@@ -35852,6 +38103,21 @@
   "english": "to sit",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst sitzen"
+   ],
+   "fut.er": [
+    "wird sitzen"
+   ],
+   "fut.ich": [
+    "werde sitzen"
+   ],
+   "fut.ihr": [
+    "werdet sitzen"
+   ],
+   "fut.wir": [
+    "werden sitzen"
+   ],
    "imp.du": [
     "sitz",
     "sitze"
@@ -35950,6 +38216,21 @@
   "english": "to be supposed to, shall",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst sollen"
+   ],
+   "fut.er": [
+    "wird sollen"
+   ],
+   "fut.ich": [
+    "werde sollen"
+   ],
+   "fut.ihr": [
+    "werdet sollen"
+   ],
+   "fut.wir": [
+    "werden sollen"
+   ],
    "konj2.du": [
     "solltest"
    ],
@@ -36050,6 +38331,21 @@
   "english": "to save (money)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst sparen"
+   ],
+   "fut.er": [
+    "wird sparen"
+   ],
+   "fut.ich": [
+    "werde sparen"
+   ],
+   "fut.ihr": [
+    "werdet sparen"
+   ],
+   "fut.wir": [
+    "werden sparen"
+   ],
    "imp.du": [
     "spar",
     "spare"
@@ -36144,6 +38440,21 @@
   "english": "to stroll; spazieren gehen: to go for a walk",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst spazieren"
+   ],
+   "fut.er": [
+    "wird spazieren"
+   ],
+   "fut.ich": [
+    "werde spazieren"
+   ],
+   "fut.ihr": [
+    "werdet spazieren"
+   ],
+   "fut.wir": [
+    "werden spazieren"
+   ],
    "imp.du": [
     "spazier",
     "spaziere"
@@ -36241,6 +38552,21 @@
   "english": "to play",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst spielen"
+   ],
+   "fut.er": [
+    "wird spielen"
+   ],
+   "fut.ich": [
+    "werde spielen"
+   ],
+   "fut.ihr": [
+    "werdet spielen"
+   ],
+   "fut.wir": [
+    "werden spielen"
+   ],
    "imp.du": [
     "spiel",
     "spiele"
@@ -36340,6 +38666,21 @@
   "english": "to speak",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst sprechen"
+   ],
+   "fut.er": [
+    "wird sprechen"
+   ],
+   "fut.ich": [
+    "werde sprechen"
+   ],
+   "fut.ihr": [
+    "werdet sprechen"
+   ],
+   "fut.wir": [
+    "werden sprechen"
+   ],
    "imp.du": [
     "sprich"
    ],
@@ -36893,6 +39234,21 @@
   "english": "to stand, to be (upright)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst stehen"
+   ],
+   "fut.er": [
+    "wird stehen"
+   ],
+   "fut.ich": [
+    "werde stehen"
+   ],
+   "fut.ihr": [
+    "werdet stehen"
+   ],
+   "fut.wir": [
+    "werden stehen"
+   ],
    "imp.du": [
     "steh",
     "stehe"
@@ -37011,6 +39367,21 @@
   "english": "to put (upright)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst stellen"
+   ],
+   "fut.er": [
+    "wird stellen"
+   ],
+   "fut.ich": [
+    "werde stellen"
+   ],
+   "fut.ihr": [
+    "werdet stellen"
+   ],
+   "fut.wir": [
+    "werden stellen"
+   ],
    "imp.du": [
     "stell",
     "stelle"
@@ -37102,6 +39473,21 @@
   "english": "to study (at university)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst studieren"
+   ],
+   "fut.er": [
+    "wird studieren"
+   ],
+   "fut.ich": [
+    "werde studieren"
+   ],
+   "fut.ihr": [
+    "werdet studieren"
+   ],
+   "fut.wir": [
+    "werden studieren"
+   ],
    "imp.du": [
     "studier",
     "studiere"
@@ -37194,6 +39580,21 @@
   "english": "to look for",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst suchen"
+   ],
+   "fut.er": [
+    "wird suchen"
+   ],
+   "fut.ich": [
+    "werde suchen"
+   ],
+   "fut.ihr": [
+    "werdet suchen"
+   ],
+   "fut.wir": [
+    "werden suchen"
+   ],
    "imp.du": [
     "such",
     "suche"
@@ -37513,6 +39914,21 @@
   "english": "to dance",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst tanzen"
+   ],
+   "fut.er": [
+    "wird tanzen"
+   ],
+   "fut.ich": [
+    "werde tanzen"
+   ],
+   "fut.ihr": [
+    "werdet tanzen"
+   ],
+   "fut.wir": [
+    "werden tanzen"
+   ],
    "imp.du": [
     "tanz",
     "tanze"
@@ -38066,6 +40482,21 @@
   "english": "to wear; to carry",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst tragen"
+   ],
+   "fut.er": [
+    "wird tragen"
+   ],
+   "fut.ich": [
+    "werde tragen"
+   ],
+   "fut.ihr": [
+    "werdet tragen"
+   ],
+   "fut.wir": [
+    "werden tragen"
+   ],
    "imp.du": [
     "trag",
     "trage"
@@ -38389,6 +40820,21 @@
   "english": "to meet; sich treffen: to meet up",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst treffen"
+   ],
+   "fut.er": [
+    "wird treffen"
+   ],
+   "fut.ich": [
+    "werde treffen"
+   ],
+   "fut.ihr": [
+    "werdet treffen"
+   ],
+   "fut.wir": [
+    "werden treffen"
+   ],
    "imp.du": [
     "triff"
    ],
@@ -38486,6 +40932,21 @@
   "english": "to drink",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst trinken"
+   ],
+   "fut.er": [
+    "wird trinken"
+   ],
+   "fut.ich": [
+    "werde trinken"
+   ],
+   "fut.ihr": [
+    "werdet trinken"
+   ],
+   "fut.wir": [
+    "werden trinken"
+   ],
    "imp.du": [
     "trink",
     "trinke"
@@ -38578,6 +41039,21 @@
   "english": "träumen von: to dream of",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst träumen"
+   ],
+   "fut.er": [
+    "wird träumen"
+   ],
+   "fut.ich": [
+    "werde träumen"
+   ],
+   "fut.ihr": [
+    "werdet träumen"
+   ],
+   "fut.wir": [
+    "werden träumen"
+   ],
    "imp.du": [
     "träum",
     "träume"
@@ -38677,6 +41153,21 @@
   "english": "to do",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst tun"
+   ],
+   "fut.er": [
+    "wird tun"
+   ],
+   "fut.ich": [
+    "werde tun"
+   ],
+   "fut.ihr": [
+    "werdet tun"
+   ],
+   "fut.wir": [
+    "werden tun"
+   ],
    "imp.du": [
     "tu",
     "tue"
@@ -38812,6 +41303,21 @@
   "english": "to move (house)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst umziehen"
+   ],
+   "fut.er": [
+    "wird umziehen"
+   ],
+   "fut.ich": [
+    "werde umziehen"
+   ],
+   "fut.ihr": [
+    "werdet umziehen"
+   ],
+   "fut.wir": [
+    "werden umziehen"
+   ],
    "imp.du": [
     "zieh um",
     "ziehe um"
@@ -39087,6 +41593,21 @@
   "english": "to forget",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst vergessen"
+   ],
+   "fut.er": [
+    "wird vergessen"
+   ],
+   "fut.ich": [
+    "werde vergessen"
+   ],
+   "fut.ihr": [
+    "werdet vergessen"
+   ],
+   "fut.wir": [
+    "werden vergessen"
+   ],
    "imp.du": [
     "vergiss"
    ],
@@ -39178,6 +41699,21 @@
   "english": "to sell",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst verkaufen"
+   ],
+   "fut.er": [
+    "wird verkaufen"
+   ],
+   "fut.ich": [
+    "werde verkaufen"
+   ],
+   "fut.ihr": [
+    "werdet verkaufen"
+   ],
+   "fut.wir": [
+    "werden verkaufen"
+   ],
    "imp.du": [
     "verkauf",
     "verkaufe"
@@ -39275,6 +41811,21 @@
   "english": "to lose",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst verlieren"
+   ],
+   "fut.er": [
+    "wird verlieren"
+   ],
+   "fut.ich": [
+    "werde verlieren"
+   ],
+   "fut.ihr": [
+    "werdet verlieren"
+   ],
+   "fut.wir": [
+    "werden verlieren"
+   ],
    "imp.du": [
     "verlier",
     "verliere"
@@ -39375,6 +41926,21 @@
   "english": "to understand",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst verstehen"
+   ],
+   "fut.er": [
+    "wird verstehen"
+   ],
+   "fut.ich": [
+    "werde verstehen"
+   ],
+   "fut.ihr": [
+    "werdet verstehen"
+   ],
+   "fut.wir": [
+    "werden verstehen"
+   ],
    "imp.du": [
     "versteh",
     "verstehe"
@@ -39467,6 +42033,21 @@
   "english": "to try",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst versuchen"
+   ],
+   "fut.er": [
+    "wird versuchen"
+   ],
+   "fut.ich": [
+    "werde versuchen"
+   ],
+   "fut.ihr": [
+    "werdet versuchen"
+   ],
+   "fut.wir": [
+    "werden versuchen"
+   ],
    "imp.du": [
     "versuch",
     "versuche"
@@ -39790,6 +42371,21 @@
   "english": "to plan, to intend",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst vorhaben"
+   ],
+   "fut.er": [
+    "wird vorhaben"
+   ],
+   "fut.ich": [
+    "werde vorhaben"
+   ],
+   "fut.ihr": [
+    "werdet vorhaben"
+   ],
+   "fut.wir": [
+    "werden vorhaben"
+   ],
    "imp.du": [
     "hab vor",
     "habe vor"
@@ -40145,6 +42741,21 @@
   "english": "to hike",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst wandern"
+   ],
+   "fut.er": [
+    "wird wandern"
+   ],
+   "fut.ich": [
+    "werde wandern"
+   ],
+   "fut.ihr": [
+    "werdet wandern"
+   ],
+   "fut.wir": [
+    "werden wandern"
+   ],
    "imp.du": [
     "wandre",
     "wander",
@@ -40463,6 +43074,21 @@
   "english": "to wait",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst warten"
+   ],
+   "fut.er": [
+    "wird warten"
+   ],
+   "fut.ich": [
+    "werde warten"
+   ],
+   "fut.ihr": [
+    "werdet warten"
+   ],
+   "fut.wir": [
+    "werden warten"
+   ],
    "imp.du": [
     "wart",
     "warte"
@@ -40562,6 +43188,21 @@
   "english": "to wash",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst waschen"
+   ],
+   "fut.er": [
+    "wird waschen"
+   ],
+   "fut.ich": [
+    "werde waschen"
+   ],
+   "fut.ihr": [
+    "werdet waschen"
+   ],
+   "fut.wir": [
+    "werden waschen"
+   ],
    "imp.du": [
     "wasch",
     "wasche"
@@ -40679,6 +43320,21 @@
   "english": "to hurt",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst wehtun"
+   ],
+   "fut.er": [
+    "wird wehtun"
+   ],
+   "fut.ich": [
+    "werde wehtun"
+   ],
+   "fut.ihr": [
+    "werdet wehtun"
+   ],
+   "fut.wir": [
+    "werden wehtun"
+   ],
    "imp.du": [
     "tu weh",
     "tue weh"
@@ -41260,6 +43916,21 @@
   "english": "to become",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst werden"
+   ],
+   "fut.er": [
+    "wird werden"
+   ],
+   "fut.ich": [
+    "werde werden"
+   ],
+   "fut.ihr": [
+    "werdet werden"
+   ],
+   "fut.wir": [
+    "werden werden"
+   ],
    "imp.du": [
     "werd",
     "werde"
@@ -41590,6 +44261,21 @@
   "english": "to repeat",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst wiederholen"
+   ],
+   "fut.er": [
+    "wird wiederholen"
+   ],
+   "fut.ich": [
+    "werde wiederholen"
+   ],
+   "fut.ihr": [
+    "werdet wiederholen"
+   ],
+   "fut.wir": [
+    "werden wiederholen"
+   ],
    "imp.du": [
     "wiederhol",
     "wiederhole"
@@ -41686,6 +44372,21 @@
   "english": "to know (a fact)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst wissen"
+   ],
+   "fut.er": [
+    "wird wissen"
+   ],
+   "fut.ich": [
+    "werde wissen"
+   ],
+   "fut.ihr": [
+    "werdet wissen"
+   ],
+   "fut.wir": [
+    "werden wissen"
+   ],
    "imp.du": [
     "wisse"
    ],
@@ -41792,6 +44493,21 @@
   "english": "to live (somewhere)",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst wohnen"
+   ],
+   "fut.er": [
+    "wird wohnen"
+   ],
+   "fut.ich": [
+    "werde wohnen"
+   ],
+   "fut.ihr": [
+    "werdet wohnen"
+   ],
+   "fut.wir": [
+    "werden wohnen"
+   ],
    "imp.du": [
     "wohn",
     "wohne"
@@ -41884,6 +44600,21 @@
   "english": "to want",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst wollen"
+   ],
+   "fut.er": [
+    "wird wollen"
+   ],
+   "fut.ich": [
+    "werde wollen"
+   ],
+   "fut.ihr": [
+    "werdet wollen"
+   ],
+   "fut.wir": [
+    "werden wollen"
+   ],
    "konj2.du": [
     "wolltest"
    ],
@@ -41984,6 +44715,21 @@
   "english": "to show",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst zeigen"
+   ],
+   "fut.er": [
+    "wird zeigen"
+   ],
+   "fut.ich": [
+    "werde zeigen"
+   ],
+   "fut.ihr": [
+    "werdet zeigen"
+   ],
+   "fut.wir": [
+    "werden zeigen"
+   ],
    "imp.du": [
     "zeig",
     "zeige"
@@ -42087,6 +44833,21 @@
   "english": "to close",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst zumachen"
+   ],
+   "fut.er": [
+    "wird zumachen"
+   ],
+   "fut.ich": [
+    "werde zumachen"
+   ],
+   "fut.ihr": [
+    "werdet zumachen"
+   ],
+   "fut.wir": [
+    "werden zumachen"
+   ],
    "imp.du": [
     "mach zu",
     "mache zu"
@@ -42195,6 +44956,21 @@
   "english": "sich ärgern über: to be annoyed about",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst ärgern"
+   ],
+   "fut.er": [
+    "wird ärgern"
+   ],
+   "fut.ich": [
+    "werde ärgern"
+   ],
+   "fut.ihr": [
+    "werdet ärgern"
+   ],
+   "fut.wir": [
+    "werden ärgern"
+   ],
    "imp.du": [
     "ärgre",
     "ärger",
@@ -42287,6 +45063,21 @@
   "english": "to open",
   "pos": "verb",
   "slots": {
+   "fut.du": [
+    "wirst öffnen"
+   ],
+   "fut.er": [
+    "wird öffnen"
+   ],
+   "fut.ich": [
+    "werde öffnen"
+   ],
+   "fut.ihr": [
+    "werdet öffnen"
+   ],
+   "fut.wir": [
+    "werden öffnen"
+   ],
    "imp.du": [
     "öffne"
    ],

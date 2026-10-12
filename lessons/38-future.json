@@ -1,0 +1,206 @@
+{
+  "name": "Lesson 38 · What will be: the future with werden; man, jemand, nichts, alle",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **will call** you tomorrow. (one friend)",
+      "back": "Ich **werde** dich morgen **anrufen**.",
+      "note": "The future with werden. The future is werden in second place and the infinitive at the end, like a modal.",
+      "priority": 1
+    },
+    {
+      "front": "**Will** you **come**? (one friend)",
+      "back": "**Wirst** du **kommen**?",
+      "note": "The future with werden. du wirst: werden is irregular, wirst with no d.",
+      "priority": 1
+    },
+    {
+      "front": "It **will rain** tomorrow.",
+      "back": "Morgen **wird** es **regnen**.",
+      "note": "The future with werden. er/es wird. morgen first, wird second, regnen last.",
+      "priority": 1
+    },
+    {
+      "front": "We **will see**.",
+      "back": "Wir **werden sehen**.",
+      "note": "The future with werden. wir werden + the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "**Will** you **help** us? (several friends)",
+      "back": "**Werdet** ihr uns **helfen**?",
+      "note": "The future with werden. ihr werdet.",
+      "priority": 1
+    },
+    {
+      "front": "They **are going to get married** next year.",
+      "back": "Sie **werden** nächstes Jahr **heiraten**.",
+      "note": "The future with werden. sie werden … heiraten. nächstes Jahr: next year.",
+      "priority": 1
+    },
+    {
+      "front": "It **will** soon **snow**.",
+      "back": "Bald **wird** es **schneien**.",
+      "note": "The future with werden. bald: soon. es wird … schneien.",
+      "priority": 1
+    },
+    {
+      "front": "He **will** certainly **win**.",
+      "back": "Er **wird** bestimmt **gewinnen**.",
+      "note": "The future with werden. The future often makes a guess or a promise: bestimmt, surely.",
+      "priority": 1
+    },
+    {
+      "front": "That **will** probably **be** expensive.",
+      "back": "Das **wird** wahrscheinlich teuer **sein**.",
+      "note": "The future with werden. wird … sein: a guess about now or later.",
+      "priority": 1
+    },
+    {
+      "front": "In the future I **will live** in Italy.",
+      "back": "In der Zukunft **werde** ich in Italien **wohnen**.",
+      "note": "The future with werden. werde second, wohnen last.",
+      "priority": 1
+    },
+    {
+      "front": "You **will pass** the exam. (one friend)",
+      "back": "Du **wirst** die Prüfung **bestehen**.",
+      "note": "The future with werden. du wirst … bestehen.",
+      "priority": 1
+    },
+    {
+      "front": "Who **will win** the match?",
+      "back": "Wer **wird** das Spiel **gewinnen**?",
+      "note": "The future with werden. wer takes wird: the er form.",
+      "priority": 1
+    },
+    {
+      "front": "I'**ll come** tomorrow.",
+      "back": "Ich **komme** morgen.",
+      "note": "The future with werden. With a time word, German usually uses the present for the future.",
+      "priority": 1
+    },
+    {
+      "front": "We'**ll see** each other next week.",
+      "back": "Wir **sehen** uns nächste Woche.",
+      "note": "The future with werden. The present again: nächste Woche already says when.",
+      "priority": 1
+    },
+    {
+      "front": "He **is going to be** a teacher.",
+      "back": "Er **wird** Lehrer.",
+      "note": "The future with werden. werden on its own means to become.",
+      "priority": 1
+    },
+    {
+      "front": "It **is getting** cold.",
+      "back": "Es **wird** kalt.",
+      "note": "The future with werden. werden + adjective: to get, to become.",
+      "priority": 1
+    },
+    {
+      "front": "**You**'re not allowed to smoke here.",
+      "back": "Hier darf **man** nicht rauchen.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. man: people in general. It takes the er form of the verb: darf.",
+      "priority": 1
+    },
+    {
+      "front": "How do **you** say that in German?",
+      "back": "Wie sagt **man** das auf Deutsch?",
+      "note": "man, jemand, niemand, etwas, nichts, alle. man sagt: one says. auf Deutsch: in German.",
+      "priority": 1
+    },
+    {
+      "front": "In Germany **people** eat a lot of bread.",
+      "back": "In Deutschland isst **man** viel Brot.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. man for what people in general do.",
+      "priority": 1
+    },
+    {
+      "front": "**Someone** is standing in front of the door.",
+      "back": "**Jemand** steht vor der Tür.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. jemand: someone, with the er form.",
+      "priority": 1
+    },
+    {
+      "front": "Is **anyone** coming along?",
+      "back": "Kommt **jemand** mit?",
+      "note": "man, jemand, niemand, etwas, nichts, alle. jemand also means anyone in a question.",
+      "priority": 1
+    },
+    {
+      "front": "Did you see **anyone**? (one friend)",
+      "back": "Hast du **jemanden** gesehen?",
+      "note": "man, jemand, niemand, etwas, nichts, alle. As an object, jemand usually takes -en: jemanden.",
+      "priority": 1
+    },
+    {
+      "front": "**Nobody** is at home.",
+      "back": "**Niemand** ist zu Hause.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. niemand: nobody. No extra nicht.",
+      "priority": 1
+    },
+    {
+      "front": "I don't know **anybody** here.",
+      "back": "Ich kenne hier **niemanden**.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. German says I know nobody: niemanden as the object.",
+      "priority": 1
+    },
+    {
+      "front": "**Nobody** will know.",
+      "back": "**Niemand** wird es wissen.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. niemand + the future: wird … wissen.",
+      "priority": 1
+    },
+    {
+      "front": "I'd like **something** to drink.",
+      "back": "Ich möchte **etwas** trinken.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. etwas: something.",
+      "priority": 1
+    },
+    {
+      "front": "Do you need **anything**? (one friend)",
+      "back": "Brauchst du **etwas**?",
+      "note": "man, jemand, niemand, etwas, nichts, alle. etwas also means anything in a question.",
+      "priority": 1
+    },
+    {
+      "front": "I did **nothing** today.",
+      "back": "Ich habe heute **nichts** gemacht.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. nichts: nothing, never nicht etwas.",
+      "priority": 1
+    },
+    {
+      "front": "He says **nothing**.",
+      "back": "Er sagt **nichts**.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. nichts as the object.",
+      "priority": 1
+    },
+    {
+      "front": "**Everyone** is here.",
+      "back": "**Alle** sind hier.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. alle: everybody, with a plural verb.",
+      "priority": 1
+    },
+    {
+      "front": "**All** the children are playing.",
+      "back": "**Alle** Kinder spielen.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. alle before a plural noun: all.",
+      "priority": 1
+    },
+    {
+      "front": "**Everything** is fine.",
+      "back": "**Alles** ist gut.",
+      "note": "man, jemand, niemand, etwas, nichts, alle. alles: everything, with a singular verb.",
+      "priority": 1
+    },
+    {
+      "front": "Thanks for **everything**!",
+      "back": "Danke für **alles**!",
+      "note": "man, jemand, niemand, etwas, nichts, alle. für + alles.",
+      "priority": 1
+    }
+  ]
+}
