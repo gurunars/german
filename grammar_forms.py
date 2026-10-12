@@ -71,6 +71,7 @@ SLOTS = {
         "perf.ihr": ({"perfect", "indicative", "second-person", "plural"}, "perfect, ihr"),
         "imp.du": ({"imperative", "second-person", "singular"}, "imperative, du"),
         "imp.ihr": ({"imperative", "second-person", "plural"}, "imperative, ihr"),
+        "inf.zu": ({"infinitive", "infinitive-zu"}, "infinitive with zu (one word: anzurufen)"),
         # Konjunktiv II in one word: möchte, hätte, wäre, könnte.
         **_persons("konj2", {"subjunctive", "subjunctive-ii"}, "Konjunktiv II"),
         # würde + infinitive: würde kommen, würdest machen.

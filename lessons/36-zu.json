@@ -1,0 +1,188 @@
+{
+  "name": "Lesson 36 · Trying to, in order to: the infinitive with zu, um … zu",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I'm trying **to learn** German.",
+      "back": "Ich versuche, Deutsch **zu lernen**.",
+      "note": "The infinitive with zu. After many verbs a second verb takes zu and goes to the very end.",
+      "priority": 1
+    },
+    {
+      "front": "Don't forget **to call** me! (one friend)",
+      "back": "Vergiss nicht, mich **anzurufen**!",
+      "note": "The infinitive with zu. With a separable verb, zu goes between the prefix and the stem: anzurufen, one word.",
+      "priority": 1
+    },
+    {
+      "front": "Don't forget **to water** the flowers! (one friend)",
+      "back": "Vergiss nicht, die Blumen **zu gießen**!",
+      "note": "The infinitive with zu. vergessen + zu-infinitive. gießen: to water.",
+      "priority": 1
+    },
+    {
+      "front": "I have no time **to cook**.",
+      "back": "Ich habe keine Zeit **zu kochen**.",
+      "note": "The infinitive with zu. Zeit haben, Lust haben + zu: zu kochen at the end.",
+      "priority": 1
+    },
+    {
+      "front": "Do you feel like **going out**? (one friend)",
+      "back": "Hast du Lust **auszugehen**?",
+      "note": "The infinitive with zu. ausgehen → auszugehen: zu in the middle.",
+      "priority": 1
+    },
+    {
+      "front": "We don't feel like **waiting**.",
+      "back": "Wir haben keine Lust **zu warten**.",
+      "note": "The infinitive with zu. English often uses -ing where German uses zu + infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "Do you have time **to help** me? (one friend)",
+      "back": "Hast du Zeit, mir **zu helfen**?",
+      "note": "The infinitive with zu. Everything else of the zu clause comes before zu helfen.",
+      "priority": 1
+    },
+    {
+      "front": "It's important **to do** sport.",
+      "back": "Es ist wichtig, Sport **zu machen**.",
+      "note": "The infinitive with zu. Es ist + adjective + zu-infinitive. Sport machen: to do sport.",
+      "priority": 1
+    },
+    {
+      "front": "It isn't easy **to learn** a language.",
+      "back": "Es ist nicht leicht, eine Sprache **zu lernen**.",
+      "note": "The infinitive with zu. leicht: easy. The zu-infinitive closes the sentence.",
+      "priority": 1
+    },
+    {
+      "front": "It's hard **to get up** early.",
+      "back": "Es ist schwer, früh **aufzustehen**.",
+      "note": "The infinitive with zu. aufstehen → aufzustehen.",
+      "priority": 1
+    },
+    {
+      "front": "It's forbidden **to smoke** here.",
+      "back": "Es ist verboten, hier **zu rauchen**.",
+      "note": "The infinitive with zu. verboten: forbidden.",
+      "priority": 1
+    },
+    {
+      "front": "Is it possible **to come** tomorrow?",
+      "back": "Ist es möglich, morgen **zu kommen**?",
+      "note": "The infinitive with zu. möglich + zu-infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "He has stopped **smoking**.",
+      "back": "Er hat aufgehört **zu rauchen**.",
+      "note": "The infinitive with zu. aufhören + zu: to stop doing something.",
+      "priority": 1
+    },
+    {
+      "front": "She's starting **to work**.",
+      "back": "Sie fängt an **zu arbeiten**.",
+      "note": "The infinitive with zu. anfangen + zu-infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "I'm planning **to visit** my grandma.",
+      "back": "Ich habe vor, meine Oma **zu besuchen**.",
+      "note": "The infinitive with zu. vorhaben: to plan. habe … vor, then the zu clause.",
+      "priority": 1
+    },
+    {
+      "front": "Try **to get up** earlier! (one friend)",
+      "back": "Versuch, früher **aufzustehen**!",
+      "note": "The infinitive with zu. früher: earlier. aufzustehen, one word.",
+      "priority": 1
+    },
+    {
+      "front": "I forgot **to do the shopping**.",
+      "back": "Ich habe vergessen **einzukaufen**.",
+      "note": "The infinitive with zu. einkaufen → einzukaufen.",
+      "priority": 1
+    },
+    {
+      "front": "It was my plan **to arrive** early.",
+      "back": "Es war mein Plan, früh **anzukommen**.",
+      "note": "The infinitive with zu. ankommen → anzukommen.",
+      "priority": 1
+    },
+    {
+      "front": "I want **to learn** German.",
+      "back": "Ich will Deutsch **lernen**.",
+      "note": "The infinitive with zu. After a modal there is no zu: will lernen, never will zu lernen.",
+      "priority": 1
+    },
+    {
+      "front": "I'm learning German **in order to** work in Germany.",
+      "back": "Ich lerne Deutsch, **um** in Deutschland **zu** arbeiten.",
+      "note": "um … zu: in order to. um … zu says the purpose: um opens the clause, zu + infinitive closes it.",
+      "priority": 1
+    },
+    {
+      "front": "We're saving **to** buy a car.",
+      "back": "Wir sparen, **um** ein Auto **zu** kaufen.",
+      "note": "um … zu: in order to. English to = um … zu when it means in order to.",
+      "priority": 1
+    },
+    {
+      "front": "He does sport **to** stay healthy.",
+      "back": "Er macht Sport, **um** gesund **zu** bleiben.",
+      "note": "um … zu: in order to. um … zu bleiben: in order to stay.",
+      "priority": 1
+    },
+    {
+      "front": "I'm getting up early **to** catch the train.",
+      "back": "Ich stehe früh auf, **um** den Zug **zu** erreichen.",
+      "note": "um … zu: in order to. den Zug erreichen: to catch the train.",
+      "priority": 1
+    },
+    {
+      "front": "She's going to the bakery **to** buy bread.",
+      "back": "Sie geht zur Bäckerei, **um** Brot **zu** kaufen.",
+      "note": "um … zu: in order to. um … zu kaufen: to buy.",
+      "priority": 1
+    },
+    {
+      "front": "**To** pass the exam, you have to study a lot. (one friend)",
+      "back": "**Um** die Prüfung **zu** bestehen, musst du viel lernen.",
+      "note": "um … zu: in order to. The um clause takes the first place, so musst comes straight after the comma.",
+      "priority": 1
+    },
+    {
+      "front": "I'm calling **to** make an appointment.",
+      "back": "Ich rufe an, **um** einen Termin **zu** machen.",
+      "note": "um … zu: in order to. einen Termin machen: to make an appointment.",
+      "priority": 1
+    },
+    {
+      "front": "We're going into town **to do the shopping**.",
+      "back": "Wir fahren in die Stadt, **um einzukaufen**.",
+      "note": "um … zu: in order to. With a separable verb, zu sits inside it: um einzukaufen.",
+      "priority": 1
+    },
+    {
+      "front": "He's learning English **to** get a new job.",
+      "back": "Er lernt Englisch, **um** einen neuen Job **zu** bekommen.",
+      "note": "um … zu: in order to. um … zu bekommen: in order to get.",
+      "priority": 1
+    },
+    {
+      "front": "He works a lot **to** save money.",
+      "back": "Er arbeitet viel, **um** Geld **zu** sparen.",
+      "note": "um … zu: in order to. sparen: to save money.",
+      "priority": 1
+    },
+    {
+      "front": "I don't have enough money **to** buy a car.",
+      "back": "Ich habe nicht genug Geld, **um** ein Auto **zu** kaufen.",
+      "note": "um … zu: in order to. genug … um … zu: enough … to.",
+      "priority": 1
+    }
+  ]
+}

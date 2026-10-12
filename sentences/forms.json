@@ -3513,6 +3513,38 @@
    ]
   }
  },
+ "Job": {
+  "all": [
+   "Job",
+   "Jobs"
+  ],
+  "english": "job",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Jobs"
+   ],
+   "acc.sg": [
+    "Job"
+   ],
+   "dat.pl": [
+    "Jobs"
+   ],
+   "dat.sg": [
+    "Job"
+   ],
+   "gen.sg": [
+    "Jobs"
+   ],
+   "nom.pl": [
+    "Jobs"
+   ],
+   "nom.sg": [
+    "Job"
+   ]
+  }
+ },
  "Juli": {
   "all": [
    "Julei",
@@ -5740,6 +5772,48 @@
    ]
   }
  },
+ "Plan": {
+  "all": [
+   "Plan",
+   "Plane",
+   "Planen",
+   "Planes",
+   "Plans",
+   "Pläne",
+   "Plänen"
+  ],
+  "english": "plan",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Pläne",
+    "Plane"
+   ],
+   "acc.sg": [
+    "Plan"
+   ],
+   "dat.pl": [
+    "Plänen",
+    "Planen"
+   ],
+   "dat.sg": [
+    "Plan",
+    "Plane"
+   ],
+   "gen.sg": [
+    "Planes",
+    "Plans"
+   ],
+   "nom.pl": [
+    "Pläne",
+    "Plane"
+   ],
+   "nom.sg": [
+    "Plan"
+   ]
+  }
+ },
  "Platz": {
   "all": [
    "Platz",
@@ -6984,6 +7058,75 @@
    ],
    "nom.sg": [
     "Spiegel"
+   ]
+  }
+ },
+ "Sport": {
+  "all": [
+   "Sport",
+   "Sporte",
+   "Sporten",
+   "Sportes",
+   "Sports"
+  ],
+  "english": "sport",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Sporte"
+   ],
+   "acc.sg": [
+    "Sport"
+   ],
+   "dat.pl": [
+    "Sporten"
+   ],
+   "dat.sg": [
+    "Sport",
+    "Sporte"
+   ],
+   "gen.sg": [
+    "Sports",
+    "Sportes"
+   ],
+   "nom.pl": [
+    "Sporte"
+   ],
+   "nom.sg": [
+    "Sport"
+   ]
+  }
+ },
+ "Sprache": {
+  "all": [
+   "Sprache",
+   "Sprachen"
+  ],
+  "english": "language",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Sprachen"
+   ],
+   "acc.sg": [
+    "Sprache"
+   ],
+   "dat.pl": [
+    "Sprachen"
+   ],
+   "dat.sg": [
+    "Sprache"
+   ],
+   "gen.sg": [
+    "Sprache"
+   ],
+   "nom.pl": [
+    "Sprachen"
+   ],
+   "nom.sg": [
+    "Sprache"
    ]
   }
  },
@@ -8842,6 +8985,9 @@
    "imp.ihr": [
     "fahrt ab"
    ],
+   "inf.zu": [
+    "abzufahren"
+   ],
    "perf.du": [
     "hast abgefahren",
     "bist abgefahren"
@@ -8960,6 +9106,9 @@
    ],
    "imp.ihr": [
     "holt ab"
+   ],
+   "inf.zu": [
+    "abzuholen"
    ],
    "perf.du": [
     "hast abgeholt"
@@ -9311,6 +9460,9 @@
    "imp.ihr": [
     "fangt an"
    ],
+   "inf.zu": [
+    "anzufangen"
+   ],
    "perf.du": [
     "hast angefangen"
    ],
@@ -9435,6 +9587,9 @@
    ],
    "imp.ihr": [
     "kommt an"
+   ],
+   "inf.zu": [
+    "anzukommen"
    ],
    "konj2.du": [
     "kämest an",
@@ -9579,6 +9734,9 @@
    ],
    "imp.ihr": [
     "ruft an"
+   ],
+   "inf.zu": [
+    "anzurufen"
    ],
    "perf.du": [
     "hast angerufen"
@@ -9799,6 +9957,9 @@
    "imp.ihr": [
     "zieht an"
    ],
+   "inf.zu": [
+    "anzuziehen"
+   ],
    "perf.du": [
     "hast angezogen",
     "bist angezogen"
@@ -9966,6 +10127,123 @@
    ]
   }
  },
+ "aufhören": {
+  "all": [
+   "auf",
+   "aufgehört",
+   "aufhöre",
+   "aufhören",
+   "aufhörend",
+   "aufhörest",
+   "aufhöret",
+   "aufhörst",
+   "aufhört",
+   "aufhörte",
+   "aufhörten",
+   "aufhörtest",
+   "aufhörtet",
+   "aufzuhören",
+   "haben",
+   "habest",
+   "habet",
+   "hör",
+   "höre",
+   "hören",
+   "hörest",
+   "höret",
+   "hörst",
+   "hört",
+   "hörte",
+   "hörten",
+   "hörtest",
+   "hörtet",
+   "werdest"
+  ],
+  "english": "to stop",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "hör auf",
+    "höre auf"
+   ],
+   "imp.ihr": [
+    "hört auf"
+   ],
+   "inf.zu": [
+    "aufzuhören"
+   ],
+   "perf.du": [
+    "hast aufgehört"
+   ],
+   "perf.er": [
+    "hat aufgehört"
+   ],
+   "perf.ich": [
+    "habe aufgehört"
+   ],
+   "perf.ihr": [
+    "habt aufgehört"
+   ],
+   "perf.wir": [
+    "haben aufgehört"
+   ],
+   "pres.du": [
+    "hörst auf",
+    "aufhörst"
+   ],
+   "pres.er": [
+    "hört auf",
+    "aufhört"
+   ],
+   "pres.ich": [
+    "höre auf",
+    "aufhöre"
+   ],
+   "pres.ihr": [
+    "hört auf",
+    "aufhört"
+   ],
+   "pres.wir": [
+    "hören auf",
+    "aufhören"
+   ],
+   "pret.du": [
+    "hörtest auf",
+    "aufhörtest"
+   ],
+   "pret.er": [
+    "hörte auf",
+    "aufhörte"
+   ],
+   "pret.ich": [
+    "hörte auf",
+    "aufhörte"
+   ],
+   "pret.ihr": [
+    "hörtet auf",
+    "aufhörtet"
+   ],
+   "pret.wir": [
+    "hörten auf",
+    "aufhörten"
+   ],
+   "wuerde.du": [
+    "würdest aufhören"
+   ],
+   "wuerde.er": [
+    "würde aufhören"
+   ],
+   "wuerde.ich": [
+    "würde aufhören"
+   ],
+   "wuerde.ihr": [
+    "würdet aufhören"
+   ],
+   "wuerde.wir": [
+    "würden aufhören"
+   ]
+  }
+ },
  "aufmachen": {
   "all": [
    "auf",
@@ -10007,6 +10285,9 @@
    ],
    "imp.ihr": [
     "macht auf"
+   ],
+   "inf.zu": [
+    "aufzumachen"
    ],
    "perf.du": [
     "hast aufgemacht"
@@ -10119,6 +10400,9 @@
    ],
    "imp.ihr": [
     "passt auf"
+   ],
+   "inf.zu": [
+    "aufzupassen"
    ],
    "perf.du": [
     "hast aufgepasst"
@@ -10233,6 +10517,9 @@
    ],
    "imp.ihr": [
     "räumt auf"
+   ],
+   "inf.zu": [
+    "aufzuräumen"
    ],
    "perf.du": [
     "hast aufgeräumt"
@@ -10368,6 +10655,9 @@
    ],
    "imp.ihr": [
     "steht auf"
+   ],
+   "inf.zu": [
+    "aufzustehen"
    ],
    "konj2.du": [
     "ständest auf",
@@ -10519,6 +10809,9 @@
    "imp.ihr": [
     "wacht auf"
    ],
+   "inf.zu": [
+    "aufzuwachen"
+   ],
    "perf.du": [
     "bist aufgewacht"
    ],
@@ -10633,6 +10926,9 @@
    "imp.ihr": [
     "füllt aus"
    ],
+   "inf.zu": [
+    "auszufüllen"
+   ],
    "perf.du": [
     "hast ausgefüllt"
    ],
@@ -10705,6 +11001,152 @@
    ]
   }
  },
+ "ausgehen": {
+  "all": [
+   "aus",
+   "ausgegangen",
+   "ausgehe",
+   "ausgehen",
+   "ausgehend",
+   "ausgehest",
+   "ausgehet",
+   "ausgehst",
+   "ausgeht",
+   "ausging",
+   "ausginge",
+   "ausgingen",
+   "ausgingest",
+   "ausginget",
+   "ausgingst",
+   "ausgingt",
+   "auszugehen",
+   "geh",
+   "gehe",
+   "gehen",
+   "gehest",
+   "gehet",
+   "gehst",
+   "geht",
+   "ging",
+   "ginge",
+   "gingen",
+   "gingest",
+   "ginget",
+   "gingst",
+   "gingt",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to go out",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "geh aus",
+    "gehe aus"
+   ],
+   "imp.ihr": [
+    "geht aus"
+   ],
+   "inf.zu": [
+    "auszugehen"
+   ],
+   "konj2.du": [
+    "gingest aus",
+    "gingst aus",
+    "ausgingest",
+    "ausgingst"
+   ],
+   "konj2.er": [
+    "ginge aus",
+    "ausginge"
+   ],
+   "konj2.ich": [
+    "ginge aus",
+    "ausginge"
+   ],
+   "konj2.ihr": [
+    "ginget aus",
+    "gingt aus",
+    "ausginget",
+    "ausgingt"
+   ],
+   "konj2.wir": [
+    "gingen aus",
+    "ausgingen"
+   ],
+   "perf.du": [
+    "bist ausgegangen"
+   ],
+   "perf.er": [
+    "ist ausgegangen"
+   ],
+   "perf.ich": [
+    "bin ausgegangen"
+   ],
+   "perf.ihr": [
+    "seid ausgegangen"
+   ],
+   "perf.wir": [
+    "sind ausgegangen"
+   ],
+   "pres.du": [
+    "gehst aus",
+    "ausgehst"
+   ],
+   "pres.er": [
+    "geht aus",
+    "ausgeht"
+   ],
+   "pres.ich": [
+    "gehe aus",
+    "ausgehe"
+   ],
+   "pres.ihr": [
+    "geht aus",
+    "ausgeht"
+   ],
+   "pres.wir": [
+    "gehen aus",
+    "ausgehen"
+   ],
+   "pret.du": [
+    "gingst aus",
+    "ausgingst"
+   ],
+   "pret.er": [
+    "ging aus",
+    "ausging"
+   ],
+   "pret.ich": [
+    "ging aus",
+    "ausging"
+   ],
+   "pret.ihr": [
+    "gingt aus",
+    "ausgingt"
+   ],
+   "pret.wir": [
+    "gingen aus",
+    "ausgingen"
+   ],
+   "wuerde.du": [
+    "würdest ausgehen"
+   ],
+   "wuerde.er": [
+    "würde ausgehen"
+   ],
+   "wuerde.ich": [
+    "würde ausgehen"
+   ],
+   "wuerde.ihr": [
+    "würdet ausgehen"
+   ],
+   "wuerde.wir": [
+    "würden ausgehen"
+   ]
+  }
+ },
  "ausmachen": {
   "all": [
    "aus",
@@ -10746,6 +11188,9 @@
    ],
    "imp.ihr": [
     "macht aus"
+   ],
+   "inf.zu": [
+    "auszumachen"
    ],
    "perf.du": [
     "hast ausgemacht"
@@ -10860,6 +11305,9 @@
    ],
    "imp.ihr": [
     "ruht aus"
+   ],
+   "inf.zu": [
+    "auszuruhen"
    ],
    "perf.du": [
     "hast ausgeruht"
@@ -13986,6 +14434,9 @@
    "imp.ihr": [
     "kauft ein"
    ],
+   "inf.zu": [
+    "einzukaufen"
+   ],
    "perf.du": [
     "hast eingekauft"
    ],
@@ -14105,6 +14556,9 @@
    ],
    "imp.ihr": [
     "schlaft ein"
+   ],
+   "inf.zu": [
+    "einzuschlafen"
    ],
    "perf.du": [
     "bist eingeschlafen"
@@ -14467,6 +14921,97 @@
    ],
    "wuerde.wir": [
     "würden erklären"
+   ]
+  }
+ },
+ "erreichen": {
+  "all": [
+   "erreich",
+   "erreiche",
+   "erreichen",
+   "erreichend",
+   "erreichest",
+   "erreichet",
+   "erreichst",
+   "erreicht",
+   "erreichte",
+   "erreichten",
+   "erreichtest",
+   "erreichtet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to reach; to catch (a train)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "erreich",
+    "erreiche"
+   ],
+   "imp.ihr": [
+    "erreicht"
+   ],
+   "perf.du": [
+    "hast erreicht"
+   ],
+   "perf.er": [
+    "hat erreicht"
+   ],
+   "perf.ich": [
+    "habe erreicht"
+   ],
+   "perf.ihr": [
+    "habt erreicht"
+   ],
+   "perf.wir": [
+    "haben erreicht"
+   ],
+   "pres.du": [
+    "erreichst"
+   ],
+   "pres.er": [
+    "erreicht"
+   ],
+   "pres.ich": [
+    "erreiche"
+   ],
+   "pres.ihr": [
+    "erreicht"
+   ],
+   "pres.wir": [
+    "erreichen"
+   ],
+   "pret.du": [
+    "erreichtest"
+   ],
+   "pret.er": [
+    "erreichte"
+   ],
+   "pret.ich": [
+    "erreichte"
+   ],
+   "pret.ihr": [
+    "erreichtet"
+   ],
+   "pret.wir": [
+    "erreichten"
+   ],
+   "wuerde.du": [
+    "würdest erreichen"
+   ],
+   "wuerde.er": [
+    "würde erreichen"
+   ],
+   "wuerde.ich": [
+    "würde erreichen"
+   ],
+   "wuerde.ihr": [
+    "würdet erreichen"
+   ],
+   "wuerde.wir": [
+    "würden erreichen"
    ]
   }
  },
@@ -14934,6 +15479,9 @@
    ],
    "imp.ihr": [
     "seht fern"
+   ],
+   "inf.zu": [
+    "fernzusehen"
    ],
    "konj2.du": [
     "sähest fern",
@@ -17696,6 +18244,103 @@
    ],
    "weak.nom.pl": [
     "die gesunden"
+   ]
+  }
+ },
+ "gießen": {
+  "all": [
+   "gegossen",
+   "gieß",
+   "gieße",
+   "gießen",
+   "gießend",
+   "gießest",
+   "gießet",
+   "gießt",
+   "goss",
+   "gossen",
+   "gossest",
+   "gosst",
+   "gösse",
+   "gössen",
+   "gössest",
+   "gösset",
+   "gösst",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to water",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "gieß",
+    "gieße"
+   ],
+   "imp.ihr": [
+    "gießt"
+   ],
+   "perf.du": [
+    "hast gegossen"
+   ],
+   "perf.er": [
+    "hat gegossen"
+   ],
+   "perf.ich": [
+    "habe gegossen"
+   ],
+   "perf.ihr": [
+    "habt gegossen"
+   ],
+   "perf.wir": [
+    "haben gegossen"
+   ],
+   "pres.du": [
+    "gießt"
+   ],
+   "pres.er": [
+    "gießt"
+   ],
+   "pres.ich": [
+    "gieße"
+   ],
+   "pres.ihr": [
+    "gießt"
+   ],
+   "pres.wir": [
+    "gießen"
+   ],
+   "pret.du": [
+    "gossest",
+    "gosst"
+   ],
+   "pret.er": [
+    "goss"
+   ],
+   "pret.ich": [
+    "goss"
+   ],
+   "pret.ihr": [
+    "gosst"
+   ],
+   "pret.wir": [
+    "gossen"
+   ],
+   "wuerde.du": [
+    "würdest gießen"
+   ],
+   "wuerde.er": [
+    "würde gießen"
+   ],
+   "wuerde.ich": [
+    "würde gießen"
+   ],
+   "wuerde.ihr": [
+    "würdet gießen"
+   ],
+   "wuerde.wir": [
+    "würden gießen"
    ]
   }
  },
@@ -21917,6 +22562,9 @@
    ],
    "imp.ihr": [
     "lernt kennen"
+   ],
+   "inf.zu": [
+    "kennenzulernen"
    ],
    "perf.du": [
     "hast kennengelernt"
@@ -26878,6 +27526,9 @@
    "imp.ihr": [
     "bringt mit"
    ],
+   "inf.zu": [
+    "mitzubringen"
+   ],
    "konj2.du": [
     "brächtest mit",
     "mitbrächtest"
@@ -27022,6 +27673,9 @@
    ],
    "imp.ihr": [
     "kommt mit"
+   ],
+   "inf.zu": [
+    "mitzukommen"
    ],
    "konj2.du": [
     "kämest mit",
@@ -27220,6 +27874,167 @@
    ],
    "wuerde.wir": [
     "würden mögen"
+   ]
+  }
+ },
+ "möglich": {
+  "all": [
+   "keine",
+   "keinen",
+   "keiner",
+   "möglich",
+   "mögliche",
+   "möglichem",
+   "möglichen",
+   "möglicher",
+   "mögliches"
+  ],
+  "english": "possible",
+  "pos": "adj",
+  "slots": {
+   "mixed.acc.f": [
+    "eine mögliche"
+   ],
+   "mixed.acc.m": [
+    "einen möglichen"
+   ],
+   "mixed.acc.n": [
+    "ein mögliches"
+   ],
+   "mixed.acc.pl": [
+    "möglichen"
+   ],
+   "mixed.dat.f": [
+    "einer möglichen"
+   ],
+   "mixed.dat.m": [
+    "einem möglichen"
+   ],
+   "mixed.dat.n": [
+    "einem möglichen"
+   ],
+   "mixed.dat.pl": [
+    "möglichen"
+   ],
+   "mixed.gen.f": [
+    "einer möglichen"
+   ],
+   "mixed.gen.m": [
+    "eines möglichen"
+   ],
+   "mixed.gen.n": [
+    "eines möglichen"
+   ],
+   "mixed.gen.pl": [
+    "möglichen"
+   ],
+   "mixed.nom.f": [
+    "eine mögliche"
+   ],
+   "mixed.nom.m": [
+    "ein möglicher"
+   ],
+   "mixed.nom.n": [
+    "ein mögliches"
+   ],
+   "mixed.nom.pl": [
+    "möglichen"
+   ],
+   "strong.acc.f": [
+    "mögliche"
+   ],
+   "strong.acc.m": [
+    "möglichen"
+   ],
+   "strong.acc.n": [
+    "mögliches"
+   ],
+   "strong.acc.pl": [
+    "mögliche"
+   ],
+   "strong.dat.f": [
+    "möglicher"
+   ],
+   "strong.dat.m": [
+    "möglichem"
+   ],
+   "strong.dat.n": [
+    "möglichem"
+   ],
+   "strong.dat.pl": [
+    "möglichen"
+   ],
+   "strong.gen.f": [
+    "möglicher"
+   ],
+   "strong.gen.m": [
+    "möglichen"
+   ],
+   "strong.gen.n": [
+    "möglichen"
+   ],
+   "strong.gen.pl": [
+    "möglicher"
+   ],
+   "strong.nom.f": [
+    "mögliche"
+   ],
+   "strong.nom.m": [
+    "möglicher"
+   ],
+   "strong.nom.n": [
+    "mögliches"
+   ],
+   "strong.nom.pl": [
+    "mögliche"
+   ],
+   "weak.acc.f": [
+    "die mögliche"
+   ],
+   "weak.acc.m": [
+    "den möglichen"
+   ],
+   "weak.acc.n": [
+    "das mögliche"
+   ],
+   "weak.acc.pl": [
+    "die möglichen"
+   ],
+   "weak.dat.f": [
+    "der möglichen"
+   ],
+   "weak.dat.m": [
+    "dem möglichen"
+   ],
+   "weak.dat.n": [
+    "dem möglichen"
+   ],
+   "weak.dat.pl": [
+    "den möglichen"
+   ],
+   "weak.gen.f": [
+    "der möglichen"
+   ],
+   "weak.gen.m": [
+    "des möglichen"
+   ],
+   "weak.gen.n": [
+    "des möglichen"
+   ],
+   "weak.gen.pl": [
+    "der möglichen"
+   ],
+   "weak.nom.f": [
+    "die mögliche"
+   ],
+   "weak.nom.m": [
+    "der mögliche"
+   ],
+   "weak.nom.n": [
+    "das mögliche"
+   ],
+   "weak.nom.pl": [
+    "die möglichen"
    ]
   }
  },
@@ -33946,6 +34761,98 @@
    ]
   }
  },
+ "sparen": {
+  "all": [
+   "gespart",
+   "haben",
+   "habest",
+   "habet",
+   "spar",
+   "spare",
+   "sparen",
+   "sparend",
+   "sparest",
+   "sparet",
+   "sparst",
+   "spart",
+   "sparte",
+   "sparten",
+   "spartest",
+   "spartet",
+   "werdest"
+  ],
+  "english": "to save (money)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "spar",
+    "spare"
+   ],
+   "imp.ihr": [
+    "spart"
+   ],
+   "perf.du": [
+    "hast gespart"
+   ],
+   "perf.er": [
+    "hat gespart"
+   ],
+   "perf.ich": [
+    "habe gespart"
+   ],
+   "perf.ihr": [
+    "habt gespart"
+   ],
+   "perf.wir": [
+    "haben gespart"
+   ],
+   "pres.du": [
+    "sparst"
+   ],
+   "pres.er": [
+    "spart"
+   ],
+   "pres.ich": [
+    "spare"
+   ],
+   "pres.ihr": [
+    "spart"
+   ],
+   "pres.wir": [
+    "sparen"
+   ],
+   "pret.du": [
+    "spartest"
+   ],
+   "pret.er": [
+    "sparte"
+   ],
+   "pret.ich": [
+    "sparte"
+   ],
+   "pret.ihr": [
+    "spartet"
+   ],
+   "pret.wir": [
+    "sparten"
+   ],
+   "wuerde.du": [
+    "würdest sparen"
+   ],
+   "wuerde.er": [
+    "würde sparen"
+   ],
+   "wuerde.ich": [
+    "würde sparen"
+   ],
+   "wuerde.ihr": [
+    "würdet sparen"
+   ],
+   "wuerde.wir": [
+    "würden sparen"
+   ]
+  }
+ },
  "spazieren": {
   "all": [
    "haben",
@@ -36646,6 +37553,9 @@
    "imp.ihr": [
     "zieht um"
    ],
+   "inf.zu": [
+    "umzuziehen"
+   ],
    "perf.du": [
     "hast umgezogen",
     "bist umgezogen"
@@ -36720,6 +37630,167 @@
    ],
    "wuerde.wir": [
     "würden umziehen"
+   ]
+  }
+ },
+ "verboten": {
+  "all": [
+   "keine",
+   "keinen",
+   "keiner",
+   "verboten",
+   "verbotene",
+   "verbotenem",
+   "verbotenen",
+   "verbotener",
+   "verbotenes"
+  ],
+  "english": "forbidden",
+  "pos": "adj",
+  "slots": {
+   "mixed.acc.f": [
+    "eine verbotene"
+   ],
+   "mixed.acc.m": [
+    "einen verbotenen"
+   ],
+   "mixed.acc.n": [
+    "ein verbotenes"
+   ],
+   "mixed.acc.pl": [
+    "verbotenen"
+   ],
+   "mixed.dat.f": [
+    "einer verbotenen"
+   ],
+   "mixed.dat.m": [
+    "einem verbotenen"
+   ],
+   "mixed.dat.n": [
+    "einem verbotenen"
+   ],
+   "mixed.dat.pl": [
+    "verbotenen"
+   ],
+   "mixed.gen.f": [
+    "einer verbotenen"
+   ],
+   "mixed.gen.m": [
+    "eines verbotenen"
+   ],
+   "mixed.gen.n": [
+    "eines verbotenen"
+   ],
+   "mixed.gen.pl": [
+    "verbotenen"
+   ],
+   "mixed.nom.f": [
+    "eine verbotene"
+   ],
+   "mixed.nom.m": [
+    "ein verbotener"
+   ],
+   "mixed.nom.n": [
+    "ein verbotenes"
+   ],
+   "mixed.nom.pl": [
+    "verbotenen"
+   ],
+   "strong.acc.f": [
+    "verbotene"
+   ],
+   "strong.acc.m": [
+    "verbotenen"
+   ],
+   "strong.acc.n": [
+    "verbotenes"
+   ],
+   "strong.acc.pl": [
+    "verbotene"
+   ],
+   "strong.dat.f": [
+    "verbotener"
+   ],
+   "strong.dat.m": [
+    "verbotenem"
+   ],
+   "strong.dat.n": [
+    "verbotenem"
+   ],
+   "strong.dat.pl": [
+    "verbotenen"
+   ],
+   "strong.gen.f": [
+    "verbotener"
+   ],
+   "strong.gen.m": [
+    "verbotenen"
+   ],
+   "strong.gen.n": [
+    "verbotenen"
+   ],
+   "strong.gen.pl": [
+    "verbotener"
+   ],
+   "strong.nom.f": [
+    "verbotene"
+   ],
+   "strong.nom.m": [
+    "verbotener"
+   ],
+   "strong.nom.n": [
+    "verbotenes"
+   ],
+   "strong.nom.pl": [
+    "verbotene"
+   ],
+   "weak.acc.f": [
+    "die verbotene"
+   ],
+   "weak.acc.m": [
+    "den verbotenen"
+   ],
+   "weak.acc.n": [
+    "das verbotene"
+   ],
+   "weak.acc.pl": [
+    "die verbotenen"
+   ],
+   "weak.dat.f": [
+    "der verbotenen"
+   ],
+   "weak.dat.m": [
+    "dem verbotenen"
+   ],
+   "weak.dat.n": [
+    "dem verbotenen"
+   ],
+   "weak.dat.pl": [
+    "den verbotenen"
+   ],
+   "weak.gen.f": [
+    "der verbotenen"
+   ],
+   "weak.gen.m": [
+    "des verbotenen"
+   ],
+   "weak.gen.n": [
+    "des verbotenen"
+   ],
+   "weak.gen.pl": [
+    "der verbotenen"
+   ],
+   "weak.nom.f": [
+    "die verbotene"
+   ],
+   "weak.nom.m": [
+    "der verbotene"
+   ],
+   "weak.nom.n": [
+    "das verbotene"
+   ],
+   "weak.nom.pl": [
+    "die verbotenen"
    ]
   }
  },
@@ -37108,6 +38179,97 @@
    ]
   }
  },
+ "versuchen": {
+  "all": [
+   "haben",
+   "habest",
+   "habet",
+   "versuch",
+   "versuche",
+   "versuchen",
+   "versuchend",
+   "versuchest",
+   "versuchet",
+   "versuchst",
+   "versucht",
+   "versuchte",
+   "versuchten",
+   "versuchtest",
+   "versuchtet",
+   "werdest"
+  ],
+  "english": "to try",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "versuch",
+    "versuche"
+   ],
+   "imp.ihr": [
+    "versucht"
+   ],
+   "perf.du": [
+    "hast versucht"
+   ],
+   "perf.er": [
+    "hat versucht"
+   ],
+   "perf.ich": [
+    "habe versucht"
+   ],
+   "perf.ihr": [
+    "habt versucht"
+   ],
+   "perf.wir": [
+    "haben versucht"
+   ],
+   "pres.du": [
+    "versuchst"
+   ],
+   "pres.er": [
+    "versucht"
+   ],
+   "pres.ich": [
+    "versuche"
+   ],
+   "pres.ihr": [
+    "versucht"
+   ],
+   "pres.wir": [
+    "versuchen"
+   ],
+   "pret.du": [
+    "versuchtest"
+   ],
+   "pret.er": [
+    "versuchte"
+   ],
+   "pret.ich": [
+    "versuchte"
+   ],
+   "pret.ihr": [
+    "versuchtet"
+   ],
+   "pret.wir": [
+    "versuchten"
+   ],
+   "wuerde.du": [
+    "würdest versuchen"
+   ],
+   "wuerde.er": [
+    "würde versuchen"
+   ],
+   "wuerde.ich": [
+    "würde versuchen"
+   ],
+   "wuerde.ihr": [
+    "würdet versuchen"
+   ],
+   "wuerde.wir": [
+    "würden versuchen"
+   ]
+  }
+ },
  "voll": {
   "all": [
    "am",
@@ -37329,6 +38491,138 @@
    ],
    "weak.nom.pl": [
     "die vollen"
+   ]
+  }
+ },
+ "vorhaben": {
+  "all": [
+   "hab",
+   "haben",
+   "habest",
+   "habet",
+   "vor",
+   "vorgehabt",
+   "vorhabe",
+   "vorhaben",
+   "vorhabend",
+   "vorhabest",
+   "vorhabet",
+   "vorhabt",
+   "vorhast",
+   "vorhat",
+   "vorhatte",
+   "vorhatten",
+   "vorhattest",
+   "vorhattet",
+   "vorhätte",
+   "vorhätten",
+   "vorhättest",
+   "vorhättet",
+   "vorzuhaben",
+   "werdest"
+  ],
+  "english": "to plan, to intend",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "hab vor",
+    "habe vor"
+   ],
+   "imp.ihr": [
+    "habt vor"
+   ],
+   "inf.zu": [
+    "vorzuhaben"
+   ],
+   "konj2.du": [
+    "hättest vor",
+    "vorhättest"
+   ],
+   "konj2.er": [
+    "hätte vor",
+    "vorhätte"
+   ],
+   "konj2.ich": [
+    "hätte vor",
+    "vorhätte"
+   ],
+   "konj2.ihr": [
+    "hättet vor",
+    "vorhättet"
+   ],
+   "konj2.wir": [
+    "hätten vor",
+    "vorhätten"
+   ],
+   "perf.du": [
+    "hast vorgehabt"
+   ],
+   "perf.er": [
+    "hat vorgehabt"
+   ],
+   "perf.ich": [
+    "habe vorgehabt"
+   ],
+   "perf.ihr": [
+    "habt vorgehabt"
+   ],
+   "perf.wir": [
+    "haben vorgehabt"
+   ],
+   "pres.du": [
+    "hast vor",
+    "vorhast"
+   ],
+   "pres.er": [
+    "hat vor",
+    "vorhat"
+   ],
+   "pres.ich": [
+    "habe vor",
+    "vorhabe"
+   ],
+   "pres.ihr": [
+    "habt vor",
+    "vorhabt"
+   ],
+   "pres.wir": [
+    "haben vor",
+    "vorhaben"
+   ],
+   "pret.du": [
+    "hattest vor",
+    "vorhattest"
+   ],
+   "pret.er": [
+    "hatte vor",
+    "vorhatte"
+   ],
+   "pret.ich": [
+    "hatte vor",
+    "vorhatte"
+   ],
+   "pret.ihr": [
+    "hattet vor",
+    "vorhattet"
+   ],
+   "pret.wir": [
+    "hatten vor",
+    "vorhatten"
+   ],
+   "wuerde.du": [
+    "würdest vorhaben"
+   ],
+   "wuerde.er": [
+    "würde vorhaben"
+   ],
+   "wuerde.ich": [
+    "würde vorhaben"
+   ],
+   "wuerde.ihr": [
+    "würdet vorhaben"
+   ],
+   "wuerde.wir": [
+    "würden vorhaben"
    ]
   }
  },
@@ -38125,6 +39419,9 @@
    ],
    "imp.ihr": [
     "tut weh"
+   ],
+   "inf.zu": [
+    "wehzutun"
    ],
    "konj2.du": [
     "tätest weh",
@@ -39530,6 +40827,9 @@
    ],
    "imp.ihr": [
     "macht zu"
+   ],
+   "inf.zu": [
+    "zuzumachen"
    ],
    "perf.du": [
     "hast zugemacht"

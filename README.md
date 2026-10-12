@@ -81,6 +81,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 33 · Once upon a time: konnte, musste, wollte; ging, kam, gab, sagte](lessons/33-preterite.json) — 36 cards
 - [Lesson 34 · Would, could: würde, hätte, wäre, könnte](lessons/34-konjunktiv.json) — 32 cards
 - [Lesson 35 · The man who, the film that: relative clauses](lessons/35-relative.json) — 30 cards
+- [Lesson 36 · Trying to, in order to: the infinitive with zu, um … zu](lessons/36-zu.json) — 30 cards
 
 ## Decks
 
