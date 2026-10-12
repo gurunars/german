@@ -65,6 +65,39 @@
    ]
   }
  },
+ "Angst": {
+  "all": [
+   "Angst",
+   "Ängste",
+   "Ängsten"
+  ],
+  "english": "fear; Angst haben: to be afraid",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Ängste"
+   ],
+   "acc.sg": [
+    "Angst"
+   ],
+   "dat.pl": [
+    "Ängsten"
+   ],
+   "dat.sg": [
+    "Angst"
+   ],
+   "gen.sg": [
+    "Angst"
+   ],
+   "nom.pl": [
+    "Ängste"
+   ],
+   "nom.sg": [
+    "Angst"
+   ]
+  }
+ },
  "Apfel": {
   "all": [
    "Apfel",
@@ -948,6 +981,33 @@
    ]
   }
  },
+ "Durst": {
+  "all": [
+   "Durst",
+   "Durste",
+   "Durstes",
+   "Dursts"
+  ],
+  "english": "thirst",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Durst"
+   ],
+   "dat.sg": [
+    "Durst",
+    "Durste"
+   ],
+   "gen.sg": [
+    "Durstes",
+    "Dursts"
+   ],
+   "nom.sg": [
+    "Durst"
+   ]
+  }
+ },
  "Ecke": {
   "all": [
    "Eck",
@@ -1115,6 +1175,38 @@
    ],
    "nom.sg": [
     "Entschuldigung"
+   ]
+  }
+ },
+ "Erkältung": {
+  "all": [
+   "Erkältung",
+   "Erkältungen"
+  ],
+  "english": "cold (illness)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Erkältungen"
+   ],
+   "acc.sg": [
+    "Erkältung"
+   ],
+   "dat.pl": [
+    "Erkältungen"
+   ],
+   "dat.sg": [
+    "Erkältung"
+   ],
+   "gen.sg": [
+    "Erkältung"
+   ],
+   "nom.pl": [
+    "Erkältungen"
+   ],
+   "nom.sg": [
+    "Erkältung"
    ]
   }
  },
@@ -1312,6 +1404,39 @@
    ],
    "nom.pl": [
     "Ferien"
+   ]
+  }
+ },
+ "Fieber": {
+  "all": [
+   "Fieber",
+   "Fiebern",
+   "Fiebers"
+  ],
+  "english": "fever",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Fieber"
+   ],
+   "acc.sg": [
+    "Fieber"
+   ],
+   "dat.pl": [
+    "Fiebern"
+   ],
+   "dat.sg": [
+    "Fieber"
+   ],
+   "gen.sg": [
+    "Fiebers"
+   ],
+   "nom.pl": [
+    "Fieber"
+   ],
+   "nom.sg": [
+    "Fieber"
    ]
   }
  },
@@ -2191,6 +2316,34 @@
    ],
    "nom.sg": [
     "Glas"
+   ]
+  }
+ },
+ "Glück": {
+  "all": [
+   "Glück",
+   "Glücke",
+   "Glückes",
+   "Glücks",
+   "Glük"
+  ],
+  "english": "luck, happiness",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Glück"
+   ],
+   "dat.sg": [
+    "Glück",
+    "Glücke"
+   ],
+   "gen.sg": [
+    "Glückes",
+    "Glücks"
+   ],
+   "nom.sg": [
+    "Glück"
    ]
   }
  },
@@ -4467,6 +4620,29 @@
    ]
   }
  },
+ "Schnee": {
+  "all": [
+   "Schnee",
+   "Schnees"
+  ],
+  "english": "snow",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Schnee"
+   ],
+   "dat.sg": [
+    "Schnee"
+   ],
+   "gen.sg": [
+    "Schnees"
+   ],
+   "nom.sg": [
+    "Schnee"
+   ]
+  }
+ },
  "Schokolade": {
   "all": [
    "Chocolade",
@@ -5686,6 +5862,40 @@
    ]
   }
  },
+ "Wetter": {
+  "all": [
+   "Wetter",
+   "Wetterchen",
+   "Wettern",
+   "Wetters"
+  ],
+  "english": "weather",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Wetter"
+   ],
+   "acc.sg": [
+    "Wetter"
+   ],
+   "dat.pl": [
+    "Wettern"
+   ],
+   "dat.sg": [
+    "Wetter"
+   ],
+   "gen.sg": [
+    "Wetters"
+   ],
+   "nom.pl": [
+    "Wetter"
+   ],
+   "nom.sg": [
+    "Wetter"
+   ]
+  }
+ },
  "Woche": {
   "all": [
    "Woche",
@@ -6057,9 +6267,25 @@
     "fahren ab",
     "abfahren"
    ],
+   "pret.du": [
+    "fuhrst ab",
+    "abfuhrst"
+   ],
    "pret.er": [
     "fuhr ab",
     "abfuhr"
+   ],
+   "pret.ich": [
+    "fuhr ab",
+    "abfuhr"
+   ],
+   "pret.ihr": [
+    "fuhrt ab",
+    "abfuhrt"
+   ],
+   "pret.wir": [
+    "fuhren ab",
+    "abfuhren"
    ]
   }
  },
@@ -6140,9 +6366,25 @@
     "holen ab",
     "abholen"
    ],
+   "pret.du": [
+    "holtest ab",
+    "abholtest"
+   ],
    "pret.er": [
     "holte ab",
     "abholte"
+   ],
+   "pret.ich": [
+    "holte ab",
+    "abholte"
+   ],
+   "pret.ihr": [
+    "holtet ab",
+    "abholtet"
+   ],
+   "pret.wir": [
+    "holten ab",
+    "abholten"
    ]
   }
  },
@@ -6321,9 +6563,25 @@
     "fangen an",
     "anfangen"
    ],
+   "pret.du": [
+    "fingst an",
+    "anfingst"
+   ],
    "pret.er": [
     "fing an",
     "anfing"
+   ],
+   "pret.ich": [
+    "fing an",
+    "anfing"
+   ],
+   "pret.ihr": [
+    "fingt an",
+    "anfingt"
+   ],
+   "pret.wir": [
+    "fingen an",
+    "anfingen"
    ]
   }
  },
@@ -6439,9 +6697,25 @@
     "kommen an",
     "ankommen"
    ],
+   "pret.du": [
+    "kamst an",
+    "ankamst"
+   ],
    "pret.er": [
     "kam an",
     "ankam"
+   ],
+   "pret.ich": [
+    "kam an",
+    "ankam"
+   ],
+   "pret.ihr": [
+    "kamt an",
+    "ankamt"
+   ],
+   "pret.wir": [
+    "kamen an",
+    "ankamen"
    ]
   }
  },
@@ -6528,9 +6802,25 @@
     "rufen an",
     "anrufen"
    ],
+   "pret.du": [
+    "riefst an",
+    "anriefst"
+   ],
    "pret.er": [
     "rief an",
     "anrief"
+   ],
+   "pret.ich": [
+    "rief an",
+    "anrief"
+   ],
+   "pret.ihr": [
+    "rieft an",
+    "anrieft"
+   ],
+   "pret.wir": [
+    "riefen an",
+    "anriefen"
    ]
   }
  },
@@ -6592,8 +6882,20 @@
    "pres.wir": [
     "antworten"
    ],
+   "pret.du": [
+    "antwortetest"
+   ],
    "pret.er": [
     "antwortete"
+   ],
+   "pret.ich": [
+    "antwortete"
+   ],
+   "pret.ihr": [
+    "antwortetet"
+   ],
+   "pret.wir": [
+    "antworteten"
    ]
   }
  },
@@ -6655,8 +6957,20 @@
    "pres.wir": [
     "arbeiten"
    ],
+   "pret.du": [
+    "arbeitetest"
+   ],
    "pret.er": [
     "arbeitete"
+   ],
+   "pret.ich": [
+    "arbeitete"
+   ],
+   "pret.ihr": [
+    "arbeitetet"
+   ],
+   "pret.wir": [
+    "arbeiteten"
    ]
   }
  },
@@ -6737,9 +7051,25 @@
     "machen auf",
     "aufmachen"
    ],
+   "pret.du": [
+    "machtest auf",
+    "aufmachtest"
+   ],
    "pret.er": [
     "machte auf",
     "aufmachte"
+   ],
+   "pret.ich": [
+    "machte auf",
+    "aufmachte"
+   ],
+   "pret.ihr": [
+    "machtet auf",
+    "aufmachtet"
+   ],
+   "pret.wir": [
+    "machten auf",
+    "aufmachten"
    ]
   }
  },
@@ -6820,9 +7150,25 @@
     "räumen auf",
     "aufräumen"
    ],
+   "pret.du": [
+    "räumtest auf",
+    "aufräumtest"
+   ],
    "pret.er": [
     "räumte auf",
     "aufräumte"
+   ],
+   "pret.ich": [
+    "räumte auf",
+    "aufräumte"
+   ],
+   "pret.ihr": [
+    "räumtet auf",
+    "aufräumtet"
+   ],
+   "pret.wir": [
+    "räumten auf",
+    "aufräumten"
    ]
   }
  },
@@ -6959,9 +7305,27 @@
     "stehen auf",
     "aufstehen"
    ],
+   "pret.du": [
+    "standest auf",
+    "standst auf",
+    "aufstandest",
+    "aufstandst"
+   ],
    "pret.er": [
     "stand auf",
     "aufstand"
+   ],
+   "pret.ich": [
+    "stand auf",
+    "aufstand"
+   ],
+   "pret.ihr": [
+    "standet auf",
+    "aufstandet"
+   ],
+   "pret.wir": [
+    "standen auf",
+    "aufstanden"
    ]
   }
  },
@@ -7041,9 +7405,25 @@
     "wachen auf",
     "aufwachen"
    ],
+   "pret.du": [
+    "wachtest auf",
+    "aufwachtest"
+   ],
    "pret.er": [
     "wachte auf",
     "aufwachte"
+   ],
+   "pret.ich": [
+    "wachte auf",
+    "aufwachte"
+   ],
+   "pret.ihr": [
+    "wachtet auf",
+    "aufwachtet"
+   ],
+   "pret.wir": [
+    "wachten auf",
+    "aufwachten"
    ]
   }
  },
@@ -7124,9 +7504,25 @@
     "füllen aus",
     "ausfüllen"
    ],
+   "pret.du": [
+    "fülltest aus",
+    "ausfülltest"
+   ],
    "pret.er": [
     "füllte aus",
     "ausfüllte"
+   ],
+   "pret.ich": [
+    "füllte aus",
+    "ausfüllte"
+   ],
+   "pret.ihr": [
+    "fülltet aus",
+    "ausfülltet"
+   ],
+   "pret.wir": [
+    "füllten aus",
+    "ausfüllten"
    ]
   }
  },
@@ -7207,9 +7603,25 @@
     "machen aus",
     "ausmachen"
    ],
+   "pret.du": [
+    "machtest aus",
+    "ausmachtest"
+   ],
    "pret.er": [
     "machte aus",
     "ausmachte"
+   ],
+   "pret.ich": [
+    "machte aus",
+    "ausmachte"
+   ],
+   "pret.ihr": [
+    "machtet aus",
+    "ausmachtet"
+   ],
+   "pret.wir": [
+    "machten aus",
+    "ausmachten"
    ]
   }
  },
@@ -7286,8 +7698,20 @@
    "pres.wir": [
     "bekommen"
    ],
+   "pret.du": [
+    "bekamst"
+   ],
    "pret.er": [
     "bekam"
+   ],
+   "pret.ich": [
+    "bekam"
+   ],
+   "pret.ihr": [
+    "bekamt"
+   ],
+   "pret.wir": [
+    "bekamen"
    ]
   }
  },
@@ -7350,8 +7774,20 @@
    "pres.wir": [
     "besuchen"
    ],
+   "pret.du": [
+    "besuchtest"
+   ],
    "pret.er": [
     "besuchte"
+   ],
+   "pret.ich": [
+    "besuchte"
+   ],
+   "pret.ihr": [
+    "besuchtet"
+   ],
+   "pret.wir": [
+    "besuchten"
    ]
   }
  },
@@ -7414,8 +7850,20 @@
    "pres.wir": [
     "bezahlen"
    ],
+   "pret.du": [
+    "bezahltest"
+   ],
    "pret.er": [
     "bezahlte"
+   ],
+   "pret.ich": [
+    "bezahlte"
+   ],
+   "pret.ihr": [
+    "bezahltet"
+   ],
+   "pret.wir": [
+    "bezahlten"
    ]
   }
  },
@@ -7585,8 +8033,20 @@
    "pres.wir": [
     "bleiben"
    ],
+   "pret.du": [
+    "bliebst"
+   ],
    "pret.er": [
     "blieb"
+   ],
+   "pret.ich": [
+    "blieb"
+   ],
+   "pret.ihr": [
+    "bliebt"
+   ],
+   "pret.wir": [
+    "blieben"
    ]
   }
  },
@@ -7674,8 +8134,20 @@
    "pres.wir": [
     "brauchen"
    ],
+   "pret.du": [
+    "brauchtest"
+   ],
    "pret.er": [
     "brauchte"
+   ],
+   "pret.ich": [
+    "brauchte"
+   ],
+   "pret.ihr": [
+    "brauchtet"
+   ],
+   "pret.wir": [
+    "brauchten"
    ]
   }
  },
@@ -7758,8 +8230,20 @@
    "pres.wir": [
     "bringen"
    ],
+   "pret.du": [
+    "brachtest"
+   ],
    "pret.er": [
     "brachte"
+   ],
+   "pret.ich": [
+    "brachte"
+   ],
+   "pret.ihr": [
+    "brachtet"
+   ],
+   "pret.wir": [
+    "brachten"
    ]
   }
  },
@@ -7823,8 +8307,20 @@
    "pres.wir": [
     "danken"
    ],
+   "pret.du": [
+    "danktest"
+   ],
    "pret.er": [
     "dankte"
+   ],
+   "pret.ich": [
+    "dankte"
+   ],
+   "pret.ihr": [
+    "danktet"
+   ],
+   "pret.wir": [
+    "dankten"
    ]
   }
  },
@@ -7892,8 +8388,20 @@
    "pres.wir": [
     "denken"
    ],
+   "pret.du": [
+    "dachtest"
+   ],
    "pret.er": [
     "dachte"
+   ],
+   "pret.ich": [
+    "dachte"
+   ],
+   "pret.ihr": [
+    "dachtet"
+   ],
+   "pret.wir": [
+    "dachten"
    ]
   }
  },
@@ -7969,8 +8477,20 @@
    "pres.wir": [
     "dürfen"
    ],
+   "pret.du": [
+    "durftest"
+   ],
    "pret.er": [
     "durfte"
+   ],
+   "pret.ich": [
+    "durfte"
+   ],
+   "pret.ihr": [
+    "durftet"
+   ],
+   "pret.wir": [
+    "durften"
    ]
   }
  },
@@ -8136,9 +8656,25 @@
     "kaufen ein",
     "einkaufen"
    ],
+   "pret.du": [
+    "kauftest ein",
+    "einkauftest"
+   ],
    "pret.er": [
     "kaufte ein",
     "einkaufte"
+   ],
+   "pret.ich": [
+    "kaufte ein",
+    "einkaufte"
+   ],
+   "pret.ihr": [
+    "kauftet ein",
+    "einkauftet"
+   ],
+   "pret.wir": [
+    "kauften ein",
+    "einkauften"
    ]
   }
  },
@@ -8225,9 +8761,25 @@
     "schlafen ein",
     "einschlafen"
    ],
+   "pret.du": [
+    "schliefst ein",
+    "einschliefst"
+   ],
    "pret.er": [
     "schlief ein",
     "einschlief"
+   ],
+   "pret.ich": [
+    "schlief ein",
+    "einschlief"
+   ],
+   "pret.ihr": [
+    "schlieft ein",
+    "einschlieft"
+   ],
+   "pret.wir": [
+    "schliefen ein",
+    "einschliefen"
    ]
   }
  },
@@ -8290,8 +8842,20 @@
    "pres.wir": [
     "erklären"
    ],
+   "pret.du": [
+    "erklärtest"
+   ],
    "pret.er": [
     "erklärte"
+   ],
+   "pret.ich": [
+    "erklärte"
+   ],
+   "pret.ihr": [
+    "erklärtet"
+   ],
+   "pret.wir": [
+    "erklärten"
    ]
   }
  },
@@ -8354,8 +8918,20 @@
    "pres.wir": [
     "erzählen"
    ],
+   "pret.du": [
+    "erzähltest"
+   ],
    "pret.er": [
     "erzählte"
+   ],
+   "pret.ich": [
+    "erzählte"
+   ],
+   "pret.ihr": [
+    "erzähltet"
+   ],
+   "pret.wir": [
+    "erzählten"
    ]
   }
  },
@@ -8424,8 +9000,21 @@
    "pres.wir": [
     "essen"
    ],
+   "pret.du": [
+    "aßest",
+    "aßt"
+   ],
    "pret.er": [
     "aß"
+   ],
+   "pret.ich": [
+    "aß"
+   ],
+   "pret.ihr": [
+    "aßt"
+   ],
+   "pret.wir": [
+    "aßen"
    ]
   }
  },
@@ -8504,8 +9093,20 @@
    "pres.wir": [
     "fahren"
    ],
+   "pret.du": [
+    "fuhrst"
+   ],
    "pret.er": [
     "fuhr"
+   ],
+   "pret.ich": [
+    "fuhr"
+   ],
+   "pret.ihr": [
+    "fuhrt"
+   ],
+   "pret.wir": [
+    "fuhren"
    ]
   }
  },
@@ -8625,9 +9226,25 @@
     "sehen fern",
     "fernsehen"
    ],
+   "pret.du": [
+    "sahst fern",
+    "fernsahst"
+   ],
    "pret.er": [
     "sah fern",
     "fernsah"
+   ],
+   "pret.ich": [
+    "sah fern",
+    "fernsah"
+   ],
+   "pret.ihr": [
+    "saht fern",
+    "fernsaht"
+   ],
+   "pret.wir": [
+    "sahen fern",
+    "fernsahen"
    ]
   }
  },
@@ -8709,8 +9326,21 @@
    "pres.wir": [
     "finden"
    ],
+   "pret.du": [
+    "fandest",
+    "fandst"
+   ],
    "pret.er": [
     "fand"
+   ],
+   "pret.ich": [
+    "fand"
+   ],
+   "pret.ihr": [
+    "fandet"
+   ],
+   "pret.wir": [
+    "fanden"
    ]
   }
  },
@@ -8788,8 +9418,20 @@
    "pres.wir": [
     "fliegen"
    ],
+   "pret.du": [
+    "flogst"
+   ],
    "pret.er": [
     "flog"
+   ],
+   "pret.ich": [
+    "flog"
+   ],
+   "pret.ihr": [
+    "flogt"
+   ],
+   "pret.wir": [
+    "flogen"
    ]
   }
  },
@@ -8865,8 +9507,20 @@
    "pres.wir": [
     "fragen"
    ],
+   "pret.du": [
+    "fragtest"
+   ],
    "pret.er": [
     "fragte"
+   ],
+   "pret.ich": [
+    "fragte"
+   ],
+   "pret.ihr": [
+    "fragtet"
+   ],
+   "pret.wir": [
+    "fragten"
    ]
   }
  },
@@ -9155,8 +9809,20 @@
    "pres.wir": [
     "frühstücken"
    ],
+   "pret.du": [
+    "frühstücktest"
+   ],
    "pret.er": [
     "frühstückte"
+   ],
+   "pret.ich": [
+    "frühstückte"
+   ],
+   "pret.ihr": [
+    "frühstücktet"
+   ],
+   "pret.wir": [
+    "frühstückten"
    ]
   }
  },
@@ -9243,8 +9909,20 @@
    "pres.wir": [
     "geben"
    ],
+   "pret.du": [
+    "gabst"
+   ],
    "pret.er": [
     "gab"
+   ],
+   "pret.ich": [
+    "gab"
+   ],
+   "pret.ihr": [
+    "gabt"
+   ],
+   "pret.wir": [
+    "gaben"
    ]
   }
  },
@@ -9311,8 +9989,20 @@
    "pres.wir": [
     "gefallen"
    ],
+   "pret.du": [
+    "gefielst"
+   ],
    "pret.er": [
     "gefiel"
+   ],
+   "pret.ich": [
+    "gefiel"
+   ],
+   "pret.ihr": [
+    "gefielt"
+   ],
+   "pret.wir": [
+    "gefielen"
    ]
   }
  },
@@ -9396,8 +10086,20 @@
    "pres.wir": [
     "gehen"
    ],
+   "pret.du": [
+    "gingst"
+   ],
    "pret.er": [
     "ging"
+   ],
+   "pret.ich": [
+    "ging"
+   ],
+   "pret.ihr": [
+    "gingt"
+   ],
+   "pret.wir": [
+    "gingen"
    ]
   }
  },
@@ -9460,8 +10162,20 @@
    "pres.wir": [
     "gehören"
    ],
+   "pret.du": [
+    "gehörtest"
+   ],
    "pret.er": [
     "gehörte"
+   ],
+   "pret.ich": [
+    "gehörte"
+   ],
+   "pret.ihr": [
+    "gehörtet"
+   ],
+   "pret.wir": [
+    "gehörten"
    ]
   }
  },
@@ -9527,8 +10241,20 @@
    "pres.wir": [
     "glauben"
    ],
+   "pret.du": [
+    "glaubtest"
+   ],
    "pret.er": [
     "glaubte"
+   ],
+   "pret.ich": [
+    "glaubte"
+   ],
+   "pret.ihr": [
+    "glaubtet"
+   ],
+   "pret.wir": [
+    "glaubten"
    ]
   }
  },
@@ -9902,8 +10628,20 @@
    "pres.wir": [
     "haben"
    ],
+   "pret.du": [
+    "hattest"
+   ],
    "pret.er": [
     "hatte"
+   ],
+   "pret.ich": [
+    "hatte"
+   ],
+   "pret.ihr": [
+    "hattet"
+   ],
+   "pret.wir": [
+    "hatten"
    ]
   }
  },
@@ -10018,8 +10756,21 @@
    "pres.wir": [
     "heißen"
    ],
+   "pret.du": [
+    "hießest",
+    "hießt"
+   ],
    "pret.er": [
     "hieß"
+   ],
+   "pret.ich": [
+    "hieß"
+   ],
+   "pret.ihr": [
+    "hießt"
+   ],
+   "pret.wir": [
+    "hießen"
    ]
   }
  },
@@ -10089,8 +10840,20 @@
    "pres.wir": [
     "helfen"
    ],
+   "pret.du": [
+    "halfst"
+   ],
    "pret.er": [
     "half"
+   ],
+   "pret.ich": [
+    "half"
+   ],
+   "pret.ihr": [
+    "halft"
+   ],
+   "pret.wir": [
+    "halfen"
    ]
   }
  },
@@ -10154,8 +10917,20 @@
    "pres.wir": [
     "hören"
    ],
+   "pret.du": [
+    "hörtest"
+   ],
    "pret.er": [
     "hörte"
+   ],
+   "pret.ich": [
+    "hörte"
+   ],
+   "pret.ihr": [
+    "hörtet"
+   ],
+   "pret.wir": [
+    "hörten"
    ]
   }
  },
@@ -10307,8 +11082,20 @@
    "pres.wir": [
     "kaufen"
    ],
+   "pret.du": [
+    "kauftest"
+   ],
    "pret.er": [
     "kaufte"
+   ],
+   "pret.ich": [
+    "kaufte"
+   ],
+   "pret.ihr": [
+    "kauftet"
+   ],
+   "pret.wir": [
+    "kauften"
    ]
   }
  },
@@ -10376,8 +11163,20 @@
    "pres.wir": [
     "kennen"
    ],
+   "pret.du": [
+    "kanntest"
+   ],
    "pret.er": [
     "kannte"
+   ],
+   "pret.ich": [
+    "kannte"
+   ],
+   "pret.ihr": [
+    "kanntet"
+   ],
+   "pret.wir": [
+    "kannten"
    ]
   }
  },
@@ -10613,8 +11412,20 @@
    "pres.wir": [
     "kochen"
    ],
+   "pret.du": [
+    "kochtest"
+   ],
    "pret.er": [
     "kochte"
+   ],
+   "pret.ich": [
+    "kochte"
+   ],
+   "pret.ihr": [
+    "kochtet"
+   ],
+   "pret.wir": [
+    "kochten"
    ]
   }
  },
@@ -10703,8 +11514,20 @@
    "pres.wir": [
     "kommen"
    ],
+   "pret.du": [
+    "kamst"
+   ],
    "pret.er": [
     "kam"
+   ],
+   "pret.ich": [
+    "kam"
+   ],
+   "pret.ihr": [
+    "kamt"
+   ],
+   "pret.wir": [
+    "kamen"
    ]
   }
  },
@@ -10766,8 +11589,20 @@
    "pres.wir": [
     "kosten"
    ],
+   "pret.du": [
+    "kostetest"
+   ],
    "pret.er": [
     "kostete"
+   ],
+   "pret.ich": [
+    "kostete"
+   ],
+   "pret.ihr": [
+    "kostetet"
+   ],
+   "pret.wir": [
+    "kosteten"
    ]
   }
  },
@@ -11039,8 +11874,20 @@
    "pres.wir": [
     "können"
    ],
+   "pret.du": [
+    "konntest"
+   ],
    "pret.er": [
     "konnte"
+   ],
+   "pret.ich": [
+    "konnte"
+   ],
+   "pret.ihr": [
+    "konntet"
+   ],
+   "pret.wir": [
+    "konnten"
    ]
   }
  },
@@ -11104,8 +11951,20 @@
    "pres.wir": [
     "lachen"
    ],
+   "pret.du": [
+    "lachtest"
+   ],
    "pret.er": [
     "lachte"
+   ],
+   "pret.ich": [
+    "lachte"
+   ],
+   "pret.ihr": [
+    "lachtet"
+   ],
+   "pret.wir": [
+    "lachten"
    ]
   }
  },
@@ -11195,6 +12054,92 @@
    ]
   }
  },
+ "langweilig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "langweilig",
+   "langweilige",
+   "langweiligem",
+   "langweiligen",
+   "langweiliger",
+   "langweiligere",
+   "langweiligerem",
+   "langweiligeren",
+   "langweiligerer",
+   "langweiligeres",
+   "langweiliges",
+   "langweiligste",
+   "langweiligstem",
+   "langweiligsten",
+   "langweiligster",
+   "langweiligstes"
+  ],
+  "english": "boring",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "langweiliger",
+    "langweiligerer",
+    "langweiligere",
+    "langweiligeres",
+    "langweiligeren",
+    "langweiligerem",
+    "der langweiligere",
+    "die langweiligere",
+    "das langweiligere",
+    "die langweiligeren",
+    "des langweiligeren",
+    "der langweiligeren",
+    "dem langweiligeren",
+    "den langweiligeren",
+    "ein langweiligerer",
+    "eine langweiligere",
+    "ein langweiligeres",
+    "eines langweiligeren",
+    "einer langweiligeren",
+    "einem langweiligeren",
+    "einen langweiligeren"
+   ],
+   "mixed.acc.m": [
+    "einen langweiligen"
+   ],
+   "mixed.nom.n": [
+    "ein langweiliges"
+   ],
+   "strong.dat.f": [
+    "langweiliger"
+   ],
+   "superlative": [
+    "am langweiligsten",
+    "langweiligster",
+    "langweiligste",
+    "langweiligstes",
+    "langweiligsten",
+    "langweiligstem",
+    "der langweiligste",
+    "die langweiligste",
+    "das langweiligste",
+    "die langweiligsten",
+    "des langweiligsten",
+    "der langweiligsten",
+    "dem langweiligsten",
+    "den langweiligsten",
+    "ein langweiligster",
+    "eine langweiligste",
+    "ein langweiligstes",
+    "eines langweiligsten",
+    "einer langweiligsten",
+    "einem langweiligsten",
+    "einen langweiligsten"
+   ],
+   "weak.nom.m": [
+    "der langweilige"
+   ]
+  }
+ },
  "lassen": {
   "all": [
    "gelassen",
@@ -11280,8 +12225,21 @@
    "pres.wir": [
     "lassen"
    ],
+   "pret.du": [
+    "ließest",
+    "ließt"
+   ],
    "pret.er": [
     "ließ"
+   ],
+   "pret.ich": [
+    "ließ"
+   ],
+   "pret.ihr": [
+    "ließt"
+   ],
+   "pret.wir": [
+    "ließen"
    ]
   }
  },
@@ -11365,8 +12323,20 @@
    "pres.wir": [
     "laufen"
    ],
+   "pret.du": [
+    "liefst"
+   ],
    "pret.er": [
     "lief"
+   ],
+   "pret.ich": [
+    "lief"
+   ],
+   "pret.ihr": [
+    "lieft"
+   ],
+   "pret.wir": [
+    "liefen"
    ]
   }
  },
@@ -11516,8 +12486,106 @@
    "pres.wir": [
     "leben"
    ],
+   "pret.du": [
+    "lebtest"
+   ],
    "pret.er": [
     "lebte"
+   ],
+   "pret.ich": [
+    "lebte"
+   ],
+   "pret.ihr": [
+    "lebtet"
+   ],
+   "pret.wir": [
+    "lebten"
+   ]
+  }
+ },
+ "leer": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "leer",
+   "leere",
+   "leerem",
+   "leeren",
+   "leerer",
+   "leerere",
+   "leererem",
+   "leereren",
+   "leererer",
+   "leereres",
+   "leeres",
+   "leerste",
+   "leerstem",
+   "leersten",
+   "leerster",
+   "leerstes"
+  ],
+  "english": "empty",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "leerer",
+    "leererer",
+    "leerere",
+    "leereres",
+    "leereren",
+    "leererem",
+    "der leerere",
+    "die leerere",
+    "das leerere",
+    "die leereren",
+    "des leereren",
+    "der leereren",
+    "dem leereren",
+    "den leereren",
+    "ein leererer",
+    "eine leerere",
+    "ein leereres",
+    "eines leereren",
+    "einer leereren",
+    "einem leereren",
+    "einen leereren"
+   ],
+   "mixed.acc.m": [
+    "einen leeren"
+   ],
+   "mixed.nom.n": [
+    "ein leeres"
+   ],
+   "strong.dat.f": [
+    "leerer"
+   ],
+   "superlative": [
+    "am leersten",
+    "leerster",
+    "leerste",
+    "leerstes",
+    "leersten",
+    "leerstem",
+    "der leerste",
+    "die leerste",
+    "das leerste",
+    "die leersten",
+    "des leersten",
+    "der leersten",
+    "dem leersten",
+    "den leersten",
+    "ein leerster",
+    "eine leerste",
+    "ein leerstes",
+    "eines leersten",
+    "einer leersten",
+    "einem leersten",
+    "einen leersten"
+   ],
+   "weak.nom.m": [
+    "der leere"
    ]
   }
  },
@@ -11584,8 +12652,20 @@
    "pres.wir": [
     "leihen"
    ],
+   "pret.du": [
+    "liehst"
+   ],
    "pret.er": [
     "lieh"
+   ],
+   "pret.ich": [
+    "lieh"
+   ],
+   "pret.ihr": [
+    "lieht"
+   ],
+   "pret.wir": [
+    "liehen"
    ]
   }
  },
@@ -11735,8 +12815,20 @@
    "pres.wir": [
     "lernen"
    ],
+   "pret.du": [
+    "lerntest"
+   ],
    "pret.er": [
     "lernte"
+   ],
+   "pret.ich": [
+    "lernte"
+   ],
+   "pret.ihr": [
+    "lerntet"
+   ],
+   "pret.wir": [
+    "lernten"
    ]
   }
  },
@@ -11804,8 +12896,21 @@
    "pres.wir": [
     "lesen"
    ],
+   "pret.du": [
+    "lasest",
+    "last"
+   ],
    "pret.er": [
     "las"
+   ],
+   "pret.ich": [
+    "las"
+   ],
+   "pret.ihr": [
+    "last"
+   ],
+   "pret.wir": [
+    "lasen"
    ]
   }
  },
@@ -11869,8 +12974,106 @@
    "pres.wir": [
     "lieben"
    ],
+   "pret.du": [
+    "liebtest"
+   ],
    "pret.er": [
     "liebte"
+   ],
+   "pret.ich": [
+    "liebte"
+   ],
+   "pret.ihr": [
+    "liebtet"
+   ],
+   "pret.wir": [
+    "liebten"
+   ]
+  }
+ },
+ "lustig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "lustig",
+   "lustige",
+   "lustigem",
+   "lustigen",
+   "lustiger",
+   "lustigere",
+   "lustigerem",
+   "lustigeren",
+   "lustigerer",
+   "lustigeres",
+   "lustiges",
+   "lustigste",
+   "lustigstem",
+   "lustigsten",
+   "lustigster",
+   "lustigstes"
+  ],
+  "english": "funny, fun",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "lustiger",
+    "lustigerer",
+    "lustigere",
+    "lustigeres",
+    "lustigeren",
+    "lustigerem",
+    "der lustigere",
+    "die lustigere",
+    "das lustigere",
+    "die lustigeren",
+    "des lustigeren",
+    "der lustigeren",
+    "dem lustigeren",
+    "den lustigeren",
+    "ein lustigerer",
+    "eine lustigere",
+    "ein lustigeres",
+    "eines lustigeren",
+    "einer lustigeren",
+    "einem lustigeren",
+    "einen lustigeren"
+   ],
+   "mixed.acc.m": [
+    "einen lustigen"
+   ],
+   "mixed.nom.n": [
+    "ein lustiges"
+   ],
+   "strong.dat.f": [
+    "lustiger"
+   ],
+   "superlative": [
+    "am lustigsten",
+    "lustigster",
+    "lustigste",
+    "lustigstes",
+    "lustigsten",
+    "lustigstem",
+    "der lustigste",
+    "die lustigste",
+    "das lustigste",
+    "die lustigsten",
+    "des lustigsten",
+    "der lustigsten",
+    "dem lustigsten",
+    "den lustigsten",
+    "ein lustigster",
+    "eine lustigste",
+    "ein lustigstes",
+    "eines lustigsten",
+    "einer lustigsten",
+    "einem lustigsten",
+    "einen lustigsten"
+   ],
+   "weak.nom.m": [
+    "der lustige"
    ]
   }
  },
@@ -11934,8 +13137,20 @@
    "pres.wir": [
     "machen"
    ],
+   "pret.du": [
+    "machtest"
+   ],
    "pret.er": [
     "machte"
+   ],
+   "pret.ich": [
+    "machte"
+   ],
+   "pret.ihr": [
+    "machtet"
+   ],
+   "pret.wir": [
+    "machten"
    ]
   }
  },
@@ -12044,9 +13259,25 @@
     "bringen mit",
     "mitbringen"
    ],
+   "pret.du": [
+    "brachtest mit",
+    "mitbrachtest"
+   ],
    "pret.er": [
     "brachte mit",
     "mitbrachte"
+   ],
+   "pret.ich": [
+    "brachte mit",
+    "mitbrachte"
+   ],
+   "pret.ihr": [
+    "brachtet mit",
+    "mitbrachtet"
+   ],
+   "pret.wir": [
+    "brachten mit",
+    "mitbrachten"
    ]
   }
  },
@@ -12162,9 +13393,25 @@
     "kommen mit",
     "mitkommen"
    ],
+   "pret.du": [
+    "kamst mit",
+    "mitkamst"
+   ],
    "pret.er": [
     "kam mit",
     "mitkam"
+   ],
+   "pret.ich": [
+    "kam mit",
+    "mitkam"
+   ],
+   "pret.ihr": [
+    "kamt mit",
+    "mitkamt"
+   ],
+   "pret.wir": [
+    "kamen mit",
+    "mitkamen"
    ]
   }
  },
@@ -12240,8 +13487,20 @@
    "pres.wir": [
     "mögen"
    ],
+   "pret.du": [
+    "mochtest"
+   ],
    "pret.er": [
     "mochte"
+   ],
+   "pret.ich": [
+    "mochte"
+   ],
+   "pret.ihr": [
+    "mochtet"
+   ],
+   "pret.wir": [
+    "mochten"
    ]
   }
  },
@@ -12403,8 +13662,20 @@
    "pres.wir": [
     "müssen"
    ],
+   "pret.du": [
+    "musstest"
+   ],
    "pret.er": [
     "musste"
+   ],
+   "pret.ich": [
+    "musste"
+   ],
+   "pret.ihr": [
+    "musstet"
+   ],
+   "pret.wir": [
+    "mussten"
    ]
   }
  },
@@ -12491,8 +13762,20 @@
    "pres.wir": [
     "nehmen"
    ],
+   "pret.du": [
+    "nahmst"
+   ],
    "pret.er": [
     "nahm"
+   ],
+   "pret.ich": [
+    "nahm"
+   ],
+   "pret.ihr": [
+    "nahmt"
+   ],
+   "pret.wir": [
+    "nahmen"
    ]
   }
  },
@@ -12755,8 +14038,20 @@
    "pres.wir": [
     "passen"
    ],
+   "pret.du": [
+    "passtest"
+   ],
    "pret.er": [
     "passte"
+   ],
+   "pret.ich": [
+    "passte"
+   ],
+   "pret.ihr": [
+    "passtet"
+   ],
+   "pret.wir": [
+    "passten"
    ]
   }
  },
@@ -12827,8 +14122,20 @@
    "pres.wir": [
     "passieren"
    ],
+   "pret.du": [
+    "passiertest"
+   ],
    "pret.er": [
     "passierte"
+   ],
+   "pret.ich": [
+    "passierte"
+   ],
+   "pret.ihr": [
+    "passiertet"
+   ],
+   "pret.wir": [
+    "passierten"
    ]
   }
  },
@@ -12891,8 +14198,20 @@
    "pres.wir": [
     "putzen"
    ],
+   "pret.du": [
+    "putztest"
+   ],
    "pret.er": [
     "putzte"
+   ],
+   "pret.ich": [
+    "putzte"
+   ],
+   "pret.ihr": [
+    "putztet"
+   ],
+   "pret.wir": [
+    "putzten"
    ]
   }
  },
@@ -12956,8 +14275,20 @@
    "pres.wir": [
     "rauchen"
    ],
+   "pret.du": [
+    "rauchtest"
+   ],
    "pret.er": [
     "rauchte"
+   ],
+   "pret.ich": [
+    "rauchte"
+   ],
+   "pret.ihr": [
+    "rauchtet"
+   ],
+   "pret.wir": [
+    "rauchten"
    ]
   }
  },
@@ -13017,8 +14348,20 @@
    "pres.wir": [
     "regnen"
    ],
+   "pret.du": [
+    "regnetest"
+   ],
    "pret.er": [
     "regnete"
+   ],
+   "pret.ich": [
+    "regnete"
+   ],
+   "pret.ihr": [
+    "regnetet"
+   ],
+   "pret.wir": [
+    "regneten"
    ]
   }
  },
@@ -13080,8 +14423,20 @@
    "pres.wir": [
     "reisen"
    ],
+   "pret.du": [
+    "reistest"
+   ],
    "pret.er": [
     "reiste"
+   ],
+   "pret.ich": [
+    "reiste"
+   ],
+   "pret.ihr": [
+    "reistet"
+   ],
+   "pret.wir": [
+    "reisten"
    ]
   }
  },
@@ -13231,8 +14586,20 @@
    "pres.wir": [
     "sagen"
    ],
+   "pret.du": [
+    "sagtest"
+   ],
    "pret.er": [
     "sagte"
+   ],
+   "pret.ich": [
+    "sagte"
+   ],
+   "pret.ihr": [
+    "sagtet"
+   ],
+   "pret.wir": [
+    "sagten"
    ]
   }
  },
@@ -13296,8 +14663,20 @@
    "pres.wir": [
     "schenken"
    ],
+   "pret.du": [
+    "schenktest"
+   ],
    "pret.er": [
     "schenkte"
+   ],
+   "pret.ich": [
+    "schenkte"
+   ],
+   "pret.ihr": [
+    "schenktet"
+   ],
+   "pret.wir": [
+    "schenkten"
    ]
   }
  },
@@ -13365,8 +14744,20 @@
    "pres.wir": [
     "schlafen"
    ],
+   "pret.du": [
+    "schliefst"
+   ],
    "pret.er": [
     "schlief"
+   ],
+   "pret.ich": [
+    "schlief"
+   ],
+   "pret.ihr": [
+    "schlieft"
+   ],
+   "pret.wir": [
+    "schliefen"
    ]
   }
  },
@@ -13521,8 +14912,21 @@
    "pres.wir": [
     "schließen"
    ],
+   "pret.du": [
+    "schlossest",
+    "schlosst"
+   ],
    "pret.er": [
     "schloss"
+   ],
+   "pret.ich": [
+    "schloss"
+   ],
+   "pret.ihr": [
+    "schlosst"
+   ],
+   "pret.wir": [
+    "schlossen"
    ]
   }
  },
@@ -13586,8 +14990,20 @@
    "pres.wir": [
     "schmecken"
    ],
+   "pret.du": [
+    "schmecktest"
+   ],
    "pret.er": [
     "schmeckte"
+   ],
+   "pret.ich": [
+    "schmeckte"
+   ],
+   "pret.ihr": [
+    "schmecktet"
+   ],
+   "pret.wir": [
+    "schmeckten"
    ]
   }
  },
@@ -13740,8 +15156,20 @@
    "pres.wir": [
     "schreiben"
    ],
+   "pret.du": [
+    "schriebst"
+   ],
    "pret.er": [
     "schrieb"
+   ],
+   "pret.ich": [
+    "schrieb"
+   ],
+   "pret.ihr": [
+    "schriebt"
+   ],
+   "pret.wir": [
+    "schrieben"
    ]
   }
  },
@@ -13915,9 +15343,25 @@
    "pres.wir": [
     "schwimmen"
    ],
+   "pret.du": [
+    "schwammst",
+    "schwommst"
+   ],
    "pret.er": [
     "schwamm",
     "schwomm"
+   ],
+   "pret.ich": [
+    "schwamm",
+    "schwomm"
+   ],
+   "pret.ihr": [
+    "schwammt",
+    "schwommt"
+   ],
+   "pret.wir": [
+    "schwammen",
+    "schwommen"
    ]
   }
  },
@@ -14093,8 +15537,20 @@
    "pres.wir": [
     "sehen"
    ],
+   "pret.du": [
+    "sahst"
+   ],
    "pret.er": [
     "sah"
+   ],
+   "pret.ich": [
+    "sah"
+   ],
+   "pret.ihr": [
+    "saht"
+   ],
+   "pret.wir": [
+    "sahen"
    ]
   }
  },
@@ -14188,8 +15644,20 @@
    "pres.wir": [
     "sind"
    ],
+   "pret.du": [
+    "warst"
+   ],
    "pret.er": [
     "war"
+   ],
+   "pret.ich": [
+    "war"
+   ],
+   "pret.ihr": [
+    "wart"
+   ],
+   "pret.wir": [
+    "waren"
    ]
   }
  },
@@ -14259,8 +15727,20 @@
    "pres.wir": [
     "singen"
    ],
+   "pret.du": [
+    "sangst"
+   ],
    "pret.er": [
     "sang"
+   ],
+   "pret.ich": [
+    "sang"
+   ],
+   "pret.ihr": [
+    "sangt"
+   ],
+   "pret.wir": [
+    "sangen"
    ]
   }
  },
@@ -14332,8 +15812,20 @@
    "pres.wir": [
     "sollen"
    ],
+   "pret.du": [
+    "solltest"
+   ],
    "pret.er": [
     "sollte"
+   ],
+   "pret.ich": [
+    "sollte"
+   ],
+   "pret.ihr": [
+    "solltet"
+   ],
+   "pret.wir": [
+    "sollten"
    ]
   }
  },
@@ -14397,8 +15889,20 @@
    "pres.wir": [
     "spielen"
    ],
+   "pret.du": [
+    "spieltest"
+   ],
    "pret.er": [
     "spielte"
+   ],
+   "pret.ich": [
+    "spielte"
+   ],
+   "pret.ihr": [
+    "spieltet"
+   ],
+   "pret.wir": [
+    "spielten"
    ]
   }
  },
@@ -14468,8 +15972,20 @@
    "pres.wir": [
     "sprechen"
    ],
+   "pret.du": [
+    "sprachst"
+   ],
    "pret.er": [
     "sprach"
+   ],
+   "pret.ich": [
+    "sprach"
+   ],
+   "pret.ihr": [
+    "spracht"
+   ],
+   "pret.wir": [
+    "sprachen"
    ]
   }
  },
@@ -14619,8 +16135,20 @@
    "pres.wir": [
     "suchen"
    ],
+   "pret.du": [
+    "suchtest"
+   ],
    "pret.er": [
     "suchte"
+   ],
+   "pret.ich": [
+    "suchte"
+   ],
+   "pret.ihr": [
+    "suchtet"
+   ],
+   "pret.wir": [
+    "suchten"
    ]
   }
  },
@@ -14691,8 +16219,20 @@
    "pres.wir": [
     "tanzen"
    ],
+   "pret.du": [
+    "tanztest"
+   ],
    "pret.er": [
     "tanzte"
+   ],
+   "pret.ich": [
+    "tanzte"
+   ],
+   "pret.ihr": [
+    "tanztet"
+   ],
+   "pret.wir": [
+    "tanzten"
    ]
   }
  },
@@ -14869,6 +16409,92 @@
    ]
   }
  },
+ "traurig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "traurig",
+   "traurige",
+   "traurigem",
+   "traurigen",
+   "trauriger",
+   "traurigere",
+   "traurigerem",
+   "traurigeren",
+   "traurigerer",
+   "traurigeres",
+   "trauriges",
+   "traurigste",
+   "traurigstem",
+   "traurigsten",
+   "traurigster",
+   "traurigstes"
+  ],
+  "english": "sad",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "trauriger",
+    "traurigerer",
+    "traurigere",
+    "traurigeres",
+    "traurigeren",
+    "traurigerem",
+    "der traurigere",
+    "die traurigere",
+    "das traurigere",
+    "die traurigeren",
+    "des traurigeren",
+    "der traurigeren",
+    "dem traurigeren",
+    "den traurigeren",
+    "ein traurigerer",
+    "eine traurigere",
+    "ein traurigeres",
+    "eines traurigeren",
+    "einer traurigeren",
+    "einem traurigeren",
+    "einen traurigeren"
+   ],
+   "mixed.acc.m": [
+    "einen traurigen"
+   ],
+   "mixed.nom.n": [
+    "ein trauriges"
+   ],
+   "strong.dat.f": [
+    "trauriger"
+   ],
+   "superlative": [
+    "am traurigsten",
+    "traurigster",
+    "traurigste",
+    "traurigstes",
+    "traurigsten",
+    "traurigstem",
+    "der traurigste",
+    "die traurigste",
+    "das traurigste",
+    "die traurigsten",
+    "des traurigsten",
+    "der traurigsten",
+    "dem traurigsten",
+    "den traurigsten",
+    "ein traurigster",
+    "eine traurigste",
+    "ein traurigstes",
+    "eines traurigsten",
+    "einer traurigsten",
+    "einem traurigsten",
+    "einen traurigsten"
+   ],
+   "weak.nom.m": [
+    "der traurige"
+   ]
+  }
+ },
  "trinken": {
   "all": [
    "getrunken",
@@ -14935,8 +16561,20 @@
    "pres.wir": [
     "trinken"
    ],
+   "pret.du": [
+    "trankst"
+   ],
    "pret.er": [
     "trank"
+   ],
+   "pret.ich": [
+    "trank"
+   ],
+   "pret.ihr": [
+    "trankt"
+   ],
+   "pret.wir": [
+    "tranken"
    ]
   }
  },
@@ -15037,9 +16675,25 @@
     "ziehen um",
     "umziehen"
    ],
+   "pret.du": [
+    "zogst um",
+    "umzogst"
+   ],
    "pret.er": [
     "zog um",
     "umzog"
+   ],
+   "pret.ich": [
+    "zog um",
+    "umzog"
+   ],
+   "pret.ihr": [
+    "zogt um",
+    "umzogt"
+   ],
+   "pret.wir": [
+    "zogen um",
+    "umzogen"
    ]
   }
  },
@@ -15106,8 +16760,21 @@
    "pres.wir": [
     "vergessen"
    ],
+   "pret.du": [
+    "vergaßest",
+    "vergaßt"
+   ],
    "pret.er": [
     "vergaß"
+   ],
+   "pret.ich": [
+    "vergaß"
+   ],
+   "pret.ihr": [
+    "vergaßt"
+   ],
+   "pret.wir": [
+    "vergaßen"
    ]
   }
  },
@@ -15170,8 +16837,20 @@
    "pres.wir": [
     "verkaufen"
    ],
+   "pret.du": [
+    "verkauftest"
+   ],
    "pret.er": [
     "verkaufte"
+   ],
+   "pret.ich": [
+    "verkaufte"
+   ],
+   "pret.ihr": [
+    "verkauftet"
+   ],
+   "pret.wir": [
+    "verkauften"
    ]
   }
  },
@@ -15240,8 +16919,20 @@
    "pres.wir": [
     "verlieren"
    ],
+   "pret.du": [
+    "verlorst"
+   ],
    "pret.er": [
     "verlor"
+   ],
+   "pret.ich": [
+    "verlor"
+   ],
+   "pret.ihr": [
+    "verlort"
+   ],
+   "pret.wir": [
+    "verloren"
    ]
   }
  },
@@ -15313,8 +17004,107 @@
    "pres.wir": [
     "verstehen"
    ],
+   "pret.du": [
+    "verstandest",
+    "verstandst"
+   ],
    "pret.er": [
     "verstand"
+   ],
+   "pret.ich": [
+    "verstand"
+   ],
+   "pret.ihr": [
+    "verstandet"
+   ],
+   "pret.wir": [
+    "verstanden"
+   ]
+  }
+ },
+ "voll": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "voll",
+   "volle",
+   "vollem",
+   "vollen",
+   "voller",
+   "vollere",
+   "vollerem",
+   "volleren",
+   "vollerer",
+   "volleres",
+   "volles",
+   "vollste",
+   "vollstem",
+   "vollsten",
+   "vollster",
+   "vollstes"
+  ],
+  "english": "full",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "voller",
+    "vollerer",
+    "vollere",
+    "volleres",
+    "volleren",
+    "vollerem",
+    "der vollere",
+    "die vollere",
+    "das vollere",
+    "die volleren",
+    "des volleren",
+    "der volleren",
+    "dem volleren",
+    "den volleren",
+    "ein vollerer",
+    "eine vollere",
+    "ein volleres",
+    "eines volleren",
+    "einer volleren",
+    "einem volleren",
+    "einen volleren"
+   ],
+   "mixed.acc.m": [
+    "einen vollen"
+   ],
+   "mixed.nom.n": [
+    "ein volles"
+   ],
+   "strong.dat.f": [
+    "voller"
+   ],
+   "superlative": [
+    "am vollsten",
+    "vollster",
+    "vollste",
+    "vollstes",
+    "vollsten",
+    "vollstem",
+    "der vollste",
+    "die vollste",
+    "das vollste",
+    "die vollsten",
+    "des vollsten",
+    "der vollsten",
+    "dem vollsten",
+    "den vollsten",
+    "ein vollster",
+    "eine vollste",
+    "ein vollstes",
+    "eines vollsten",
+    "einer vollsten",
+    "einem vollsten",
+    "einen vollsten"
+   ],
+   "weak.nom.m": [
+    "der volle"
    ]
   }
  },
@@ -15473,8 +17263,20 @@
    "pres.wir": [
     "wandern"
    ],
+   "pret.du": [
+    "wandertest"
+   ],
    "pret.er": [
     "wanderte"
+   ],
+   "pret.ich": [
+    "wanderte"
+   ],
+   "pret.ihr": [
+    "wandertet"
+   ],
+   "pret.wir": [
+    "wanderten"
    ]
   }
  },
@@ -15623,8 +17425,20 @@
    "pres.wir": [
     "warten"
    ],
+   "pret.du": [
+    "wartetest"
+   ],
    "pret.er": [
     "wartete"
+   ],
+   "pret.ich": [
+    "wartete"
+   ],
+   "pret.ihr": [
+    "wartetet"
+   ],
+   "pret.wir": [
+    "warteten"
    ]
   }
  },
@@ -15696,8 +17510,20 @@
    "pres.wir": [
     "waschen"
    ],
+   "pret.du": [
+    "wuschst"
+   ],
    "pret.er": [
     "wusch"
+   ],
+   "pret.ich": [
+    "wusch"
+   ],
+   "pret.ihr": [
+    "wuscht"
+   ],
+   "pret.wir": [
+    "wuschen"
    ]
   }
  },
@@ -15810,9 +17636,27 @@
     "tun weh",
     "wehtun"
    ],
+   "pret.du": [
+    "tatest weh",
+    "tatst weh",
+    "wehtatest",
+    "wehtatst"
+   ],
    "pret.er": [
     "tat weh",
     "wehtat"
+   ],
+   "pret.ich": [
+    "tat weh",
+    "wehtat"
+   ],
+   "pret.ihr": [
+    "tatet weh",
+    "wehtatet"
+   ],
+   "pret.wir": [
+    "taten weh",
+    "wehtaten"
    ]
   }
  },
@@ -15982,8 +17826,20 @@
    "pres.wir": [
     "werden"
    ],
+   "pret.du": [
+    "wurdest"
+   ],
    "pret.er": [
     "wurde"
+   ],
+   "pret.ich": [
+    "wurde"
+   ],
+   "pret.ihr": [
+    "wurdet"
+   ],
+   "pret.wir": [
+    "wurden"
    ]
   }
  },
@@ -16132,8 +17988,20 @@
    "pres.wir": [
     "wiederholen"
    ],
+   "pret.du": [
+    "wiederholtest"
+   ],
    "pret.er": [
     "wiederholte"
+   ],
+   "pret.ich": [
+    "wiederholte"
+   ],
+   "pret.ihr": [
+    "wiederholtet"
+   ],
+   "pret.wir": [
+    "wiederholten"
    ]
   }
  },
@@ -16215,8 +18083,20 @@
    "pres.wir": [
     "wissen"
    ],
+   "pret.du": [
+    "wusstest"
+   ],
    "pret.er": [
     "wusste"
+   ],
+   "pret.ich": [
+    "wusste"
+   ],
+   "pret.ihr": [
+    "wusstet"
+   ],
+   "pret.wir": [
+    "wussten"
    ]
   }
  },
@@ -16280,8 +18160,20 @@
    "pres.wir": [
     "wohnen"
    ],
+   "pret.du": [
+    "wohntest"
+   ],
    "pret.er": [
     "wohnte"
+   ],
+   "pret.ich": [
+    "wohnte"
+   ],
+   "pret.ihr": [
+    "wohntet"
+   ],
+   "pret.wir": [
+    "wohnten"
    ]
   }
  },
@@ -16353,8 +18245,20 @@
    "pres.wir": [
     "wollen"
    ],
+   "pret.du": [
+    "wolltest"
+   ],
    "pret.er": [
     "wollte"
+   ],
+   "pret.ich": [
+    "wollte"
+   ],
+   "pret.ihr": [
+    "wolltet"
+   ],
+   "pret.wir": [
+    "wollten"
    ]
   }
  },
@@ -16418,8 +18322,20 @@
    "pres.wir": [
     "zeigen"
    ],
+   "pret.du": [
+    "zeigtest"
+   ],
    "pret.er": [
     "zeigte"
+   ],
+   "pret.ich": [
+    "zeigte"
+   ],
+   "pret.ihr": [
+    "zeigtet"
+   ],
+   "pret.wir": [
+    "zeigten"
    ]
   }
  },
@@ -16499,9 +18415,25 @@
     "machen zu",
     "zumachen"
    ],
+   "pret.du": [
+    "machtest zu",
+    "zumachtest"
+   ],
    "pret.er": [
     "machte zu",
     "zumachte"
+   ],
+   "pret.ich": [
+    "machte zu",
+    "zumachte"
+   ],
+   "pret.ihr": [
+    "machtet zu",
+    "zumachtet"
+   ],
+   "pret.wir": [
+    "machten zu",
+    "zumachten"
    ]
   }
  },
@@ -16561,8 +18493,20 @@
    "pres.wir": [
     "öffnen"
    ],
+   "pret.du": [
+    "öffnetest"
+   ],
    "pret.er": [
     "öffnete"
+   ],
+   "pret.ich": [
+    "öffnete"
+   ],
+   "pret.ihr": [
+    "öffnetet"
+   ],
+   "pret.wir": [
+    "öffneten"
    ]
   }
  }

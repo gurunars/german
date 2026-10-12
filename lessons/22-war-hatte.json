@@ -1,0 +1,212 @@
+{
+  "name": "Lesson 22 · How it was: war and hatte",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **was** ill yesterday.",
+      "back": "Ich **war** gestern krank.",
+      "note": "The simple past of sein and haben: war, hatte. sein in the simple past: war. ich and er share the form, with no ending.",
+      "priority": 1
+    },
+    {
+      "front": "Where **were** you? (one friend)",
+      "back": "Wo **warst** du?",
+      "note": "The simple past of sein and haben: war, hatte. du warst: war + -st.",
+      "priority": 1
+    },
+    {
+      "front": "The film **was** boring.",
+      "back": "Der Film **war** langweilig.",
+      "note": "The simple past of sein and haben: war, hatte. er/sie/es war, the same as ich war.",
+      "priority": 1
+    },
+    {
+      "front": "We **were** at home.",
+      "back": "Wir **waren** zu Hause.",
+      "note": "The simple past of sein and haben: war, hatte. wir waren: war + -en.",
+      "priority": 1
+    },
+    {
+      "front": "**Were** you tired? (several friends)",
+      "back": "**Wart** ihr müde?",
+      "note": "The simple past of sein and haben: war, hatte. ihr wart: war + -t.",
+      "priority": 1
+    },
+    {
+      "front": "**Were** you ill? (formal)",
+      "back": "**Waren** Sie krank?",
+      "note": "The simple past of sein and haben: war, hatte. Sie waren, like wir.",
+      "priority": 1
+    },
+    {
+      "front": "The weather **was** great.",
+      "back": "Das Wetter **war** toll.",
+      "note": "The simple past of sein and haben: war, hatte. For sein, the simple past is the normal spoken past: war, not ist gewesen.",
+      "priority": 1
+    },
+    {
+      "front": "The party **was** fun.",
+      "back": "Die Party **war** lustig.",
+      "note": "The simple past of sein and haben: war, hatte. die Party → war.",
+      "priority": 1
+    },
+    {
+      "front": "My grandma **was** a teacher.",
+      "back": "Meine Oma **war** Lehrerin.",
+      "note": "The simple past of sein and haben: war, hatte. A job after war takes no article, as after ist.",
+      "priority": 1
+    },
+    {
+      "front": "The restaurant **was** full.",
+      "back": "Das Restaurant **war** voll.",
+      "note": "The simple past of sein and haben: war, hatte. war + adjective.",
+      "priority": 1
+    },
+    {
+      "front": "The bottle **was** empty.",
+      "back": "Die Flasche **war** leer.",
+      "note": "The simple past of sein and haben: war, hatte. war leer: was empty.",
+      "priority": 1
+    },
+    {
+      "front": "Yesterday **was** Sunday.",
+      "back": "Gestern **war** Sonntag.",
+      "note": "The simple past of sein and haben: war, hatte. gestern first, war second.",
+      "priority": 1
+    },
+    {
+      "front": "In the past that **was** cheap.",
+      "back": "Früher **war** das billig.",
+      "note": "The simple past of sein and haben: war, hatte. früher: in the old days. The verb stays second.",
+      "priority": 1
+    },
+    {
+      "front": "Back then I **was** twenty.",
+      "back": "Damals **war** ich zwanzig.",
+      "note": "The simple past of sein and haben: war, hatte. damals: back then, at one particular time.",
+      "priority": 1
+    },
+    {
+      "front": "The children **were** sad.",
+      "back": "Die Kinder **waren** traurig.",
+      "note": "The simple past of sein and haben: war, hatte. Plural subject: waren.",
+      "priority": 1
+    },
+    {
+      "front": "Your neighbour **was** very nice. (one friend)",
+      "back": "Dein Nachbar **war** sehr nett.",
+      "note": "The simple past of sein and haben: war, hatte. nett: nice, kind.",
+      "priority": 1
+    },
+    {
+      "front": "How **was** your holiday? (one friend)",
+      "back": "Wie **war** dein Urlaub?",
+      "note": "The simple past of sein and haben: war, hatte. Wie war…? asks how something went.",
+      "priority": 1
+    },
+    {
+      "front": "Where were you yesterday? (one friend) – I **was** at home.",
+      "back": "Wo warst du gestern? – Ich **war** zu Hause.",
+      "note": "The simple past of sein and haben: war, hatte. The answer keeps the simple past: ich war.",
+      "priority": 1
+    },
+    {
+      "front": "I **was** at the doctor's.",
+      "back": "Ich **war** beim Arzt.",
+      "note": "The simple past of sein and haben: war, hatte. beim Arzt: at the doctor's.",
+      "priority": 1
+    },
+    {
+      "front": "In January the snow **was** beautiful.",
+      "back": "Im Januar **war** der Schnee schön.",
+      "note": "The simple past of sein and haben: war, hatte. The time first, war second, then the subject der Schnee.",
+      "priority": 1
+    },
+    {
+      "front": "I **had** a cold.",
+      "back": "Ich **hatte** eine Erkältung.",
+      "note": "The simple past of sein and haben: war, hatte. haben in the simple past: hatte, with a double t. No -e is added for ich.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **have** time? (one friend)",
+      "back": "**Hattest** du Zeit?",
+      "note": "The simple past of sein and haben: war, hatte. du hattest: hatte + -st.",
+      "priority": 1
+    },
+    {
+      "front": "He **had** a fever.",
+      "back": "Er **hatte** Fieber.",
+      "note": "The simple past of sein and haben: war, hatte. er hatte, the same as ich hatte.",
+      "priority": 1
+    },
+    {
+      "front": "We **were lucky**.",
+      "back": "Wir **hatten** Glück.",
+      "note": "The simple past of sein and haben: war, hatte. Glück haben: to be lucky. wir hatten.",
+      "priority": 1
+    },
+    {
+      "front": "**Were** you **scared**? (several friends)",
+      "back": "**Hattet** ihr Angst?",
+      "note": "The simple past of sein and haben: war, hatte. Angst haben: to be afraid. ihr hattet.",
+      "priority": 1
+    },
+    {
+      "front": "They **had** no money.",
+      "back": "Sie **hatten** kein Geld.",
+      "note": "The simple past of sein and haben: war, hatte. sie hatten, like wir.",
+      "priority": 1
+    },
+    {
+      "front": "I **was** thirsty.",
+      "back": "Ich **hatte** Durst.",
+      "note": "The simple past of sein and haben: war, hatte. German has thirst, like hunger: Durst haben.",
+      "priority": 1
+    },
+    {
+      "front": "The day before yesterday I **had** no time.",
+      "back": "Vorgestern **hatte** ich keine Zeit.",
+      "note": "The simple past of sein and haben: war, hatte. vorgestern first, hatte second.",
+      "priority": 1
+    },
+    {
+      "front": "Back then we **had** a dog.",
+      "back": "Damals **hatten** wir einen Hund.",
+      "note": "The simple past of sein and haben: war, hatte. For haben too, the simple past is the usual spoken past.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **have** a car in the past? (formal)",
+      "back": "**Hatten** Sie früher ein Auto?",
+      "note": "The simple past of sein and haben: war, hatte. Sie hatten, the verb first in the question.",
+      "priority": 1
+    },
+    {
+      "front": "The child **was** hungry.",
+      "back": "Das Kind **hatte** Hunger.",
+      "note": "The simple past of sein and haben: war, hatte. Hunger haben: to be hungry.",
+      "priority": 1
+    },
+    {
+      "front": "The flat **had** no garden.",
+      "back": "Die Wohnung **hatte** keinen Garten.",
+      "note": "The simple past of sein and haben: war, hatte. hatte + accusative: keinen Garten.",
+      "priority": 1
+    },
+    {
+      "front": "We **had** a lot of work.",
+      "back": "Wir **hatten** viel Arbeit.",
+      "note": "The simple past of sein and haben: war, hatte. viel Arbeit: a lot of work.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **have** your key? (one friend)",
+      "back": "**Hattest** du deinen Schlüssel?",
+      "note": "The simple past of sein and haben: war, hatte. hattest du + the object.",
+      "priority": 1
+    }
+  ]
+}
