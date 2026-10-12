@@ -1,0 +1,33 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+adj.weak	rot	weak.nom.n	**The red** dress is new.	**Das rote** Kleid ist neu.	After der, die or das the article already shows the case, so the adjective takes just -e in the nominative.
+adj.weak	schwarz	weak.nom.m	**The black** coat is expensive.	**Der schwarze** Mantel ist teuer.	der Mantel: der + -e.
+adj.weak	blau	weak.nom.f	**The blue** jacket is cheap.	**Die blaue** Jacke ist billig.	die Jacke: die + -e.
+adj.weak	jung	weak.nom.f	**The young** woman is my neighbour.	**Die junge** Frau ist meine Nachbarin.	die + -e in the nominative.
+adj.weak	weiß	weak.nom.n	**The white** shirt belongs to my brother.	**Das weiße** Hemd gehört meinem Bruder.	das Hemd: das + -e.
+adj.weak	dunkel	weak.nom.n	**The dark** room is small.	**Das dunkle** Zimmer ist klein.	dunkel drops its second e when an ending follows: dunkle.
+adj.weak	lang	weak.nom.m	**The long** skirt is beautiful.	**Der lange** Rock ist schön.	der Rock: der + -e.
+adj.weak	kurz	weak.nom.m	**The short** film was boring.	**Der kurze** Film war langweilig.	der + -e.
+adj.weak	rot	weak.nom.f	I like **the red** colour.	**Die rote** Farbe gefällt mir.	die Farbe is the subject of gefällt: die + -e.
+adj.weak	alt	weak.nom.pl	**The old** shoes are lovely.	**Die alten** Schuhe sind schön.	In the plural, after die, the ending is always -en.
+adj.weak	gelb	weak.nom.pl	**The yellow** flowers are for you. (one friend)	**Die gelben** Blumen sind für dich.	Plural: die + -en.
+adj.weak	grün	weak.acc.m	I'm buying **the green** jumper.	Ich kaufe **den grünen** Pullover.	The masculine accusative is the one singular -en: den grünen.
+adj.weak	gelb	weak.acc.m	She's wearing **the yellow** skirt.	Sie trägt **den gelben** Rock.	tragen: to wear; sie trägt. der Rock → den gelben Rock.
+adj.weak	groß	weak.acc.m	Do you see **the tall** man? (one friend)	Siehst du **den großen** Mann?	den + -en.
+adj.weak	grün	weak.acc.m	I've lost **the green** key.	Ich habe **den grünen** Schlüssel verloren.	den grünen Schlüssel: the object of verloren.
+adj.weak	rot	weak.acc.f	I'll take **the red** jacket.	Ich nehme **die rote** Jacke.	Feminine and neuter accusative look like the nominative: die rote.
+adj.weak	schwarz	weak.acc.f	I'm washing **the black** trousers.	Ich wasche **die schwarze** Hose.	die Hose → die schwarze Hose.
+adj.weak	hell	weak.acc.f	I'm looking for **the light** jacket.	Ich suche **die helle** Jacke.	die + -e.
+adj.weak	jung	weak.acc.f	Do you know **the young** teacher? (a woman; one friend)	Kennst du **die junge** Lehrerin?	die junge: accusative feminine, the same as the nominative.
+adj.weak	weiß	weak.acc.n	He's wearing **the white** shirt.	Er trägt **das weiße** Hemd.	das + -e, as in the nominative. tragen: er trägt.
+adj.weak	alt	weak.acc.n	We're selling **the old** car.	Wir verkaufen **das alte** Auto.	das alte: accusative neuter.
+adj.weak	blau	weak.acc.pl	I like **the blue** shoes.	Ich mag **die blauen** Schuhe.	Plural accusative: die + -en.
+adj.weak	jung	weak.dat.m	She's talking to **the young** man.	Sie spricht mit **dem jungen** Mann.	In the dative every ending is -en: dem jungen.
+adj.weak	groß	weak.dat.m	The cat is sleeping under **the big** table.	Die Katze schläft unter **dem großen** Tisch.	unter + dative for where: dem großen.
+adj.weak	blau	weak.dat.m	The cat is sitting on **the blue** chair.	Die Katze sitzt auf **dem blauen** Stuhl.	auf + dative: dem blauen Stuhl.
+adj.weak	groß	weak.dat.m	The child is playing with **the big** dog.	Das Kind spielt mit **dem großen** Hund.	mit + dative: dem großen.
+adj.weak	groß	weak.dat.m	The trousers don't fit **the tall** man.	Die Hose passt **dem großen** Mann nicht.	passen + dative: dem großen Mann.
+adj.weak	braun	weak.dat.m	The jacket is hanging next to **the brown** cupboard.	Die Jacke hängt neben **dem braunen** Schrank.	neben + dative: dem braunen.
+adj.weak	rot	weak.dat.n	We're going in **the red** car.	Wir fahren mit **dem roten** Auto.	das Auto → dem roten Auto.
+adj.weak	alt	weak.dat.f	The book belongs to **the old** woman.	Das Buch gehört **der alten** Frau.	die Frau → der alten Frau in the dative.
+adj.weak	neu	weak.dat.f	It's warm in **the new** flat.	In **der neuen** Wohnung ist es warm.	in + dative: der neuen Wohnung.
+adj.weak	klein	weak.dat.pl	I'm helping **the small** children.	Ich helfe **den kleinen** Kindern.	Dative plural: den + -en, and Kindern with -n.

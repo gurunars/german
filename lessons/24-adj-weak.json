@@ -1,0 +1,200 @@
+{
+  "name": "Lesson 24 · The red dress: adjective endings after der, die, das",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**The red** dress is new.",
+      "back": "**Das rote** Kleid ist neu.",
+      "note": "Adjective endings after der, die, das (weak). After der, die or das the article already shows the case, so the adjective takes just -e in the nominative.",
+      "priority": 1
+    },
+    {
+      "front": "**The black** coat is expensive.",
+      "back": "**Der schwarze** Mantel ist teuer.",
+      "note": "Adjective endings after der, die, das (weak). der Mantel: der + -e.",
+      "priority": 1
+    },
+    {
+      "front": "**The blue** jacket is cheap.",
+      "back": "**Die blaue** Jacke ist billig.",
+      "note": "Adjective endings after der, die, das (weak). die Jacke: die + -e.",
+      "priority": 1
+    },
+    {
+      "front": "**The young** woman is my neighbour.",
+      "back": "**Die junge** Frau ist meine Nachbarin.",
+      "note": "Adjective endings after der, die, das (weak). die + -e in the nominative.",
+      "priority": 1
+    },
+    {
+      "front": "**The white** shirt belongs to my brother.",
+      "back": "**Das weiße** Hemd gehört meinem Bruder.",
+      "note": "Adjective endings after der, die, das (weak). das Hemd: das + -e.",
+      "priority": 1
+    },
+    {
+      "front": "**The dark** room is small.",
+      "back": "**Das dunkle** Zimmer ist klein.",
+      "note": "Adjective endings after der, die, das (weak). dunkel drops its second e when an ending follows: dunkle.",
+      "priority": 1
+    },
+    {
+      "front": "**The long** skirt is beautiful.",
+      "back": "**Der lange** Rock ist schön.",
+      "note": "Adjective endings after der, die, das (weak). der Rock: der + -e.",
+      "priority": 1
+    },
+    {
+      "front": "**The short** film was boring.",
+      "back": "**Der kurze** Film war langweilig.",
+      "note": "Adjective endings after der, die, das (weak). der + -e.",
+      "priority": 1
+    },
+    {
+      "front": "I like **the red** colour.",
+      "back": "**Die rote** Farbe gefällt mir.",
+      "note": "Adjective endings after der, die, das (weak). die Farbe is the subject of gefällt: die + -e.",
+      "priority": 1
+    },
+    {
+      "front": "**The old** shoes are lovely.",
+      "back": "**Die alten** Schuhe sind schön.",
+      "note": "Adjective endings after der, die, das (weak). In the plural, after die, the ending is always -en.",
+      "priority": 1
+    },
+    {
+      "front": "**The yellow** flowers are for you. (one friend)",
+      "back": "**Die gelben** Blumen sind für dich.",
+      "note": "Adjective endings after der, die, das (weak). Plural: die + -en.",
+      "priority": 1
+    },
+    {
+      "front": "I'm buying **the green** jumper.",
+      "back": "Ich kaufe **den grünen** Pullover.",
+      "note": "Adjective endings after der, die, das (weak). The masculine accusative is the one singular -en: den grünen.",
+      "priority": 1
+    },
+    {
+      "front": "She's wearing **the yellow** skirt.",
+      "back": "Sie trägt **den gelben** Rock.",
+      "note": "Adjective endings after der, die, das (weak). tragen: to wear; sie trägt. der Rock → den gelben Rock.",
+      "priority": 1
+    },
+    {
+      "front": "Do you see **the tall** man? (one friend)",
+      "back": "Siehst du **den großen** Mann?",
+      "note": "Adjective endings after der, die, das (weak). den + -en.",
+      "priority": 1
+    },
+    {
+      "front": "I've lost **the green** key.",
+      "back": "Ich habe **den grünen** Schlüssel verloren.",
+      "note": "Adjective endings after der, die, das (weak). den grünen Schlüssel: the object of verloren.",
+      "priority": 1
+    },
+    {
+      "front": "I'll take **the red** jacket.",
+      "back": "Ich nehme **die rote** Jacke.",
+      "note": "Adjective endings after der, die, das (weak). Feminine and neuter accusative look like the nominative: die rote.",
+      "priority": 1
+    },
+    {
+      "front": "I'm washing **the black** trousers.",
+      "back": "Ich wasche **die schwarze** Hose.",
+      "note": "Adjective endings after der, die, das (weak). die Hose → die schwarze Hose.",
+      "priority": 1
+    },
+    {
+      "front": "I'm looking for **the light** jacket.",
+      "back": "Ich suche **die helle** Jacke.",
+      "note": "Adjective endings after der, die, das (weak). die + -e.",
+      "priority": 1
+    },
+    {
+      "front": "Do you know **the young** teacher? (a woman; one friend)",
+      "back": "Kennst du **die junge** Lehrerin?",
+      "note": "Adjective endings after der, die, das (weak). die junge: accusative feminine, the same as the nominative.",
+      "priority": 1
+    },
+    {
+      "front": "He's wearing **the white** shirt.",
+      "back": "Er trägt **das weiße** Hemd.",
+      "note": "Adjective endings after der, die, das (weak). das + -e, as in the nominative. tragen: er trägt.",
+      "priority": 1
+    },
+    {
+      "front": "We're selling **the old** car.",
+      "back": "Wir verkaufen **das alte** Auto.",
+      "note": "Adjective endings after der, die, das (weak). das alte: accusative neuter.",
+      "priority": 1
+    },
+    {
+      "front": "I like **the blue** shoes.",
+      "back": "Ich mag **die blauen** Schuhe.",
+      "note": "Adjective endings after der, die, das (weak). Plural accusative: die + -en.",
+      "priority": 1
+    },
+    {
+      "front": "She's talking to **the young** man.",
+      "back": "Sie spricht mit **dem jungen** Mann.",
+      "note": "Adjective endings after der, die, das (weak). In the dative every ending is -en: dem jungen.",
+      "priority": 1
+    },
+    {
+      "front": "The cat is sleeping under **the big** table.",
+      "back": "Die Katze schläft unter **dem großen** Tisch.",
+      "note": "Adjective endings after der, die, das (weak). unter + dative for where: dem großen.",
+      "priority": 1
+    },
+    {
+      "front": "The cat is sitting on **the blue** chair.",
+      "back": "Die Katze sitzt auf **dem blauen** Stuhl.",
+      "note": "Adjective endings after der, die, das (weak). auf + dative: dem blauen Stuhl.",
+      "priority": 1
+    },
+    {
+      "front": "The child is playing with **the big** dog.",
+      "back": "Das Kind spielt mit **dem großen** Hund.",
+      "note": "Adjective endings after der, die, das (weak). mit + dative: dem großen.",
+      "priority": 1
+    },
+    {
+      "front": "The trousers don't fit **the tall** man.",
+      "back": "Die Hose passt **dem großen** Mann nicht.",
+      "note": "Adjective endings after der, die, das (weak). passen + dative: dem großen Mann.",
+      "priority": 1
+    },
+    {
+      "front": "The jacket is hanging next to **the brown** cupboard.",
+      "back": "Die Jacke hängt neben **dem braunen** Schrank.",
+      "note": "Adjective endings after der, die, das (weak). neben + dative: dem braunen.",
+      "priority": 1
+    },
+    {
+      "front": "We're going in **the red** car.",
+      "back": "Wir fahren mit **dem roten** Auto.",
+      "note": "Adjective endings after der, die, das (weak). das Auto → dem roten Auto.",
+      "priority": 1
+    },
+    {
+      "front": "The book belongs to **the old** woman.",
+      "back": "Das Buch gehört **der alten** Frau.",
+      "note": "Adjective endings after der, die, das (weak). die Frau → der alten Frau in the dative.",
+      "priority": 1
+    },
+    {
+      "front": "It's warm in **the new** flat.",
+      "back": "In **der neuen** Wohnung ist es warm.",
+      "note": "Adjective endings after der, die, das (weak). in + dative: der neuen Wohnung.",
+      "priority": 1
+    },
+    {
+      "front": "I'm helping **the small** children.",
+      "back": "Ich helfe **den kleinen** Kindern.",
+      "note": "Adjective endings after der, die, das (weak). Dative plural: den + -en, and Kindern with -n.",
+      "priority": 1
+    }
+  ]
+}

@@ -1356,6 +1356,40 @@
    ]
   }
  },
+ "Farbe": {
+  "all": [
+   "Farb",
+   "Farbe",
+   "Farben",
+   "Färbe"
+  ],
+  "english": "colour",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Farben"
+   ],
+   "acc.sg": [
+    "Farbe"
+   ],
+   "dat.pl": [
+    "Farben"
+   ],
+   "dat.sg": [
+    "Farbe"
+   ],
+   "gen.sg": [
+    "Farbe"
+   ],
+   "nom.pl": [
+    "Farben"
+   ],
+   "nom.sg": [
+    "Farbe"
+   ]
+  }
+ },
  "Februar": {
   "all": [
    "Feber",
@@ -2507,6 +2541,45 @@
    ]
   }
  },
+ "Hemd": {
+  "all": [
+   "Hemd",
+   "Hemdchen",
+   "Hemde",
+   "Hemden",
+   "Hemdes",
+   "Hemdlein",
+   "Hemds"
+  ],
+  "english": "shirt",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Hemden"
+   ],
+   "acc.sg": [
+    "Hemd"
+   ],
+   "dat.pl": [
+    "Hemden"
+   ],
+   "dat.sg": [
+    "Hemd",
+    "Hemde"
+   ],
+   "gen.sg": [
+    "Hemdes",
+    "Hemds"
+   ],
+   "nom.pl": [
+    "Hemden"
+   ],
+   "nom.sg": [
+    "Hemd"
+   ]
+  }
+ },
  "Hose": {
   "all": [
    "Hose",
@@ -2644,6 +2717,39 @@
    ],
    "nom.sg": [
     "Hunger"
+   ]
+  }
+ },
+ "Jacke": {
+  "all": [
+   "Jacke",
+   "Jacken",
+   "Jäckchen"
+  ],
+  "english": "jacket",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Jacken"
+   ],
+   "acc.sg": [
+    "Jacke"
+   ],
+   "dat.pl": [
+    "Jacken"
+   ],
+   "dat.sg": [
+    "Jacke"
+   ],
+   "gen.sg": [
+    "Jacke"
+   ],
+   "nom.pl": [
+    "Jacken"
+   ],
+   "nom.sg": [
+    "Jacke"
    ]
   }
  },
@@ -4559,6 +4665,40 @@
    ]
   }
  },
+ "Pullover": {
+  "all": [
+   "Pulli",
+   "Pullover",
+   "Pullovern",
+   "Pullovers"
+  ],
+  "english": "jumper, sweater",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Pullover"
+   ],
+   "acc.sg": [
+    "Pullover"
+   ],
+   "dat.pl": [
+    "Pullovern"
+   ],
+   "dat.sg": [
+    "Pullover"
+   ],
+   "gen.sg": [
+    "Pullovers"
+   ],
+   "nom.pl": [
+    "Pullover"
+   ],
+   "nom.sg": [
+    "Pullover"
+   ]
+  }
+ },
  "Rechnung": {
   "all": [
    "Rechnung",
@@ -4658,6 +4798,46 @@
    ],
    "nom.sg": [
     "Restaurant"
+   ]
+  }
+ },
+ "Rock": {
+  "all": [
+   "Rock",
+   "Rocke",
+   "Rockes",
+   "Rocks",
+   "Röckchen",
+   "Röcke",
+   "Röcken",
+   "Röcklein"
+  ],
+  "english": "skirt",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Röcke"
+   ],
+   "acc.sg": [
+    "Rock"
+   ],
+   "dat.pl": [
+    "Röcken"
+   ],
+   "dat.sg": [
+    "Rock",
+    "Rocke"
+   ],
+   "gen.sg": [
+    "Rockes",
+    "Rocks"
+   ],
+   "nom.pl": [
+    "Röcke"
+   ],
+   "nom.sg": [
+    "Rock"
    ]
   }
  },
@@ -6693,8 +6873,53 @@
     "einem ältesten",
     "einen ältesten"
    ],
+   "weak.acc.f": [
+    "die alte"
+   ],
+   "weak.acc.m": [
+    "den alten"
+   ],
+   "weak.acc.n": [
+    "das alte"
+   ],
+   "weak.acc.pl": [
+    "die alten"
+   ],
+   "weak.dat.f": [
+    "der alten"
+   ],
+   "weak.dat.m": [
+    "dem alten"
+   ],
+   "weak.dat.n": [
+    "dem alten"
+   ],
+   "weak.dat.pl": [
+    "den alten"
+   ],
+   "weak.gen.f": [
+    "der alten"
+   ],
+   "weak.gen.m": [
+    "des alten"
+   ],
+   "weak.gen.n": [
+    "des alten"
+   ],
+   "weak.gen.pl": [
+    "der alten"
+   ],
+   "weak.nom.f": [
+    "die alte"
+   ],
    "weak.nom.m": [
     "der alte"
+   ],
+   "weak.nom.n": [
+    "das alte"
+   ],
+   "weak.nom.pl": [
+    "die alten"
    ]
   }
  },
@@ -8171,8 +8396,211 @@
     "einem billigsten",
     "einen billigsten"
    ],
+   "weak.acc.f": [
+    "die billige"
+   ],
+   "weak.acc.m": [
+    "den billigen"
+   ],
+   "weak.acc.n": [
+    "das billige"
+   ],
+   "weak.acc.pl": [
+    "die billigen"
+   ],
+   "weak.dat.f": [
+    "der billigen"
+   ],
+   "weak.dat.m": [
+    "dem billigen"
+   ],
+   "weak.dat.n": [
+    "dem billigen"
+   ],
+   "weak.dat.pl": [
+    "den billigen"
+   ],
+   "weak.gen.f": [
+    "der billigen"
+   ],
+   "weak.gen.m": [
+    "des billigen"
+   ],
+   "weak.gen.n": [
+    "des billigen"
+   ],
+   "weak.gen.pl": [
+    "der billigen"
+   ],
+   "weak.nom.f": [
+    "die billige"
+   ],
    "weak.nom.m": [
     "der billige"
+   ],
+   "weak.nom.n": [
+    "das billige"
+   ],
+   "weak.nom.pl": [
+    "die billigen"
+   ]
+  }
+ },
+ "blau": {
+  "all": [
+   "am",
+   "blau",
+   "blaue",
+   "blauem",
+   "blauen",
+   "blauer",
+   "blauere",
+   "blauerem",
+   "blaueren",
+   "blauerer",
+   "blaueres",
+   "blaues",
+   "blaueste",
+   "blauestem",
+   "blauesten",
+   "blauester",
+   "blauestes",
+   "blauste",
+   "blaustem",
+   "blausten",
+   "blauster",
+   "blaustes",
+   "blauw",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "blue",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "blauer",
+    "blauerer",
+    "blauere",
+    "blaueres",
+    "blaueren",
+    "blauerem",
+    "der blauere",
+    "die blauere",
+    "das blauere",
+    "die blaueren",
+    "des blaueren",
+    "der blaueren",
+    "dem blaueren",
+    "den blaueren",
+    "ein blauerer",
+    "eine blauere",
+    "ein blaueres",
+    "eines blaueren",
+    "einer blaueren",
+    "einem blaueren",
+    "einen blaueren"
+   ],
+   "mixed.acc.m": [
+    "einen blauen"
+   ],
+   "mixed.nom.n": [
+    "ein blaues"
+   ],
+   "strong.dat.f": [
+    "blauer"
+   ],
+   "superlative": [
+    "am blauesten",
+    "am blausten",
+    "blauester",
+    "blauster",
+    "blaueste",
+    "blauste",
+    "blauestes",
+    "blaustes",
+    "blauesten",
+    "blausten",
+    "blauestem",
+    "blaustem",
+    "der blaueste",
+    "der blauste",
+    "die blaueste",
+    "die blauste",
+    "das blaueste",
+    "das blauste",
+    "die blauesten",
+    "die blausten",
+    "des blauesten",
+    "des blausten",
+    "der blauesten",
+    "der blausten",
+    "dem blauesten",
+    "dem blausten",
+    "den blauesten",
+    "den blausten",
+    "ein blauester",
+    "ein blauster",
+    "eine blaueste",
+    "eine blauste",
+    "ein blauestes",
+    "ein blaustes",
+    "eines blauesten",
+    "eines blausten",
+    "einer blauesten",
+    "einer blausten",
+    "einem blauesten",
+    "einem blausten",
+    "einen blauesten",
+    "einen blausten"
+   ],
+   "weak.acc.f": [
+    "die blaue"
+   ],
+   "weak.acc.m": [
+    "den blauen"
+   ],
+   "weak.acc.n": [
+    "das blaue"
+   ],
+   "weak.acc.pl": [
+    "die blauen"
+   ],
+   "weak.dat.f": [
+    "der blauen"
+   ],
+   "weak.dat.m": [
+    "dem blauen"
+   ],
+   "weak.dat.n": [
+    "dem blauen"
+   ],
+   "weak.dat.pl": [
+    "den blauen"
+   ],
+   "weak.gen.f": [
+    "der blauen"
+   ],
+   "weak.gen.m": [
+    "des blauen"
+   ],
+   "weak.gen.n": [
+    "des blauen"
+   ],
+   "weak.gen.pl": [
+    "der blauen"
+   ],
+   "weak.nom.f": [
+    "die blaue"
+   ],
+   "weak.nom.m": [
+    "der blaue"
+   ],
+   "weak.nom.n": [
+    "das blaue"
+   ],
+   "weak.nom.pl": [
+    "die blauen"
    ]
   }
  },
@@ -8371,6 +8799,148 @@
    ],
    "pret.wir": [
     "brauchten"
+   ]
+  }
+ },
+ "braun": {
+  "all": [
+   "am",
+   "braun",
+   "braune",
+   "braunem",
+   "braunen",
+   "brauner",
+   "braunere",
+   "braunerem",
+   "brauneren",
+   "braunerer",
+   "brauneres",
+   "braunes",
+   "braunste",
+   "braunstem",
+   "braunsten",
+   "braunster",
+   "braunstes",
+   "bräuner",
+   "bräunere",
+   "bräunerem",
+   "bräuneren",
+   "bräunerer",
+   "bräuneres",
+   "bräunste",
+   "bräunstem",
+   "bräunsten",
+   "bräunster",
+   "bräunstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "brown",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "brauner",
+    "braunerer",
+    "braunere",
+    "brauneres",
+    "brauneren",
+    "braunerem",
+    "der braunere",
+    "die braunere",
+    "das braunere",
+    "die brauneren",
+    "des brauneren",
+    "der brauneren",
+    "dem brauneren",
+    "den brauneren",
+    "ein braunerer",
+    "eine braunere",
+    "ein brauneres",
+    "eines brauneren",
+    "einer brauneren",
+    "einem brauneren",
+    "einen brauneren"
+   ],
+   "mixed.acc.m": [
+    "einen braunen"
+   ],
+   "mixed.nom.n": [
+    "ein braunes"
+   ],
+   "strong.dat.f": [
+    "brauner"
+   ],
+   "superlative": [
+    "am braunsten",
+    "braunster",
+    "braunste",
+    "braunstes",
+    "braunsten",
+    "braunstem",
+    "der braunste",
+    "die braunste",
+    "das braunste",
+    "die braunsten",
+    "des braunsten",
+    "der braunsten",
+    "dem braunsten",
+    "den braunsten",
+    "ein braunster",
+    "eine braunste",
+    "ein braunstes",
+    "eines braunsten",
+    "einer braunsten",
+    "einem braunsten",
+    "einen braunsten"
+   ],
+   "weak.acc.f": [
+    "die braune"
+   ],
+   "weak.acc.m": [
+    "den braunen"
+   ],
+   "weak.acc.n": [
+    "das braune"
+   ],
+   "weak.acc.pl": [
+    "die braunen"
+   ],
+   "weak.dat.f": [
+    "der braunen"
+   ],
+   "weak.dat.m": [
+    "dem braunen"
+   ],
+   "weak.dat.n": [
+    "dem braunen"
+   ],
+   "weak.dat.pl": [
+    "den braunen"
+   ],
+   "weak.gen.f": [
+    "der braunen"
+   ],
+   "weak.gen.m": [
+    "des braunen"
+   ],
+   "weak.gen.n": [
+    "des braunen"
+   ],
+   "weak.gen.pl": [
+    "der braunen"
+   ],
+   "weak.nom.f": [
+    "die braune"
+   ],
+   "weak.nom.m": [
+    "der braune"
+   ],
+   "weak.nom.n": [
+    "das braune"
+   ],
+   "weak.nom.pl": [
+    "die braunen"
    ]
   }
  },
@@ -8628,6 +9198,217 @@
    ]
   }
  },
+ "dunkel": {
+  "all": [
+   "am",
+   "dunckel",
+   "dunkel",
+   "dunkele",
+   "dunkelem",
+   "dunkelen",
+   "dunkeler",
+   "dunkelere",
+   "dunkelerem",
+   "dunkeleren",
+   "dunkelerer",
+   "dunkeleres",
+   "dunkeles",
+   "dunkelste",
+   "dunkelstem",
+   "dunkelsten",
+   "dunkelster",
+   "dunkelstes",
+   "dunkle",
+   "dunklem",
+   "dunklen",
+   "dunkler",
+   "dunklere",
+   "dunklerem",
+   "dunkleren",
+   "dunklerer",
+   "dunkleres",
+   "dunkles",
+   "dünkler",
+   "dünklere",
+   "dünklerem",
+   "dünkleren",
+   "dünklerer",
+   "dünkleres",
+   "keine",
+   "keinen",
+   "keiner",
+   "tunckel",
+   "tunkel"
+  ],
+  "english": "dark",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "dunkler",
+    "dünkler",
+    "dunklerer",
+    "dünklerer",
+    "dunklere",
+    "dünklere",
+    "dunkleres",
+    "dünkleres",
+    "dunkleren",
+    "dünkleren",
+    "dunklerem",
+    "dünklerem",
+    "der dunklere",
+    "der dünklere",
+    "die dunklere",
+    "die dünklere",
+    "das dunklere",
+    "das dünklere",
+    "die dunkleren",
+    "die dünkleren",
+    "des dunkleren",
+    "des dünkleren",
+    "der dunkleren",
+    "der dünkleren",
+    "dem dunkleren",
+    "dem dünkleren",
+    "den dunkleren",
+    "den dünkleren",
+    "ein dunklerer",
+    "ein dünklerer",
+    "eine dunklere",
+    "eine dünklere",
+    "ein dunkleres",
+    "ein dünkleres",
+    "eines dunkleren",
+    "eines dünkleren",
+    "einer dunkleren",
+    "einer dünkleren",
+    "einem dunkleren",
+    "einem dünkleren",
+    "einen dunkleren",
+    "einen dünkleren",
+    "dunkeler",
+    "dunkelerer",
+    "dunkelere",
+    "dunkeleres",
+    "dunkeleren",
+    "dunkelerem",
+    "der dunkelere",
+    "die dunkelere",
+    "das dunkelere",
+    "die dunkeleren",
+    "des dunkeleren",
+    "der dunkeleren",
+    "dem dunkeleren",
+    "den dunkeleren",
+    "ein dunkelerer",
+    "eine dunkelere",
+    "ein dunkeleres",
+    "eines dunkeleren",
+    "einer dunkeleren",
+    "einem dunkeleren",
+    "einen dunkeleren"
+   ],
+   "mixed.acc.m": [
+    "einen dunklen",
+    "einen dunkelen"
+   ],
+   "mixed.nom.n": [
+    "ein dunkles",
+    "ein dunkeles"
+   ],
+   "strong.dat.f": [
+    "dunkler",
+    "dunkeler"
+   ],
+   "superlative": [
+    "am dunkelsten",
+    "dunkelster",
+    "dunkelste",
+    "dunkelstes",
+    "dunkelsten",
+    "dunkelstem",
+    "der dunkelste",
+    "die dunkelste",
+    "das dunkelste",
+    "die dunkelsten",
+    "des dunkelsten",
+    "der dunkelsten",
+    "dem dunkelsten",
+    "den dunkelsten",
+    "ein dunkelster",
+    "eine dunkelste",
+    "ein dunkelstes",
+    "eines dunkelsten",
+    "einer dunkelsten",
+    "einem dunkelsten",
+    "einen dunkelsten"
+   ],
+   "weak.acc.f": [
+    "die dunkle",
+    "die dunkele"
+   ],
+   "weak.acc.m": [
+    "den dunklen",
+    "den dunkelen"
+   ],
+   "weak.acc.n": [
+    "das dunkle",
+    "das dunkele"
+   ],
+   "weak.acc.pl": [
+    "die dunklen",
+    "die dunkelen"
+   ],
+   "weak.dat.f": [
+    "der dunklen",
+    "der dunkelen"
+   ],
+   "weak.dat.m": [
+    "dem dunklen",
+    "dem dunkelen"
+   ],
+   "weak.dat.n": [
+    "dem dunklen",
+    "dem dunkelen"
+   ],
+   "weak.dat.pl": [
+    "den dunklen",
+    "den dunkelen"
+   ],
+   "weak.gen.f": [
+    "der dunklen",
+    "der dunkelen"
+   ],
+   "weak.gen.m": [
+    "des dunklen",
+    "des dunkelen"
+   ],
+   "weak.gen.n": [
+    "des dunklen",
+    "des dunkelen"
+   ],
+   "weak.gen.pl": [
+    "der dunklen",
+    "der dunkelen"
+   ],
+   "weak.nom.f": [
+    "die dunkle",
+    "die dunkele"
+   ],
+   "weak.nom.m": [
+    "der dunkle",
+    "der dunkele"
+   ],
+   "weak.nom.n": [
+    "das dunkle",
+    "das dunkele"
+   ],
+   "weak.nom.pl": [
+    "die dunklen",
+    "die dunkelen"
+   ]
+  }
+ },
  "dürfen": {
   "all": [
    "darf",
@@ -8798,8 +9579,53 @@
     "einem einfachsten",
     "einen einfachsten"
    ],
+   "weak.acc.f": [
+    "die einfache"
+   ],
+   "weak.acc.m": [
+    "den einfachen"
+   ],
+   "weak.acc.n": [
+    "das einfache"
+   ],
+   "weak.acc.pl": [
+    "die einfachen"
+   ],
+   "weak.dat.f": [
+    "der einfachen"
+   ],
+   "weak.dat.m": [
+    "dem einfachen"
+   ],
+   "weak.dat.n": [
+    "dem einfachen"
+   ],
+   "weak.dat.pl": [
+    "den einfachen"
+   ],
+   "weak.gen.f": [
+    "der einfachen"
+   ],
+   "weak.gen.m": [
+    "des einfachen"
+   ],
+   "weak.gen.n": [
+    "des einfachen"
+   ],
+   "weak.gen.pl": [
+    "der einfachen"
+   ],
+   "weak.nom.f": [
+    "die einfache"
+   ],
    "weak.nom.m": [
     "der einfache"
+   ],
+   "weak.nom.n": [
+    "das einfache"
+   ],
+   "weak.nom.pl": [
+    "die einfachen"
    ]
   }
  },
@@ -9855,8 +10681,53 @@
     "einen freiesten",
     "einen freisten"
    ],
+   "weak.acc.f": [
+    "die freie"
+   ],
+   "weak.acc.m": [
+    "den freien"
+   ],
+   "weak.acc.n": [
+    "das freie"
+   ],
+   "weak.acc.pl": [
+    "die freien"
+   ],
+   "weak.dat.f": [
+    "der freien"
+   ],
+   "weak.dat.m": [
+    "dem freien"
+   ],
+   "weak.dat.n": [
+    "dem freien"
+   ],
+   "weak.dat.pl": [
+    "den freien"
+   ],
+   "weak.gen.f": [
+    "der freien"
+   ],
+   "weak.gen.m": [
+    "des freien"
+   ],
+   "weak.gen.n": [
+    "des freien"
+   ],
+   "weak.gen.pl": [
+    "der freien"
+   ],
+   "weak.nom.f": [
+    "die freie"
+   ],
    "weak.nom.m": [
     "der freie"
+   ],
+   "weak.nom.n": [
+    "das freie"
+   ],
+   "weak.nom.pl": [
+    "die freien"
    ]
   }
  },
@@ -9967,8 +10838,53 @@
     "einen frühesten",
     "einen frühsten"
    ],
+   "weak.acc.f": [
+    "die frühe"
+   ],
+   "weak.acc.m": [
+    "den frühen"
+   ],
+   "weak.acc.n": [
+    "das frühe"
+   ],
+   "weak.acc.pl": [
+    "die frühen"
+   ],
+   "weak.dat.f": [
+    "der frühen"
+   ],
+   "weak.dat.m": [
+    "dem frühen"
+   ],
+   "weak.dat.n": [
+    "dem frühen"
+   ],
+   "weak.dat.pl": [
+    "den frühen"
+   ],
+   "weak.gen.f": [
+    "der frühen"
+   ],
+   "weak.gen.m": [
+    "des frühen"
+   ],
+   "weak.gen.n": [
+    "des frühen"
+   ],
+   "weak.gen.pl": [
+    "der frühen"
+   ],
+   "weak.nom.f": [
+    "die frühe"
+   ],
    "weak.nom.m": [
     "der frühe"
+   ],
+   "weak.nom.n": [
+    "das frühe"
+   ],
+   "weak.nom.pl": [
+    "die frühen"
    ]
   }
  },
@@ -10402,6 +11318,144 @@
    ]
   }
  },
+ "gelb": {
+  "all": [
+   "am",
+   "geel",
+   "gehl",
+   "gel",
+   "gelb",
+   "gelbe",
+   "gelbem",
+   "gelben",
+   "gelber",
+   "gelbere",
+   "gelberem",
+   "gelberen",
+   "gelberer",
+   "gelberes",
+   "gelbes",
+   "gelbste",
+   "gelbstem",
+   "gelbsten",
+   "gelbster",
+   "gelbstes",
+   "gelh",
+   "gell",
+   "gäl",
+   "gälb",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "yellow",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "gelber",
+    "gelberer",
+    "gelbere",
+    "gelberes",
+    "gelberen",
+    "gelberem",
+    "der gelbere",
+    "die gelbere",
+    "das gelbere",
+    "die gelberen",
+    "des gelberen",
+    "der gelberen",
+    "dem gelberen",
+    "den gelberen",
+    "ein gelberer",
+    "eine gelbere",
+    "ein gelberes",
+    "eines gelberen",
+    "einer gelberen",
+    "einem gelberen",
+    "einen gelberen"
+   ],
+   "mixed.acc.m": [
+    "einen gelben"
+   ],
+   "mixed.nom.n": [
+    "ein gelbes"
+   ],
+   "strong.dat.f": [
+    "gelber"
+   ],
+   "superlative": [
+    "am gelbsten",
+    "gelbster",
+    "gelbste",
+    "gelbstes",
+    "gelbsten",
+    "gelbstem",
+    "der gelbste",
+    "die gelbste",
+    "das gelbste",
+    "die gelbsten",
+    "des gelbsten",
+    "der gelbsten",
+    "dem gelbsten",
+    "den gelbsten",
+    "ein gelbster",
+    "eine gelbste",
+    "ein gelbstes",
+    "eines gelbsten",
+    "einer gelbsten",
+    "einem gelbsten",
+    "einen gelbsten"
+   ],
+   "weak.acc.f": [
+    "die gelbe"
+   ],
+   "weak.acc.m": [
+    "den gelben"
+   ],
+   "weak.acc.n": [
+    "das gelbe"
+   ],
+   "weak.acc.pl": [
+    "die gelben"
+   ],
+   "weak.dat.f": [
+    "der gelben"
+   ],
+   "weak.dat.m": [
+    "dem gelben"
+   ],
+   "weak.dat.n": [
+    "dem gelben"
+   ],
+   "weak.dat.pl": [
+    "den gelben"
+   ],
+   "weak.gen.f": [
+    "der gelben"
+   ],
+   "weak.gen.m": [
+    "des gelben"
+   ],
+   "weak.gen.n": [
+    "des gelben"
+   ],
+   "weak.gen.pl": [
+    "der gelben"
+   ],
+   "weak.nom.f": [
+    "die gelbe"
+   ],
+   "weak.nom.m": [
+    "der gelbe"
+   ],
+   "weak.nom.n": [
+    "das gelbe"
+   ],
+   "weak.nom.pl": [
+    "die gelben"
+   ]
+  }
+ },
  "glauben": {
   "all": [
    "geglaubt",
@@ -10677,9 +11731,200 @@
     "einen grössten",
     "einen grössesten"
    ],
+   "weak.acc.f": [
+    "die große",
+    "die grosse"
+   ],
+   "weak.acc.m": [
+    "den großen",
+    "den grossen"
+   ],
+   "weak.acc.n": [
+    "das große",
+    "das grosse"
+   ],
+   "weak.acc.pl": [
+    "die großen",
+    "die grossen"
+   ],
+   "weak.dat.f": [
+    "der großen",
+    "der grossen"
+   ],
+   "weak.dat.m": [
+    "dem großen",
+    "dem grossen"
+   ],
+   "weak.dat.n": [
+    "dem großen",
+    "dem grossen"
+   ],
+   "weak.dat.pl": [
+    "den großen",
+    "den grossen"
+   ],
+   "weak.gen.f": [
+    "der großen",
+    "der grossen"
+   ],
+   "weak.gen.m": [
+    "des großen",
+    "des grossen"
+   ],
+   "weak.gen.n": [
+    "des großen",
+    "des grossen"
+   ],
+   "weak.gen.pl": [
+    "der großen",
+    "der grossen"
+   ],
+   "weak.nom.f": [
+    "die große",
+    "die grosse"
+   ],
    "weak.nom.m": [
     "der große",
     "der grosse"
+   ],
+   "weak.nom.n": [
+    "das große",
+    "das grosse"
+   ],
+   "weak.nom.pl": [
+    "die großen",
+    "die grossen"
+   ]
+  }
+ },
+ "grün": {
+  "all": [
+   "am",
+   "grün",
+   "grüne",
+   "grünem",
+   "grünen",
+   "grüner",
+   "grünere",
+   "grünerem",
+   "grüneren",
+   "grünerer",
+   "grüneres",
+   "grünes",
+   "grünste",
+   "grünstem",
+   "grünsten",
+   "grünster",
+   "grünstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "green",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "grüner",
+    "grünerer",
+    "grünere",
+    "grüneres",
+    "grüneren",
+    "grünerem",
+    "der grünere",
+    "die grünere",
+    "das grünere",
+    "die grüneren",
+    "des grüneren",
+    "der grüneren",
+    "dem grüneren",
+    "den grüneren",
+    "ein grünerer",
+    "eine grünere",
+    "ein grüneres",
+    "eines grüneren",
+    "einer grüneren",
+    "einem grüneren",
+    "einen grüneren"
+   ],
+   "mixed.acc.m": [
+    "einen grünen"
+   ],
+   "mixed.nom.n": [
+    "ein grünes"
+   ],
+   "strong.dat.f": [
+    "grüner"
+   ],
+   "superlative": [
+    "am grünsten",
+    "grünster",
+    "grünste",
+    "grünstes",
+    "grünsten",
+    "grünstem",
+    "der grünste",
+    "die grünste",
+    "das grünste",
+    "die grünsten",
+    "des grünsten",
+    "der grünsten",
+    "dem grünsten",
+    "den grünsten",
+    "ein grünster",
+    "eine grünste",
+    "ein grünstes",
+    "eines grünsten",
+    "einer grünsten",
+    "einem grünsten",
+    "einen grünsten"
+   ],
+   "weak.acc.f": [
+    "die grüne"
+   ],
+   "weak.acc.m": [
+    "den grünen"
+   ],
+   "weak.acc.n": [
+    "das grüne"
+   ],
+   "weak.acc.pl": [
+    "die grünen"
+   ],
+   "weak.dat.f": [
+    "der grünen"
+   ],
+   "weak.dat.m": [
+    "dem grünen"
+   ],
+   "weak.dat.n": [
+    "dem grünen"
+   ],
+   "weak.dat.pl": [
+    "den grünen"
+   ],
+   "weak.gen.f": [
+    "der grünen"
+   ],
+   "weak.gen.m": [
+    "des grünen"
+   ],
+   "weak.gen.n": [
+    "des grünen"
+   ],
+   "weak.gen.pl": [
+    "der grünen"
+   ],
+   "weak.nom.f": [
+    "die grüne"
+   ],
+   "weak.nom.m": [
+    "der grüne"
+   ],
+   "weak.nom.n": [
+    "das grüne"
+   ],
+   "weak.nom.pl": [
+    "die grünen"
    ]
   }
  },
@@ -10767,8 +12012,53 @@
     "einem besten",
     "einen besten"
    ],
+   "weak.acc.f": [
+    "die gute"
+   ],
+   "weak.acc.m": [
+    "den guten"
+   ],
+   "weak.acc.n": [
+    "das gute"
+   ],
+   "weak.acc.pl": [
+    "die guten"
+   ],
+   "weak.dat.f": [
+    "der guten"
+   ],
+   "weak.dat.m": [
+    "dem guten"
+   ],
+   "weak.dat.n": [
+    "dem guten"
+   ],
+   "weak.dat.pl": [
+    "den guten"
+   ],
+   "weak.gen.f": [
+    "der guten"
+   ],
+   "weak.gen.m": [
+    "des guten"
+   ],
+   "weak.gen.n": [
+    "des guten"
+   ],
+   "weak.gen.pl": [
+    "der guten"
+   ],
+   "weak.nom.f": [
+    "die gute"
+   ],
    "weak.nom.m": [
     "der gute"
+   ],
+   "weak.nom.n": [
+    "das gute"
+   ],
+   "weak.nom.pl": [
+    "die guten"
    ]
   }
  },
@@ -10892,8 +12182,53 @@
    "strong.dat.f": [
     "halber"
    ],
+   "weak.acc.f": [
+    "die halbe"
+   ],
+   "weak.acc.m": [
+    "den halben"
+   ],
+   "weak.acc.n": [
+    "das halbe"
+   ],
+   "weak.acc.pl": [
+    "die halben"
+   ],
+   "weak.dat.f": [
+    "der halben"
+   ],
+   "weak.dat.m": [
+    "dem halben"
+   ],
+   "weak.dat.n": [
+    "dem halben"
+   ],
+   "weak.dat.pl": [
+    "den halben"
+   ],
+   "weak.gen.f": [
+    "der halben"
+   ],
+   "weak.gen.m": [
+    "des halben"
+   ],
+   "weak.gen.n": [
+    "des halben"
+   ],
+   "weak.gen.pl": [
+    "der halben"
+   ],
+   "weak.nom.f": [
+    "die halbe"
+   ],
    "weak.nom.m": [
     "der halbe"
+   ],
+   "weak.nom.n": [
+    "das halbe"
+   ],
+   "weak.nom.pl": [
+    "die halben"
    ]
   }
  },
@@ -11080,6 +12415,137 @@
    ]
   }
  },
+ "hell": {
+  "all": [
+   "am",
+   "hell",
+   "helle",
+   "hellem",
+   "hellen",
+   "heller",
+   "hellere",
+   "hellerem",
+   "helleren",
+   "hellerer",
+   "helleres",
+   "helles",
+   "hellste",
+   "hellstem",
+   "hellsten",
+   "hellster",
+   "hellstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "light, bright",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "heller",
+    "hellerer",
+    "hellere",
+    "helleres",
+    "helleren",
+    "hellerem",
+    "der hellere",
+    "die hellere",
+    "das hellere",
+    "die helleren",
+    "des helleren",
+    "der helleren",
+    "dem helleren",
+    "den helleren",
+    "ein hellerer",
+    "eine hellere",
+    "ein helleres",
+    "eines helleren",
+    "einer helleren",
+    "einem helleren",
+    "einen helleren"
+   ],
+   "mixed.acc.m": [
+    "einen hellen"
+   ],
+   "mixed.nom.n": [
+    "ein helles"
+   ],
+   "strong.dat.f": [
+    "heller"
+   ],
+   "superlative": [
+    "am hellsten",
+    "hellster",
+    "hellste",
+    "hellstes",
+    "hellsten",
+    "hellstem",
+    "der hellste",
+    "die hellste",
+    "das hellste",
+    "die hellsten",
+    "des hellsten",
+    "der hellsten",
+    "dem hellsten",
+    "den hellsten",
+    "ein hellster",
+    "eine hellste",
+    "ein hellstes",
+    "eines hellsten",
+    "einer hellsten",
+    "einem hellsten",
+    "einen hellsten"
+   ],
+   "weak.acc.f": [
+    "die helle"
+   ],
+   "weak.acc.m": [
+    "den hellen"
+   ],
+   "weak.acc.n": [
+    "das helle"
+   ],
+   "weak.acc.pl": [
+    "die hellen"
+   ],
+   "weak.dat.f": [
+    "der hellen"
+   ],
+   "weak.dat.m": [
+    "dem hellen"
+   ],
+   "weak.dat.n": [
+    "dem hellen"
+   ],
+   "weak.dat.pl": [
+    "den hellen"
+   ],
+   "weak.gen.f": [
+    "der hellen"
+   ],
+   "weak.gen.m": [
+    "des hellen"
+   ],
+   "weak.gen.n": [
+    "des hellen"
+   ],
+   "weak.gen.pl": [
+    "der hellen"
+   ],
+   "weak.nom.f": [
+    "die helle"
+   ],
+   "weak.nom.m": [
+    "der helle"
+   ],
+   "weak.nom.n": [
+    "das helle"
+   ],
+   "weak.nom.pl": [
+    "die hellen"
+   ]
+  }
+ },
  "hängen": {
   "all": [
    "gehangen",
@@ -11252,6 +12718,138 @@
    ]
   }
  },
+ "jung": {
+  "all": [
+   "am",
+   "jung",
+   "junge",
+   "jungem",
+   "jungen",
+   "junger",
+   "junges",
+   "jünger",
+   "jüngere",
+   "jüngerem",
+   "jüngeren",
+   "jüngerer",
+   "jüngeres",
+   "jüngste",
+   "jüngstem",
+   "jüngsten",
+   "jüngster",
+   "jüngstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "young",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "jünger",
+    "jüngerer",
+    "jüngere",
+    "jüngeres",
+    "jüngeren",
+    "jüngerem",
+    "der jüngere",
+    "die jüngere",
+    "das jüngere",
+    "die jüngeren",
+    "des jüngeren",
+    "der jüngeren",
+    "dem jüngeren",
+    "den jüngeren",
+    "ein jüngerer",
+    "eine jüngere",
+    "ein jüngeres",
+    "eines jüngeren",
+    "einer jüngeren",
+    "einem jüngeren",
+    "einen jüngeren"
+   ],
+   "mixed.acc.m": [
+    "einen jungen"
+   ],
+   "mixed.nom.n": [
+    "ein junges"
+   ],
+   "strong.dat.f": [
+    "junger"
+   ],
+   "superlative": [
+    "am jüngsten",
+    "jüngster",
+    "jüngste",
+    "jüngstes",
+    "jüngsten",
+    "jüngstem",
+    "der jüngste",
+    "die jüngste",
+    "das jüngste",
+    "die jüngsten",
+    "des jüngsten",
+    "der jüngsten",
+    "dem jüngsten",
+    "den jüngsten",
+    "ein jüngster",
+    "eine jüngste",
+    "ein jüngstes",
+    "eines jüngsten",
+    "einer jüngsten",
+    "einem jüngsten",
+    "einen jüngsten"
+   ],
+   "weak.acc.f": [
+    "die junge"
+   ],
+   "weak.acc.m": [
+    "den jungen"
+   ],
+   "weak.acc.n": [
+    "das junge"
+   ],
+   "weak.acc.pl": [
+    "die jungen"
+   ],
+   "weak.dat.f": [
+    "der jungen"
+   ],
+   "weak.dat.m": [
+    "dem jungen"
+   ],
+   "weak.dat.n": [
+    "dem jungen"
+   ],
+   "weak.dat.pl": [
+    "den jungen"
+   ],
+   "weak.gen.f": [
+    "der jungen"
+   ],
+   "weak.gen.m": [
+    "des jungen"
+   ],
+   "weak.gen.n": [
+    "des jungen"
+   ],
+   "weak.gen.pl": [
+    "der jungen"
+   ],
+   "weak.nom.f": [
+    "die junge"
+   ],
+   "weak.nom.m": [
+    "der junge"
+   ],
+   "weak.nom.n": [
+    "das junge"
+   ],
+   "weak.nom.pl": [
+    "die jungen"
+   ]
+  }
+ },
  "kalt": {
   "all": [
    "am",
@@ -11334,8 +12932,53 @@
     "einem kältesten",
     "einen kältesten"
    ],
+   "weak.acc.f": [
+    "die kalte"
+   ],
+   "weak.acc.m": [
+    "den kalten"
+   ],
+   "weak.acc.n": [
+    "das kalte"
+   ],
+   "weak.acc.pl": [
+    "die kalten"
+   ],
+   "weak.dat.f": [
+    "der kalten"
+   ],
+   "weak.dat.m": [
+    "dem kalten"
+   ],
+   "weak.dat.n": [
+    "dem kalten"
+   ],
+   "weak.dat.pl": [
+    "den kalten"
+   ],
+   "weak.gen.f": [
+    "der kalten"
+   ],
+   "weak.gen.m": [
+    "des kalten"
+   ],
+   "weak.gen.n": [
+    "des kalten"
+   ],
+   "weak.gen.pl": [
+    "der kalten"
+   ],
+   "weak.nom.f": [
+    "die kalte"
+   ],
    "weak.nom.m": [
     "der kalte"
+   ],
+   "weak.nom.n": [
+    "das kalte"
+   ],
+   "weak.nom.pl": [
+    "die kalten"
    ]
   }
  },
@@ -11579,8 +13222,53 @@
     "einem klarsten",
     "einen klarsten"
    ],
+   "weak.acc.f": [
+    "die klare"
+   ],
+   "weak.acc.m": [
+    "den klaren"
+   ],
+   "weak.acc.n": [
+    "das klare"
+   ],
+   "weak.acc.pl": [
+    "die klaren"
+   ],
+   "weak.dat.f": [
+    "der klaren"
+   ],
+   "weak.dat.m": [
+    "dem klaren"
+   ],
+   "weak.dat.n": [
+    "dem klaren"
+   ],
+   "weak.dat.pl": [
+    "den klaren"
+   ],
+   "weak.gen.f": [
+    "der klaren"
+   ],
+   "weak.gen.m": [
+    "des klaren"
+   ],
+   "weak.gen.n": [
+    "des klaren"
+   ],
+   "weak.gen.pl": [
+    "der klaren"
+   ],
+   "weak.nom.f": [
+    "die klare"
+   ],
    "weak.nom.m": [
     "der klare"
+   ],
+   "weak.nom.n": [
+    "das klare"
+   ],
+   "weak.nom.pl": [
+    "die klaren"
    ]
   }
  },
@@ -11665,8 +13353,53 @@
     "einem kleinsten",
     "einen kleinsten"
    ],
+   "weak.acc.f": [
+    "die kleine"
+   ],
+   "weak.acc.m": [
+    "den kleinen"
+   ],
+   "weak.acc.n": [
+    "das kleine"
+   ],
+   "weak.acc.pl": [
+    "die kleinen"
+   ],
+   "weak.dat.f": [
+    "der kleinen"
+   ],
+   "weak.dat.m": [
+    "dem kleinen"
+   ],
+   "weak.dat.n": [
+    "dem kleinen"
+   ],
+   "weak.dat.pl": [
+    "den kleinen"
+   ],
+   "weak.gen.f": [
+    "der kleinen"
+   ],
+   "weak.gen.m": [
+    "des kleinen"
+   ],
+   "weak.gen.n": [
+    "des kleinen"
+   ],
+   "weak.gen.pl": [
+    "der kleinen"
+   ],
+   "weak.nom.f": [
+    "die kleine"
+   ],
    "weak.nom.m": [
     "der kleine"
+   ],
+   "weak.nom.n": [
+    "das kleine"
+   ],
+   "weak.nom.pl": [
+    "die kleinen"
    ]
   }
  },
@@ -12110,8 +13843,185 @@
     "einen kranksten",
     "einen krankesten"
    ],
+   "weak.acc.f": [
+    "die kranke"
+   ],
+   "weak.acc.m": [
+    "den kranken"
+   ],
+   "weak.acc.n": [
+    "das kranke"
+   ],
+   "weak.acc.pl": [
+    "die kranken"
+   ],
+   "weak.dat.f": [
+    "der kranken"
+   ],
+   "weak.dat.m": [
+    "dem kranken"
+   ],
+   "weak.dat.n": [
+    "dem kranken"
+   ],
+   "weak.dat.pl": [
+    "den kranken"
+   ],
+   "weak.gen.f": [
+    "der kranken"
+   ],
+   "weak.gen.m": [
+    "des kranken"
+   ],
+   "weak.gen.n": [
+    "des kranken"
+   ],
+   "weak.gen.pl": [
+    "der kranken"
+   ],
+   "weak.nom.f": [
+    "die kranke"
+   ],
    "weak.nom.m": [
     "der kranke"
+   ],
+   "weak.nom.n": [
+    "das kranke"
+   ],
+   "weak.nom.pl": [
+    "die kranken"
+   ]
+  }
+ },
+ "kurz": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "kurz",
+   "kurze",
+   "kurzem",
+   "kurzen",
+   "kurzer",
+   "kurzes",
+   "kürzer",
+   "kürzere",
+   "kürzerem",
+   "kürzeren",
+   "kürzerer",
+   "kürzeres",
+   "kürzeste",
+   "kürzestem",
+   "kürzesten",
+   "kürzester",
+   "kürzestes"
+  ],
+  "english": "short",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "kürzer",
+    "kürzerer",
+    "kürzere",
+    "kürzeres",
+    "kürzeren",
+    "kürzerem",
+    "der kürzere",
+    "die kürzere",
+    "das kürzere",
+    "die kürzeren",
+    "des kürzeren",
+    "der kürzeren",
+    "dem kürzeren",
+    "den kürzeren",
+    "ein kürzerer",
+    "eine kürzere",
+    "ein kürzeres",
+    "eines kürzeren",
+    "einer kürzeren",
+    "einem kürzeren",
+    "einen kürzeren"
+   ],
+   "mixed.acc.m": [
+    "einen kurzen"
+   ],
+   "mixed.nom.n": [
+    "ein kurzes"
+   ],
+   "strong.dat.f": [
+    "kurzer"
+   ],
+   "superlative": [
+    "am kürzesten",
+    "kürzester",
+    "kürzeste",
+    "kürzestes",
+    "kürzesten",
+    "kürzestem",
+    "der kürzeste",
+    "die kürzeste",
+    "das kürzeste",
+    "die kürzesten",
+    "des kürzesten",
+    "der kürzesten",
+    "dem kürzesten",
+    "den kürzesten",
+    "ein kürzester",
+    "eine kürzeste",
+    "ein kürzestes",
+    "eines kürzesten",
+    "einer kürzesten",
+    "einem kürzesten",
+    "einen kürzesten"
+   ],
+   "weak.acc.f": [
+    "die kurze"
+   ],
+   "weak.acc.m": [
+    "den kurzen"
+   ],
+   "weak.acc.n": [
+    "das kurze"
+   ],
+   "weak.acc.pl": [
+    "die kurzen"
+   ],
+   "weak.dat.f": [
+    "der kurzen"
+   ],
+   "weak.dat.m": [
+    "dem kurzen"
+   ],
+   "weak.dat.n": [
+    "dem kurzen"
+   ],
+   "weak.dat.pl": [
+    "den kurzen"
+   ],
+   "weak.gen.f": [
+    "der kurzen"
+   ],
+   "weak.gen.m": [
+    "des kurzen"
+   ],
+   "weak.gen.n": [
+    "des kurzen"
+   ],
+   "weak.gen.pl": [
+    "der kurzen"
+   ],
+   "weak.nom.f": [
+    "die kurze"
+   ],
+   "weak.nom.m": [
+    "der kurze"
+   ],
+   "weak.nom.n": [
+    "das kurze"
+   ],
+   "weak.nom.pl": [
+    "die kurzen"
    ]
   }
  },
@@ -12286,6 +14196,138 @@
    ]
   }
  },
+ "lang": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "lang",
+   "lange",
+   "langem",
+   "langen",
+   "langer",
+   "langes",
+   "länger",
+   "längere",
+   "längerem",
+   "längeren",
+   "längerer",
+   "längeres",
+   "längste",
+   "längstem",
+   "längsten",
+   "längster",
+   "längstes"
+  ],
+  "english": "long",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "länger",
+    "längerer",
+    "längere",
+    "längeres",
+    "längeren",
+    "längerem",
+    "der längere",
+    "die längere",
+    "das längere",
+    "die längeren",
+    "des längeren",
+    "der längeren",
+    "dem längeren",
+    "den längeren",
+    "ein längerer",
+    "eine längere",
+    "ein längeres",
+    "eines längeren",
+    "einer längeren",
+    "einem längeren",
+    "einen längeren"
+   ],
+   "mixed.acc.m": [
+    "einen langen"
+   ],
+   "mixed.nom.n": [
+    "ein langes"
+   ],
+   "strong.dat.f": [
+    "langer"
+   ],
+   "superlative": [
+    "am längsten",
+    "längster",
+    "längste",
+    "längstes",
+    "längsten",
+    "längstem",
+    "der längste",
+    "die längste",
+    "das längste",
+    "die längsten",
+    "des längsten",
+    "der längsten",
+    "dem längsten",
+    "den längsten",
+    "ein längster",
+    "eine längste",
+    "ein längstes",
+    "eines längsten",
+    "einer längsten",
+    "einem längsten",
+    "einen längsten"
+   ],
+   "weak.acc.f": [
+    "die lange"
+   ],
+   "weak.acc.m": [
+    "den langen"
+   ],
+   "weak.acc.n": [
+    "das lange"
+   ],
+   "weak.acc.pl": [
+    "die langen"
+   ],
+   "weak.dat.f": [
+    "der langen"
+   ],
+   "weak.dat.m": [
+    "dem langen"
+   ],
+   "weak.dat.n": [
+    "dem langen"
+   ],
+   "weak.dat.pl": [
+    "den langen"
+   ],
+   "weak.gen.f": [
+    "der langen"
+   ],
+   "weak.gen.m": [
+    "des langen"
+   ],
+   "weak.gen.n": [
+    "des langen"
+   ],
+   "weak.gen.pl": [
+    "der langen"
+   ],
+   "weak.nom.f": [
+    "die lange"
+   ],
+   "weak.nom.m": [
+    "der lange"
+   ],
+   "weak.nom.n": [
+    "das lange"
+   ],
+   "weak.nom.pl": [
+    "die langen"
+   ]
+  }
+ },
  "langsam": {
   "all": [
    "am",
@@ -12367,8 +14409,53 @@
     "einem langsamsten",
     "einen langsamsten"
    ],
+   "weak.acc.f": [
+    "die langsame"
+   ],
+   "weak.acc.m": [
+    "den langsamen"
+   ],
+   "weak.acc.n": [
+    "das langsame"
+   ],
+   "weak.acc.pl": [
+    "die langsamen"
+   ],
+   "weak.dat.f": [
+    "der langsamen"
+   ],
+   "weak.dat.m": [
+    "dem langsamen"
+   ],
+   "weak.dat.n": [
+    "dem langsamen"
+   ],
+   "weak.dat.pl": [
+    "den langsamen"
+   ],
+   "weak.gen.f": [
+    "der langsamen"
+   ],
+   "weak.gen.m": [
+    "des langsamen"
+   ],
+   "weak.gen.n": [
+    "des langsamen"
+   ],
+   "weak.gen.pl": [
+    "der langsamen"
+   ],
+   "weak.nom.f": [
+    "die langsame"
+   ],
    "weak.nom.m": [
     "der langsame"
+   ],
+   "weak.nom.n": [
+    "das langsame"
+   ],
+   "weak.nom.pl": [
+    "die langsamen"
    ]
   }
  },
@@ -12453,8 +14540,53 @@
     "einem langweiligsten",
     "einen langweiligsten"
    ],
+   "weak.acc.f": [
+    "die langweilige"
+   ],
+   "weak.acc.m": [
+    "den langweiligen"
+   ],
+   "weak.acc.n": [
+    "das langweilige"
+   ],
+   "weak.acc.pl": [
+    "die langweiligen"
+   ],
+   "weak.dat.f": [
+    "der langweiligen"
+   ],
+   "weak.dat.m": [
+    "dem langweiligen"
+   ],
+   "weak.dat.n": [
+    "dem langweiligen"
+   ],
+   "weak.dat.pl": [
+    "den langweiligen"
+   ],
+   "weak.gen.f": [
+    "der langweiligen"
+   ],
+   "weak.gen.m": [
+    "des langweiligen"
+   ],
+   "weak.gen.n": [
+    "des langweiligen"
+   ],
+   "weak.gen.pl": [
+    "der langweiligen"
+   ],
+   "weak.nom.f": [
+    "die langweilige"
+   ],
    "weak.nom.m": [
     "der langweilige"
+   ],
+   "weak.nom.n": [
+    "das langweilige"
+   ],
+   "weak.nom.pl": [
+    "die langweiligen"
    ]
   }
  },
@@ -12739,8 +14871,53 @@
     "einem lautesten",
     "einen lautesten"
    ],
+   "weak.acc.f": [
+    "die laute"
+   ],
+   "weak.acc.m": [
+    "den lauten"
+   ],
+   "weak.acc.n": [
+    "das laute"
+   ],
+   "weak.acc.pl": [
+    "die lauten"
+   ],
+   "weak.dat.f": [
+    "der lauten"
+   ],
+   "weak.dat.m": [
+    "dem lauten"
+   ],
+   "weak.dat.n": [
+    "dem lauten"
+   ],
+   "weak.dat.pl": [
+    "den lauten"
+   ],
+   "weak.gen.f": [
+    "der lauten"
+   ],
+   "weak.gen.m": [
+    "des lauten"
+   ],
+   "weak.gen.n": [
+    "des lauten"
+   ],
+   "weak.gen.pl": [
+    "der lauten"
+   ],
+   "weak.nom.f": [
+    "die laute"
+   ],
    "weak.nom.m": [
     "der laute"
+   ],
+   "weak.nom.n": [
+    "das laute"
+   ],
+   "weak.nom.pl": [
+    "die lauten"
    ]
   }
  },
@@ -12902,8 +15079,53 @@
     "einem leersten",
     "einen leersten"
    ],
+   "weak.acc.f": [
+    "die leere"
+   ],
+   "weak.acc.m": [
+    "den leeren"
+   ],
+   "weak.acc.n": [
+    "das leere"
+   ],
+   "weak.acc.pl": [
+    "die leeren"
+   ],
+   "weak.dat.f": [
+    "der leeren"
+   ],
+   "weak.dat.m": [
+    "dem leeren"
+   ],
+   "weak.dat.n": [
+    "dem leeren"
+   ],
+   "weak.dat.pl": [
+    "den leeren"
+   ],
+   "weak.gen.f": [
+    "der leeren"
+   ],
+   "weak.gen.m": [
+    "des leeren"
+   ],
+   "weak.gen.n": [
+    "des leeren"
+   ],
+   "weak.gen.pl": [
+    "der leeren"
+   ],
+   "weak.nom.f": [
+    "die leere"
+   ],
    "weak.nom.m": [
     "der leere"
+   ],
+   "weak.nom.n": [
+    "das leere"
+   ],
+   "weak.nom.pl": [
+    "die leeren"
    ]
   }
  },
@@ -13145,8 +15367,53 @@
     "einem leisesten",
     "einen leisesten"
    ],
+   "weak.acc.f": [
+    "die leise"
+   ],
+   "weak.acc.m": [
+    "den leisen"
+   ],
+   "weak.acc.n": [
+    "das leise"
+   ],
+   "weak.acc.pl": [
+    "die leisen"
+   ],
+   "weak.dat.f": [
+    "der leisen"
+   ],
+   "weak.dat.m": [
+    "dem leisen"
+   ],
+   "weak.dat.n": [
+    "dem leisen"
+   ],
+   "weak.dat.pl": [
+    "den leisen"
+   ],
+   "weak.gen.f": [
+    "der leisen"
+   ],
+   "weak.gen.m": [
+    "des leisen"
+   ],
+   "weak.gen.n": [
+    "des leisen"
+   ],
+   "weak.gen.pl": [
+    "der leisen"
+   ],
+   "weak.nom.f": [
+    "die leise"
+   ],
    "weak.nom.m": [
     "der leise"
+   ],
+   "weak.nom.n": [
+    "das leise"
+   ],
+   "weak.nom.pl": [
+    "die leisen"
    ]
   }
  },
@@ -13576,8 +15843,53 @@
     "einem lustigsten",
     "einen lustigsten"
    ],
+   "weak.acc.f": [
+    "die lustige"
+   ],
+   "weak.acc.m": [
+    "den lustigen"
+   ],
+   "weak.acc.n": [
+    "das lustige"
+   ],
+   "weak.acc.pl": [
+    "die lustigen"
+   ],
+   "weak.dat.f": [
+    "der lustigen"
+   ],
+   "weak.dat.m": [
+    "dem lustigen"
+   ],
+   "weak.dat.n": [
+    "dem lustigen"
+   ],
+   "weak.dat.pl": [
+    "den lustigen"
+   ],
+   "weak.gen.f": [
+    "der lustigen"
+   ],
+   "weak.gen.m": [
+    "des lustigen"
+   ],
+   "weak.gen.n": [
+    "des lustigen"
+   ],
+   "weak.gen.pl": [
+    "der lustigen"
+   ],
+   "weak.nom.f": [
+    "die lustige"
+   ],
    "weak.nom.m": [
     "der lustige"
+   ],
+   "weak.nom.n": [
+    "das lustige"
+   ],
+   "weak.nom.pl": [
+    "die lustigen"
    ]
   }
  },
@@ -14089,8 +16401,53 @@
     "einem müdesten",
     "einen müdesten"
    ],
+   "weak.acc.f": [
+    "die müde"
+   ],
+   "weak.acc.m": [
+    "den müden"
+   ],
+   "weak.acc.n": [
+    "das müde"
+   ],
+   "weak.acc.pl": [
+    "die müden"
+   ],
+   "weak.dat.f": [
+    "der müden"
+   ],
+   "weak.dat.m": [
+    "dem müden"
+   ],
+   "weak.dat.n": [
+    "dem müden"
+   ],
+   "weak.dat.pl": [
+    "den müden"
+   ],
+   "weak.gen.f": [
+    "der müden"
+   ],
+   "weak.gen.m": [
+    "des müden"
+   ],
+   "weak.gen.n": [
+    "des müden"
+   ],
+   "weak.gen.pl": [
+    "der müden"
+   ],
+   "weak.nom.f": [
+    "die müde"
+   ],
    "weak.nom.m": [
     "der müde"
+   ],
+   "weak.nom.n": [
+    "das müde"
+   ],
+   "weak.nom.pl": [
+    "die müden"
    ]
   }
  },
@@ -14364,8 +16721,53 @@
     "einem nettesten",
     "einen nettesten"
    ],
+   "weak.acc.f": [
+    "die nette"
+   ],
+   "weak.acc.m": [
+    "den netten"
+   ],
+   "weak.acc.n": [
+    "das nette"
+   ],
+   "weak.acc.pl": [
+    "die netten"
+   ],
+   "weak.dat.f": [
+    "der netten"
+   ],
+   "weak.dat.m": [
+    "dem netten"
+   ],
+   "weak.dat.n": [
+    "dem netten"
+   ],
+   "weak.dat.pl": [
+    "den netten"
+   ],
+   "weak.gen.f": [
+    "der netten"
+   ],
+   "weak.gen.m": [
+    "des netten"
+   ],
+   "weak.gen.n": [
+    "des netten"
+   ],
+   "weak.gen.pl": [
+    "der netten"
+   ],
+   "weak.nom.f": [
+    "die nette"
+   ],
    "weak.nom.m": [
     "der nette"
+   ],
+   "weak.nom.n": [
+    "das nette"
+   ],
+   "weak.nom.pl": [
+    "die netten"
    ]
   }
  },
@@ -14478,8 +16880,53 @@
     "einen neuesten",
     "einen neusten"
    ],
+   "weak.acc.f": [
+    "die neue"
+   ],
+   "weak.acc.m": [
+    "den neuen"
+   ],
+   "weak.acc.n": [
+    "das neue"
+   ],
+   "weak.acc.pl": [
+    "die neuen"
+   ],
+   "weak.dat.f": [
+    "der neuen"
+   ],
+   "weak.dat.m": [
+    "dem neuen"
+   ],
+   "weak.dat.n": [
+    "dem neuen"
+   ],
+   "weak.dat.pl": [
+    "den neuen"
+   ],
+   "weak.gen.f": [
+    "der neuen"
+   ],
+   "weak.gen.m": [
+    "des neuen"
+   ],
+   "weak.gen.n": [
+    "des neuen"
+   ],
+   "weak.gen.pl": [
+    "der neuen"
+   ],
+   "weak.nom.f": [
+    "die neue"
+   ],
    "weak.nom.m": [
     "der neue"
+   ],
+   "weak.nom.n": [
+    "das neue"
+   ],
+   "weak.nom.pl": [
+    "die neuen"
    ]
   }
  },
@@ -14944,6 +17391,191 @@
    ]
   }
  },
+ "rot": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "rot",
+   "rote",
+   "rotem",
+   "roten",
+   "roter",
+   "rotere",
+   "roterem",
+   "roteren",
+   "roterer",
+   "roteres",
+   "rotes",
+   "roteste",
+   "rotestem",
+   "rotesten",
+   "rotester",
+   "rotestes",
+   "roth",
+   "röter",
+   "rötere",
+   "röterem",
+   "röteren",
+   "röterer",
+   "röteres",
+   "röteste",
+   "rötestem",
+   "rötesten",
+   "rötester",
+   "rötestes"
+  ],
+  "english": "red",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "röter",
+    "roter",
+    "röterer",
+    "roterer",
+    "rötere",
+    "rotere",
+    "röteres",
+    "roteres",
+    "röteren",
+    "roteren",
+    "röterem",
+    "roterem",
+    "der rötere",
+    "der rotere",
+    "die rötere",
+    "die rotere",
+    "das rötere",
+    "das rotere",
+    "die röteren",
+    "die roteren",
+    "des röteren",
+    "des roteren",
+    "der röteren",
+    "der roteren",
+    "dem röteren",
+    "dem roteren",
+    "den röteren",
+    "den roteren",
+    "ein röterer",
+    "ein roterer",
+    "eine rötere",
+    "eine rotere",
+    "ein röteres",
+    "ein roteres",
+    "eines röteren",
+    "eines roteren",
+    "einer röteren",
+    "einer roteren",
+    "einem röteren",
+    "einem roteren",
+    "einen röteren",
+    "einen roteren"
+   ],
+   "mixed.acc.m": [
+    "einen roten"
+   ],
+   "mixed.nom.n": [
+    "ein rotes"
+   ],
+   "strong.dat.f": [
+    "roter"
+   ],
+   "superlative": [
+    "am rötesten",
+    "am rotesten",
+    "rötester",
+    "rotester",
+    "röteste",
+    "roteste",
+    "rötestes",
+    "rotestes",
+    "rötesten",
+    "rotesten",
+    "rötestem",
+    "rotestem",
+    "der röteste",
+    "der roteste",
+    "die röteste",
+    "die roteste",
+    "das röteste",
+    "das roteste",
+    "die rötesten",
+    "die rotesten",
+    "des rötesten",
+    "des rotesten",
+    "der rötesten",
+    "der rotesten",
+    "dem rötesten",
+    "dem rotesten",
+    "den rötesten",
+    "den rotesten",
+    "ein rötester",
+    "ein rotester",
+    "eine röteste",
+    "eine roteste",
+    "ein rötestes",
+    "ein rotestes",
+    "eines rötesten",
+    "eines rotesten",
+    "einer rötesten",
+    "einer rotesten",
+    "einem rötesten",
+    "einem rotesten",
+    "einen rötesten",
+    "einen rotesten"
+   ],
+   "weak.acc.f": [
+    "die rote"
+   ],
+   "weak.acc.m": [
+    "den roten"
+   ],
+   "weak.acc.n": [
+    "das rote"
+   ],
+   "weak.acc.pl": [
+    "die roten"
+   ],
+   "weak.dat.f": [
+    "der roten"
+   ],
+   "weak.dat.m": [
+    "dem roten"
+   ],
+   "weak.dat.n": [
+    "dem roten"
+   ],
+   "weak.dat.pl": [
+    "den roten"
+   ],
+   "weak.gen.f": [
+    "der roten"
+   ],
+   "weak.gen.m": [
+    "des roten"
+   ],
+   "weak.gen.n": [
+    "des roten"
+   ],
+   "weak.gen.pl": [
+    "der roten"
+   ],
+   "weak.nom.f": [
+    "die rote"
+   ],
+   "weak.nom.m": [
+    "der rote"
+   ],
+   "weak.nom.n": [
+    "das rote"
+   ],
+   "weak.nom.pl": [
+    "die roten"
+   ]
+  }
+ },
  "ruhig": {
   "all": [
    "am",
@@ -15025,8 +17657,53 @@
     "einem ruhigsten",
     "einen ruhigsten"
    ],
+   "weak.acc.f": [
+    "die ruhige"
+   ],
+   "weak.acc.m": [
+    "den ruhigen"
+   ],
+   "weak.acc.n": [
+    "das ruhige"
+   ],
+   "weak.acc.pl": [
+    "die ruhigen"
+   ],
+   "weak.dat.f": [
+    "der ruhigen"
+   ],
+   "weak.dat.m": [
+    "dem ruhigen"
+   ],
+   "weak.dat.n": [
+    "dem ruhigen"
+   ],
+   "weak.dat.pl": [
+    "den ruhigen"
+   ],
+   "weak.gen.f": [
+    "der ruhigen"
+   ],
+   "weak.gen.m": [
+    "des ruhigen"
+   ],
+   "weak.gen.n": [
+    "des ruhigen"
+   ],
+   "weak.gen.pl": [
+    "der ruhigen"
+   ],
+   "weak.nom.f": [
+    "die ruhige"
+   ],
    "weak.nom.m": [
     "der ruhige"
+   ],
+   "weak.nom.n": [
+    "das ruhige"
+   ],
+   "weak.nom.pl": [
+    "die ruhigen"
    ]
   }
  },
@@ -15346,8 +18023,53 @@
     "einem schlechtesten",
     "einen schlechtesten"
    ],
+   "weak.acc.f": [
+    "die schlechte"
+   ],
+   "weak.acc.m": [
+    "den schlechten"
+   ],
+   "weak.acc.n": [
+    "das schlechte"
+   ],
+   "weak.acc.pl": [
+    "die schlechten"
+   ],
+   "weak.dat.f": [
+    "der schlechten"
+   ],
+   "weak.dat.m": [
+    "dem schlechten"
+   ],
+   "weak.dat.n": [
+    "dem schlechten"
+   ],
+   "weak.dat.pl": [
+    "den schlechten"
+   ],
+   "weak.gen.f": [
+    "der schlechten"
+   ],
+   "weak.gen.m": [
+    "des schlechten"
+   ],
+   "weak.gen.n": [
+    "des schlechten"
+   ],
+   "weak.gen.pl": [
+    "der schlechten"
+   ],
+   "weak.nom.f": [
+    "die schlechte"
+   ],
    "weak.nom.m": [
     "der schlechte"
+   ],
+   "weak.nom.n": [
+    "das schlechte"
+   ],
+   "weak.nom.pl": [
+    "die schlechten"
    ]
   }
  },
@@ -15592,8 +18314,53 @@
     "einem schnellsten",
     "einen schnellsten"
    ],
+   "weak.acc.f": [
+    "die schnelle"
+   ],
+   "weak.acc.m": [
+    "den schnellen"
+   ],
+   "weak.acc.n": [
+    "das schnelle"
+   ],
+   "weak.acc.pl": [
+    "die schnellen"
+   ],
+   "weak.dat.f": [
+    "der schnellen"
+   ],
+   "weak.dat.m": [
+    "dem schnellen"
+   ],
+   "weak.dat.n": [
+    "dem schnellen"
+   ],
+   "weak.dat.pl": [
+    "den schnellen"
+   ],
+   "weak.gen.f": [
+    "der schnellen"
+   ],
+   "weak.gen.m": [
+    "des schnellen"
+   ],
+   "weak.gen.n": [
+    "des schnellen"
+   ],
+   "weak.gen.pl": [
+    "der schnellen"
+   ],
+   "weak.nom.f": [
+    "die schnelle"
+   ],
    "weak.nom.m": [
     "der schnelle"
+   ],
+   "weak.nom.n": [
+    "das schnelle"
+   ],
+   "weak.nom.pl": [
+    "die schnellen"
    ]
   }
  },
@@ -15674,6 +18441,190 @@
    ],
    "pret.wir": [
     "schrieben"
+   ]
+  }
+ },
+ "schwarz": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "schwarz",
+   "schwarze",
+   "schwarzem",
+   "schwarzen",
+   "schwarzer",
+   "schwarzere",
+   "schwarzerem",
+   "schwarzeren",
+   "schwarzerer",
+   "schwarzeres",
+   "schwarzes",
+   "schwarzeste",
+   "schwarzestem",
+   "schwarzesten",
+   "schwarzester",
+   "schwarzestes",
+   "schwärzer",
+   "schwärzere",
+   "schwärzerem",
+   "schwärzeren",
+   "schwärzerer",
+   "schwärzeres",
+   "schwärzeste",
+   "schwärzestem",
+   "schwärzesten",
+   "schwärzester",
+   "schwärzestes"
+  ],
+  "english": "black",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schwärzer",
+    "schwarzer",
+    "schwärzerer",
+    "schwarzerer",
+    "schwärzere",
+    "schwarzere",
+    "schwärzeres",
+    "schwarzeres",
+    "schwärzeren",
+    "schwarzeren",
+    "schwärzerem",
+    "schwarzerem",
+    "der schwärzere",
+    "der schwarzere",
+    "die schwärzere",
+    "die schwarzere",
+    "das schwärzere",
+    "das schwarzere",
+    "die schwärzeren",
+    "die schwarzeren",
+    "des schwärzeren",
+    "des schwarzeren",
+    "der schwärzeren",
+    "der schwarzeren",
+    "dem schwärzeren",
+    "dem schwarzeren",
+    "den schwärzeren",
+    "den schwarzeren",
+    "ein schwärzerer",
+    "ein schwarzerer",
+    "eine schwärzere",
+    "eine schwarzere",
+    "ein schwärzeres",
+    "ein schwarzeres",
+    "eines schwärzeren",
+    "eines schwarzeren",
+    "einer schwärzeren",
+    "einer schwarzeren",
+    "einem schwärzeren",
+    "einem schwarzeren",
+    "einen schwärzeren",
+    "einen schwarzeren"
+   ],
+   "mixed.acc.m": [
+    "einen schwarzen"
+   ],
+   "mixed.nom.n": [
+    "ein schwarzes"
+   ],
+   "strong.dat.f": [
+    "schwarzer"
+   ],
+   "superlative": [
+    "am schwärzesten",
+    "am schwarzesten",
+    "schwärzester",
+    "schwarzester",
+    "schwärzeste",
+    "schwarzeste",
+    "schwärzestes",
+    "schwarzestes",
+    "schwärzesten",
+    "schwarzesten",
+    "schwärzestem",
+    "schwarzestem",
+    "der schwärzeste",
+    "der schwarzeste",
+    "die schwärzeste",
+    "die schwarzeste",
+    "das schwärzeste",
+    "das schwarzeste",
+    "die schwärzesten",
+    "die schwarzesten",
+    "des schwärzesten",
+    "des schwarzesten",
+    "der schwärzesten",
+    "der schwarzesten",
+    "dem schwärzesten",
+    "dem schwarzesten",
+    "den schwärzesten",
+    "den schwarzesten",
+    "ein schwärzester",
+    "ein schwarzester",
+    "eine schwärzeste",
+    "eine schwarzeste",
+    "ein schwärzestes",
+    "ein schwarzestes",
+    "eines schwärzesten",
+    "eines schwarzesten",
+    "einer schwärzesten",
+    "einer schwarzesten",
+    "einem schwärzesten",
+    "einem schwarzesten",
+    "einen schwärzesten",
+    "einen schwarzesten"
+   ],
+   "weak.acc.f": [
+    "die schwarze"
+   ],
+   "weak.acc.m": [
+    "den schwarzen"
+   ],
+   "weak.acc.n": [
+    "das schwarze"
+   ],
+   "weak.acc.pl": [
+    "die schwarzen"
+   ],
+   "weak.dat.f": [
+    "der schwarzen"
+   ],
+   "weak.dat.m": [
+    "dem schwarzen"
+   ],
+   "weak.dat.n": [
+    "dem schwarzen"
+   ],
+   "weak.dat.pl": [
+    "den schwarzen"
+   ],
+   "weak.gen.f": [
+    "der schwarzen"
+   ],
+   "weak.gen.m": [
+    "des schwarzen"
+   ],
+   "weak.gen.n": [
+    "des schwarzen"
+   ],
+   "weak.gen.pl": [
+    "der schwarzen"
+   ],
+   "weak.nom.f": [
+    "die schwarze"
+   ],
+   "weak.nom.m": [
+    "der schwarze"
+   ],
+   "weak.nom.n": [
+    "das schwarze"
+   ],
+   "weak.nom.pl": [
+    "die schwarzen"
    ]
   }
  },
@@ -15758,8 +18709,53 @@
     "einem schwierigsten",
     "einen schwierigsten"
    ],
+   "weak.acc.f": [
+    "die schwierige"
+   ],
+   "weak.acc.m": [
+    "den schwierigen"
+   ],
+   "weak.acc.n": [
+    "das schwierige"
+   ],
+   "weak.acc.pl": [
+    "die schwierigen"
+   ],
+   "weak.dat.f": [
+    "der schwierigen"
+   ],
+   "weak.dat.m": [
+    "dem schwierigen"
+   ],
+   "weak.dat.n": [
+    "dem schwierigen"
+   ],
+   "weak.dat.pl": [
+    "den schwierigen"
+   ],
+   "weak.gen.f": [
+    "der schwierigen"
+   ],
+   "weak.gen.m": [
+    "des schwierigen"
+   ],
+   "weak.gen.n": [
+    "des schwierigen"
+   ],
+   "weak.gen.pl": [
+    "der schwierigen"
+   ],
+   "weak.nom.f": [
+    "die schwierige"
+   ],
    "weak.nom.m": [
     "der schwierige"
+   ],
+   "weak.nom.n": [
+    "das schwierige"
+   ],
+   "weak.nom.pl": [
+    "die schwierigen"
    ]
   }
  },
@@ -15950,8 +18946,53 @@
     "einem schönsten",
     "einen schönsten"
    ],
+   "weak.acc.f": [
+    "die schöne"
+   ],
+   "weak.acc.m": [
+    "den schönen"
+   ],
+   "weak.acc.n": [
+    "das schöne"
+   ],
+   "weak.acc.pl": [
+    "die schönen"
+   ],
+   "weak.dat.f": [
+    "der schönen"
+   ],
+   "weak.dat.m": [
+    "dem schönen"
+   ],
+   "weak.dat.n": [
+    "dem schönen"
+   ],
+   "weak.dat.pl": [
+    "den schönen"
+   ],
+   "weak.gen.f": [
+    "der schönen"
+   ],
+   "weak.gen.m": [
+    "des schönen"
+   ],
+   "weak.gen.n": [
+    "des schönen"
+   ],
+   "weak.gen.pl": [
+    "der schönen"
+   ],
+   "weak.nom.f": [
+    "die schöne"
+   ],
    "weak.nom.m": [
     "der schöne"
+   ],
+   "weak.nom.n": [
+    "das schöne"
+   ],
+   "weak.nom.pl": [
+    "die schönen"
    ]
   }
  },
@@ -16665,8 +19706,53 @@
     "einem spätesten",
     "einen spätesten"
    ],
+   "weak.acc.f": [
+    "die späte"
+   ],
+   "weak.acc.m": [
+    "den späten"
+   ],
+   "weak.acc.n": [
+    "das späte"
+   ],
+   "weak.acc.pl": [
+    "die späten"
+   ],
+   "weak.dat.f": [
+    "der späten"
+   ],
+   "weak.dat.m": [
+    "dem späten"
+   ],
+   "weak.dat.n": [
+    "dem späten"
+   ],
+   "weak.dat.pl": [
+    "den späten"
+   ],
+   "weak.gen.f": [
+    "der späten"
+   ],
+   "weak.gen.m": [
+    "des späten"
+   ],
+   "weak.gen.n": [
+    "des späten"
+   ],
+   "weak.gen.pl": [
+    "der späten"
+   ],
+   "weak.nom.f": [
+    "die späte"
+   ],
    "weak.nom.m": [
     "der späte"
+   ],
+   "weak.nom.n": [
+    "das späte"
+   ],
+   "weak.nom.pl": [
+    "die späten"
    ]
   }
  },
@@ -17106,8 +20192,53 @@
     "einem teuersten",
     "einen teuersten"
    ],
+   "weak.acc.f": [
+    "die teure"
+   ],
+   "weak.acc.m": [
+    "den teuren"
+   ],
+   "weak.acc.n": [
+    "das teure"
+   ],
+   "weak.acc.pl": [
+    "die teuren"
+   ],
+   "weak.dat.f": [
+    "der teuren"
+   ],
+   "weak.dat.m": [
+    "dem teuren"
+   ],
+   "weak.dat.n": [
+    "dem teuren"
+   ],
+   "weak.dat.pl": [
+    "den teuren"
+   ],
+   "weak.gen.f": [
+    "der teuren"
+   ],
+   "weak.gen.m": [
+    "des teuren"
+   ],
+   "weak.gen.n": [
+    "des teuren"
+   ],
+   "weak.gen.pl": [
+    "der teuren"
+   ],
+   "weak.nom.f": [
+    "die teure"
+   ],
    "weak.nom.m": [
     "der teure"
+   ],
+   "weak.nom.n": [
+    "das teure"
+   ],
+   "weak.nom.pl": [
+    "die teuren"
    ]
   }
  },
@@ -17192,8 +20323,137 @@
     "einem tollsten",
     "einen tollsten"
    ],
+   "weak.acc.f": [
+    "die tolle"
+   ],
+   "weak.acc.m": [
+    "den tollen"
+   ],
+   "weak.acc.n": [
+    "das tolle"
+   ],
+   "weak.acc.pl": [
+    "die tollen"
+   ],
+   "weak.dat.f": [
+    "der tollen"
+   ],
+   "weak.dat.m": [
+    "dem tollen"
+   ],
+   "weak.dat.n": [
+    "dem tollen"
+   ],
+   "weak.dat.pl": [
+    "den tollen"
+   ],
+   "weak.gen.f": [
+    "der tollen"
+   ],
+   "weak.gen.m": [
+    "des tollen"
+   ],
+   "weak.gen.n": [
+    "des tollen"
+   ],
+   "weak.gen.pl": [
+    "der tollen"
+   ],
+   "weak.nom.f": [
+    "die tolle"
+   ],
    "weak.nom.m": [
     "der tolle"
+   ],
+   "weak.nom.n": [
+    "das tolle"
+   ],
+   "weak.nom.pl": [
+    "die tollen"
+   ]
+  }
+ },
+ "tragen": {
+  "all": [
+   "getragen",
+   "haben",
+   "habest",
+   "habet",
+   "trag",
+   "trage",
+   "tragen",
+   "tragend",
+   "tragest",
+   "traget",
+   "tragt",
+   "trug",
+   "trugen",
+   "trugst",
+   "trugt",
+   "trägst",
+   "trägt",
+   "trüge",
+   "trügen",
+   "trügest",
+   "trüget",
+   "trügst",
+   "trügt",
+   "werdest"
+  ],
+  "english": "to wear; to carry",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "trag",
+    "trage"
+   ],
+   "imp.ihr": [
+    "tragt"
+   ],
+   "perf.du": [
+    "hast getragen"
+   ],
+   "perf.er": [
+    "hat getragen"
+   ],
+   "perf.ich": [
+    "habe getragen"
+   ],
+   "perf.ihr": [
+    "habt getragen"
+   ],
+   "perf.wir": [
+    "haben getragen"
+   ],
+   "pres.du": [
+    "trägst"
+   ],
+   "pres.er": [
+    "trägt"
+   ],
+   "pres.ich": [
+    "trage"
+   ],
+   "pres.ihr": [
+    "tragt"
+   ],
+   "pres.wir": [
+    "tragen"
+   ],
+   "pret.du": [
+    "trugst"
+   ],
+   "pret.er": [
+    "trug"
+   ],
+   "pret.ich": [
+    "trug"
+   ],
+   "pret.ihr": [
+    "trugt"
+   ],
+   "pret.wir": [
+    "trugen"
    ]
   }
  },
@@ -17278,8 +20538,53 @@
     "einem traurigsten",
     "einen traurigsten"
    ],
+   "weak.acc.f": [
+    "die traurige"
+   ],
+   "weak.acc.m": [
+    "den traurigen"
+   ],
+   "weak.acc.n": [
+    "das traurige"
+   ],
+   "weak.acc.pl": [
+    "die traurigen"
+   ],
+   "weak.dat.f": [
+    "der traurigen"
+   ],
+   "weak.dat.m": [
+    "dem traurigen"
+   ],
+   "weak.dat.n": [
+    "dem traurigen"
+   ],
+   "weak.dat.pl": [
+    "den traurigen"
+   ],
+   "weak.gen.f": [
+    "der traurigen"
+   ],
+   "weak.gen.m": [
+    "des traurigen"
+   ],
+   "weak.gen.n": [
+    "des traurigen"
+   ],
+   "weak.gen.pl": [
+    "der traurigen"
+   ],
+   "weak.nom.f": [
+    "die traurige"
+   ],
    "weak.nom.m": [
     "der traurige"
+   ],
+   "weak.nom.n": [
+    "das traurige"
+   ],
+   "weak.nom.pl": [
+    "die traurigen"
    ]
   }
  },
@@ -17891,8 +21196,53 @@
     "einem vollsten",
     "einen vollsten"
    ],
+   "weak.acc.f": [
+    "die volle"
+   ],
+   "weak.acc.m": [
+    "den vollen"
+   ],
+   "weak.acc.n": [
+    "das volle"
+   ],
+   "weak.acc.pl": [
+    "die vollen"
+   ],
+   "weak.dat.f": [
+    "der vollen"
+   ],
+   "weak.dat.m": [
+    "dem vollen"
+   ],
+   "weak.dat.n": [
+    "dem vollen"
+   ],
+   "weak.dat.pl": [
+    "den vollen"
+   ],
+   "weak.gen.f": [
+    "der vollen"
+   ],
+   "weak.gen.m": [
+    "des vollen"
+   ],
+   "weak.gen.n": [
+    "des vollen"
+   ],
+   "weak.gen.pl": [
+    "der vollen"
+   ],
+   "weak.nom.f": [
+    "die volle"
+   ],
    "weak.nom.m": [
     "der volle"
+   ],
+   "weak.nom.n": [
+    "das volle"
+   ],
+   "weak.nom.pl": [
+    "die vollen"
    ]
   }
  },
@@ -17977,8 +21327,53 @@
     "einem vorsichtigsten",
     "einen vorsichtigsten"
    ],
+   "weak.acc.f": [
+    "die vorsichtige"
+   ],
+   "weak.acc.m": [
+    "den vorsichtigen"
+   ],
+   "weak.acc.n": [
+    "das vorsichtige"
+   ],
+   "weak.acc.pl": [
+    "die vorsichtigen"
+   ],
+   "weak.dat.f": [
+    "der vorsichtigen"
+   ],
+   "weak.dat.m": [
+    "dem vorsichtigen"
+   ],
+   "weak.dat.n": [
+    "dem vorsichtigen"
+   ],
+   "weak.dat.pl": [
+    "den vorsichtigen"
+   ],
+   "weak.gen.f": [
+    "der vorsichtigen"
+   ],
+   "weak.gen.m": [
+    "des vorsichtigen"
+   ],
+   "weak.gen.n": [
+    "des vorsichtigen"
+   ],
+   "weak.gen.pl": [
+    "der vorsichtigen"
+   ],
+   "weak.nom.f": [
+    "die vorsichtige"
+   ],
    "weak.nom.m": [
     "der vorsichtige"
+   ],
+   "weak.nom.n": [
+    "das vorsichtige"
+   ],
+   "weak.nom.pl": [
+    "die vorsichtigen"
    ]
   }
  },
@@ -18150,8 +21545,53 @@
     "einem wärmsten",
     "einen wärmsten"
    ],
+   "weak.acc.f": [
+    "die warme"
+   ],
+   "weak.acc.m": [
+    "den warmen"
+   ],
+   "weak.acc.n": [
+    "das warme"
+   ],
+   "weak.acc.pl": [
+    "die warmen"
+   ],
+   "weak.dat.f": [
+    "der warmen"
+   ],
+   "weak.dat.m": [
+    "dem warmen"
+   ],
+   "weak.dat.n": [
+    "dem warmen"
+   ],
+   "weak.dat.pl": [
+    "den warmen"
+   ],
+   "weak.gen.f": [
+    "der warmen"
+   ],
+   "weak.gen.m": [
+    "des warmen"
+   ],
+   "weak.gen.n": [
+    "des warmen"
+   ],
+   "weak.gen.pl": [
+    "der warmen"
+   ],
+   "weak.nom.f": [
+    "die warme"
+   ],
    "weak.nom.m": [
     "der warme"
+   ],
+   "weak.nom.n": [
+    "das warme"
+   ],
+   "weak.nom.pl": [
+    "die warmen"
    ]
   }
  },
@@ -18529,8 +21969,185 @@
     "einem weitesten",
     "einen weitesten"
    ],
+   "weak.acc.f": [
+    "die weite"
+   ],
+   "weak.acc.m": [
+    "den weiten"
+   ],
+   "weak.acc.n": [
+    "das weite"
+   ],
+   "weak.acc.pl": [
+    "die weiten"
+   ],
+   "weak.dat.f": [
+    "der weiten"
+   ],
+   "weak.dat.m": [
+    "dem weiten"
+   ],
+   "weak.dat.n": [
+    "dem weiten"
+   ],
+   "weak.dat.pl": [
+    "den weiten"
+   ],
+   "weak.gen.f": [
+    "der weiten"
+   ],
+   "weak.gen.m": [
+    "des weiten"
+   ],
+   "weak.gen.n": [
+    "des weiten"
+   ],
+   "weak.gen.pl": [
+    "der weiten"
+   ],
+   "weak.nom.f": [
+    "die weite"
+   ],
    "weak.nom.m": [
     "der weite"
+   ],
+   "weak.nom.n": [
+    "das weite"
+   ],
+   "weak.nom.pl": [
+    "die weiten"
+   ]
+  }
+ },
+ "weiß": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "weiss",
+   "weiß",
+   "weiße",
+   "weißem",
+   "weißen",
+   "weißer",
+   "weißere",
+   "weißerem",
+   "weißeren",
+   "weißerer",
+   "weißeres",
+   "weißes",
+   "weißeste",
+   "weißestem",
+   "weißesten",
+   "weißester",
+   "weißestes"
+  ],
+  "english": "white",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "weißer",
+    "weißerer",
+    "weißere",
+    "weißeres",
+    "weißeren",
+    "weißerem",
+    "der weißere",
+    "die weißere",
+    "das weißere",
+    "die weißeren",
+    "des weißeren",
+    "der weißeren",
+    "dem weißeren",
+    "den weißeren",
+    "ein weißerer",
+    "eine weißere",
+    "ein weißeres",
+    "eines weißeren",
+    "einer weißeren",
+    "einem weißeren",
+    "einen weißeren"
+   ],
+   "mixed.acc.m": [
+    "einen weißen"
+   ],
+   "mixed.nom.n": [
+    "ein weißes"
+   ],
+   "strong.dat.f": [
+    "weißer"
+   ],
+   "superlative": [
+    "am weißesten",
+    "weißester",
+    "weißeste",
+    "weißestes",
+    "weißesten",
+    "weißestem",
+    "der weißeste",
+    "die weißeste",
+    "das weißeste",
+    "die weißesten",
+    "des weißesten",
+    "der weißesten",
+    "dem weißesten",
+    "den weißesten",
+    "ein weißester",
+    "eine weißeste",
+    "ein weißestes",
+    "eines weißesten",
+    "einer weißesten",
+    "einem weißesten",
+    "einen weißesten"
+   ],
+   "weak.acc.f": [
+    "die weiße"
+   ],
+   "weak.acc.m": [
+    "den weißen"
+   ],
+   "weak.acc.n": [
+    "das weiße"
+   ],
+   "weak.acc.pl": [
+    "die weißen"
+   ],
+   "weak.dat.f": [
+    "der weißen"
+   ],
+   "weak.dat.m": [
+    "dem weißen"
+   ],
+   "weak.dat.n": [
+    "dem weißen"
+   ],
+   "weak.dat.pl": [
+    "den weißen"
+   ],
+   "weak.gen.f": [
+    "der weißen"
+   ],
+   "weak.gen.m": [
+    "des weißen"
+   ],
+   "weak.gen.n": [
+    "des weißen"
+   ],
+   "weak.gen.pl": [
+    "der weißen"
+   ],
+   "weak.nom.f": [
+    "die weiße"
+   ],
+   "weak.nom.m": [
+    "der weiße"
+   ],
+   "weak.nom.n": [
+    "das weiße"
+   ],
+   "weak.nom.pl": [
+    "die weißen"
    ]
   }
  },
@@ -18712,8 +22329,53 @@
     "einem wichtigsten",
     "einen wichtigsten"
    ],
+   "weak.acc.f": [
+    "die wichtige"
+   ],
+   "weak.acc.m": [
+    "den wichtigen"
+   ],
+   "weak.acc.n": [
+    "das wichtige"
+   ],
+   "weak.acc.pl": [
+    "die wichtigen"
+   ],
+   "weak.dat.f": [
+    "der wichtigen"
+   ],
+   "weak.dat.m": [
+    "dem wichtigen"
+   ],
+   "weak.dat.n": [
+    "dem wichtigen"
+   ],
+   "weak.dat.pl": [
+    "den wichtigen"
+   ],
+   "weak.gen.f": [
+    "der wichtigen"
+   ],
+   "weak.gen.m": [
+    "des wichtigen"
+   ],
+   "weak.gen.n": [
+    "des wichtigen"
+   ],
+   "weak.gen.pl": [
+    "der wichtigen"
+   ],
+   "weak.nom.f": [
+    "die wichtige"
+   ],
    "weak.nom.m": [
     "der wichtige"
+   ],
+   "weak.nom.n": [
+    "das wichtige"
+   ],
+   "weak.nom.pl": [
+    "die wichtigen"
    ]
   }
  },

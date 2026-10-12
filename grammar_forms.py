@@ -26,6 +26,27 @@ def _persons(prefix, tags, label):
     return {"%s.%s" % (prefix, person): (tags | number, "%s, %s" % (label, person))
             for person, number in _PERSONS.items()}
 
+
+_CASE_TAGS = {"nom": "nominative", "acc": "accusative", "dat": "dative", "gen": "genitive"}
+_GENDER_TAGS = {"m": "masculine", "f": "feminine", "n": "neuter"}
+# An adjective ending is weak after der/die/das, mixed after ein/kein/mein…, strong with no article.
+# Wiktionary writes the weak forms and the mixed singular with their article: "der alte", "ein alter".
+_DECLENSIONS = {
+    "weak": ({"weak", "definite", "includes-article"}, "after der"),
+}
+
+
+def _endings(declension):
+    """One adjective slot per case and gender of [declension]: weak.nom.m … weak.gen.pl."""
+    tags, label = _DECLENSIONS[declension]
+    slots = {}
+    for case, case_tag in _CASE_TAGS.items():
+        for gender, gender_tag in _GENDER_TAGS.items():
+            slots["%s.%s.%s" % (declension, case, gender)] = (
+                tags | {case_tag, gender_tag, "singular"}, "%s, %s %s" % (label, gender_tag, case_tag))
+        slots["%s.%s.pl" % (declension, case)] = (tags | {case_tag, "plural"}, "%s, plural %s" % (label, case_tag))
+    return slots
+
 # slot → (tags, label shown on the card)
 SLOTS = {
     "verb": {
@@ -69,6 +90,8 @@ SLOTS = {
                          "no article, feminine dative"),
         "comparative": ({"comparative"}, "comparative"),
         "superlative": ({"superlative"}, "superlative"),
+        # Every case and gender: weak.acc.f, weak.dat.pl, …
+        **_endings("weak"),
     },
 }
 
