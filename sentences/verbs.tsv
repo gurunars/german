@@ -1,0 +1,158 @@
+# Verb cards: lemma, slot, English, German, grammar note. Forms copied from sentences/forms.json.
+haben	pres.ich	I **have** a small dog.	Ich **habe** einen kleinen Hund.	ich is regular here: the stem hab- plus -e.
+haben	pres.du	**Do** you **have** time today?	**Hast** du heute Zeit?	haben drops the b in the du form: hast, not habst.
+haben	pres.er	She **has** two brothers.	Sie **hat** zwei Brüder.	haben drops the b and adds only -t: hat, not habt.
+haben	pres.wir	We **have** no milk left.	Wir **haben** keine Milch mehr.	wir uses the same form as the infinitive, ending in -en.
+haben	pres.ihr	**Do** you **have** a car?	**Habt** ihr ein Auto?	ihr takes -t on the stem, and here haben keeps its b.
+haben	pret.er	He **had** no money yesterday.	Er **hatte** gestern kein Geld.	haben is irregular in the Präteritum: hatte with double t, and er ends in -e just like ich.
+haben	perf.er	He **had** a fever yesterday.	Er **hat** gestern Fieber **gehabt**.	The participle is regular, ge- + hab + -t, and haben is its own auxiliary.
+haben	imp.du	**Don't be** afraid of the dog!	**Hab** keine Angst vor dem Hund!	The du imperative is the bare stem without du; the -e (habe) is optional.
+sein	pres.ich	I **am** very tired today.	Ich **bin** heute sehr müde.	sein is completely irregular; ich bin has to be memorised.
+sein	pres.du	**Are** you already at home?	**Bist** du schon zu Hause?	Irregular stem bi-, but du still ends in -st.
+sein	pres.er	The coffee **is** too hot.	Der Kaffee **ist** zu heiß.	Irregular: er ist keeps the usual -t ending on an unusual stem.
+sein	pres.wir	We **are** not at home.	Wir **sind** nicht zu Hause.	Irregular: wir and sie (they) both use sind.
+sein	pres.ihr	**Are** you ready yet?	**Seid** ihr schon fertig?	ihr seid is spelled with d; do not confuse it with seit (since).
+sein	pret.er	The weather **was** nice yesterday.	Das Wetter **war** gestern schön.	Strong Präteritum: the stem becomes war, and er has no ending.
+sein	perf.er	He **has** never **been** to Berlin.	Er **ist** noch nie in Berlin **gewesen**.	sein builds its perfect with sein itself, and the participle is gewesen.
+sein	imp.du	**Be** quiet, the baby is sleeping!	**Sei** bitte leise, das Baby schläft!	The du imperative of sein is irregular: sei.
+werden	pres.ich	I **am getting** tired.	Ich **werde** langsam müde.	ich is regular: the stem werd- plus -e.
+werden	pres.du	You **turn** twenty tomorrow.	Du **wirst** morgen zwanzig.	du wirst: e changes to i and the d of the stem drops.
+werden	pres.er	It **is getting** dark already.	Es **wird** schon dunkel.	er wird: e changes to i, and no extra -t because the stem ends in d.
+werden	pres.wir	We **are** slowly **getting** old.	Wir **werden** langsam alt.	wir uses the same form as the infinitive.
+werden	pres.ihr	You **are getting** all wet!	Ihr **werdet** ganz nass!	The stem ends in d, so ihr adds -et instead of just -t.
+werden	pret.er	My father **became** a doctor.	Mein Vater **wurde** Arzt.	The Präteritum switches to u: wurde, and er ends in -e like ich.
+werden	perf.er	It **has become** very cold.	Es **ist** sehr kalt **geworden**.	werden is a change of state, so the perfect uses sein; the participle is geworden.
+werden	imp.du	**Get** well again soon!	**Werde** bald wieder gesund!	Unlike geben, werden keeps its e in the imperative: werde or werd.
+sagen	pres.ich	I **am telling** you the truth.	Ich **sage** dir die Wahrheit.	Regular weak verb: ich takes -e on the stem.
+sagen	pres.du	What **do** you **say** to that?	Was **sagst** du dazu?	Regular weak verb: du takes -st.
+sagen	pres.er	He never **says** thank you.	Er **sagt** nie danke.	Regular weak verb: er takes -t.
+sagen	pres.wir	We always **tell** the truth.	Wir **sagen** immer die Wahrheit.	wir uses the same form as the infinitive.
+sagen	pres.ihr	Why **don't** you **say** anything?	Warum **sagt** ihr nichts?	ihr takes -t, so it looks the same as the er form.
+sagen	pret.er	She **said** not a word.	Sie **sagte** kein Wort.	Weak Präteritum: stem plus -te, with no vowel change.
+sagen	perf.er	What **did** the doctor **say**?	Was **hat** der Arzt **gesagt**?	Weak participle: ge- + stem + -t, with haben.
+sagen	imp.du	**Tell** me the truth!	**Sag** mir die Wahrheit!	The du imperative is the bare stem; the -e (sage) is optional.
+wissen	pres.ich	I **don't know** that.	Ich **weiß** das nicht.	wissen behaves like a modal: ich weiß has no ending.
+wissen	pres.du	**Do** you **know** where he lives?	**Weißt** du, wo er wohnt?	The singular stem is weiß; du adds -t because the ß already gives the s sound.
+wissen	pres.er	Nobody **knows** the answer.	Niemand **weiß** die Antwort.	Like a modal, er has no ending: er weiß, same as ich.
+wissen	pres.wir	We **know** that already.	Das **wissen** wir schon.	The plural goes back to the infinitive vowel i: wissen.
+wissen	pres.ihr	**Do** you **know** when the train comes?	**Wisst** ihr, wann der Zug kommt?	ihr uses the infinitive vowel i and adds -t: wisst.
+wissen	pret.er	She **knew** nothing about it.	Sie **wusste** nichts davon.	Mixed verb: the vowel changes to u and it takes the weak ending -te.
+wissen	perf.er	He always **knew** it.	Er **hat** es immer **gewusst**.	Mixed verb: the participle has ge-, the vowel u and the weak ending -t.
+müssen	pres.ich	I **have to** work today.	Ich **muss** heute arbeiten.	Modal verb: the singular drops the umlaut and ich has no ending.
+müssen	pres.du	You **must** eat more.	Du **musst** mehr essen.	Modal verb: no umlaut in the singular, but du still takes -st.
+müssen	pres.er	He **has to** go home now.	Er **muss** jetzt nach Hause gehen.	Modal verb: er has no ending, so it matches ich muss.
+müssen	pres.wir	Unfortunately we **have to** go.	Wir **müssen** leider gehen.	The plural of a modal keeps the umlaut: müssen.
+müssen	pres.ihr	**Do** you **have to** get up early?	**Müsst** ihr früh aufstehen?	The plural keeps the umlaut, and ihr adds -t: müsst.
+müssen	pret.er	She **had to** wait a long time.	Sie **musste** lange warten.	The Präteritum drops the umlaut and adds the weak ending -te.
+müssen	perf.er	He **had to** go to the doctor.	Er **hat** zum Arzt **gemusst**.	On its own the participle is gemusst. With another verb the perfect uses the infinitive instead: Er hat gehen müssen.
+kommen	pres.ich	I **come** from Spain.	Ich **komme** aus Spanien.	kommen is regular in the present: ich takes -e.
+kommen	pres.du	When **are** you **coming** home?	Wann **kommst** du nach Hause?	No vowel change in the present: du simply takes -st.
+kommen	pres.er	The bus **is coming** soon.	Der Bus **kommt** gleich.	No vowel change in the present: er simply takes -t.
+kommen	pres.wir	We **are coming** tomorrow at eight.	Wir **kommen** morgen um acht.	wir uses the same form as the infinitive.
+kommen	pres.ihr	**Are** you **coming** to the party?	**Kommt** ihr zur Party?	ihr takes -t on the stem.
+kommen	pret.er	He **came** too late.	Er **kam** zu spät.	Strong Präteritum: o changes to a, and er has no ending.
+kommen	perf.er	**Has** the letter **come** yet?	**Ist** der Brief schon **gekommen**?	kommen is a verb of motion, so the perfect uses sein, not haben.
+kommen	imp.du	Please **come** here quickly!	**Komm** bitte schnell her!	The du imperative is the bare stem, usually without -e.
+wollen	pres.ich	I **want** a coffee.	Ich **will** einen Kaffee.	Modal verb: the singular changes o to i, and ich has no ending.
+wollen	pres.du	What **do** you **want** to eat?	Was **willst** du essen?	Modal verb: singular stem will-, and du takes -st.
+wollen	pres.er	She **wants** to become a teacher.	Sie **will** Lehrerin werden.	Modal verb: er has no ending, so it matches ich will.
+wollen	pres.wir	We **want** to go home.	Wir **wollen** nach Hause.	The plural goes back to the infinitive vowel o.
+wollen	pres.ihr	**Do** you **want** to play outside?	**Wollt** ihr draußen spielen?	The plural keeps the o, and ihr adds -t.
+wollen	pret.er	He only **wanted** to sleep.	Er **wollte** nur schlafen.	Modals take the weak Präteritum ending -te: wollte.
+wollen	perf.er	She **didn't want** that.	Das **hat** sie nicht **gewollt**.	On its own the participle is gewollt. With another verb the perfect uses the infinitive instead: Sie hat kommen wollen.
+lassen	pres.ich	I **leave** the window open.	Ich **lasse** das Fenster offen.	ich is regular: no vowel change, just -e.
+lassen	pres.du	**Are** you **leaving** the car here?	**Lässt** du das Auto hier?	a changes to ä in the du form, and -st shrinks to -t after the ss.
+lassen	pres.er	He **lets** the children play.	Er **lässt** die Kinder spielen.	a changes to ä in the er form, so it looks the same as du lässt.
+lassen	pres.wir	We **leave** the dog at home.	Wir **lassen** den Hund zu Hause.	wir uses the same form as the infinitive.
+lassen	pres.ihr	Why **do** you **make** him wait?	Warum **lasst** ihr ihn warten?	No umlaut in the ihr form; the -t joins the stem: lasst.
+lassen	pret.er	She **left** her bag in the car.	Sie **ließ** ihre Tasche im Auto.	Strong Präteritum: a changes to ie, ss becomes ß, and er has no ending.
+lassen	perf.er	He **left** his key at home.	Er **hat** seinen Schlüssel zu Hause **gelassen**.	Strong participle: ge- + stem + -en, with no vowel change.
+lassen	imp.du	**Leave** me alone!	**Lass** mich in Ruhe!	The du imperative is the bare stem and has no umlaut.
+leben	pres.ich	I **live** in Berlin.	Ich **lebe** in Berlin.	Regular weak verb: ich takes -e.
+leben	pres.du	**Do** you still **live** with your parents?	**Lebst** du noch bei deinen Eltern?	Regular weak verb: du takes -st.
+leben	pres.er	My grandmother **lives** alone.	Meine Oma **lebt** allein.	Regular weak verb: er takes -t.
+leben	pres.wir	We **live** in a small town.	Wir **leben** in einer kleinen Stadt.	wir uses the same form as the infinitive.
+leben	pres.ihr	**Do** you **live** in Germany?	**Lebt** ihr in Deutschland?	ihr takes -t, the same as the er form.
+leben	pret.er	He **lived** in Italy for a long time.	Er **lebte** lange in Italien.	Weak Präteritum: stem plus -te.
+leben	perf.er	She **lived** in Paris for two years.	Sie **hat** zwei Jahre in Paris **gelebt**.	Weak participle: ge- + stem + -t, with haben.
+leben	imp.du	**Farewell**, my friend!	**Leb** wohl, mein Freund!	The du imperative is the bare stem; leb wohl is a fixed goodbye.
+helfen	pres.ich	I **help** my mother.	Ich **helfe** meiner Mutter.	No vowel change for ich: the stem helf- plus -e.
+helfen	pres.du	**Will** you **help** me cook?	**Hilfst** du mir beim Kochen?	helfen changes e to i in the du and er forms: hilfst.
+helfen	pres.er	He often **helps** his neighbour.	Er **hilft** seinem Nachbarn oft.	helfen changes e to i in the er form, plus -t: hilft.
+helfen	pres.wir	We are happy to **help** you.	Wir **helfen** dir gern.	The plural has no vowel change: helfen.
+helfen	pres.ihr	**Are** you **helping** us tomorrow?	**Helft** ihr uns morgen?	The e to i change only affects du and er, so ihr keeps the e: helft.
+helfen	pret.er	She **helped** me with my homework.	Sie **half** mir bei den Hausaufgaben.	Strong Präteritum: e changes to a, and er has no ending.
+helfen	perf.er	Nobody **helped** him.	Niemand **hat** ihm **geholfen**.	Strong participle with a vowel change to o: geholfen.
+helfen	imp.du	Please **help** me with the suitcase!	**Hilf** mir bitte mit dem Koffer!	The du imperative drops -st and the pronoun; e to i verbs keep the i.
+finden	pres.ich	I **find** the film boring.	Ich **finde** den Film langweilig.	Regular in the present: ich takes -e.
+finden	pres.du	What **do** you **think** of the city?	Wie **findest** du die Stadt?	The stem ends in d, so an e is added before the ending: findest.
+finden	pres.er	He **can't find** his phone.	Er **findet** sein Handy nicht.	The stem ends in d, so an e is added before -t: findet.
+finden	pres.wir	We **find** the hotel very nice.	Wir **finden** das Hotel sehr schön.	wir uses the same form as the infinitive.
+finden	pres.ihr	**Can** you **find** the way on your own?	**Findet** ihr den Weg allein?	After a d stem, ihr also adds -et: findet.
+finden	pret.er	She **found** a wallet on the street.	Sie **fand** eine Geldbörse auf der Straße.	Strong Präteritum: i changes to a, and er has no ending.
+finden	perf.er	**Has** he **found** a job?	**Hat** er eine Arbeit **gefunden**?	Strong participle with a vowel change to u: gefunden.
+finden	imp.du	**Find** the mistake in the sentence!	**Finde** den Fehler im Satz!	Stems ending in d usually keep the -e in the imperative: finde.
+geben	pres.ich	I **will give** you my number.	Ich **gebe** dir meine Nummer.	No vowel change for ich: the stem geb- plus -e.
+geben	pres.du	**Will** you **give** me the salt?	**Gibst** du mir das Salz?	geben changes e to i in the du and er forms: gibst.
+geben	pres.er	She **gives** the child an apple.	Sie **gibt** dem Kind einen Apfel.	geben changes e to i in the er form, plus -t: gibt.
+geben	pres.wir	We **are throwing** a party on Saturday.	Wir **geben** am Samstag eine Party.	The plural has no vowel change: geben.
+geben	pres.ihr	**Are** you **giving** him a present?	**Gebt** ihr ihm ein Geschenk?	The e to i change only affects du and er, so ihr keeps the e: gebt.
+geben	pret.er	He **gave** me the key.	Er **gab** mir den Schlüssel.	Strong Präteritum: e changes to a, and er has no ending.
+geben	perf.er	Mum **gave** me money.	Mama **hat** mir Geld **gegeben**.	Strong participle: ge- + stem + -en, keeping the e: gegeben.
+geben	imp.du	**Give** me the ball!	**Gib** mir den Ball!	The du imperative drops -st and the pronoun; e to i verbs keep the i.
+hören	pres.ich	I **can't hear** you.	Ich **höre** dich nicht.	Regular weak verb: ich takes -e.
+hören	pres.du	**Do** you **hear** the music?	**Hörst** du die Musik?	Regular weak verb: du takes -st.
+hören	pres.er	He **listens** to music every day.	Er **hört** jeden Tag Musik.	Regular weak verb: er takes -t.
+hören	pres.wir	We **like listening** to the radio.	Wir **hören** gern Radio.	wir uses the same form as the infinitive.
+hören	pres.ihr	**Can** you **hear** me?	**Hört** ihr mich?	ihr takes -t, the same as the er form.
+hören	pret.er	She **heard** a noise.	Sie **hörte** ein Geräusch.	Weak Präteritum: stem plus -te.
+hören	perf.er	**Has** he **heard** the news yet?	**Hat** er die Nachricht schon **gehört**?	Weak participle: ge- + stem + -t, with haben.
+hören	imp.du	**Listen** to me, please!	**Hör** mir bitte zu!	The du imperative is the bare stem; zu goes to the end because zuhören is separable.
+essen	pres.ich	I **don't eat** meat.	Ich **esse** kein Fleisch.	No vowel change for ich: the stem ess- plus -e.
+essen	pres.du	What **do** you **eat** for breakfast?	Was **isst** du zum Frühstück?	essen changes e to i in the du form, and -st shrinks to -t after the ss.
+essen	pres.er	He **eats** an apple every day.	Er **isst** jeden Tag einen Apfel.	essen changes e to i in the er form, so it looks the same as du isst.
+essen	pres.wir	We **eat** at seven.	Wir **essen** um sieben.	The plural has no vowel change: essen.
+essen	pres.ihr	**Do** you **like** fish?	**Esst** ihr gern Fisch?	ihr keeps the e and adds -t: esst.
+essen	pret.er	She **ate** a big pizza.	Sie **aß** eine große Pizza.	Strong Präteritum: e changes to a, ss becomes ß, and er has no ending.
+essen	perf.er	He **hasn't eaten** anything today.	Er **hat** heute nichts **gegessen**.	The participle gegessen has an extra g between ge- and the stem.
+essen	imp.du	Please **eat** your soup!	**Iss** bitte deine Suppe!	The du imperative drops -st and the pronoun; e to i verbs keep the i.
+nehmen	pres.ich	I **take** the bus.	Ich **nehme** den Bus.	No vowel change for ich: the stem nehm- plus -e.
+nehmen	pres.du	**Are** you **taking** an umbrella?	**Nimmst** du einen Regenschirm mit?	nehmen changes eh to imm in the du and er forms: nimmst.
+nehmen	pres.er	She always **takes** the train.	Sie **nimmt** immer den Zug.	nehmen changes eh to imm in the er form, plus -t: nimmt.
+nehmen	pres.wir	We **will have** two coffees, please.	Wir **nehmen** zwei Kaffee, bitte.	The plural has no vowel change: nehmen.
+nehmen	pres.ihr	**Are** you **taking** a taxi?	**Nehmt** ihr ein Taxi?	The vowel change only affects du and er, so ihr keeps the e: nehmt.
+nehmen	pret.er	He **took** my pen.	Er **nahm** meinen Stift.	Strong Präteritum: e changes to a, and er has no ending.
+nehmen	perf.er	Who **took** my phone?	Wer **hat** mein Handy **genommen**?	Strong participle with a vowel change to o and a double m: genommen.
+nehmen	imp.du	**Take** a piece of cake!	**Nimm** dir ein Stück Kuchen!	The du imperative drops -st and the pronoun; e to i verbs keep the i: nimm.
+glauben	pres.ich	I **don't believe** that.	Das **glaube** ich nicht.	Regular weak verb: ich takes -e.
+glauben	pres.du	**Do** you **believe** me?	**Glaubst** du mir das?	Regular weak verb: du takes -st.
+glauben	pres.er	She **believes** it will rain tomorrow.	Sie **glaubt**, es regnet morgen.	Regular weak verb: er takes -t.
+glauben	pres.wir	We **don't believe** a word.	Wir **glauben** kein Wort.	wir uses the same form as the infinitive.
+glauben	pres.ihr	**Do** you **believe** in ghosts?	**Glaubt** ihr an Geister?	ihr takes -t, the same as the er form.
+glauben	pret.er	Nobody **believed** him.	Niemand **glaubte** ihm.	Weak Präteritum: stem plus -te.
+glauben	perf.er	He **didn't believe** me.	Er **hat** mir nicht **geglaubt**.	Weak participle: ge- + stem + -t, with haben.
+glauben	imp.du	**Believe** me, that's true!	**Glaub** mir, das ist wahr!	The du imperative is the bare stem; the -e (glaube) is optional.
+bringen	pres.ich	I **will bring** the wine.	Ich **bringe** den Wein mit.	Regular in the present: ich takes -e.
+bringen	pres.du	**Will** you **bring** me a glass of water?	**Bringst** du mir ein Glas Wasser?	No vowel change in the present: du takes -st.
+bringen	pres.er	The waiter **brings** the menu.	Der Kellner **bringt** die Speisekarte.	No vowel change in the present: er takes -t.
+bringen	pres.wir	We **are taking** the children to school.	Wir **bringen** die Kinder zur Schule.	wir uses the same form as the infinitive.
+bringen	pres.ihr	**Are** you **bringing** your dog?	**Bringt** ihr euren Hund mit?	ihr takes -t, the same as the er form.
+bringen	pret.er	He **brought** me flowers.	Er **brachte** mir Blumen mit.	Mixed verb: the stem changes to brach- and takes the weak ending -te.
+bringen	perf.er	She **brought** me a cake.	Sie **hat** mir einen Kuchen **gebracht**.	Mixed verb: changed stem brach- with the weak participle ending -t: gebracht.
+bringen	imp.du	Please **bring** me the book!	**Bring** mir bitte das Buch!	The du imperative is the bare stem; the -e (bringe) is optional.
+brauchen	pres.ich	I **need** a new phone.	Ich **brauche** ein neues Handy.	Regular weak verb: ich takes -e.
+brauchen	pres.du	**Do** you **need** my help?	**Brauchst** du meine Hilfe?	Regular weak verb: du takes -st.
+brauchen	pres.er	The baby **needs** a lot of sleep.	Das Baby **braucht** viel Schlaf.	Regular weak verb: er takes -t.
+brauchen	pres.wir	We **need** milk and bread.	Wir **brauchen** Milch und Brot.	wir uses the same form as the infinitive.
+brauchen	pres.ihr	What **do** you **need** for the party?	Was **braucht** ihr für die Party?	ihr takes -t, the same as the er form.
+brauchen	pret.er	He **needed** a lot of time.	Er **brauchte** viel Zeit.	Weak Präteritum: stem plus -te, no umlaut in standard German.
+brauchen	perf.er	She **needed** two hours.	Sie **hat** zwei Stunden **gebraucht**.	Weak participle: ge- + stem + -t, with haben.
+brauchen	imp.du	**Don't take** so long, please!	**Brauch** bitte nicht so lange!	The du imperative is the bare stem; the -e (brauche) is optional.
+fragen	pres.ich	I **will ask** the teacher.	Ich **frage** den Lehrer.	Regular weak verb: ich takes -e.
+fragen	pres.du	Why **are** you **asking** me that?	Warum **fragst** du mich das?	Regular weak verb: du takes -st, with no umlaut.
+fragen	pres.er	He **asks** for the way.	Er **fragt** nach dem Weg.	Regular weak verb: er takes -t, with no umlaut.
+fragen	pres.wir	We **will ask** our parents.	Wir **fragen** unsere Eltern.	wir uses the same form as the infinitive.
+fragen	pres.ihr	**Are** you **asking** the teacher?	**Fragt** ihr den Lehrer?	ihr takes -t, the same as the er form.
+fragen	pret.er	She **asked** me my name.	Sie **fragte** mich nach meinem Namen.	Weak Präteritum: stem plus -te, not a strong form.
+fragen	perf.er	**Has** he **asked** you yet?	**Hat** er dich schon **gefragt**?	Weak participle: ge- + stem + -t, with haben.
+fragen	imp.du	Just **ask** your mother!	**Frag** doch deine Mutter!	The du imperative is the bare stem; the -e (frage) is optional.

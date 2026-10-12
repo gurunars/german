@@ -1,0 +1,37 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+sein.present	sein	pres.ich	I **am** tired.	Ich **bin** müde.	sein is irregular in every person, so learn its forms as a set: ich bin.
+sein.present	sein	pres.du	You **are** very tall.	Du **bist** sehr groß.	du bist: like most du forms it ends in -st, but sein changes its whole stem.
+sein.present	sein	pres.er	He **is** old.	Er **ist** alt.	er, sie and es all take ist.
+sein.present	sein	pres.er	The cat **is** small.	Die Katze **ist** klein.	A noun as the subject takes the same form as er/sie/es: ist.
+sein.present	sein	pres.wir	We **are** here.	Wir **sind** hier.	wir sind — the same form serves sie (they) and Sie (formal you).
+sein.present	sein	pres.ihr	You **are** tired. (several friends)	Ihr **seid** müde.	ihr seid, with a d: not sind, which belongs to wir and sie.
+sein.present	sein	pres.wir	They **are** new.	Sie **sind** neu.	sie (they) takes sind, like wir.
+sein.present	sein	pres.wir	You **are** tall. (formal)	Sie **sind** groß.	Formal Sie always takes sind, even when you speak to one person.
+sein.present	sein	pres.wir	The man and the woman **are** here.	Der Mann und die Frau **sind** hier.	Two subjects joined by und are plural: sind.
+sein.present	sein	pres.ich	Yes, I **am** tired.	Ja, ich **bin** müde.	ja stands outside the sentence, so the verb is still second: ich bin.
+sein.present	sein	pres.er	No, the house **is** old.	Nein, das Haus **ist** alt.	nein, like ja, does not count as a position: das Haus comes first, then ist.
+pronoun.subject	-	-	**I** am here.	**Ich** bin hier.	ich is written lower-case unless it starts the sentence — unlike English I.
+pronoun.subject	-	-	**You** are small. (one friend)	**Du** bist klein.	du is for one person you know well: a friend, family, a child.
+pronoun.subject	-	-	**She** is tired.	**Sie** ist müde.	sie with ist means she; the verb tells it apart from they.
+pronoun.subject	-	-	**We** are old.	**Wir** sind alt.	wir: we.
+pronoun.subject	-	-	**You** are here. (several friends)	**Ihr** seid hier.	ihr is du for several people at once.
+pronoun.subject	-	-	**They** are tired.	**Sie** sind müde.	sie with sind means they — only the verb shows it is not she.
+pronoun.subject	-	-	**You** are tired. (formal)	**Sie** sind müde.	Sie with a capital S is the polite you, for one person or several.
+pronoun.subject	-	-	**It** is new. (the book)	**Es** ist neu.	es stands for a das-word: das Buch → es.
+article.nom	Mann	nom.sg	That is **the man**.	Das ist **der Mann**.	der Mann is masculine. Always learn a noun together with its article.
+article.nom	Frau	nom.sg	That is **the woman**.	Das ist **die Frau**.	die Frau is feminine.
+article.nom	Kind	nom.sg	That is **the child**.	Das ist **das Kind**.	das Kind is neuter: gender belongs to the word, not to the person.
+article.nom	Hund	nom.sg	That is **the dog**.	Das ist **der Hund**.	der Hund: masculine.
+article.nom	Katze	nom.sg	That is **the cat**.	Das ist **die Katze**.	die Katze: most nouns ending in -e are feminine.
+article.nom	Haus	nom.sg	That is **the house**.	Das ist **das Haus**.	das Haus: neuter. Das ist… points at anything — the second das is the article.
+article.nom	Auto	nom.sg	That is **the car**.	Das ist **das Auto**.	das Auto: nouns ending in -o are usually neuter.
+article.nom	Buch	nom.sg	That is **the book**.	Das ist **das Buch**.	das Buch: neuter.
+article.nom	Tisch	nom.sg	That is **the table**.	Das ist **der Tisch**.	der Tisch: masculine, though it is a thing — grammar, not meaning.
+article.nom	Lampe	nom.sg	That is **the lamp**.	Das ist **die Lampe**.	die Lampe: feminine, like most nouns in -e.
+article.nom	Hund	nom.sg	**The dog** is very small.	**Der Hund** ist sehr klein.	The subject takes the nominative: der Hund.
+article.nom	Frau	nom.sg	**The woman** is tired.	**Die Frau** ist müde.	die Frau as the subject: nominative, unchanged.
+pronoun.gender	-	-	The table is new. **It** is very big.	Der Tisch ist neu. **Er** ist sehr groß.	A der-word is er, even a thing: der Tisch → er.
+pronoun.gender	-	-	The lamp is old. **It** is small.	Die Lampe ist alt. **Sie** ist klein.	A die-word is sie: die Lampe → sie.
+pronoun.gender	-	-	The car is new. **It** is big.	Das Auto ist neu. **Es** ist groß.	A das-word is es: das Auto → es.
+pronoun.gender	-	-	The dog is old. **He** is tired.	Der Hund ist alt. **Er** ist müde.	der Hund → er, as in English he for a pet.
+pronoun.gender	-	-	The child is tired. **It** is small.	Das Kind ist müde. **Es** ist klein.	das Kind → es, whether the child is a boy or a girl.

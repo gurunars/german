@@ -1,0 +1,51 @@
+# lemma	pos	english — the words that get sentence cards; `make forms` fetches their tables.
+haben	verb	to have
+sein	verb	to be
+werden	verb	to become
+sagen	verb	to say
+wissen	verb	to know (a fact)
+müssen	verb	must, to have to
+kommen	verb	to come
+wollen	verb	to want
+lassen	verb	to let, to leave
+leben	verb	to live
+helfen	verb	to help
+finden	verb	to find
+geben	verb	to give
+hören	verb	to hear, to listen
+essen	verb	to eat
+nehmen	verb	to take
+glauben	verb	to believe
+bringen	verb	to bring
+brauchen	verb	to need
+fragen	verb	to ask
+Mann	noun	man
+Frau	noun	woman
+Weg	noun	way, path
+Vater	noun	father
+Tag	noun	day
+Mutter	noun	mother
+Nacht	noun	night
+Mädchen	noun	girl
+Abend	noun	evening
+Haus	noun	house
+Freund	noun	friend
+Welt	noun	world
+Junge	noun	boy
+Familie	noun	family
+Problem	noun	problem
+Sohn	noun	son
+Frage	noun	question
+Kopf	noun	head
+gut	adj	good
+schlecht	adj	bad
+einfach	adj	easy, simple
+schwierig	adj	difficult
+schnell	adj	fast
+klar	adj	clear
+toll	adj	great
+weit	adj	far, wide
+ruhig	adj	quiet, calm
+wichtig	adj	important
+nett	adj	nice
+frei	adj	free

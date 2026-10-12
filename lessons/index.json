@@ -1,0 +1,15 @@
+{
+  "name": "German lessons",
+  "decks": [
+    {
+      "name": "Lesson 1 · Being and naming: sein, pronouns, der/die/das",
+      "url": "01-sein.json",
+      "cards": 36
+    },
+    {
+      "name": "Lesson 2 · Having things: haben, ein/eine, the accusative",
+      "url": "02-haben.json",
+      "cards": 33
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "name": "Lesson 1 · Being and naming: sein, pronouns, der/die/das",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **am** tired.",
+      "back": "Ich **bin** müde.",
+      "note": "sein, present tense. sein is irregular in every person, so learn its forms as a set: ich bin.",
+      "priority": 1
+    },
+    {
+      "front": "You **are** very tall.",
+      "back": "Du **bist** sehr groß.",
+      "note": "sein, present tense. du bist: like most du forms it ends in -st, but sein changes its whole stem.",
+      "priority": 1
+    },
+    {
+      "front": "He **is** old.",
+      "back": "Er **ist** alt.",
+      "note": "sein, present tense. er, sie and es all take ist.",
+      "priority": 1
+    },
+    {
+      "front": "The cat **is** small.",
+      "back": "Die Katze **ist** klein.",
+      "note": "sein, present tense. A noun as the subject takes the same form as er/sie/es: ist.",
+      "priority": 1
+    },
+    {
+      "front": "We **are** here.",
+      "back": "Wir **sind** hier.",
+      "note": "sein, present tense. wir sind — the same form serves sie (they) and Sie (formal you).",
+      "priority": 1
+    },
+    {
+      "front": "You **are** tired. (several friends)",
+      "back": "Ihr **seid** müde.",
+      "note": "sein, present tense. ihr seid, with a d: not sind, which belongs to wir and sie.",
+      "priority": 1
+    },
+    {
+      "front": "They **are** new.",
+      "back": "Sie **sind** neu.",
+      "note": "sein, present tense. sie (they) takes sind, like wir.",
+      "priority": 1
+    },
+    {
+      "front": "You **are** tall. (formal)",
+      "back": "Sie **sind** groß.",
+      "note": "sein, present tense. Formal Sie always takes sind, even when you speak to one person.",
+      "priority": 1
+    },
+    {
+      "front": "The man and the woman **are** here.",
+      "back": "Der Mann und die Frau **sind** hier.",
+      "note": "sein, present tense. Two subjects joined by und are plural: sind.",
+      "priority": 1
+    },
+    {
+      "front": "Yes, I **am** tired.",
+      "back": "Ja, ich **bin** müde.",
+      "note": "sein, present tense. ja stands outside the sentence, so the verb is still second: ich bin.",
+      "priority": 1
+    },
+    {
+      "front": "No, the house **is** old.",
+      "back": "Nein, das Haus **ist** alt.",
+      "note": "sein, present tense. nein, like ja, does not count as a position: das Haus comes first, then ist.",
+      "priority": 1
+    },
+    {
+      "front": "**I** am here.",
+      "back": "**Ich** bin hier.",
+      "note": "Subject pronouns. ich is written lower-case unless it starts the sentence — unlike English I.",
+      "priority": 1
+    },
+    {
+      "front": "**You** are small. (one friend)",
+      "back": "**Du** bist klein.",
+      "note": "Subject pronouns. du is for one person you know well: a friend, family, a child.",
+      "priority": 1
+    },
+    {
+      "front": "**She** is tired.",
+      "back": "**Sie** ist müde.",
+      "note": "Subject pronouns. sie with ist means she; the verb tells it apart from they.",
+      "priority": 1
+    },
+    {
+      "front": "**We** are old.",
+      "back": "**Wir** sind alt.",
+      "note": "Subject pronouns. wir: we.",
+      "priority": 1
+    },
+    {
+      "front": "**You** are here. (several friends)",
+      "back": "**Ihr** seid hier.",
+      "note": "Subject pronouns. ihr is du for several people at once.",
+      "priority": 1
+    },
+    {
+      "front": "**They** are tired.",
+      "back": "**Sie** sind müde.",
+      "note": "Subject pronouns. sie with sind means they — only the verb shows it is not she.",
+      "priority": 1
+    },
+    {
+      "front": "**You** are tired. (formal)",
+      "back": "**Sie** sind müde.",
+      "note": "Subject pronouns. Sie with a capital S is the polite you, for one person or several.",
+      "priority": 1
+    },
+    {
+      "front": "**It** is new. (the book)",
+      "back": "**Es** ist neu.",
+      "note": "Subject pronouns. es stands for a das-word: das Buch → es.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the man**.",
+      "back": "Das ist **der Mann**.",
+      "note": "der, die, das: every noun has a gender. der Mann is masculine. Always learn a noun together with its article.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the woman**.",
+      "back": "Das ist **die Frau**.",
+      "note": "der, die, das: every noun has a gender. die Frau is feminine.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the child**.",
+      "back": "Das ist **das Kind**.",
+      "note": "der, die, das: every noun has a gender. das Kind is neuter: gender belongs to the word, not to the person.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the dog**.",
+      "back": "Das ist **der Hund**.",
+      "note": "der, die, das: every noun has a gender. der Hund: masculine.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the cat**.",
+      "back": "Das ist **die Katze**.",
+      "note": "der, die, das: every noun has a gender. die Katze: most nouns ending in -e are feminine.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the house**.",
+      "back": "Das ist **das Haus**.",
+      "note": "der, die, das: every noun has a gender. das Haus: neuter. Das ist… points at anything — the second das is the article.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the car**.",
+      "back": "Das ist **das Auto**.",
+      "note": "der, die, das: every noun has a gender. das Auto: nouns ending in -o are usually neuter.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the book**.",
+      "back": "Das ist **das Buch**.",
+      "note": "der, die, das: every noun has a gender. das Buch: neuter.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the table**.",
+      "back": "Das ist **der Tisch**.",
+      "note": "der, die, das: every noun has a gender. der Tisch: masculine, though it is a thing — grammar, not meaning.",
+      "priority": 1
+    },
+    {
+      "front": "That is **the lamp**.",
+      "back": "Das ist **die Lampe**.",
+      "note": "der, die, das: every noun has a gender. die Lampe: feminine, like most nouns in -e.",
+      "priority": 1
+    },
+    {
+      "front": "**The dog** is very small.",
+      "back": "**Der Hund** ist sehr klein.",
+      "note": "der, die, das: every noun has a gender. The subject takes the nominative: der Hund.",
+      "priority": 1
+    },
+    {
+      "front": "**The woman** is tired.",
+      "back": "**Die Frau** ist müde.",
+      "note": "der, die, das: every noun has a gender. die Frau as the subject: nominative, unchanged.",
+      "priority": 1
+    },
+    {
+      "front": "The table is new. **It** is very big.",
+      "back": "Der Tisch ist neu. **Er** ist sehr groß.",
+      "note": "er, sie, es for things. A der-word is er, even a thing: der Tisch → er.",
+      "priority": 1
+    },
+    {
+      "front": "The lamp is old. **It** is small.",
+      "back": "Die Lampe ist alt. **Sie** ist klein.",
+      "note": "er, sie, es for things. A die-word is sie: die Lampe → sie.",
+      "priority": 1
+    },
+    {
+      "front": "The car is new. **It** is big.",
+      "back": "Das Auto ist neu. **Es** ist groß.",
+      "note": "er, sie, es for things. A das-word is es: das Auto → es.",
+      "priority": 1
+    },
+    {
+      "front": "The dog is old. **He** is tired.",
+      "back": "Der Hund ist alt. **Er** ist müde.",
+      "note": "er, sie, es for things. der Hund → er, as in English he for a pet.",
+      "priority": 1
+    },
+    {
+      "front": "The child is tired. **It** is small.",
+      "back": "Das Kind ist müde. **Es** ist klein.",
+      "note": "er, sie, es for things. das Kind → es, whether the child is a boy or a girl.",
+      "priority": 1
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+# Noun cards for Before B1: lemma, slot, English, German, grammar note (tab-separated).
+Mann	nom.sg	**The man** is reading a newspaper.	**Der Mann** liest eine Zeitung.	Mann is masculine: der Mann. Subject, so nominative; the plural is Männer, with an umlaut and -er.
+Mann	acc.sg	I see **a man** in front of the house.	Ich sehe **einen Mann** vor dem Haus.	Direct object, so accusative: ein → einen. Only masculine articles change in the accusative; the noun stays the same.
+Mann	dat.sg	She is talking to **the man**.	Sie spricht mit **dem Mann**.	mit always takes the dative: der → dem. The noun itself takes no ending.
+Mann	gen.sg	**The man's** car is new.	Das Auto **des Mannes** ist neu.	Genitive of a masculine noun: des, and the noun adds -es or -s: Mannes.
+Mann	nom.pl	**The men** are playing football.	**Die Männer** spielen Fußball.	Plural of Mann: umlaut plus -er, Männer. All plurals take die in the nominative.
+Mann	dat.pl	The children are playing with **the men**.	Die Kinder spielen mit **den Männern**.	mit takes the dative; dative plural uses den and adds -n to the noun: Männer → Männern.
+Frau	nom.sg	**The woman** works in a bank.	**Die Frau** arbeitet in einer Bank.	Frau is feminine: die Frau. Subject, so nominative; the plural is Frauen, with -en.
+Frau	acc.sg	I know **the woman** from the shop.	Ich kenne **die Frau** aus dem Laden.	Direct object, so accusative. Feminine articles do not change in the accusative: die stays die.
+Frau	dat.sg	He gives **the woman** a flower.	Er gibt **der Frau** eine Blume.	geben puts the receiver in the dative: die → der. Feminine nouns never take an ending in the singular.
+Frau	gen.sg	**The woman's** bag is red.	Die Tasche **der Frau** ist rot.	Genitive of a feminine noun: die → der, and the noun takes no ending.
+Frau	nom.pl	**The women** are drinking coffee.	**Die Frauen** trinken Kaffee.	Plural of Frau adds -en: Frauen. All plurals take die in the nominative.
+Frau	dat.pl	I am talking to **the women**.	Ich spreche mit **den Frauen**.	mit takes the dative: plural article den. Frauen already ends in -n, so nothing is added.
+Weg	nom.sg	**The way** to Berlin is long.	**Der Weg** nach Berlin ist lang.	Weg is masculine: der Weg. Subject, so nominative; the plural is Wege, with -e.
+Weg	acc.sg	Do you know **the way** home?	Kennst du **den Weg** nach Hause?	Direct object of kennen, so accusative: der → den. The noun stays the same.
+Weg	dat.sg	There is a tree on **the path**.	Auf **dem Weg** steht ein Baum.	auf for a location takes the dative: der → dem. The noun takes no ending.
+Weg	gen.sg	The end of **the path** is near.	Das Ende **des Weges** ist nah.	Genitive of a masculine noun: des, and the noun adds -es or -s: Weges.
+Weg	nom.pl	**The paths** here are wide.	**Die Wege** hier sind breit.	Plural of Weg adds -e: Wege. All plurals take die in the nominative.
+Weg	dat.pl	We like walking on **the paths** here.	Wir laufen gern auf **den Wegen** hier.	auf for a location takes the dative; dative plural uses den and adds -n: Wege → Wegen.
+Vater	nom.sg	**The father** is cooking today.	**Der Vater** kocht heute.	Vater is masculine: der Vater. Subject, so nominative; the plural is Väter, with only an umlaut.
+Vater	acc.sg	The child is looking for **the father**.	Das Kind sucht **den Vater**.	Direct object of suchen, so accusative: der → den. The noun stays the same.
+Vater	dat.sg	I am helping **the father** with the car.	Ich helfe **dem Vater** mit dem Auto.	helfen takes the dative: der → dem. The noun takes no ending.
+Vater	gen.sg	**The father's** car is red.	Das Auto **des Vaters** ist rot.	Genitive of a masculine noun: des, and the noun adds -s: Vaters.
+Vater	nom.pl	**The fathers** are waiting at the school.	**Die Väter** warten vor der Schule.	Plural of Vater only adds an umlaut: Väter. All plurals take die in the nominative.
+Vater	dat.pl	The teacher is talking to **the fathers**.	Die Lehrerin spricht mit **den Vätern**.	mit takes the dative; dative plural uses den and adds -n: Väter → Vätern.
+Tag	nom.sg	**The day** was very long.	**Der Tag** war sehr lang.	Tag is masculine: der Tag. Subject, so nominative; the plural is Tage, with -e.
+Tag	acc.sg	I need **a day** off.	Ich brauche **einen Tag** frei.	Direct object of brauchen, so accusative: ein → einen. The noun stays the same.
+Tag	dat.sg	He works ten hours in **one day**.	Er arbeitet an **einem Tag** zehn Stunden.	an with a point in time takes the dative: ein → einem. The noun takes no ending.
+Tag	gen.sg	The end of **the day** is quiet.	Das Ende **des Tages** ist ruhig.	Genitive of a masculine noun: des, and the noun adds -es or -s: Tages.
+Tag	nom.pl	**The days** are short now.	**Die Tage** sind jetzt kurz.	Plural of Tag adds -e: Tage. All plurals take die in the nominative.
+Tag	dat.pl	I am coming back in three **days**.	Ich komme in drei **Tagen** zurück.	in with a period of time takes the dative; dative plural adds -n to the noun: Tage → Tagen.
+Mutter	nom.sg	**The mother** is calling the child.	**Die Mutter** ruft das Kind.	Mutter is feminine: die Mutter. Subject, so nominative; the plural is Mütter, with only an umlaut.
+Mutter	acc.sg	The doctor asks **the mother**.	Der Arzt fragt **die Mutter**.	Direct object of fragen, so accusative. Feminine articles do not change: die stays die.
+Mutter	dat.sg	The child helps **the mother** in the kitchen.	Das Kind hilft **der Mutter** in der Küche.	helfen takes the dative: die → der. Feminine nouns take no ending in the singular.
+Mutter	gen.sg	**The mother's** phone is on the table.	Das Handy **der Mutter** liegt auf dem Tisch.	Genitive of a feminine noun: die → der, and the noun takes no ending.
+Mutter	nom.pl	**The mothers** are sitting on the bench.	**Die Mütter** sitzen auf der Bank.	Plural of Mutter only adds an umlaut: Mütter. All plurals take die in the nominative.
+Mutter	dat.pl	The children run to **the mothers**.	Die Kinder laufen zu **den Müttern**.	zu always takes the dative; dative plural uses den and adds -n: Mütter → Müttern.
+Nacht	nom.sg	**The night** is cold.	**Die Nacht** ist kalt.	Nacht is feminine: die Nacht. Subject, so nominative; the plural is Nächte, with an umlaut and -e.
+Nacht	acc.sg	I am staying **one night** in Berlin.	Ich bleibe **eine Nacht** in Berlin.	A length of time without a preposition is accusative. Feminine eine does not change.
+Nacht	dat.sg	I sleep at **night**.	In **der Nacht** schlafe ich.	in for a time takes the dative: die → der. Feminine nouns take no ending.
+Nacht	gen.sg	The quiet of **the night** is lovely.	Die Ruhe **der Nacht** ist schön.	Genitive of a feminine noun: die → der, and the noun takes no ending.
+Nacht	nom.pl	**The nights** are very warm now.	**Die Nächte** sind jetzt sehr warm.	Plural of Nacht: umlaut plus -e, Nächte. All plurals take die in the nominative.
+Nacht	dat.pl	After three **nights** we drive home.	Nach drei **Nächten** fahren wir nach Hause.	nach always takes the dative; dative plural adds -n to the noun: Nächte → Nächten.
+Mädchen	nom.sg	**The girl** plays the piano.	**Das Mädchen** spielt Klavier.	Mädchen is neuter, like every noun in -chen: das Mädchen. The plural is the same word, die Mädchen.
+Mädchen	acc.sg	I see **a girl** with a dog.	Ich sehe **ein Mädchen** mit einem Hund.	Direct object, so accusative. Neuter ein does not change in the accusative.
+Mädchen	dat.sg	The teacher gives **the girl** a book.	Der Lehrer gibt **dem Mädchen** ein Buch.	geben puts the receiver in the dative: das → dem. The noun takes no ending.
+Mädchen	gen.sg	**The girl's** name is Lena.	Der Name **des Mädchens** ist Lena.	Genitive of a neuter noun: des, and the noun adds -s: Mädchens.
+Mädchen	nom.pl	**The girls** are singing a song.	**Die Mädchen** singen ein Lied.	The plural of Mädchen is the same word; only the article shows it: das → die.
+Mädchen	dat.pl	I play tennis with **the girls**.	Ich spiele mit **den Mädchen** Tennis.	mit takes the dative: plural article den. Mädchen already ends in -n, so nothing is added.
+Abend	nom.sg	**The evening** is quiet.	**Der Abend** ist ruhig.	Abend is masculine: der Abend. Subject, so nominative; the plural is Abende, with -e.
+Abend	acc.sg	We are spending **an evening** in town.	Wir verbringen **einen Abend** in der Stadt.	Direct object of verbringen, so accusative: ein → einen. The noun stays the same.
+Abend	dat.sg	I'll tell you about **an evening** in Paris.	Ich erzähle dir von **einem Abend** in Paris.	von always takes the dative: ein → einem. The noun takes no ending.
+Abend	gen.sg	The music of **the evening** was great.	Die Musik **des Abends** war toll.	Genitive of a masculine noun: des, and the noun adds -s: Abends.
+Abend	nom.pl	**The evenings** are cool now.	**Die Abende** sind jetzt kühl.	Plural of Abend adds -e: Abende. All plurals take die in the nominative.
+Abend	dat.pl	In **the evenings** I like to read.	An **den Abenden** lese ich gern.	an with a time takes the dative; dative plural uses den and adds -n: Abende → Abenden.
+Haus	nom.sg	**The house** is very old.	**Das Haus** ist sehr alt.	Haus is neuter: das Haus. Subject, so nominative; the plural is Häuser, with an umlaut and -er.
+Haus	acc.sg	We are buying **a house**.	Wir kaufen **ein Haus**.	Direct object of kaufen, so accusative. Neuter ein does not change in the accusative.
+Haus	dat.sg	A car is parked in front of **the house**.	Vor **dem Haus** steht ein Auto.	vor for a place takes the dative: das → dem. The noun takes no ending.
+Haus	gen.sg	The door of **the house** is blue.	Die Tür **des Hauses** ist blau.	Genitive of a neuter noun: des, and the noun adds -es: Hauses.
+Haus	nom.pl	**The houses** here are big.	**Die Häuser** hier sind groß.	Plural of Haus: umlaut plus -er, Häuser. All plurals take die in the nominative.
+Haus	dat.pl	There is a park between **the houses**.	Zwischen **den Häusern** ist ein Park.	zwischen for a place takes the dative; dative plural uses den and adds -n: Häuser → Häusern.
+Freund	nom.sg	**A friend** is calling me.	**Ein Freund** ruft mich an.	Freund is masculine: der Freund, ein Freund. Subject, so nominative; the plural is Freunde, with -e.
+Freund	acc.sg	I am visiting **a friend** in Hamburg.	Ich besuche **einen Freund** in Hamburg.	Direct object of besuchen, so accusative: ein → einen. The noun stays the same.
+Freund	dat.sg	I am writing **a friend** an email.	Ich schreibe **einem Freund** eine E-Mail.	schreiben puts the receiver in the dative: ein → einem. The noun takes no ending.
+Freund	gen.sg	**The friend's** bike is broken.	Das Fahrrad **des Freundes** ist kaputt.	Genitive of a masculine noun: des, and the noun adds -es or -s: Freundes.
+Freund	nom.pl	**The friends** are coming at eight.	**Die Freunde** kommen um acht.	Plural of Freund adds -e: Freunde. All plurals take die in the nominative.
+Freund	dat.pl	I am going to Italy with **friends**.	Ich fahre mit **Freunden** nach Italien.	mit takes the dative; dative plural adds -n to the noun: Freunde → Freunden.
+Welt	nom.sg	**The world** is big.	**Die Welt** ist groß.	Welt is feminine: die Welt. Subject, so nominative; the plural is Welten, with -en.
+Welt	acc.sg	He wants to see **the world**.	Er möchte **die Welt** sehen.	Direct object of sehen, so accusative. Feminine articles do not change: die stays die.
+Welt	dat.sg	There are many languages in **the world**.	In **der Welt** gibt es viele Sprachen.	in for a place takes the dative: die → der. Feminine nouns take no ending.
+Welt	gen.sg	The countries of **the world** are very different.	Die Länder **der Welt** sind sehr verschieden.	Genitive of a feminine noun: die → der, and the noun takes no ending.
+Welt	nom.pl	**The worlds** in this game are colourful.	**Die Welten** in diesem Spiel sind bunt.	Plural of Welt adds -en: Welten. All plurals take die in the nominative.
+Welt	dat.pl	The book tells of two **worlds**.	Das Buch erzählt von zwei **Welten**.	von takes the dative. Welten already ends in -n, so nothing is added.
+Junge	nom.sg	**The boy** is playing football.	**Der Junge** spielt Fußball.	Junge is masculine: der Junge. It is a weak noun: -n in every form except this one, so the plural is Jungen.
+Junge	acc.sg	I know **the boy** next door.	Ich kenne **den Jungen** von nebenan.	Direct object, so accusative: der → den. Junge is a weak noun, so it adds -n: Jungen.
+Junge	dat.sg	The mother gives **the boy** an apple.	Die Mutter gibt **dem Jungen** einen Apfel.	geben puts the receiver in the dative: der → dem. As a weak noun, Junge adds -n.
+Junge	gen.sg	**The boy's** ball is red.	Der Ball **des Jungen** ist rot.	Genitive: des. Junge is a weak noun, so it adds -n, not -s: Jungen.
+Junge	nom.pl	**The boys** run fast.	**Die Jungen** laufen schnell.	Plural of the weak noun Junge adds -n: Jungen. All plurals take die in the nominative.
+Junge	dat.pl	I am talking to **the boys**.	Ich spreche mit **den Jungen**.	mit takes the dative: plural article den. Jungen already ends in -n, so nothing is added.
+Familie	nom.sg	**The family** eats together.	**Die Familie** isst zusammen.	Familie is feminine: die Familie. Subject, so nominative; the plural is Familien, with -n.
+Familie	acc.sg	I visit **the family** every Sunday.	Ich besuche **die Familie** jeden Sonntag.	Direct object of besuchen, so accusative. Feminine articles do not change: die stays die.
+Familie	dat.sg	He lives with **a family** in Spain.	Er wohnt bei **einer Familie** in Spanien.	bei always takes the dative: eine → einer. Feminine nouns take no ending.
+Familie	gen.sg	**The family's** house is big.	Das Haus **der Familie** ist groß.	Genitive of a feminine noun: die → der, and the noun takes no ending.
+Familie	nom.pl	**The families** are having a picnic.	**Die Familien** machen ein Picknick.	Plural of Familie adds -n: Familien. All plurals take die in the nominative.
+Familie	dat.pl	The school helps **the families**.	Die Schule hilft **den Familien**.	helfen takes the dative: plural article den. Familien already ends in -n, so nothing is added.
+Problem	nom.sg	**The problem** is not big.	**Das Problem** ist nicht groß.	Problem is neuter: das Problem. Subject, so nominative; the plural is Probleme, with -e.
+Problem	acc.sg	We have **a problem**.	Wir haben **ein Problem**.	Direct object of haben, so accusative. Neuter ein does not change in the accusative.
+Problem	dat.sg	Can you help me with **the problem**?	Kannst du mir mit **dem Problem** helfen?	mit always takes the dative: das → dem. The noun takes no ending.
+Problem	gen.sg	The solution to **the problem** is simple.	Die Lösung **des Problems** ist einfach.	Genitive of a neuter noun: des, and the noun adds -s: Problems.
+Problem	nom.pl	**The problems** are solved now.	**Die Probleme** sind jetzt gelöst.	Plural of Problem adds -e: Probleme. All plurals take die in the nominative.
+Problem	dat.pl	He helps me with **the problems**.	Er hilft mir mit **den Problemen**.	mit takes the dative; dative plural uses den and adds -n: Probleme → Problemen.
+Sohn	nom.sg	**The son** goes to school.	**Der Sohn** geht in die Schule.	Sohn is masculine: der Sohn. Subject, so nominative; the plural is Söhne, with an umlaut and -e.
+Sohn	acc.sg	She has **a son**.	Sie hat **einen Sohn**.	Direct object of haben, so accusative: ein → einen. The noun stays the same.
+Sohn	dat.sg	The father gives **the son** money.	Der Vater gibt **dem Sohn** Geld.	geben puts the receiver in the dative: der → dem. The noun takes no ending.
+Sohn	gen.sg	**The son's** room is small.	Das Zimmer **des Sohnes** ist klein.	Genitive of a masculine noun: des, and the noun adds -es or -s: Sohnes.
+Sohn	nom.pl	**The sons** help a lot.	**Die Söhne** helfen viel.	Plural of Sohn: umlaut plus -e, Söhne. All plurals take die in the nominative.
+Sohn	dat.pl	She lives with **the sons** in Cologne.	Sie wohnt mit **den Söhnen** in Köln.	mit takes the dative; dative plural uses den and adds -n: Söhne → Söhnen.
+Frage	nom.sg	**The question** is difficult.	**Die Frage** ist schwer.	Frage is feminine: die Frage. Subject, so nominative; the plural is Fragen, with -n.
+Frage	acc.sg	I have **a question**.	Ich habe **eine Frage**.	Direct object of haben, so accusative. Feminine eine does not change.
+Frage	dat.sg	I need help with **the question**.	Bei **der Frage** brauche ich Hilfe.	bei always takes the dative: die → der. Feminine nouns take no ending.
+Frage	gen.sg	The point of **the question** is unclear.	Der Sinn **der Frage** ist unklar.	Genitive of a feminine noun: die → der, and the noun takes no ending.
+Frage	nom.pl	**The questions** are easy.	**Die Fragen** sind einfach.	Plural of Frage adds -n: Fragen. All plurals take die in the nominative.
+Frage	dat.pl	After **the questions** we take a break.	Nach **den Fragen** machen wir eine Pause.	nach always takes the dative: plural article den. Fragen already ends in -n, so nothing is added.
+Kopf	nom.sg	**My head** hurts.	**Der Kopf** tut mir weh.	Kopf is masculine: der Kopf. Subject, so nominative; the plural is Köpfe, with an umlaut and -e.
+Kopf	acc.sg	He shakes **his head**.	Er schüttelt **den Kopf**.	Direct object of schütteln, so accusative: der → den. German uses the article for body parts.
+Kopf	dat.sg	She is wearing a hat on **her head**.	Sie trägt eine Mütze auf **dem Kopf**.	auf for a place takes the dative: der → dem. The noun takes no ending.
+Kopf	gen.sg	The size of **the head** matters for the helmet.	Die Größe **des Kopfes** ist wichtig für den Helm.	Genitive of a masculine noun: des, and the noun adds -es or -s: Kopfes.
+Kopf	nom.pl	All **heads** turn towards me.	Alle **Köpfe** drehen sich zu mir.	Plural of Kopf: umlaut plus -e, Köpfe. Here it stands without an article, after alle.
+Kopf	dat.pl	The children nod **their heads**.	Die Kinder nicken mit **den Köpfen**.	mit takes the dative; dative plural uses den and adds -n: Köpfe → Köpfen.

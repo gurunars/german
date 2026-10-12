@@ -1,0 +1,73 @@
+# lemma	slot	english	german	note — adjective sentence cards; forms copied from sentences/forms.json.
+gut	weak.nom.m	**The good** coffee comes from Italy.	**Der gute** Kaffee kommt aus Italien.	After der the article already shows the case, so the adjective takes the weak ending -e.
+gut	mixed.acc.m	I have **a good** plan.	Ich habe **einen guten** Plan.	After einen the adjective takes -en: masculine accusative.
+gut	mixed.nom.n	That is **a good** book.	Das ist **ein gutes** Buch.	ein does not show neuter, so the adjective does: -es.
+gut	strong.dat.f	He comes to work in **a good** mood.	Er kommt mit **guter** Laune zur Arbeit.	With no article the adjective carries the case ending itself: feminine dative -er.
+gut	comparative	Today the weather is **better**.	Heute ist das Wetter **besser**.	Comparative adds -er; gut is irregular: besser.
+gut	superlative	Tea with honey tastes **best**.	Tee mit Honig schmeckt **am besten**.	am + -sten is the superlative used after a verb; gut is irregular: am besten.
+schlecht	weak.nom.m	**The bad** film was too long.	**Der schlechte** Film war zu lang.	After der the article already shows the case, so the adjective takes the weak ending -e.
+schlecht	mixed.acc.m	She is having **a bad** day.	Sie hat **einen schlechten** Tag.	After einen the adjective takes -en: masculine accusative.
+schlecht	mixed.nom.n	That is **a bad** sign.	Das ist **ein schlechtes** Zeichen.	ein does not show neuter, so the adjective does: -es.
+schlecht	strong.dat.f	I can't sleep in **bad** air.	Bei **schlechter** Luft kann ich nicht schlafen.	With no article the adjective carries the case ending itself: feminine dative -er.
+schlecht	comparative	The food here is **worse**.	Das Essen hier ist **schlechter**.	Comparative adds -er to the adjective: schlechter.
+schlecht	superlative	On Mondays I sleep **worst**.	Am Montag schlafe ich **am schlechtesten**.	am + -sten is the superlative used after a verb; after -t an extra e is added: -esten.
+einfach	weak.nom.m	**The easy** test is on Friday.	**Der einfache** Test ist am Freitag.	After der the article already shows the case, so the adjective takes the weak ending -e.
+einfach	mixed.acc.m	He has **a simple** job.	Er hat **einen einfachen** Job.	After einen the adjective takes -en: masculine accusative.
+einfach	mixed.nom.n	That is **a simple** recipe.	Das ist **ein einfaches** Rezept.	ein does not show neuter, so the adjective does: -es.
+einfach	strong.dat.f	The text is in **simple** language.	Der Text ist in **einfacher** Sprache.	With no article the adjective carries the case ending itself: feminine dative -er.
+einfach	comparative	It is **easier** by bus.	Mit dem Bus ist es **einfacher**.	Comparative adds -er to the adjective: einfacher.
+einfach	superlative	It is **easiest** this way.	So ist es **am einfachsten**.	am + -sten is the superlative used after a verb.
+schwierig	weak.nom.m	**The difficult** customer is calling again.	**Der schwierige** Kunde ruft wieder an.	After der the article already shows the case, so the adjective takes the weak ending -e.
+schwierig	mixed.acc.m	She has **a difficult** boss.	Sie hat **einen schwierigen** Chef.	After einen the adjective takes -en: masculine accusative.
+schwierig	mixed.nom.n	That is **a difficult** problem.	Das ist **ein schwieriges** Problem.	ein does not show neuter, so the adjective does: -es.
+schwierig	strong.dat.f	I often take breaks during **difficult** work.	Bei **schwieriger** Arbeit mache ich oft Pausen.	With no article the adjective carries the case ending itself: feminine dative -er.
+schwierig	comparative	German is **more difficult** than English.	Deutsch ist **schwieriger** als Englisch.	Comparative adds -er; German never uses mehr for this.
+schwierig	superlative	The grammar is **the most difficult**.	Die Grammatik ist **am schwierigsten**.	am + -sten is the superlative used after a verb.
+schnell	weak.nom.m	**The fast** train is already gone.	**Der schnelle** Zug ist schon weg.	After der the article already shows the case, so the adjective takes the weak ending -e.
+schnell	mixed.acc.m	He drives **a fast** car.	Er fährt **einen schnellen** Wagen.	After einen the adjective takes -en: masculine accusative.
+schnell	mixed.nom.n	**A fast** car is expensive.	**Ein schnelles** Auto ist teuer.	ein does not show neuter, so the adjective does: -es.
+schnell	strong.dat.f	With **fast** delivery the parcel arrives tomorrow.	Mit **schneller** Lieferung kommt das Paket morgen.	With no article the adjective carries the case ending itself: feminine dative -er.
+schnell	comparative	The train is **faster** than the bus.	Der Zug ist **schneller** als der Bus.	Comparative adds -er to the adjective: schneller.
+schnell	superlative	My sister runs **fastest**.	Meine Schwester läuft **am schnellsten**.	am + -sten is the superlative used after a verb.
+klar	weak.nom.m	**The clear** sky is beautiful.	**Der klare** Himmel ist wunderschön.	After der the article already shows the case, so the adjective takes the weak ending -e.
+klar	mixed.acc.m	In the morning I have **a clear** head.	Am Morgen habe ich **einen klaren** Kopf.	After einen the adjective takes -en: masculine accusative.
+klar	mixed.nom.n	That is **a clear** no.	Das ist **ein klares** Nein.	ein does not show neuter, so the adjective does: -es.
+klar	strong.dat.f	In **clear** visibility you can see the mountains.	Bei **klarer** Sicht sieht man die Berge.	With no article the adjective carries the case ending itself: feminine dative -er.
+klar	comparative	Now the picture is **clearer**.	Jetzt ist das Bild **klarer**.	Comparative adds -er to the adjective: klarer.
+klar	superlative	In winter the air is **clearest**.	Im Winter ist die Luft **am klarsten**.	am + -sten is the superlative used after a verb.
+toll	weak.nom.m	**The great** evening is over, sadly.	**Der tolle** Abend ist leider vorbei.	After der the article already shows the case, so the adjective takes the weak ending -e.
+toll	mixed.acc.m	We have **a great** teacher.	Wir haben **einen tollen** Lehrer.	After einen the adjective takes -en: masculine accusative.
+toll	mixed.nom.n	That is **a great** present.	Das ist **ein tolles** Geschenk.	ein does not show neuter, so the adjective does: -es.
+toll	strong.dat.f	We dance all night to **great** music.	Bei **toller** Musik tanzen wir die ganze Nacht.	With no article the adjective carries the case ending itself: feminine dative -er.
+toll	comparative	The new phone is even **cooler**.	Das neue Handy ist noch **toller**.	Comparative adds -er to the adjective: toller.
+toll	superlative	The holiday by the sea was **the greatest**.	Der Urlaub am Meer war **am tollsten**.	am + -sten is the superlative used after a verb.
+weit	weak.nom.m	**The long** way to school is tiring.	**Der weite** Weg zur Schule ist anstrengend.	After der the article already shows the case, so the adjective takes the weak ending -e.
+weit	mixed.acc.m	He is wearing **a loose** sweater.	Er trägt **einen weiten** Pullover.	After einen the adjective takes -en: masculine accusative.
+weit	mixed.nom.n	**A loose** dress is comfortable in summer.	**Ein weites** Kleid ist im Sommer bequem.	ein does not show neuter, so the adjective does: -es.
+weit	strong.dat.f	You can see the sea in the **far** distance.	In **weiter** Ferne sieht man das Meer.	With no article the adjective carries the case ending itself: feminine dative -er.
+weit	comparative	It is **farther** to the station.	Bis zum Bahnhof ist es **weiter**.	Comparative adds -er to the adjective: weiter.
+weit	superlative	My brother lives **farthest** away.	Mein Bruder wohnt **am weitesten** weg.	am + -sten is the superlative used after a verb; after -t an extra e is added: -esten.
+ruhig	weak.nom.m	**The quiet** park is behind the house.	**Der ruhige** Park liegt hinter dem Haus.	After der the article already shows the case, so the adjective takes the weak ending -e.
+ruhig	mixed.acc.m	We are looking for **a quiet** spot.	Wir suchen **einen ruhigen** Platz.	After einen the adjective takes -en: masculine accusative.
+ruhig	mixed.nom.n	That is **a quiet** hotel.	Das ist **ein ruhiges** Hotel.	ein does not show neuter, so the adjective does: -es.
+ruhig	strong.dat.f	She explains everything in **a calm** voice.	Mit **ruhiger** Stimme erklärt sie alles.	With no article the adjective carries the case ending itself: feminine dative -er.
+ruhig	comparative	It is **quieter** in the country.	Auf dem Land ist es **ruhiger**.	Comparative adds -er to the adjective: ruhiger.
+ruhig	superlative	The city is **quietest** on Sunday.	Am Sonntag ist die Stadt **am ruhigsten**.	am + -sten is the superlative used after a verb.
+wichtig	weak.nom.m	**The important** appointment is tomorrow at nine.	**Der wichtige** Termin ist morgen um neun.	After der the article already shows the case, so the adjective takes the weak ending -e.
+wichtig	mixed.acc.m	She is writing **an important** letter.	Sie schreibt **einen wichtigen** Brief.	After einen the adjective takes -en: masculine accusative.
+wichtig	mixed.nom.n	That is **an important** topic.	Das ist **ein wichtiges** Thema.	ein does not show neuter, so the adjective does: -es.
+wichtig	strong.dat.f	I'll call you if there is **important** mail.	Bei **wichtiger** Post rufe ich dich an.	With no article the adjective carries the case ending itself: feminine dative -er.
+wichtig	comparative	Health is **more important** than money.	Gesundheit ist **wichtiger** als Geld.	Comparative adds -er; German never uses mehr for this.
+wichtig	superlative	Family is **most important** to me.	Die Familie ist mir **am wichtigsten**.	am + -sten is the superlative used after a verb.
+nett	weak.nom.m	**The nice** neighbour often helps us.	**Der nette** Nachbar hilft uns oft.	After der the article already shows the case, so the adjective takes the weak ending -e.
+nett	mixed.acc.m	She has **a nice** boyfriend.	Sie hat **einen netten** Freund.	After einen the adjective takes -en: masculine accusative.
+nett	mixed.nom.n	That is **a nice** café.	Das ist **ein nettes** Café.	ein does not show neuter, so the adjective does: -es.
+nett	strong.dat.f	In **nice** company time passes quickly.	In **netter** Gesellschaft vergeht die Zeit schnell.	With no article the adjective carries the case ending itself: feminine dative -er.
+nett	comparative	Your sister is **nicer** than you.	Deine Schwester ist **netter** als du.	Comparative adds -er to the adjective: netter.
+nett	superlative	Our teacher is **the nicest**.	Unsere Lehrerin ist **am nettesten**.	am + -sten is the superlative used after a verb; after -t an extra e is added: -esten.
+frei	weak.nom.m	**The free** seat is next to me.	**Der freie** Platz ist neben mir.	After der the article already shows the case, so the adjective takes the weak ending -e.
+frei	mixed.acc.m	Do you have **a free** table?	Haben Sie **einen freien** Tisch?	After einen the adjective takes -en: masculine accusative.
+frei	mixed.nom.n	Is there still **a free** room?	Ist noch **ein freies** Zimmer da?	ein does not show neuter, so the adjective does: -es.
+frei	strong.dat.f	Children love playing out in the **open** countryside.	Kinder spielen gern in **freier** Natur.	With no article the adjective carries the case ending itself: feminine dative -er. "in freier Natur" is a fixed phrase.
+frei	comparative	After the exam I feel **freer**.	Nach der Prüfung fühle ich mich **freier**.	Comparative adds -er to the adjective: freier.
+frei	superlative	I feel **freest** by the sea.	Am Meer fühle ich mich **am freiesten**.	am + -sten is the superlative used after a verb; after a vowel an extra e is common: -esten.

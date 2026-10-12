@@ -1,0 +1,206 @@
+{
+  "name": "Lesson 2 · Having things: haben, ein/eine, the accusative",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **have** a room.",
+      "back": "Ich **habe** ein Zimmer.",
+      "note": "haben, present tense. ich habe: the stem hab- plus -e.",
+      "priority": 1
+    },
+    {
+      "front": "You **have** a cat.",
+      "back": "Du **hast** eine Katze.",
+      "note": "haben, present tense. haben drops its b in the du form: hast, not habst.",
+      "priority": 1
+    },
+    {
+      "front": "He **has** a car.",
+      "back": "Er **hat** ein Auto.",
+      "note": "haben, present tense. er, sie and es take hat: the b drops and only -t is added.",
+      "priority": 1
+    },
+    {
+      "front": "The woman **has** a bag.",
+      "back": "Die Frau **hat** eine Tasche.",
+      "note": "haben, present tense. A noun as the subject takes the er form: hat.",
+      "priority": 1
+    },
+    {
+      "front": "We **have** time.",
+      "back": "Wir **haben** Zeit.",
+      "note": "haben, present tense. wir haben — and Zeit takes no article here, like English time.",
+      "priority": 1
+    },
+    {
+      "front": "You **have** a house. (several friends)",
+      "back": "Ihr **habt** ein Haus.",
+      "note": "haben, present tense. ihr habt: the stem hab- plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "They **have** a bicycle.",
+      "back": "Sie **haben** ein Fahrrad.",
+      "note": "haben, present tense. sie (they) takes haben, like wir.",
+      "priority": 1
+    },
+    {
+      "front": "You **have** a room. (formal)",
+      "back": "Sie **haben** ein Zimmer.",
+      "note": "haben, present tense. Formal Sie always takes haben.",
+      "priority": 1
+    },
+    {
+      "front": "I **am** hungry.",
+      "back": "Ich **habe** Hunger.",
+      "note": "haben, present tense. German has hunger rather than being hungry: haben + Hunger, no article.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a man**.",
+      "back": "Das ist **ein Mann**.",
+      "note": "ein, eine: a / an. ein for a der-word: ein Mann.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a woman**.",
+      "back": "Das ist **eine Frau**.",
+      "note": "ein, eine: a / an. eine for a die-word: eine Frau.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a child**.",
+      "back": "Das ist **ein Kind**.",
+      "note": "ein, eine: a / an. ein for a das-word too: ein Kind. Only die-words take eine.",
+      "priority": 1
+    },
+    {
+      "front": "That is **an apple**.",
+      "back": "Das ist **ein Apfel**.",
+      "note": "ein, eine: a / an. ein covers both a and an: German has no separate form before a vowel.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a bag**.",
+      "back": "Das ist **eine Tasche**.",
+      "note": "ein, eine: a / an. die Tasche, so eine Tasche.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a chair**.",
+      "back": "Das ist **ein Stuhl**.",
+      "note": "ein, eine: a / an. der Stuhl, so ein Stuhl.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a bicycle**.",
+      "back": "Das ist **ein Fahrrad**.",
+      "note": "ein, eine: a / an. das Fahrrad, so ein Fahrrad.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a friend**. (a woman)",
+      "back": "Das ist **eine Freundin**.",
+      "note": "ein, eine: a / an. die Freundin: -in makes the female form, and it is always a die-word.",
+      "priority": 1
+    },
+    {
+      "front": "I have **a brother**.",
+      "back": "Ich habe **einen Bruder**.",
+      "note": "The accusative: the object of the verb. The object of haben is in the accusative: ein becomes einen for a der-word.",
+      "priority": 1
+    },
+    {
+      "front": "I have **a sister**.",
+      "back": "Ich habe **eine Schwester**.",
+      "note": "The accusative: the object of the verb. die-words do not change in the accusative: eine stays eine.",
+      "priority": 1
+    },
+    {
+      "front": "She has **a friend**. (a man)",
+      "back": "Sie hat **einen Freund**.",
+      "note": "The accusative: the object of the verb. der Freund → einen Freund as the object.",
+      "priority": 1
+    },
+    {
+      "front": "He has **a friend**. (a woman)",
+      "back": "Er hat **eine Freundin**.",
+      "note": "The accusative: the object of the verb. die Freundin → eine Freundin: no change.",
+      "priority": 1
+    },
+    {
+      "front": "We have **a dog**.",
+      "back": "Wir haben **einen Hund**.",
+      "note": "The accusative: the object of the verb. der Hund → einen Hund.",
+      "priority": 1
+    },
+    {
+      "front": "You have **a chair**.",
+      "back": "Du hast **einen Stuhl**.",
+      "note": "The accusative: the object of the verb. der Stuhl → einen Stuhl.",
+      "priority": 1
+    },
+    {
+      "front": "I have **an apple**.",
+      "back": "Ich habe **einen Apfel**.",
+      "note": "The accusative: the object of the verb. der Apfel → einen Apfel.",
+      "priority": 1
+    },
+    {
+      "front": "They have **a child**.",
+      "back": "Sie haben **ein Kind**.",
+      "note": "The accusative: the object of the verb. das-words do not change in the accusative: ein stays ein.",
+      "priority": 1
+    },
+    {
+      "front": "The man has **the bag**.",
+      "back": "Der Mann hat **die Tasche**.",
+      "note": "The accusative: the object of the verb. die stays die in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "The child has **the dog**.",
+      "back": "Das Kind hat **den Hund**.",
+      "note": "The accusative: the object of the verb. The definite article changes too: der becomes den for the object.",
+      "priority": 1
+    },
+    {
+      "front": "The woman has **the book**.",
+      "back": "Die Frau hat **das Buch**.",
+      "note": "The accusative: the object of the verb. das stays das in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "I have **the car** now.",
+      "back": "Ich habe jetzt **das Auto**.",
+      "note": "The accusative: the object of the verb. das Auto stays the same; jetzt can stand right after the verb.",
+      "priority": 1
+    },
+    {
+      "front": "The brother has **the chair**.",
+      "back": "Der Bruder hat **den Stuhl**.",
+      "note": "The accusative: the object of the verb. der Bruder is the subject (nominative), den Stuhl the object (accusative).",
+      "priority": 1
+    },
+    {
+      "front": "He has a car, but she has **a bicycle**.",
+      "back": "Er hat ein Auto, aber sie hat **ein Fahrrad**.",
+      "note": "The accusative: the object of the verb. aber joins two sentences; each keeps its verb second. das Fahrrad → ein Fahrrad, unchanged.",
+      "priority": 1
+    },
+    {
+      "front": "We have **a dog** too.",
+      "back": "Wir haben auch **einen Hund**.",
+      "note": "The accusative: the object of the verb. auch follows the verb; the object is still einen Hund.",
+      "priority": 1
+    },
+    {
+      "front": "I have **a table**, but the table is old.",
+      "back": "Ich habe **einen Tisch**, aber der Tisch ist alt.",
+      "note": "The accusative: the object of the verb. Object: einen Tisch. Subject of the second sentence: der Tisch.",
+      "priority": 1
+    }
+  ]
+}

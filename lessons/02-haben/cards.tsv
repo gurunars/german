@@ -1,0 +1,34 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+haben.present	haben	pres.ich	I **have** a room.	Ich **habe** ein Zimmer.	ich habe: the stem hab- plus -e.
+haben.present	haben	pres.du	You **have** a cat.	Du **hast** eine Katze.	haben drops its b in the du form: hast, not habst.
+haben.present	haben	pres.er	He **has** a car.	Er **hat** ein Auto.	er, sie and es take hat: the b drops and only -t is added.
+haben.present	haben	pres.er	The woman **has** a bag.	Die Frau **hat** eine Tasche.	A noun as the subject takes the er form: hat.
+haben.present	haben	pres.wir	We **have** time.	Wir **haben** Zeit.	wir haben — and Zeit takes no article here, like English time.
+haben.present	haben	pres.ihr	You **have** a house. (several friends)	Ihr **habt** ein Haus.	ihr habt: the stem hab- plus -t.
+haben.present	haben	pres.wir	They **have** a bicycle.	Sie **haben** ein Fahrrad.	sie (they) takes haben, like wir.
+haben.present	haben	pres.wir	You **have** a room. (formal)	Sie **haben** ein Zimmer.	Formal Sie always takes haben.
+haben.present	haben	pres.ich	I **am** hungry.	Ich **habe** Hunger.	German has hunger rather than being hungry: haben + Hunger, no article.
+article.indefinite	Mann	nom.sg	That is **a man**.	Das ist **ein Mann**.	ein for a der-word: ein Mann.
+article.indefinite	Frau	nom.sg	That is **a woman**.	Das ist **eine Frau**.	eine for a die-word: eine Frau.
+article.indefinite	Kind	nom.sg	That is **a child**.	Das ist **ein Kind**.	ein for a das-word too: ein Kind. Only die-words take eine.
+article.indefinite	Apfel	nom.sg	That is **an apple**.	Das ist **ein Apfel**.	ein covers both a and an: German has no separate form before a vowel.
+article.indefinite	Tasche	nom.sg	That is **a bag**.	Das ist **eine Tasche**.	die Tasche, so eine Tasche.
+article.indefinite	Stuhl	nom.sg	That is **a chair**.	Das ist **ein Stuhl**.	der Stuhl, so ein Stuhl.
+article.indefinite	Fahrrad	nom.sg	That is **a bicycle**.	Das ist **ein Fahrrad**.	das Fahrrad, so ein Fahrrad.
+article.indefinite	Freundin	nom.sg	That is **a friend**. (a woman)	Das ist **eine Freundin**.	die Freundin: -in makes the female form, and it is always a die-word.
+accusative	Bruder	acc.sg	I have **a brother**.	Ich habe **einen Bruder**.	The object of haben is in the accusative: ein becomes einen for a der-word.
+accusative	Schwester	acc.sg	I have **a sister**.	Ich habe **eine Schwester**.	die-words do not change in the accusative: eine stays eine.
+accusative	Freund	acc.sg	She has **a friend**. (a man)	Sie hat **einen Freund**.	der Freund → einen Freund as the object.
+accusative	Freundin	acc.sg	He has **a friend**. (a woman)	Er hat **eine Freundin**.	die Freundin → eine Freundin: no change.
+accusative	Hund	acc.sg	We have **a dog**.	Wir haben **einen Hund**.	der Hund → einen Hund.
+accusative	Stuhl	acc.sg	You have **a chair**.	Du hast **einen Stuhl**.	der Stuhl → einen Stuhl.
+accusative	Apfel	acc.sg	I have **an apple**.	Ich habe **einen Apfel**.	der Apfel → einen Apfel.
+accusative	Kind	acc.sg	They have **a child**.	Sie haben **ein Kind**.	das-words do not change in the accusative: ein stays ein.
+accusative	Tasche	acc.sg	The man has **the bag**.	Der Mann hat **die Tasche**.	die stays die in the accusative.
+accusative	Hund	acc.sg	The child has **the dog**.	Das Kind hat **den Hund**.	The definite article changes too: der becomes den for the object.
+accusative	Buch	acc.sg	The woman has **the book**.	Die Frau hat **das Buch**.	das stays das in the accusative.
+accusative	Auto	acc.sg	I have **the car** now.	Ich habe jetzt **das Auto**.	das Auto stays the same; jetzt can stand right after the verb.
+accusative	Stuhl	acc.sg	The brother has **the chair**.	Der Bruder hat **den Stuhl**.	der Bruder is the subject (nominative), den Stuhl the object (accusative).
+accusative	Fahrrad	acc.sg	He has a car, but she has **a bicycle**.	Er hat ein Auto, aber sie hat **ein Fahrrad**.	aber joins two sentences; each keeps its verb second. das Fahrrad → ein Fahrrad, unchanged.
+accusative	Hund	acc.sg	We have **a dog** too.	Wir haben auch **einen Hund**.	auch follows the verb; the object is still einen Hund.
+accusative	Tisch	acc.sg	I have **a table**, but the table is old.	Ich habe **einen Tisch**, aber der Tisch ist alt.	Object: einen Tisch. Subject of the second sentence: der Tisch.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate words/*.json flashcard decks from words/*.csv.
+"""Generate archive/words/*.json flashcard decks from archive/words/*.csv and sentences/*.tsv.
 
 The CSVs stay the source of truth: one pair per line, English and German split on
 the first comma. A trailing "* N" on either side is the card's priority (a bare "*"
@@ -10,9 +10,17 @@ means 2); it is taken out of the text. Each deck becomes
      "cards": [{"front": ..., "back": ..., "priority": 2}]}
 
 Card text is Markdown, so characters Markdown would read as formatting are escaped.
-words/index.json lists every deck with a link relative to itself, so the app can import
+archive/words/index.json lists every deck with a link relative to itself, so the app can import
 the whole folder from GitHub, GitHub Pages or anywhere else, and the "Decks" section of
 README.md is rewritten to match.
+
+**Before B1** is built from sentence cards instead: sentences/*.tsv hold one line per
+card, `lemma, slot, English, German, grammar note`, tab-separated. The word being learnt
+is in **bold** on both sides; on the German side the bold text, read in order, must be
+exactly the form Wiktionary gives for that slot (sentences/forms.json, from
+`make forms`) — so no ending is ever written from memory. A word's priority comes from
+its frequency rank and is shared out over its cards, so drilling eight forms of a verb
+takes no more of a session than the word took on its own.
 
 Stdlib only; `make json` runs it in a container.
 """
@@ -22,9 +30,13 @@ import os
 import re
 import sys
 
+from grammar_forms import GENDER_WORD, SLOTS, articles
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
-WORDS = os.path.join(ROOT, "words")
+WORDS = os.path.join(ROOT, "archive", "words")
 README = os.path.join(ROOT, "README.md")
+SENTENCES = os.path.join(ROOT, "sentences")
+BOLD = re.compile(r"\*\*(.+?)\*\*")
 # German word forms by frequency in subtitles: FrequencyWords (Hermit Dave), OpenSubtitles
 # 2018, CC BY-SA 4.0 — https://github.com/hermitdave/FrequencyWords
 FREQUENCY = os.path.join(WORDS, "frequency_de.txt")
@@ -40,10 +52,9 @@ WORD = re.compile(r"[A-Za-zÄÖÜäöüß]+")
 # Words that only frame a vocabulary item; the item is as common as the rest of it.
 FRAME = {"der", "die", "das", "den", "dem", "des", "ein", "eine", "einen", "sich", "pl"}
 
-# The deck to finish before a B1 course: the most frequent cards across all decks.
+# The deck to finish before a B1 course: the most frequent words, each in sentences.
 B1_FILE = "before_b1.json"
 B1_NAME = "Before B1"
-B1_SIZE = 1500
 
 
 def load_ranks():
@@ -135,7 +146,7 @@ def write_readme(index):
     with open(README, encoding="utf-8") as fil:
         text = fil.read()
     head = text.split("\n## Decks\n", 1)[0].rstrip("\n")
-    lines = ["- [%s](words/%s) — %d cards" % (deck["name"], deck["url"], deck["cards"]) for deck in index]
+    lines = ["- [%s](archive/words/%s) — %d cards" % (deck["name"], deck["url"], deck["cards"]) for deck in index]
     with open(README, "w", encoding="utf-8") as fil:
         fil.write(head + "\n\n## Decks\n\n" + "\n".join(lines) + "\n")
 
@@ -156,25 +167,83 @@ def write_json(filename, data):
         fil.write("\n")
 
 
-def before_b1(all_cards):
-    """
-    The B1_SIZE most frequent cards across every deck, most frequent first. A card found in
-    several decks is taken once, with its highest priority. Only identical pairs count as
-    the same card: "die Bank" for "bank" and for "bench" are two things to learn.
-    """
-    unique = {}
-    for card in all_cards:
-        if "rank" not in card:
+def expected_forms(entry, slot):
+    """Every bold text the slot accepts, lower-cased: the form itself, or for a noun, the form with its article."""
+    forms = entry["slots"].get(slot, [])
+    if entry["pos"] != "noun":
+        return {f.lower() for f in forms}
+    return {("%s %s" % (article, f)).strip().lower() for f in forms for article in articles(entry["gender"], slot)}
+
+
+def headword(lemma, entry):
+    if entry["pos"] == "noun":
+        return "%s %s" % (GENDER_WORD[entry["gender"]], lemma)
+    return lemma
+
+
+def check_sentence(entry, slot, english, german):
+    """Why the sentence does not drill its slot, or None when it does."""
+    if slot not in SLOTS[entry["pos"]]:
+        return "no slot %s for a %s" % (slot, entry["pos"])
+    if slot not in entry["slots"]:
+        return "Wiktionary has no %s form" % slot
+    if not BOLD.search(english):
+        return "nothing bold on the English side"
+    bold = " ".join(BOLD.findall(german)).lower()
+    if bold not in expected_forms(entry, slot):
+        return "bold %r is not the %s form (%s)" % (bold, slot, " / ".join(sorted(expected_forms(entry, slot))))
+    return None
+
+
+def sentence_cards(ranks):
+    """Before B1's cards, most frequent word first, each word's slots in the order SLOTS lists them."""
+    with open(os.path.join(SENTENCES, "forms.json"), encoding="utf-8") as fil:
+        forms = json.load(fil)
+    by_word, problems = {}, []
+    for filename in sorted(os.listdir(SENTENCES)):
+        if not filename.endswith(".tsv") or filename == "lemmas.tsv":
             continue
-        key = (card["front"].lower(), card["back"].lower())
-        if key not in unique or card["priority"] > unique[key]["priority"]:
-            unique[key] = card
-    return sorted(unique.values(), key=lambda c: (c["rank"], c["back"].lower()))[:B1_SIZE]
+        with open(os.path.join(SENTENCES, filename), encoding="utf-8") as fil:
+            for number, line in enumerate(fil, start=1):
+                if not line.strip() or line.startswith("#"):
+                    continue
+                where = "%s:%d" % (filename, number)
+                fields = line.rstrip("\n").split("\t")
+                if len(fields) != 5:
+                    problems.append("%s: expected 5 tab-separated fields, got %d" % (where, len(fields)))
+                    continue
+                lemma, slot, english, german, note = (f.strip() for f in fields)
+                entry = forms.get(lemma)
+                if entry is None:
+                    problems.append("%s: %s is not in sentences/lemmas.tsv (or `make forms` was not run)" % (where, lemma))
+                    continue
+                problem = check_sentence(entry, slot, english, german)
+                if problem:
+                    problems.append("%s: %s" % (where, problem))
+                    continue
+                label = SLOTS[entry["pos"]][slot][1]
+                card = {
+                    "front": english,
+                    "back": german,
+                    "note": "%s (%s) · %s. %s" % (headword(lemma, entry), entry["english"], label, note),
+                }
+                by_word.setdefault(lemma, []).append((list(SLOTS[entry["pos"]]).index(slot), card))
+    cards = []
+    order = sorted(by_word, key=lambda w: (rank_of(w, ranks) or 10**9, w.lower()))
+    for lemma in order:
+        rank = rank_of(lemma, ranks)
+        share = priority_of(rank, None) / len(by_word[lemma])
+        for _, card in sorted(by_word[lemma], key=lambda pair: pair[0]):
+            card["priority"] = round(share, 3)
+            if rank is not None:
+                card["rank"] = rank
+            cards.append(card)
+    return cards, problems
 
 
 def main():
     ranks = load_ranks()
-    index, failed, all_cards = [], False, []
+    index, failed = [], False
     for filename in sorted(os.listdir(WORDS)):
         if not filename.endswith(".csv"):
             continue
@@ -189,8 +258,10 @@ def main():
         target = filename[: -len(".csv")] + ".json"
         write_json(target, deck(name, cards))
         index.append({"name": name, "url": target, "cards": len(cards)})
-        all_cards += cards
-    b1 = before_b1(all_cards)
+    b1, problems = sentence_cards(ranks)
+    for problem in problems:
+        print(problem, file=sys.stderr)
+    failed = failed or bool(problems)
     write_json(B1_FILE, deck(B1_NAME, b1))
     index.insert(0, {"name": B1_NAME, "url": B1_FILE, "cards": len(b1)})
     write_json("index.json", {"name": "German words", "decks": index})

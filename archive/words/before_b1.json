@@ -1,0 +1,2367 @@
+{
+  "name": "Before B1",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **have** a small dog.",
+      "back": "Ich **habe** einen kleinen Hund.",
+      "note": "haben (to have) · present, ich. ich is regular here: the stem hab- plus -e.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "**Do** you **have** time today?",
+      "back": "**Hast** du heute Zeit?",
+      "note": "haben (to have) · present, du. haben drops the b in the du form: hast, not habst.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "She **has** two brothers.",
+      "back": "Sie **hat** zwei Brüder.",
+      "note": "haben (to have) · present, er/sie/es. haben drops the b and adds only -t: hat, not habt.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "We **have** no milk left.",
+      "back": "Wir **haben** keine Milch mehr.",
+      "note": "haben (to have) · present, wir. wir uses the same form as the infinitive, ending in -en.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "**Do** you **have** a car?",
+      "back": "**Habt** ihr ein Auto?",
+      "note": "haben (to have) · present, ihr. ihr takes -t on the stem, and here haben keeps its b.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "He **had** no money yesterday.",
+      "back": "Er **hatte** gestern kein Geld.",
+      "note": "haben (to have) · simple past (Präteritum), er/sie/es. haben is irregular in the Präteritum: hatte with double t, and er ends in -e just like ich.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "He **had** a fever yesterday.",
+      "back": "Er **hat** gestern Fieber **gehabt**.",
+      "note": "haben (to have) · perfect, er/sie/es. The participle is regular, ge- + hab + -t, and haben is its own auxiliary.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "**Don't be** afraid of the dog!",
+      "back": "**Hab** keine Angst vor dem Hund!",
+      "note": "haben (to have) · imperative, du. The du imperative is the bare stem without du; the -e (habe) is optional.",
+      "priority": 0.44,
+      "rank": 30
+    },
+    {
+      "front": "**The good** coffee comes from Italy.",
+      "back": "**Der gute** Kaffee kommt aus Italien.",
+      "note": "gut (good) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.547,
+      "rank": 52
+    },
+    {
+      "front": "I have **a good** plan.",
+      "back": "Ich habe **einen guten** Plan.",
+      "note": "gut (good) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.547,
+      "rank": 52
+    },
+    {
+      "front": "That is **a good** book.",
+      "back": "Das ist **ein gutes** Buch.",
+      "note": "gut (good) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.547,
+      "rank": 52
+    },
+    {
+      "front": "He comes to work in **a good** mood.",
+      "back": "Er kommt mit **guter** Laune zur Arbeit.",
+      "note": "gut (good) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.547,
+      "rank": 52
+    },
+    {
+      "front": "Today the weather is **better**.",
+      "back": "Heute ist das Wetter **besser**.",
+      "note": "gut (good) · comparative. Comparative adds -er; gut is irregular: besser.",
+      "priority": 0.547,
+      "rank": 52
+    },
+    {
+      "front": "Tea with honey tastes **best**.",
+      "back": "Tee mit Honig schmeckt **am besten**.",
+      "note": "gut (good) · superlative. am + -sten is the superlative used after a verb; gut is irregular: am besten.",
+      "priority": 0.547,
+      "rank": 52
+    },
+    {
+      "front": "I **am** very tired today.",
+      "back": "Ich **bin** heute sehr müde.",
+      "note": "sein (to be) · present, ich. sein is completely irregular; ich bin has to be memorised.",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "**Are** you already at home?",
+      "back": "**Bist** du schon zu Hause?",
+      "note": "sein (to be) · present, du. Irregular stem bi-, but du still ends in -st.",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "The coffee **is** too hot.",
+      "back": "Der Kaffee **ist** zu heiß.",
+      "note": "sein (to be) · present, er/sie/es. Irregular: er ist keeps the usual -t ending on an unusual stem.",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "We **are** not at home.",
+      "back": "Wir **sind** nicht zu Hause.",
+      "note": "sein (to be) · present, wir. Irregular: wir and sie (they) both use sind.",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "**Are** you ready yet?",
+      "back": "**Seid** ihr schon fertig?",
+      "note": "sein (to be) · present, ihr. ihr seid is spelled with d; do not confuse it with seit (since).",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "The weather **was** nice yesterday.",
+      "back": "Das Wetter **war** gestern schön.",
+      "note": "sein (to be) · simple past (Präteritum), er/sie/es. Strong Präteritum: the stem becomes war, and er has no ending.",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "He **has** never **been** to Berlin.",
+      "back": "Er **ist** noch nie in Berlin **gewesen**.",
+      "note": "sein (to be) · perfect, er/sie/es. sein builds its perfect with sein itself, and the participle is gewesen.",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "**Be** quiet, the baby is sleeping!",
+      "back": "**Sei** bitte leise, das Baby schläft!",
+      "note": "sein (to be) · imperative, du. The du imperative of sein is irregular: sei.",
+      "priority": 0.406,
+      "rank": 56
+    },
+    {
+      "front": "I **am getting** tired.",
+      "back": "Ich **werde** langsam müde.",
+      "note": "werden (to become) · present, ich. ich is regular: the stem werd- plus -e.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "You **turn** twenty tomorrow.",
+      "back": "Du **wirst** morgen zwanzig.",
+      "note": "werden (to become) · present, du. du wirst: e changes to i and the d of the stem drops.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "It **is getting** dark already.",
+      "back": "Es **wird** schon dunkel.",
+      "note": "werden (to become) · present, er/sie/es. er wird: e changes to i, and no extra -t because the stem ends in d.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "We **are** slowly **getting** old.",
+      "back": "Wir **werden** langsam alt.",
+      "note": "werden (to become) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "You **are getting** all wet!",
+      "back": "Ihr **werdet** ganz nass!",
+      "note": "werden (to become) · present, ihr. The stem ends in d, so ihr adds -et instead of just -t.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "My father **became** a doctor.",
+      "back": "Mein Vater **wurde** Arzt.",
+      "note": "werden (to become) · simple past (Präteritum), er/sie/es. The Präteritum switches to u: wurde, and er ends in -e like ich.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "It **has become** very cold.",
+      "back": "Es **ist** sehr kalt **geworden**.",
+      "note": "werden (to become) · perfect, er/sie/es. werden is a change of state, so the perfect uses sein; the participle is geworden.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "**Get** well again soon!",
+      "back": "**Werde** bald wieder gesund!",
+      "note": "werden (to become) · imperative, du. Unlike geben, werden keeps its e in the imperative: werde or werd.",
+      "priority": 0.389,
+      "rank": 78
+    },
+    {
+      "front": "I **am telling** you the truth.",
+      "back": "Ich **sage** dir die Wahrheit.",
+      "note": "sagen (to say) · present, ich. Regular weak verb: ich takes -e on the stem.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "What **do** you **say** to that?",
+      "back": "Was **sagst** du dazu?",
+      "note": "sagen (to say) · present, du. Regular weak verb: du takes -st.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "He never **says** thank you.",
+      "back": "Er **sagt** nie danke.",
+      "note": "sagen (to say) · present, er/sie/es. Regular weak verb: er takes -t.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "We always **tell** the truth.",
+      "back": "Wir **sagen** immer die Wahrheit.",
+      "note": "sagen (to say) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "Why **don't** you **say** anything?",
+      "back": "Warum **sagt** ihr nichts?",
+      "note": "sagen (to say) · present, ihr. ihr takes -t, so it looks the same as the er form.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "She **said** not a word.",
+      "back": "Sie **sagte** kein Wort.",
+      "note": "sagen (to say) · simple past (Präteritum), er/sie/es. Weak Präteritum: stem plus -te, with no vowel change.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "What **did** the doctor **say**?",
+      "back": "Was **hat** der Arzt **gesagt**?",
+      "note": "sagen (to say) · perfect, er/sie/es. Weak participle: ge- + stem + -t, with haben.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "**Tell** me the truth!",
+      "back": "**Sag** mir die Wahrheit!",
+      "note": "sagen (to say) · imperative, du. The du imperative is the bare stem; the -e (sage) is optional.",
+      "priority": 0.378,
+      "rank": 96
+    },
+    {
+      "front": "**The man** is reading a newspaper.",
+      "back": "**Der Mann** liest eine Zeitung.",
+      "note": "der Mann (man) · nominative singular. Mann is masculine: der Mann. Subject, so nominative; the plural is Männer, with an umlaut and -er.",
+      "priority": 0.498,
+      "rank": 102
+    },
+    {
+      "front": "I see **a man** in front of the house.",
+      "back": "Ich sehe **einen Mann** vor dem Haus.",
+      "note": "der Mann (man) · accusative singular. Direct object, so accusative: ein → einen. Only masculine articles change in the accusative; the noun stays the same.",
+      "priority": 0.498,
+      "rank": 102
+    },
+    {
+      "front": "She is talking to **the man**.",
+      "back": "Sie spricht mit **dem Mann**.",
+      "note": "der Mann (man) · dative singular. mit always takes the dative: der → dem. The noun itself takes no ending.",
+      "priority": 0.498,
+      "rank": 102
+    },
+    {
+      "front": "**The man's** car is new.",
+      "back": "Das Auto **des Mannes** ist neu.",
+      "note": "der Mann (man) · genitive singular. Genitive of a masculine noun: des, and the noun adds -es or -s: Mannes.",
+      "priority": 0.498,
+      "rank": 102
+    },
+    {
+      "front": "**The men** are playing football.",
+      "back": "**Die Männer** spielen Fußball.",
+      "note": "der Mann (man) · nominative plural. Plural of Mann: umlaut plus -er, Männer. All plurals take die in the nominative.",
+      "priority": 0.498,
+      "rank": 102
+    },
+    {
+      "front": "The children are playing with **the men**.",
+      "back": "Die Kinder spielen mit **den Männern**.",
+      "note": "der Mann (man) · dative plural. mit takes the dative; dative plural uses den and adds -n to the noun: Männer → Männern.",
+      "priority": 0.498,
+      "rank": 102
+    },
+    {
+      "front": "I **don't know** that.",
+      "back": "Ich **weiß** das nicht.",
+      "note": "wissen (to know (a fact)) · present, ich. wissen behaves like a modal: ich weiß has no ending.",
+      "priority": 0.417,
+      "rank": 119
+    },
+    {
+      "front": "**Do** you **know** where he lives?",
+      "back": "**Weißt** du, wo er wohnt?",
+      "note": "wissen (to know (a fact)) · present, du. The singular stem is weiß; du adds -t because the ß already gives the s sound.",
+      "priority": 0.417,
+      "rank": 119
+    },
+    {
+      "front": "Nobody **knows** the answer.",
+      "back": "Niemand **weiß** die Antwort.",
+      "note": "wissen (to know (a fact)) · present, er/sie/es. Like a modal, er has no ending: er weiß, same as ich.",
+      "priority": 0.417,
+      "rank": 119
+    },
+    {
+      "front": "We **know** that already.",
+      "back": "Das **wissen** wir schon.",
+      "note": "wissen (to know (a fact)) · present, wir. The plural goes back to the infinitive vowel i: wissen.",
+      "priority": 0.417,
+      "rank": 119
+    },
+    {
+      "front": "**Do** you **know** when the train comes?",
+      "back": "**Wisst** ihr, wann der Zug kommt?",
+      "note": "wissen (to know (a fact)) · present, ihr. ihr uses the infinitive vowel i and adds -t: wisst.",
+      "priority": 0.417,
+      "rank": 119
+    },
+    {
+      "front": "She **knew** nothing about it.",
+      "back": "Sie **wusste** nichts davon.",
+      "note": "wissen (to know (a fact)) · simple past (Präteritum), er/sie/es. Mixed verb: the vowel changes to u and it takes the weak ending -te.",
+      "priority": 0.417,
+      "rank": 119
+    },
+    {
+      "front": "He always **knew** it.",
+      "back": "Er **hat** es immer **gewusst**.",
+      "note": "wissen (to know (a fact)) · perfect, er/sie/es. Mixed verb: the participle has ge-, the vowel u and the weak ending -t.",
+      "priority": 0.417,
+      "rank": 119
+    },
+    {
+      "front": "I **have to** work today.",
+      "back": "Ich **muss** heute arbeiten.",
+      "note": "müssen (must, to have to) · present, ich. Modal verb: the singular drops the umlaut and ich has no ending.",
+      "priority": 0.417,
+      "rank": 121
+    },
+    {
+      "front": "You **must** eat more.",
+      "back": "Du **musst** mehr essen.",
+      "note": "müssen (must, to have to) · present, du. Modal verb: no umlaut in the singular, but du still takes -st.",
+      "priority": 0.417,
+      "rank": 121
+    },
+    {
+      "front": "He **has to** go home now.",
+      "back": "Er **muss** jetzt nach Hause gehen.",
+      "note": "müssen (must, to have to) · present, er/sie/es. Modal verb: er has no ending, so it matches ich muss.",
+      "priority": 0.417,
+      "rank": 121
+    },
+    {
+      "front": "Unfortunately we **have to** go.",
+      "back": "Wir **müssen** leider gehen.",
+      "note": "müssen (must, to have to) · present, wir. The plural of a modal keeps the umlaut: müssen.",
+      "priority": 0.417,
+      "rank": 121
+    },
+    {
+      "front": "**Do** you **have to** get up early?",
+      "back": "**Müsst** ihr früh aufstehen?",
+      "note": "müssen (must, to have to) · present, ihr. The plural keeps the umlaut, and ihr adds -t: müsst.",
+      "priority": 0.417,
+      "rank": 121
+    },
+    {
+      "front": "She **had to** wait a long time.",
+      "back": "Sie **musste** lange warten.",
+      "note": "müssen (must, to have to) · simple past (Präteritum), er/sie/es. The Präteritum drops the umlaut and adds the weak ending -te.",
+      "priority": 0.417,
+      "rank": 121
+    },
+    {
+      "front": "He **had to** go to the doctor.",
+      "back": "Er **hat** zum Arzt **gemusst**.",
+      "note": "müssen (must, to have to) · perfect, er/sie/es. On its own the participle is gemusst. With another verb the perfect uses the infinitive instead: Er hat gehen müssen.",
+      "priority": 0.417,
+      "rank": 121
+    },
+    {
+      "front": "**The way** to Berlin is long.",
+      "back": "**Der Weg** nach Berlin ist lang.",
+      "note": "der Weg (way, path) · nominative singular. Weg is masculine: der Weg. Subject, so nominative; the plural is Wege, with -e.",
+      "priority": 0.482,
+      "rank": 129
+    },
+    {
+      "front": "Do you know **the way** home?",
+      "back": "Kennst du **den Weg** nach Hause?",
+      "note": "der Weg (way, path) · accusative singular. Direct object of kennen, so accusative: der → den. The noun stays the same.",
+      "priority": 0.482,
+      "rank": 129
+    },
+    {
+      "front": "There is a tree on **the path**.",
+      "back": "Auf **dem Weg** steht ein Baum.",
+      "note": "der Weg (way, path) · dative singular. auf for a location takes the dative: der → dem. The noun takes no ending.",
+      "priority": 0.482,
+      "rank": 129
+    },
+    {
+      "front": "The end of **the path** is near.",
+      "back": "Das Ende **des Weges** ist nah.",
+      "note": "der Weg (way, path) · genitive singular. Genitive of a masculine noun: des, and the noun adds -es or -s: Weges.",
+      "priority": 0.482,
+      "rank": 129
+    },
+    {
+      "front": "**The paths** here are wide.",
+      "back": "**Die Wege** hier sind breit.",
+      "note": "der Weg (way, path) · nominative plural. Plural of Weg adds -e: Wege. All plurals take die in the nominative.",
+      "priority": 0.482,
+      "rank": 129
+    },
+    {
+      "front": "We like walking on **the paths** here.",
+      "back": "Wir laufen gern auf **den Wegen** hier.",
+      "note": "der Weg (way, path) · dative plural. auf for a location takes the dative; dative plural uses den and adds -n: Wege → Wegen.",
+      "priority": 0.482,
+      "rank": 129
+    },
+    {
+      "front": "**The easy** test is on Friday.",
+      "back": "**Der einfache** Test ist am Freitag.",
+      "note": "einfach (easy, simple) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.478,
+      "rank": 134
+    },
+    {
+      "front": "He has **a simple** job.",
+      "back": "Er hat **einen einfachen** Job.",
+      "note": "einfach (easy, simple) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.478,
+      "rank": 134
+    },
+    {
+      "front": "That is **a simple** recipe.",
+      "back": "Das ist **ein einfaches** Rezept.",
+      "note": "einfach (easy, simple) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.478,
+      "rank": 134
+    },
+    {
+      "front": "The text is in **simple** language.",
+      "back": "Der Text ist in **einfacher** Sprache.",
+      "note": "einfach (easy, simple) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.478,
+      "rank": 134
+    },
+    {
+      "front": "It is **easier** by bus.",
+      "back": "Mit dem Bus ist es **einfacher**.",
+      "note": "einfach (easy, simple) · comparative. Comparative adds -er to the adjective: einfacher.",
+      "priority": 0.478,
+      "rank": 134
+    },
+    {
+      "front": "It is **easiest** this way.",
+      "back": "So ist es **am einfachsten**.",
+      "note": "einfach (easy, simple) · superlative. am + -sten is the superlative used after a verb.",
+      "priority": 0.478,
+      "rank": 134
+    },
+    {
+      "front": "I **live** in Berlin.",
+      "back": "Ich **lebe** in Berlin.",
+      "note": "leben (to live) · present, ich. Regular weak verb: ich takes -e.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "**Do** you still **live** with your parents?",
+      "back": "**Lebst** du noch bei deinen Eltern?",
+      "note": "leben (to live) · present, du. Regular weak verb: du takes -st.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "My grandmother **lives** alone.",
+      "back": "Meine Oma **lebt** allein.",
+      "note": "leben (to live) · present, er/sie/es. Regular weak verb: er takes -t.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "We **live** in a small town.",
+      "back": "Wir **leben** in einer kleinen Stadt.",
+      "note": "leben (to live) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "**Do** you **live** in Germany?",
+      "back": "**Lebt** ihr in Deutschland?",
+      "note": "leben (to live) · present, ihr. ihr takes -t, the same as the er form.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "He **lived** in Italy for a long time.",
+      "back": "Er **lebte** lange in Italien.",
+      "note": "leben (to live) · simple past (Präteritum), er/sie/es. Weak Präteritum: stem plus -te.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "She **lived** in Paris for two years.",
+      "back": "Sie **hat** zwei Jahre in Paris **gelebt**.",
+      "note": "leben (to live) · perfect, er/sie/es. Weak participle: ge- + stem + -t, with haben.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "**Farewell**, my friend!",
+      "back": "**Leb** wohl, mein Freund!",
+      "note": "leben (to live) · imperative, du. The du imperative is the bare stem; leb wohl is a fixed goodbye.",
+      "priority": 0.359,
+      "rank": 135
+    },
+    {
+      "front": "I **come** from Spain.",
+      "back": "Ich **komme** aus Spanien.",
+      "note": "kommen (to come) · present, ich. kommen is regular in the present: ich takes -e.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "When **are** you **coming** home?",
+      "back": "Wann **kommst** du nach Hause?",
+      "note": "kommen (to come) · present, du. No vowel change in the present: du simply takes -st.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "The bus **is coming** soon.",
+      "back": "Der Bus **kommt** gleich.",
+      "note": "kommen (to come) · present, er/sie/es. No vowel change in the present: er simply takes -t.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "We **are coming** tomorrow at eight.",
+      "back": "Wir **kommen** morgen um acht.",
+      "note": "kommen (to come) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "**Are** you **coming** to the party?",
+      "back": "**Kommt** ihr zur Party?",
+      "note": "kommen (to come) · present, ihr. ihr takes -t on the stem.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "He **came** too late.",
+      "back": "Er **kam** zu spät.",
+      "note": "kommen (to come) · simple past (Präteritum), er/sie/es. Strong Präteritum: o changes to a, and er has no ending.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "**Has** the letter **come** yet?",
+      "back": "**Ist** der Brief schon **gekommen**?",
+      "note": "kommen (to come) · perfect, er/sie/es. kommen is a verb of motion, so the perfect uses sein, not haben.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "Please **come** here quickly!",
+      "back": "**Komm** bitte schnell her!",
+      "note": "kommen (to come) · imperative, du. The du imperative is the bare stem, usually without -e.",
+      "priority": 0.356,
+      "rank": 140
+    },
+    {
+      "front": "I **want** a coffee.",
+      "back": "Ich **will** einen Kaffee.",
+      "note": "wollen (to want) · present, ich. Modal verb: the singular changes o to i, and ich has no ending.",
+      "priority": 0.406,
+      "rank": 144
+    },
+    {
+      "front": "What **do** you **want** to eat?",
+      "back": "Was **willst** du essen?",
+      "note": "wollen (to want) · present, du. Modal verb: singular stem will-, and du takes -st.",
+      "priority": 0.406,
+      "rank": 144
+    },
+    {
+      "front": "She **wants** to become a teacher.",
+      "back": "Sie **will** Lehrerin werden.",
+      "note": "wollen (to want) · present, er/sie/es. Modal verb: er has no ending, so it matches ich will.",
+      "priority": 0.406,
+      "rank": 144
+    },
+    {
+      "front": "We **want** to go home.",
+      "back": "Wir **wollen** nach Hause.",
+      "note": "wollen (to want) · present, wir. The plural goes back to the infinitive vowel o.",
+      "priority": 0.406,
+      "rank": 144
+    },
+    {
+      "front": "**Do** you **want** to play outside?",
+      "back": "**Wollt** ihr draußen spielen?",
+      "note": "wollen (to want) · present, ihr. The plural keeps the o, and ihr adds -t.",
+      "priority": 0.406,
+      "rank": 144
+    },
+    {
+      "front": "He only **wanted** to sleep.",
+      "back": "Er **wollte** nur schlafen.",
+      "note": "wollen (to want) · simple past (Präteritum), er/sie/es. Modals take the weak Präteritum ending -te: wollte.",
+      "priority": 0.406,
+      "rank": 144
+    },
+    {
+      "front": "She **didn't want** that.",
+      "back": "Das **hat** sie nicht **gewollt**.",
+      "note": "wollen (to want) · perfect, er/sie/es. On its own the participle is gewollt. With another verb the perfect uses the infinitive instead: Sie hat kommen wollen.",
+      "priority": 0.406,
+      "rank": 144
+    },
+    {
+      "front": "**The woman** works in a bank.",
+      "back": "**Die Frau** arbeitet in einer Bank.",
+      "note": "die Frau (woman) · nominative singular. Frau is feminine: die Frau. Subject, so nominative; the plural is Frauen, with -en.",
+      "priority": 0.47,
+      "rank": 153
+    },
+    {
+      "front": "I know **the woman** from the shop.",
+      "back": "Ich kenne **die Frau** aus dem Laden.",
+      "note": "die Frau (woman) · accusative singular. Direct object, so accusative. Feminine articles do not change in the accusative: die stays die.",
+      "priority": 0.47,
+      "rank": 153
+    },
+    {
+      "front": "He gives **the woman** a flower.",
+      "back": "Er gibt **der Frau** eine Blume.",
+      "note": "die Frau (woman) · dative singular. geben puts the receiver in the dative: die → der. Feminine nouns never take an ending in the singular.",
+      "priority": 0.47,
+      "rank": 153
+    },
+    {
+      "front": "**The woman's** bag is red.",
+      "back": "Die Tasche **der Frau** ist rot.",
+      "note": "die Frau (woman) · genitive singular. Genitive of a feminine noun: die → der, and the noun takes no ending.",
+      "priority": 0.47,
+      "rank": 153
+    },
+    {
+      "front": "**The women** are drinking coffee.",
+      "back": "**Die Frauen** trinken Kaffee.",
+      "note": "die Frau (woman) · nominative plural. Plural of Frau adds -en: Frauen. All plurals take die in the nominative.",
+      "priority": 0.47,
+      "rank": 153
+    },
+    {
+      "front": "I am talking to **the women**.",
+      "back": "Ich spreche mit **den Frauen**.",
+      "note": "die Frau (woman) · dative plural. mit takes the dative: plural article den. Frauen already ends in -n, so nothing is added.",
+      "priority": 0.47,
+      "rank": 153
+    },
+    {
+      "front": "I **leave** the window open.",
+      "back": "Ich **lasse** das Fenster offen.",
+      "note": "lassen (to let, to leave) · present, ich. ich is regular: no vowel change, just -e.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "**Are** you **leaving** the car here?",
+      "back": "**Lässt** du das Auto hier?",
+      "note": "lassen (to let, to leave) · present, du. a changes to ä in the du form, and -st shrinks to -t after the ss.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "He **lets** the children play.",
+      "back": "Er **lässt** die Kinder spielen.",
+      "note": "lassen (to let, to leave) · present, er/sie/es. a changes to ä in the er form, so it looks the same as du lässt.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "We **leave** the dog at home.",
+      "back": "Wir **lassen** den Hund zu Hause.",
+      "note": "lassen (to let, to leave) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "Why **do** you **make** him wait?",
+      "back": "Warum **lasst** ihr ihn warten?",
+      "note": "lassen (to let, to leave) · present, ihr. No umlaut in the ihr form; the -t joins the stem: lasst.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "She **left** her bag in the car.",
+      "back": "Sie **ließ** ihre Tasche im Auto.",
+      "note": "lassen (to let, to leave) · simple past (Präteritum), er/sie/es. Strong Präteritum: a changes to ie, ss becomes ß, and er has no ending.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "He **left** his key at home.",
+      "back": "Er **hat** seinen Schlüssel zu Hause **gelassen**.",
+      "note": "lassen (to let, to leave) · perfect, er/sie/es. Strong participle: ge- + stem + -en, with no vowel change.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "**Leave** me alone!",
+      "back": "**Lass** mich in Ruhe!",
+      "note": "lassen (to let, to leave) · imperative, du. The du imperative is the bare stem and has no umlaut.",
+      "priority": 0.349,
+      "rank": 163
+    },
+    {
+      "front": "**The clear** sky is beautiful.",
+      "back": "**Der klare** Himmel ist wunderschön.",
+      "note": "klar (clear) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.46,
+      "rank": 175
+    },
+    {
+      "front": "In the morning I have **a clear** head.",
+      "back": "Am Morgen habe ich **einen klaren** Kopf.",
+      "note": "klar (clear) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.46,
+      "rank": 175
+    },
+    {
+      "front": "That is **a clear** no.",
+      "back": "Das ist **ein klares** Nein.",
+      "note": "klar (clear) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.46,
+      "rank": 175
+    },
+    {
+      "front": "In **clear** visibility you can see the mountains.",
+      "back": "Bei **klarer** Sicht sieht man die Berge.",
+      "note": "klar (clear) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.46,
+      "rank": 175
+    },
+    {
+      "front": "Now the picture is **clearer**.",
+      "back": "Jetzt ist das Bild **klarer**.",
+      "note": "klar (clear) · comparative. Comparative adds -er to the adjective: klarer.",
+      "priority": 0.46,
+      "rank": 175
+    },
+    {
+      "front": "In winter the air is **clearest**.",
+      "back": "Im Winter ist die Luft **am klarsten**.",
+      "note": "klar (clear) · superlative. am + -sten is the superlative used after a verb.",
+      "priority": 0.46,
+      "rank": 175
+    },
+    {
+      "front": "**The father** is cooking today.",
+      "back": "**Der Vater** kocht heute.",
+      "note": "der Vater (father) · nominative singular. Vater is masculine: der Vater. Subject, so nominative; the plural is Väter, with only an umlaut.",
+      "priority": 0.458,
+      "rank": 178
+    },
+    {
+      "front": "The child is looking for **the father**.",
+      "back": "Das Kind sucht **den Vater**.",
+      "note": "der Vater (father) · accusative singular. Direct object of suchen, so accusative: der → den. The noun stays the same.",
+      "priority": 0.458,
+      "rank": 178
+    },
+    {
+      "front": "I am helping **the father** with the car.",
+      "back": "Ich helfe **dem Vater** mit dem Auto.",
+      "note": "der Vater (father) · dative singular. helfen takes the dative: der → dem. The noun takes no ending.",
+      "priority": 0.458,
+      "rank": 178
+    },
+    {
+      "front": "**The father's** car is red.",
+      "back": "Das Auto **des Vaters** ist rot.",
+      "note": "der Vater (father) · genitive singular. Genitive of a masculine noun: des, and the noun adds -s: Vaters.",
+      "priority": 0.458,
+      "rank": 178
+    },
+    {
+      "front": "**The fathers** are waiting at the school.",
+      "back": "**Die Väter** warten vor der Schule.",
+      "note": "der Vater (father) · nominative plural. Plural of Vater only adds an umlaut: Väter. All plurals take die in the nominative.",
+      "priority": 0.458,
+      "rank": 178
+    },
+    {
+      "front": "The teacher is talking to **the fathers**.",
+      "back": "Die Lehrerin spricht mit **den Vätern**.",
+      "note": "der Vater (father) · dative plural. mit takes the dative; dative plural uses den and adds -n: Väter → Vätern.",
+      "priority": 0.458,
+      "rank": 178
+    },
+    {
+      "front": "**The day** was very long.",
+      "back": "**Der Tag** war sehr lang.",
+      "note": "der Tag (day) · nominative singular. Tag is masculine: der Tag. Subject, so nominative; the plural is Tage, with -e.",
+      "priority": 0.457,
+      "rank": 184
+    },
+    {
+      "front": "I need **a day** off.",
+      "back": "Ich brauche **einen Tag** frei.",
+      "note": "der Tag (day) · accusative singular. Direct object of brauchen, so accusative: ein → einen. The noun stays the same.",
+      "priority": 0.457,
+      "rank": 184
+    },
+    {
+      "front": "He works ten hours in **one day**.",
+      "back": "Er arbeitet an **einem Tag** zehn Stunden.",
+      "note": "der Tag (day) · dative singular. an with a point in time takes the dative: ein → einem. The noun takes no ending.",
+      "priority": 0.457,
+      "rank": 184
+    },
+    {
+      "front": "The end of **the day** is quiet.",
+      "back": "Das Ende **des Tages** ist ruhig.",
+      "note": "der Tag (day) · genitive singular. Genitive of a masculine noun: des, and the noun adds -es or -s: Tages.",
+      "priority": 0.457,
+      "rank": 184
+    },
+    {
+      "front": "**The days** are short now.",
+      "back": "**Die Tage** sind jetzt kurz.",
+      "note": "der Tag (day) · nominative plural. Plural of Tag adds -e: Tage. All plurals take die in the nominative.",
+      "priority": 0.457,
+      "rank": 184
+    },
+    {
+      "front": "I am coming back in three **days**.",
+      "back": "Ich komme in drei **Tagen** zurück.",
+      "note": "der Tag (day) · dative plural. in with a period of time takes the dative; dative plural adds -n to the noun: Tage → Tagen.",
+      "priority": 0.457,
+      "rank": 184
+    },
+    {
+      "front": "**The mother** is calling the child.",
+      "back": "**Die Mutter** ruft das Kind.",
+      "note": "die Mutter (mother) · nominative singular. Mutter is feminine: die Mutter. Subject, so nominative; the plural is Mütter, with only an umlaut.",
+      "priority": 0.452,
+      "rank": 197
+    },
+    {
+      "front": "The doctor asks **the mother**.",
+      "back": "Der Arzt fragt **die Mutter**.",
+      "note": "die Mutter (mother) · accusative singular. Direct object of fragen, so accusative. Feminine articles do not change: die stays die.",
+      "priority": 0.452,
+      "rank": 197
+    },
+    {
+      "front": "The child helps **the mother** in the kitchen.",
+      "back": "Das Kind hilft **der Mutter** in der Küche.",
+      "note": "die Mutter (mother) · dative singular. helfen takes the dative: die → der. Feminine nouns take no ending in the singular.",
+      "priority": 0.452,
+      "rank": 197
+    },
+    {
+      "front": "**The mother's** phone is on the table.",
+      "back": "Das Handy **der Mutter** liegt auf dem Tisch.",
+      "note": "die Mutter (mother) · genitive singular. Genitive of a feminine noun: die → der, and the noun takes no ending.",
+      "priority": 0.452,
+      "rank": 197
+    },
+    {
+      "front": "**The mothers** are sitting on the bench.",
+      "back": "**Die Mütter** sitzen auf der Bank.",
+      "note": "die Mutter (mother) · nominative plural. Plural of Mutter only adds an umlaut: Mütter. All plurals take die in the nominative.",
+      "priority": 0.452,
+      "rank": 197
+    },
+    {
+      "front": "The children run to **the mothers**.",
+      "back": "Die Kinder laufen zu **den Müttern**.",
+      "note": "die Mutter (mother) · dative plural. zu always takes the dative; dative plural uses den and adds -n: Mütter → Müttern.",
+      "priority": 0.452,
+      "rank": 197
+    },
+    {
+      "front": "I **help** my mother.",
+      "back": "Ich **helfe** meiner Mutter.",
+      "note": "helfen (to help) · present, ich. No vowel change for ich: the stem helf- plus -e.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "**Will** you **help** me cook?",
+      "back": "**Hilfst** du mir beim Kochen?",
+      "note": "helfen (to help) · present, du. helfen changes e to i in the du and er forms: hilfst.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "He often **helps** his neighbour.",
+      "back": "Er **hilft** seinem Nachbarn oft.",
+      "note": "helfen (to help) · present, er/sie/es. helfen changes e to i in the er form, plus -t: hilft.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "We are happy to **help** you.",
+      "back": "Wir **helfen** dir gern.",
+      "note": "helfen (to help) · present, wir. The plural has no vowel change: helfen.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "**Are** you **helping** us tomorrow?",
+      "back": "**Helft** ihr uns morgen?",
+      "note": "helfen (to help) · present, ihr. The e to i change only affects du and er, so ihr keeps the e: helft.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "She **helped** me with my homework.",
+      "back": "Sie **half** mir bei den Hausaufgaben.",
+      "note": "helfen (to help) · simple past (Präteritum), er/sie/es. Strong Präteritum: e changes to a, and er has no ending.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "Nobody **helped** him.",
+      "back": "Niemand **hat** ihm **geholfen**.",
+      "note": "helfen (to help) · perfect, er/sie/es. Strong participle with a vowel change to o: geholfen.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "Please **help** me with the suitcase!",
+      "back": "**Hilf** mir bitte mit dem Koffer!",
+      "note": "helfen (to help) · imperative, du. The du imperative drops -st and the pronoun; e to i verbs keep the i.",
+      "priority": 0.333,
+      "rank": 218
+    },
+    {
+      "front": "**The night** is cold.",
+      "back": "**Die Nacht** ist kalt.",
+      "note": "die Nacht (night) · nominative singular. Nacht is feminine: die Nacht. Subject, so nominative; the plural is Nächte, with an umlaut and -e.",
+      "priority": 0.443,
+      "rank": 219
+    },
+    {
+      "front": "I am staying **one night** in Berlin.",
+      "back": "Ich bleibe **eine Nacht** in Berlin.",
+      "note": "die Nacht (night) · accusative singular. A length of time without a preposition is accusative. Feminine eine does not change.",
+      "priority": 0.443,
+      "rank": 219
+    },
+    {
+      "front": "I sleep at **night**.",
+      "back": "In **der Nacht** schlafe ich.",
+      "note": "die Nacht (night) · dative singular. in for a time takes the dative: die → der. Feminine nouns take no ending.",
+      "priority": 0.443,
+      "rank": 219
+    },
+    {
+      "front": "The quiet of **the night** is lovely.",
+      "back": "Die Ruhe **der Nacht** ist schön.",
+      "note": "die Nacht (night) · genitive singular. Genitive of a feminine noun: die → der, and the noun takes no ending.",
+      "priority": 0.443,
+      "rank": 219
+    },
+    {
+      "front": "**The nights** are very warm now.",
+      "back": "**Die Nächte** sind jetzt sehr warm.",
+      "note": "die Nacht (night) · nominative plural. Plural of Nacht: umlaut plus -e, Nächte. All plurals take die in the nominative.",
+      "priority": 0.443,
+      "rank": 219
+    },
+    {
+      "front": "After three **nights** we drive home.",
+      "back": "Nach drei **Nächten** fahren wir nach Hause.",
+      "note": "die Nacht (night) · dative plural. nach always takes the dative; dative plural adds -n to the noun: Nächte → Nächten.",
+      "priority": 0.443,
+      "rank": 219
+    },
+    {
+      "front": "I **find** the film boring.",
+      "back": "Ich **finde** den Film langweilig.",
+      "note": "finden (to find) · present, ich. Regular in the present: ich takes -e.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "What **do** you **think** of the city?",
+      "back": "Wie **findest** du die Stadt?",
+      "note": "finden (to find) · present, du. The stem ends in d, so an e is added before the ending: findest.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "He **can't find** his phone.",
+      "back": "Er **findet** sein Handy nicht.",
+      "note": "finden (to find) · present, er/sie/es. The stem ends in d, so an e is added before -t: findet.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "We **find** the hotel very nice.",
+      "back": "Wir **finden** das Hotel sehr schön.",
+      "note": "finden (to find) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "**Can** you **find** the way on your own?",
+      "back": "**Findet** ihr den Weg allein?",
+      "note": "finden (to find) · present, ihr. After a d stem, ihr also adds -et: findet.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "She **found** a wallet on the street.",
+      "back": "Sie **fand** eine Geldbörse auf der Straße.",
+      "note": "finden (to find) · simple past (Präteritum), er/sie/es. Strong Präteritum: i changes to a, and er has no ending.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "**Has** he **found** a job?",
+      "back": "**Hat** er eine Arbeit **gefunden**?",
+      "note": "finden (to find) · perfect, er/sie/es. Strong participle with a vowel change to u: gefunden.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "**Find** the mistake in the sentence!",
+      "back": "**Finde** den Fehler im Satz!",
+      "note": "finden (to find) · imperative, du. Stems ending in d usually keep the -e in the imperative: finde.",
+      "priority": 0.333,
+      "rank": 220
+    },
+    {
+      "front": "I **will give** you my number.",
+      "back": "Ich **gebe** dir meine Nummer.",
+      "note": "geben (to give) · present, ich. No vowel change for ich: the stem geb- plus -e.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "**Will** you **give** me the salt?",
+      "back": "**Gibst** du mir das Salz?",
+      "note": "geben (to give) · present, du. geben changes e to i in the du and er forms: gibst.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "She **gives** the child an apple.",
+      "back": "Sie **gibt** dem Kind einen Apfel.",
+      "note": "geben (to give) · present, er/sie/es. geben changes e to i in the er form, plus -t: gibt.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "We **are throwing** a party on Saturday.",
+      "back": "Wir **geben** am Samstag eine Party.",
+      "note": "geben (to give) · present, wir. The plural has no vowel change: geben.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "**Are** you **giving** him a present?",
+      "back": "**Gebt** ihr ihm ein Geschenk?",
+      "note": "geben (to give) · present, ihr. The e to i change only affects du and er, so ihr keeps the e: gebt.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "He **gave** me the key.",
+      "back": "Er **gab** mir den Schlüssel.",
+      "note": "geben (to give) · simple past (Präteritum), er/sie/es. Strong Präteritum: e changes to a, and er has no ending.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "Mum **gave** me money.",
+      "back": "Mama **hat** mir Geld **gegeben**.",
+      "note": "geben (to give) · perfect, er/sie/es. Strong participle: ge- + stem + -en, keeping the e: gegeben.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "**Give** me the ball!",
+      "back": "**Gib** mir den Ball!",
+      "note": "geben (to give) · imperative, du. The du imperative drops -st and the pronoun; e to i verbs keep the i.",
+      "priority": 0.329,
+      "rank": 233
+    },
+    {
+      "front": "I **can't hear** you.",
+      "back": "Ich **höre** dich nicht.",
+      "note": "hören (to hear, to listen) · present, ich. Regular weak verb: ich takes -e.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "**Do** you **hear** the music?",
+      "back": "**Hörst** du die Musik?",
+      "note": "hören (to hear, to listen) · present, du. Regular weak verb: du takes -st.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "He **listens** to music every day.",
+      "back": "Er **hört** jeden Tag Musik.",
+      "note": "hören (to hear, to listen) · present, er/sie/es. Regular weak verb: er takes -t.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "We **like listening** to the radio.",
+      "back": "Wir **hören** gern Radio.",
+      "note": "hören (to hear, to listen) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "**Can** you **hear** me?",
+      "back": "**Hört** ihr mich?",
+      "note": "hören (to hear, to listen) · present, ihr. ihr takes -t, the same as the er form.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "She **heard** a noise.",
+      "back": "Sie **hörte** ein Geräusch.",
+      "note": "hören (to hear, to listen) · simple past (Präteritum), er/sie/es. Weak Präteritum: stem plus -te.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "**Has** he **heard** the news yet?",
+      "back": "**Hat** er die Nachricht schon **gehört**?",
+      "note": "hören (to hear, to listen) · perfect, er/sie/es. Weak participle: ge- + stem + -t, with haben.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "**Listen** to me, please!",
+      "back": "**Hör** mir bitte zu!",
+      "note": "hören (to hear, to listen) · imperative, du. The du imperative is the bare stem; zu goes to the end because zuhören is separable.",
+      "priority": 0.328,
+      "rank": 242
+    },
+    {
+      "front": "**The girl** plays the piano.",
+      "back": "**Das Mädchen** spielt Klavier.",
+      "note": "das Mädchen (girl) · nominative singular. Mädchen is neuter, like every noun in -chen: das Mädchen. The plural is the same word, die Mädchen.",
+      "priority": 0.433,
+      "rank": 251
+    },
+    {
+      "front": "I see **a girl** with a dog.",
+      "back": "Ich sehe **ein Mädchen** mit einem Hund.",
+      "note": "das Mädchen (girl) · accusative singular. Direct object, so accusative. Neuter ein does not change in the accusative.",
+      "priority": 0.433,
+      "rank": 251
+    },
+    {
+      "front": "The teacher gives **the girl** a book.",
+      "back": "Der Lehrer gibt **dem Mädchen** ein Buch.",
+      "note": "das Mädchen (girl) · dative singular. geben puts the receiver in the dative: das → dem. The noun takes no ending.",
+      "priority": 0.433,
+      "rank": 251
+    },
+    {
+      "front": "**The girl's** name is Lena.",
+      "back": "Der Name **des Mädchens** ist Lena.",
+      "note": "das Mädchen (girl) · genitive singular. Genitive of a neuter noun: des, and the noun adds -s: Mädchens.",
+      "priority": 0.433,
+      "rank": 251
+    },
+    {
+      "front": "**The girls** are singing a song.",
+      "back": "**Die Mädchen** singen ein Lied.",
+      "note": "das Mädchen (girl) · nominative plural. The plural of Mädchen is the same word; only the article shows it: das → die.",
+      "priority": 0.433,
+      "rank": 251
+    },
+    {
+      "front": "I play tennis with **the girls**.",
+      "back": "Ich spiele mit **den Mädchen** Tennis.",
+      "note": "das Mädchen (girl) · dative plural. mit takes the dative: plural article den. Mädchen already ends in -n, so nothing is added.",
+      "priority": 0.433,
+      "rank": 251
+    },
+    {
+      "front": "**The evening** is quiet.",
+      "back": "**Der Abend** ist ruhig.",
+      "note": "der Abend (evening) · nominative singular. Abend is masculine: der Abend. Subject, so nominative; the plural is Abende, with -e.",
+      "priority": 0.433,
+      "rank": 254
+    },
+    {
+      "front": "We are spending **an evening** in town.",
+      "back": "Wir verbringen **einen Abend** in der Stadt.",
+      "note": "der Abend (evening) · accusative singular. Direct object of verbringen, so accusative: ein → einen. The noun stays the same.",
+      "priority": 0.433,
+      "rank": 254
+    },
+    {
+      "front": "I'll tell you about **an evening** in Paris.",
+      "back": "Ich erzähle dir von **einem Abend** in Paris.",
+      "note": "der Abend (evening) · dative singular. von always takes the dative: ein → einem. The noun takes no ending.",
+      "priority": 0.433,
+      "rank": 254
+    },
+    {
+      "front": "The music of **the evening** was great.",
+      "back": "Die Musik **des Abends** war toll.",
+      "note": "der Abend (evening) · genitive singular. Genitive of a masculine noun: des, and the noun adds -s: Abends.",
+      "priority": 0.433,
+      "rank": 254
+    },
+    {
+      "front": "**The evenings** are cool now.",
+      "back": "**Die Abende** sind jetzt kühl.",
+      "note": "der Abend (evening) · nominative plural. Plural of Abend adds -e: Abende. All plurals take die in the nominative.",
+      "priority": 0.433,
+      "rank": 254
+    },
+    {
+      "front": "In **the evenings** I like to read.",
+      "back": "An **den Abenden** lese ich gern.",
+      "note": "der Abend (evening) · dative plural. an with a time takes the dative; dative plural uses den and adds -n: Abende → Abenden.",
+      "priority": 0.433,
+      "rank": 254
+    },
+    {
+      "front": "**The house** is very old.",
+      "back": "**Das Haus** ist sehr alt.",
+      "note": "das Haus (house) · nominative singular. Haus is neuter: das Haus. Subject, so nominative; the plural is Häuser, with an umlaut and -er.",
+      "priority": 0.432,
+      "rank": 255
+    },
+    {
+      "front": "We are buying **a house**.",
+      "back": "Wir kaufen **ein Haus**.",
+      "note": "das Haus (house) · accusative singular. Direct object of kaufen, so accusative. Neuter ein does not change in the accusative.",
+      "priority": 0.432,
+      "rank": 255
+    },
+    {
+      "front": "A car is parked in front of **the house**.",
+      "back": "Vor **dem Haus** steht ein Auto.",
+      "note": "das Haus (house) · dative singular. vor for a place takes the dative: das → dem. The noun takes no ending.",
+      "priority": 0.432,
+      "rank": 255
+    },
+    {
+      "front": "The door of **the house** is blue.",
+      "back": "Die Tür **des Hauses** ist blau.",
+      "note": "das Haus (house) · genitive singular. Genitive of a neuter noun: des, and the noun adds -es: Hauses.",
+      "priority": 0.432,
+      "rank": 255
+    },
+    {
+      "front": "**The houses** here are big.",
+      "back": "**Die Häuser** hier sind groß.",
+      "note": "das Haus (house) · nominative plural. Plural of Haus: umlaut plus -er, Häuser. All plurals take die in the nominative.",
+      "priority": 0.432,
+      "rank": 255
+    },
+    {
+      "front": "There is a park between **the houses**.",
+      "back": "Zwischen **den Häusern** ist ein Park.",
+      "note": "das Haus (house) · dative plural. zwischen for a place takes the dative; dative plural uses den and adds -n: Häuser → Häusern.",
+      "priority": 0.432,
+      "rank": 255
+    },
+    {
+      "front": "**A friend** is calling me.",
+      "back": "**Ein Freund** ruft mich an.",
+      "note": "der Freund (friend) · nominative singular. Freund is masculine: der Freund, ein Freund. Subject, so nominative; the plural is Freunde, with -e.",
+      "priority": 0.432,
+      "rank": 260
+    },
+    {
+      "front": "I am visiting **a friend** in Hamburg.",
+      "back": "Ich besuche **einen Freund** in Hamburg.",
+      "note": "der Freund (friend) · accusative singular. Direct object of besuchen, so accusative: ein → einen. The noun stays the same.",
+      "priority": 0.432,
+      "rank": 260
+    },
+    {
+      "front": "I am writing **a friend** an email.",
+      "back": "Ich schreibe **einem Freund** eine E-Mail.",
+      "note": "der Freund (friend) · dative singular. schreiben puts the receiver in the dative: ein → einem. The noun takes no ending.",
+      "priority": 0.432,
+      "rank": 260
+    },
+    {
+      "front": "**The friend's** bike is broken.",
+      "back": "Das Fahrrad **des Freundes** ist kaputt.",
+      "note": "der Freund (friend) · genitive singular. Genitive of a masculine noun: des, and the noun adds -es or -s: Freundes.",
+      "priority": 0.432,
+      "rank": 260
+    },
+    {
+      "front": "**The friends** are coming at eight.",
+      "back": "**Die Freunde** kommen um acht.",
+      "note": "der Freund (friend) · nominative plural. Plural of Freund adds -e: Freunde. All plurals take die in the nominative.",
+      "priority": 0.432,
+      "rank": 260
+    },
+    {
+      "front": "I am going to Italy with **friends**.",
+      "back": "Ich fahre mit **Freunden** nach Italien.",
+      "note": "der Freund (friend) · dative plural. mit takes the dative; dative plural adds -n to the noun: Freunde → Freunden.",
+      "priority": 0.432,
+      "rank": 260
+    },
+    {
+      "front": "I **don't eat** meat.",
+      "back": "Ich **esse** kein Fleisch.",
+      "note": "essen (to eat) · present, ich. No vowel change for ich: the stem ess- plus -e.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "What **do** you **eat** for breakfast?",
+      "back": "Was **isst** du zum Frühstück?",
+      "note": "essen (to eat) · present, du. essen changes e to i in the du form, and -st shrinks to -t after the ss.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "He **eats** an apple every day.",
+      "back": "Er **isst** jeden Tag einen Apfel.",
+      "note": "essen (to eat) · present, er/sie/es. essen changes e to i in the er form, so it looks the same as du isst.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "We **eat** at seven.",
+      "back": "Wir **essen** um sieben.",
+      "note": "essen (to eat) · present, wir. The plural has no vowel change: essen.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "**Do** you **like** fish?",
+      "back": "**Esst** ihr gern Fisch?",
+      "note": "essen (to eat) · present, ihr. ihr keeps the e and adds -t: esst.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "She **ate** a big pizza.",
+      "back": "Sie **aß** eine große Pizza.",
+      "note": "essen (to eat) · simple past (Präteritum), er/sie/es. Strong Präteritum: e changes to a, ss becomes ß, and er has no ending.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "He **hasn't eaten** anything today.",
+      "back": "Er **hat** heute nichts **gegessen**.",
+      "note": "essen (to eat) · perfect, er/sie/es. The participle gegessen has an extra g between ge- and the stem.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "Please **eat** your soup!",
+      "back": "**Iss** bitte deine Suppe!",
+      "note": "essen (to eat) · imperative, du. The du imperative drops -st and the pronoun; e to i verbs keep the i.",
+      "priority": 0.323,
+      "rank": 266
+    },
+    {
+      "front": "**The world** is big.",
+      "back": "**Die Welt** ist groß.",
+      "note": "die Welt (world) · nominative singular. Welt is feminine: die Welt. Subject, so nominative; the plural is Welten, with -en.",
+      "priority": 0.428,
+      "rank": 270
+    },
+    {
+      "front": "He wants to see **the world**.",
+      "back": "Er möchte **die Welt** sehen.",
+      "note": "die Welt (world) · accusative singular. Direct object of sehen, so accusative. Feminine articles do not change: die stays die.",
+      "priority": 0.428,
+      "rank": 270
+    },
+    {
+      "front": "There are many languages in **the world**.",
+      "back": "In **der Welt** gibt es viele Sprachen.",
+      "note": "die Welt (world) · dative singular. in for a place takes the dative: die → der. Feminine nouns take no ending.",
+      "priority": 0.428,
+      "rank": 270
+    },
+    {
+      "front": "The countries of **the world** are very different.",
+      "back": "Die Länder **der Welt** sind sehr verschieden.",
+      "note": "die Welt (world) · genitive singular. Genitive of a feminine noun: die → der, and the noun takes no ending.",
+      "priority": 0.428,
+      "rank": 270
+    },
+    {
+      "front": "**The worlds** in this game are colourful.",
+      "back": "**Die Welten** in diesem Spiel sind bunt.",
+      "note": "die Welt (world) · nominative plural. Plural of Welt adds -en: Welten. All plurals take die in the nominative.",
+      "priority": 0.428,
+      "rank": 270
+    },
+    {
+      "front": "The book tells of two **worlds**.",
+      "back": "Das Buch erzählt von zwei **Welten**.",
+      "note": "die Welt (world) · dative plural. von takes the dative. Welten already ends in -n, so nothing is added.",
+      "priority": 0.428,
+      "rank": 270
+    },
+    {
+      "front": "**The fast** train is already gone.",
+      "back": "**Der schnelle** Zug ist schon weg.",
+      "note": "schnell (fast) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.427,
+      "rank": 273
+    },
+    {
+      "front": "He drives **a fast** car.",
+      "back": "Er fährt **einen schnellen** Wagen.",
+      "note": "schnell (fast) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.427,
+      "rank": 273
+    },
+    {
+      "front": "**A fast** car is expensive.",
+      "back": "**Ein schnelles** Auto ist teuer.",
+      "note": "schnell (fast) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.427,
+      "rank": 273
+    },
+    {
+      "front": "With **fast** delivery the parcel arrives tomorrow.",
+      "back": "Mit **schneller** Lieferung kommt das Paket morgen.",
+      "note": "schnell (fast) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.427,
+      "rank": 273
+    },
+    {
+      "front": "The train is **faster** than the bus.",
+      "back": "Der Zug ist **schneller** als der Bus.",
+      "note": "schnell (fast) · comparative. Comparative adds -er to the adjective: schneller.",
+      "priority": 0.427,
+      "rank": 273
+    },
+    {
+      "front": "My sister runs **fastest**.",
+      "back": "Meine Schwester läuft **am schnellsten**.",
+      "note": "schnell (fast) · superlative. am + -sten is the superlative used after a verb.",
+      "priority": 0.427,
+      "rank": 273
+    },
+    {
+      "front": "I **take** the bus.",
+      "back": "Ich **nehme** den Bus.",
+      "note": "nehmen (to take) · present, ich. No vowel change for ich: the stem nehm- plus -e.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "**Are** you **taking** an umbrella?",
+      "back": "**Nimmst** du einen Regenschirm mit?",
+      "note": "nehmen (to take) · present, du. nehmen changes eh to imm in the du and er forms: nimmst.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "She always **takes** the train.",
+      "back": "Sie **nimmt** immer den Zug.",
+      "note": "nehmen (to take) · present, er/sie/es. nehmen changes eh to imm in the er form, plus -t: nimmt.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "We **will have** two coffees, please.",
+      "back": "Wir **nehmen** zwei Kaffee, bitte.",
+      "note": "nehmen (to take) · present, wir. The plural has no vowel change: nehmen.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "**Are** you **taking** a taxi?",
+      "back": "**Nehmt** ihr ein Taxi?",
+      "note": "nehmen (to take) · present, ihr. The vowel change only affects du and er, so ihr keeps the e: nehmt.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "He **took** my pen.",
+      "back": "Er **nahm** meinen Stift.",
+      "note": "nehmen (to take) · simple past (Präteritum), er/sie/es. Strong Präteritum: e changes to a, and er has no ending.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "Who **took** my phone?",
+      "back": "Wer **hat** mein Handy **genommen**?",
+      "note": "nehmen (to take) · perfect, er/sie/es. Strong participle with a vowel change to o and a double m: genommen.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "**Take** a piece of cake!",
+      "back": "**Nimm** dir ein Stück Kuchen!",
+      "note": "nehmen (to take) · imperative, du. The du imperative drops -st and the pronoun; e to i verbs keep the i: nimm.",
+      "priority": 0.319,
+      "rank": 281
+    },
+    {
+      "front": "I **don't believe** that.",
+      "back": "Das **glaube** ich nicht.",
+      "note": "glauben (to believe) · present, ich. Regular weak verb: ich takes -e.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "**Do** you **believe** me?",
+      "back": "**Glaubst** du mir das?",
+      "note": "glauben (to believe) · present, du. Regular weak verb: du takes -st.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "She **believes** it will rain tomorrow.",
+      "back": "Sie **glaubt**, es regnet morgen.",
+      "note": "glauben (to believe) · present, er/sie/es. Regular weak verb: er takes -t.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "We **don't believe** a word.",
+      "back": "Wir **glauben** kein Wort.",
+      "note": "glauben (to believe) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "**Do** you **believe** in ghosts?",
+      "back": "**Glaubt** ihr an Geister?",
+      "note": "glauben (to believe) · present, ihr. ihr takes -t, the same as the er form.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "Nobody **believed** him.",
+      "back": "Niemand **glaubte** ihm.",
+      "note": "glauben (to believe) · simple past (Präteritum), er/sie/es. Weak Präteritum: stem plus -te.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "He **didn't believe** me.",
+      "back": "Er **hat** mir nicht **geglaubt**.",
+      "note": "glauben (to believe) · perfect, er/sie/es. Weak participle: ge- + stem + -t, with haben.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "**Believe** me, that's true!",
+      "back": "**Glaub** mir, das ist wahr!",
+      "note": "glauben (to believe) · imperative, du. The du imperative is the bare stem; the -e (glaube) is optional.",
+      "priority": 0.319,
+      "rank": 284
+    },
+    {
+      "front": "I **will bring** the wine.",
+      "back": "Ich **bringe** den Wein mit.",
+      "note": "bringen (to bring) · present, ich. Regular in the present: ich takes -e.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "**Will** you **bring** me a glass of water?",
+      "back": "**Bringst** du mir ein Glas Wasser?",
+      "note": "bringen (to bring) · present, du. No vowel change in the present: du takes -st.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "The waiter **brings** the menu.",
+      "back": "Der Kellner **bringt** die Speisekarte.",
+      "note": "bringen (to bring) · present, er/sie/es. No vowel change in the present: er takes -t.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "We **are taking** the children to school.",
+      "back": "Wir **bringen** die Kinder zur Schule.",
+      "note": "bringen (to bring) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "**Are** you **bringing** your dog?",
+      "back": "**Bringt** ihr euren Hund mit?",
+      "note": "bringen (to bring) · present, ihr. ihr takes -t, the same as the er form.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "He **brought** me flowers.",
+      "back": "Er **brachte** mir Blumen mit.",
+      "note": "bringen (to bring) · simple past (Präteritum), er/sie/es. Mixed verb: the stem changes to brach- and takes the weak ending -te.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "She **brought** me a cake.",
+      "back": "Sie **hat** mir einen Kuchen **gebracht**.",
+      "note": "bringen (to bring) · perfect, er/sie/es. Mixed verb: changed stem brach- with the weak participle ending -t: gebracht.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "Please **bring** me the book!",
+      "back": "**Bring** mir bitte das Buch!",
+      "note": "bringen (to bring) · imperative, du. The du imperative is the bare stem; the -e (bringe) is optional.",
+      "priority": 0.319,
+      "rank": 285
+    },
+    {
+      "front": "I **need** a new phone.",
+      "back": "Ich **brauche** ein neues Handy.",
+      "note": "brauchen (to need) · present, ich. Regular weak verb: ich takes -e.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "**Do** you **need** my help?",
+      "back": "**Brauchst** du meine Hilfe?",
+      "note": "brauchen (to need) · present, du. Regular weak verb: du takes -st.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "The baby **needs** a lot of sleep.",
+      "back": "Das Baby **braucht** viel Schlaf.",
+      "note": "brauchen (to need) · present, er/sie/es. Regular weak verb: er takes -t.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "We **need** milk and bread.",
+      "back": "Wir **brauchen** Milch und Brot.",
+      "note": "brauchen (to need) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "What **do** you **need** for the party?",
+      "back": "Was **braucht** ihr für die Party?",
+      "note": "brauchen (to need) · present, ihr. ihr takes -t, the same as the er form.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "He **needed** a lot of time.",
+      "back": "Er **brauchte** viel Zeit.",
+      "note": "brauchen (to need) · simple past (Präteritum), er/sie/es. Weak Präteritum: stem plus -te, no umlaut in standard German.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "She **needed** two hours.",
+      "back": "Sie **hat** zwei Stunden **gebraucht**.",
+      "note": "brauchen (to need) · perfect, er/sie/es. Weak participle: ge- + stem + -t, with haben.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "**Don't take** so long, please!",
+      "back": "**Brauch** bitte nicht so lange!",
+      "note": "brauchen (to need) · imperative, du. The du imperative is the bare stem; the -e (brauche) is optional.",
+      "priority": 0.318,
+      "rank": 289
+    },
+    {
+      "front": "**The boy** is playing football.",
+      "back": "**Der Junge** spielt Fußball.",
+      "note": "der Junge (boy) · nominative singular. Junge is masculine: der Junge. It is a weak noun: -n in every form except this one, so the plural is Jungen.",
+      "priority": 0.422,
+      "rank": 292
+    },
+    {
+      "front": "I know **the boy** next door.",
+      "back": "Ich kenne **den Jungen** von nebenan.",
+      "note": "der Junge (boy) · accusative singular. Direct object, so accusative: der → den. Junge is a weak noun, so it adds -n: Jungen.",
+      "priority": 0.422,
+      "rank": 292
+    },
+    {
+      "front": "The mother gives **the boy** an apple.",
+      "back": "Die Mutter gibt **dem Jungen** einen Apfel.",
+      "note": "der Junge (boy) · dative singular. geben puts the receiver in the dative: der → dem. As a weak noun, Junge adds -n.",
+      "priority": 0.422,
+      "rank": 292
+    },
+    {
+      "front": "**The boy's** ball is red.",
+      "back": "Der Ball **des Jungen** ist rot.",
+      "note": "der Junge (boy) · genitive singular. Genitive: des. Junge is a weak noun, so it adds -n, not -s: Jungen.",
+      "priority": 0.422,
+      "rank": 292
+    },
+    {
+      "front": "**The boys** run fast.",
+      "back": "**Die Jungen** laufen schnell.",
+      "note": "der Junge (boy) · nominative plural. Plural of the weak noun Junge adds -n: Jungen. All plurals take die in the nominative.",
+      "priority": 0.422,
+      "rank": 292
+    },
+    {
+      "front": "I am talking to **the boys**.",
+      "back": "Ich spreche mit **den Jungen**.",
+      "note": "der Junge (boy) · dative plural. mit takes the dative: plural article den. Jungen already ends in -n, so nothing is added.",
+      "priority": 0.422,
+      "rank": 292
+    },
+    {
+      "front": "I **will ask** the teacher.",
+      "back": "Ich **frage** den Lehrer.",
+      "note": "fragen (to ask) · present, ich. Regular weak verb: ich takes -e.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "Why **are** you **asking** me that?",
+      "back": "Warum **fragst** du mich das?",
+      "note": "fragen (to ask) · present, du. Regular weak verb: du takes -st, with no umlaut.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "He **asks** for the way.",
+      "back": "Er **fragt** nach dem Weg.",
+      "note": "fragen (to ask) · present, er/sie/es. Regular weak verb: er takes -t, with no umlaut.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "We **will ask** our parents.",
+      "back": "Wir **fragen** unsere Eltern.",
+      "note": "fragen (to ask) · present, wir. wir uses the same form as the infinitive.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "**Are** you **asking** the teacher?",
+      "back": "**Fragt** ihr den Lehrer?",
+      "note": "fragen (to ask) · present, ihr. ihr takes -t, the same as the er form.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "She **asked** me my name.",
+      "back": "Sie **fragte** mich nach meinem Namen.",
+      "note": "fragen (to ask) · simple past (Präteritum), er/sie/es. Weak Präteritum: stem plus -te, not a strong form.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "**Has** he **asked** you yet?",
+      "back": "**Hat** er dich schon **gefragt**?",
+      "note": "fragen (to ask) · perfect, er/sie/es. Weak participle: ge- + stem + -t, with haben.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "Just **ask** your mother!",
+      "back": "**Frag** doch deine Mutter!",
+      "note": "fragen (to ask) · imperative, du. The du imperative is the bare stem; the -e (frage) is optional.",
+      "priority": 0.315,
+      "rank": 299
+    },
+    {
+      "front": "**The family** eats together.",
+      "back": "**Die Familie** isst zusammen.",
+      "note": "die Familie (family) · nominative singular. Familie is feminine: die Familie. Subject, so nominative; the plural is Familien, with -n.",
+      "priority": 0.42,
+      "rank": 303
+    },
+    {
+      "front": "I visit **the family** every Sunday.",
+      "back": "Ich besuche **die Familie** jeden Sonntag.",
+      "note": "die Familie (family) · accusative singular. Direct object of besuchen, so accusative. Feminine articles do not change: die stays die.",
+      "priority": 0.42,
+      "rank": 303
+    },
+    {
+      "front": "He lives with **a family** in Spain.",
+      "back": "Er wohnt bei **einer Familie** in Spanien.",
+      "note": "die Familie (family) · dative singular. bei always takes the dative: eine → einer. Feminine nouns take no ending.",
+      "priority": 0.42,
+      "rank": 303
+    },
+    {
+      "front": "**The family's** house is big.",
+      "back": "Das Haus **der Familie** ist groß.",
+      "note": "die Familie (family) · genitive singular. Genitive of a feminine noun: die → der, and the noun takes no ending.",
+      "priority": 0.42,
+      "rank": 303
+    },
+    {
+      "front": "**The families** are having a picnic.",
+      "back": "**Die Familien** machen ein Picknick.",
+      "note": "die Familie (family) · nominative plural. Plural of Familie adds -n: Familien. All plurals take die in the nominative.",
+      "priority": 0.42,
+      "rank": 303
+    },
+    {
+      "front": "The school helps **the families**.",
+      "back": "Die Schule hilft **den Familien**.",
+      "note": "die Familie (family) · dative plural. helfen takes the dative: plural article den. Familien already ends in -n, so nothing is added.",
+      "priority": 0.42,
+      "rank": 303
+    },
+    {
+      "front": "**The problem** is not big.",
+      "back": "**Das Problem** ist nicht groß.",
+      "note": "das Problem (problem) · nominative singular. Problem is neuter: das Problem. Subject, so nominative; the plural is Probleme, with -e.",
+      "priority": 0.418,
+      "rank": 310
+    },
+    {
+      "front": "We have **a problem**.",
+      "back": "Wir haben **ein Problem**.",
+      "note": "das Problem (problem) · accusative singular. Direct object of haben, so accusative. Neuter ein does not change in the accusative.",
+      "priority": 0.418,
+      "rank": 310
+    },
+    {
+      "front": "Can you help me with **the problem**?",
+      "back": "Kannst du mir mit **dem Problem** helfen?",
+      "note": "das Problem (problem) · dative singular. mit always takes the dative: das → dem. The noun takes no ending.",
+      "priority": 0.418,
+      "rank": 310
+    },
+    {
+      "front": "The solution to **the problem** is simple.",
+      "back": "Die Lösung **des Problems** ist einfach.",
+      "note": "das Problem (problem) · genitive singular. Genitive of a neuter noun: des, and the noun adds -s: Problems.",
+      "priority": 0.418,
+      "rank": 310
+    },
+    {
+      "front": "**The problems** are solved now.",
+      "back": "**Die Probleme** sind jetzt gelöst.",
+      "note": "das Problem (problem) · nominative plural. Plural of Problem adds -e: Probleme. All plurals take die in the nominative.",
+      "priority": 0.418,
+      "rank": 310
+    },
+    {
+      "front": "He helps me with **the problems**.",
+      "back": "Er hilft mir mit **den Problemen**.",
+      "note": "das Problem (problem) · dative plural. mit takes the dative; dative plural uses den and adds -n: Probleme → Problemen.",
+      "priority": 0.418,
+      "rank": 310
+    },
+    {
+      "front": "**The son** goes to school.",
+      "back": "**Der Sohn** geht in die Schule.",
+      "note": "der Sohn (son) · nominative singular. Sohn is masculine: der Sohn. Subject, so nominative; the plural is Söhne, with an umlaut and -e.",
+      "priority": 0.418,
+      "rank": 311
+    },
+    {
+      "front": "She has **a son**.",
+      "back": "Sie hat **einen Sohn**.",
+      "note": "der Sohn (son) · accusative singular. Direct object of haben, so accusative: ein → einen. The noun stays the same.",
+      "priority": 0.418,
+      "rank": 311
+    },
+    {
+      "front": "The father gives **the son** money.",
+      "back": "Der Vater gibt **dem Sohn** Geld.",
+      "note": "der Sohn (son) · dative singular. geben puts the receiver in the dative: der → dem. The noun takes no ending.",
+      "priority": 0.418,
+      "rank": 311
+    },
+    {
+      "front": "**The son's** room is small.",
+      "back": "Das Zimmer **des Sohnes** ist klein.",
+      "note": "der Sohn (son) · genitive singular. Genitive of a masculine noun: des, and the noun adds -es or -s: Sohnes.",
+      "priority": 0.418,
+      "rank": 311
+    },
+    {
+      "front": "**The sons** help a lot.",
+      "back": "**Die Söhne** helfen viel.",
+      "note": "der Sohn (son) · nominative plural. Plural of Sohn: umlaut plus -e, Söhne. All plurals take die in the nominative.",
+      "priority": 0.418,
+      "rank": 311
+    },
+    {
+      "front": "She lives with **the sons** in Cologne.",
+      "back": "Sie wohnt mit **den Söhnen** in Köln.",
+      "note": "der Sohn (son) · dative plural. mit takes the dative; dative plural uses den and adds -n: Söhne → Söhnen.",
+      "priority": 0.418,
+      "rank": 311
+    },
+    {
+      "front": "**The question** is difficult.",
+      "back": "**Die Frage** ist schwer.",
+      "note": "die Frage (question) · nominative singular. Frage is feminine: die Frage. Subject, so nominative; the plural is Fragen, with -n.",
+      "priority": 0.408,
+      "rank": 356
+    },
+    {
+      "front": "I have **a question**.",
+      "back": "Ich habe **eine Frage**.",
+      "note": "die Frage (question) · accusative singular. Direct object of haben, so accusative. Feminine eine does not change.",
+      "priority": 0.408,
+      "rank": 356
+    },
+    {
+      "front": "I need help with **the question**.",
+      "back": "Bei **der Frage** brauche ich Hilfe.",
+      "note": "die Frage (question) · dative singular. bei always takes the dative: die → der. Feminine nouns take no ending.",
+      "priority": 0.408,
+      "rank": 356
+    },
+    {
+      "front": "The point of **the question** is unclear.",
+      "back": "Der Sinn **der Frage** ist unklar.",
+      "note": "die Frage (question) · genitive singular. Genitive of a feminine noun: die → der, and the noun takes no ending.",
+      "priority": 0.408,
+      "rank": 356
+    },
+    {
+      "front": "**The questions** are easy.",
+      "back": "**Die Fragen** sind einfach.",
+      "note": "die Frage (question) · nominative plural. Plural of Frage adds -n: Fragen. All plurals take die in the nominative.",
+      "priority": 0.408,
+      "rank": 356
+    },
+    {
+      "front": "After **the questions** we take a break.",
+      "back": "Nach **den Fragen** machen wir eine Pause.",
+      "note": "die Frage (question) · dative plural. nach always takes the dative: plural article den. Fragen already ends in -n, so nothing is added.",
+      "priority": 0.408,
+      "rank": 356
+    },
+    {
+      "front": "**My head** hurts.",
+      "back": "**Der Kopf** tut mir weh.",
+      "note": "der Kopf (head) · nominative singular. Kopf is masculine: der Kopf. Subject, so nominative; the plural is Köpfe, with an umlaut and -e.",
+      "priority": 0.405,
+      "rank": 375
+    },
+    {
+      "front": "He shakes **his head**.",
+      "back": "Er schüttelt **den Kopf**.",
+      "note": "der Kopf (head) · accusative singular. Direct object of schütteln, so accusative: der → den. German uses the article for body parts.",
+      "priority": 0.405,
+      "rank": 375
+    },
+    {
+      "front": "She is wearing a hat on **her head**.",
+      "back": "Sie trägt eine Mütze auf **dem Kopf**.",
+      "note": "der Kopf (head) · dative singular. auf for a place takes the dative: der → dem. The noun takes no ending.",
+      "priority": 0.405,
+      "rank": 375
+    },
+    {
+      "front": "The size of **the head** matters for the helmet.",
+      "back": "Die Größe **des Kopfes** ist wichtig für den Helm.",
+      "note": "der Kopf (head) · genitive singular. Genitive of a masculine noun: des, and the noun adds -es or -s: Kopfes.",
+      "priority": 0.405,
+      "rank": 375
+    },
+    {
+      "front": "All **heads** turn towards me.",
+      "back": "Alle **Köpfe** drehen sich zu mir.",
+      "note": "der Kopf (head) · nominative plural. Plural of Kopf: umlaut plus -e, Köpfe. Here it stands without an article, after alle.",
+      "priority": 0.405,
+      "rank": 375
+    },
+    {
+      "front": "The children nod **their heads**.",
+      "back": "Die Kinder nicken mit **den Köpfen**.",
+      "note": "der Kopf (head) · dative plural. mit takes the dative; dative plural uses den and adds -n: Köpfe → Köpfen.",
+      "priority": 0.405,
+      "rank": 375
+    },
+    {
+      "front": "**The great** evening is over, sadly.",
+      "back": "**Der tolle** Abend ist leider vorbei.",
+      "note": "toll (great) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.402,
+      "rank": 392
+    },
+    {
+      "front": "We have **a great** teacher.",
+      "back": "Wir haben **einen tollen** Lehrer.",
+      "note": "toll (great) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.402,
+      "rank": 392
+    },
+    {
+      "front": "That is **a great** present.",
+      "back": "Das ist **ein tolles** Geschenk.",
+      "note": "toll (great) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.402,
+      "rank": 392
+    },
+    {
+      "front": "We dance all night to **great** music.",
+      "back": "Bei **toller** Musik tanzen wir die ganze Nacht.",
+      "note": "toll (great) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.402,
+      "rank": 392
+    },
+    {
+      "front": "The new phone is even **cooler**.",
+      "back": "Das neue Handy ist noch **toller**.",
+      "note": "toll (great) · comparative. Comparative adds -er to the adjective: toller.",
+      "priority": 0.402,
+      "rank": 392
+    },
+    {
+      "front": "The holiday by the sea was **the greatest**.",
+      "back": "Der Urlaub am Meer war **am tollsten**.",
+      "note": "toll (great) · superlative. am + -sten is the superlative used after a verb.",
+      "priority": 0.402,
+      "rank": 392
+    },
+    {
+      "front": "**The long** way to school is tiring.",
+      "back": "**Der weite** Weg zur Schule ist anstrengend.",
+      "note": "weit (far, wide) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.4,
+      "rank": 397
+    },
+    {
+      "front": "He is wearing **a loose** sweater.",
+      "back": "Er trägt **einen weiten** Pullover.",
+      "note": "weit (far, wide) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.4,
+      "rank": 397
+    },
+    {
+      "front": "**A loose** dress is comfortable in summer.",
+      "back": "**Ein weites** Kleid ist im Sommer bequem.",
+      "note": "weit (far, wide) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.4,
+      "rank": 397
+    },
+    {
+      "front": "You can see the sea in the **far** distance.",
+      "back": "In **weiter** Ferne sieht man das Meer.",
+      "note": "weit (far, wide) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.4,
+      "rank": 397
+    },
+    {
+      "front": "It is **farther** to the station.",
+      "back": "Bis zum Bahnhof ist es **weiter**.",
+      "note": "weit (far, wide) · comparative. Comparative adds -er to the adjective: weiter.",
+      "priority": 0.4,
+      "rank": 397
+    },
+    {
+      "front": "My brother lives **farthest** away.",
+      "back": "Mein Bruder wohnt **am weitesten** weg.",
+      "note": "weit (far, wide) · superlative. am + -sten is the superlative used after a verb; after -t an extra e is added: -esten.",
+      "priority": 0.4,
+      "rank": 397
+    },
+    {
+      "front": "**The quiet** park is behind the house.",
+      "back": "**Der ruhige** Park liegt hinter dem Haus.",
+      "note": "ruhig (quiet, calm) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.393,
+      "rank": 434
+    },
+    {
+      "front": "We are looking for **a quiet** spot.",
+      "back": "Wir suchen **einen ruhigen** Platz.",
+      "note": "ruhig (quiet, calm) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.393,
+      "rank": 434
+    },
+    {
+      "front": "That is **a quiet** hotel.",
+      "back": "Das ist **ein ruhiges** Hotel.",
+      "note": "ruhig (quiet, calm) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.393,
+      "rank": 434
+    },
+    {
+      "front": "She explains everything in **a calm** voice.",
+      "back": "Mit **ruhiger** Stimme erklärt sie alles.",
+      "note": "ruhig (quiet, calm) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.393,
+      "rank": 434
+    },
+    {
+      "front": "It is **quieter** in the country.",
+      "back": "Auf dem Land ist es **ruhiger**.",
+      "note": "ruhig (quiet, calm) · comparative. Comparative adds -er to the adjective: ruhiger.",
+      "priority": 0.393,
+      "rank": 434
+    },
+    {
+      "front": "The city is **quietest** on Sunday.",
+      "back": "Am Sonntag ist die Stadt **am ruhigsten**.",
+      "note": "ruhig (quiet, calm) · superlative. am + -sten is the superlative used after a verb.",
+      "priority": 0.393,
+      "rank": 434
+    },
+    {
+      "front": "**The nice** neighbour often helps us.",
+      "back": "**Der nette** Nachbar hilft uns oft.",
+      "note": "nett (nice) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.383,
+      "rank": 500
+    },
+    {
+      "front": "She has **a nice** boyfriend.",
+      "back": "Sie hat **einen netten** Freund.",
+      "note": "nett (nice) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.383,
+      "rank": 500
+    },
+    {
+      "front": "That is **a nice** café.",
+      "back": "Das ist **ein nettes** Café.",
+      "note": "nett (nice) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.383,
+      "rank": 500
+    },
+    {
+      "front": "In **nice** company time passes quickly.",
+      "back": "In **netter** Gesellschaft vergeht die Zeit schnell.",
+      "note": "nett (nice) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.383,
+      "rank": 500
+    },
+    {
+      "front": "Your sister is **nicer** than you.",
+      "back": "Deine Schwester ist **netter** als du.",
+      "note": "nett (nice) · comparative. Comparative adds -er to the adjective: netter.",
+      "priority": 0.383,
+      "rank": 500
+    },
+    {
+      "front": "Our teacher is **the nicest**.",
+      "back": "Unsere Lehrerin ist **am nettesten**.",
+      "note": "nett (nice) · superlative. am + -sten is the superlative used after a verb; after -t an extra e is added: -esten.",
+      "priority": 0.383,
+      "rank": 500
+    },
+    {
+      "front": "**The important** appointment is tomorrow at nine.",
+      "back": "**Der wichtige** Termin ist morgen um neun.",
+      "note": "wichtig (important) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.377,
+      "rank": 551
+    },
+    {
+      "front": "She is writing **an important** letter.",
+      "back": "Sie schreibt **einen wichtigen** Brief.",
+      "note": "wichtig (important) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.377,
+      "rank": 551
+    },
+    {
+      "front": "That is **an important** topic.",
+      "back": "Das ist **ein wichtiges** Thema.",
+      "note": "wichtig (important) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.377,
+      "rank": 551
+    },
+    {
+      "front": "I'll call you if there is **important** mail.",
+      "back": "Bei **wichtiger** Post rufe ich dich an.",
+      "note": "wichtig (important) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.377,
+      "rank": 551
+    },
+    {
+      "front": "Health is **more important** than money.",
+      "back": "Gesundheit ist **wichtiger** als Geld.",
+      "note": "wichtig (important) · comparative. Comparative adds -er; German never uses mehr for this.",
+      "priority": 0.377,
+      "rank": 551
+    },
+    {
+      "front": "Family is **most important** to me.",
+      "back": "Die Familie ist mir **am wichtigsten**.",
+      "note": "wichtig (important) · superlative. am + -sten is the superlative used after a verb.",
+      "priority": 0.377,
+      "rank": 551
+    },
+    {
+      "front": "**The bad** film was too long.",
+      "back": "**Der schlechte** Film war zu lang.",
+      "note": "schlecht (bad) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.375,
+      "rank": 558
+    },
+    {
+      "front": "She is having **a bad** day.",
+      "back": "Sie hat **einen schlechten** Tag.",
+      "note": "schlecht (bad) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.375,
+      "rank": 558
+    },
+    {
+      "front": "That is **a bad** sign.",
+      "back": "Das ist **ein schlechtes** Zeichen.",
+      "note": "schlecht (bad) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.375,
+      "rank": 558
+    },
+    {
+      "front": "I can't sleep in **bad** air.",
+      "back": "Bei **schlechter** Luft kann ich nicht schlafen.",
+      "note": "schlecht (bad) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.375,
+      "rank": 558
+    },
+    {
+      "front": "The food here is **worse**.",
+      "back": "Das Essen hier ist **schlechter**.",
+      "note": "schlecht (bad) · comparative. Comparative adds -er to the adjective: schlechter.",
+      "priority": 0.375,
+      "rank": 558
+    },
+    {
+      "front": "On Mondays I sleep **worst**.",
+      "back": "Am Montag schlafe ich **am schlechtesten**.",
+      "note": "schlecht (bad) · superlative. am + -sten is the superlative used after a verb; after -t an extra e is added: -esten.",
+      "priority": 0.375,
+      "rank": 558
+    },
+    {
+      "front": "**The free** seat is next to me.",
+      "back": "**Der freie** Platz ist neben mir.",
+      "note": "frei (free) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.37,
+      "rank": 602
+    },
+    {
+      "front": "Do you have **a free** table?",
+      "back": "Haben Sie **einen freien** Tisch?",
+      "note": "frei (free) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.37,
+      "rank": 602
+    },
+    {
+      "front": "Is there still **a free** room?",
+      "back": "Ist noch **ein freies** Zimmer da?",
+      "note": "frei (free) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.37,
+      "rank": 602
+    },
+    {
+      "front": "Children love playing out in the **open** countryside.",
+      "back": "Kinder spielen gern in **freier** Natur.",
+      "note": "frei (free) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er. \"in freier Natur\" is a fixed phrase.",
+      "priority": 0.37,
+      "rank": 602
+    },
+    {
+      "front": "After the exam I feel **freer**.",
+      "back": "Nach der Prüfung fühle ich mich **freier**.",
+      "note": "frei (free) · comparative. Comparative adds -er to the adjective: freier.",
+      "priority": 0.37,
+      "rank": 602
+    },
+    {
+      "front": "I feel **freest** by the sea.",
+      "back": "Am Meer fühle ich mich **am freiesten**.",
+      "note": "frei (free) · superlative. am + -sten is the superlative used after a verb; after a vowel an extra e is common: -esten.",
+      "priority": 0.37,
+      "rank": 602
+    },
+    {
+      "front": "**The difficult** customer is calling again.",
+      "back": "**Der schwierige** Kunde ruft wieder an.",
+      "note": "schwierig (difficult) · after der, masculine nominative. After der the article already shows the case, so the adjective takes the weak ending -e.",
+      "priority": 0.303,
+      "rank": 1510
+    },
+    {
+      "front": "She has **a difficult** boss.",
+      "back": "Sie hat **einen schwierigen** Chef.",
+      "note": "schwierig (difficult) · after ein, masculine accusative. After einen the adjective takes -en: masculine accusative.",
+      "priority": 0.303,
+      "rank": 1510
+    },
+    {
+      "front": "That is **a difficult** problem.",
+      "back": "Das ist **ein schwieriges** Problem.",
+      "note": "schwierig (difficult) · after ein, neuter nominative. ein does not show neuter, so the adjective does: -es.",
+      "priority": 0.303,
+      "rank": 1510
+    },
+    {
+      "front": "I often take breaks during **difficult** work.",
+      "back": "Bei **schwieriger** Arbeit mache ich oft Pausen.",
+      "note": "schwierig (difficult) · no article, feminine dative. With no article the adjective carries the case ending itself: feminine dative -er.",
+      "priority": 0.303,
+      "rank": 1510
+    },
+    {
+      "front": "German is **more difficult** than English.",
+      "back": "Deutsch ist **schwieriger** als Englisch.",
+      "note": "schwierig (difficult) · comparative. Comparative adds -er; German never uses mehr for this.",
+      "priority": 0.303,
+      "rank": 1510
+    },
+    {
+      "front": "The grammar is **the most difficult**.",
+      "back": "Die Grammatik ist **am schwierigsten**.",
+      "note": "schwierig (difficult) · superlative. am + -sten is the superlative used after a verb.",
+      "priority": 0.303,
+      "rank": 1510
+    }
+  ]
+}

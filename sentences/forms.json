@@ -1,0 +1,3938 @@
+{
+ "Abend": {
+  "all": [
+   "Abend",
+   "Abende",
+   "Abenden",
+   "Abends"
+  ],
+  "english": "evening",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Abend"
+   ],
+   "dat.pl": [
+    "Abenden"
+   ],
+   "dat.sg": [
+    "Abend"
+   ],
+   "gen.sg": [
+    "Abends"
+   ],
+   "nom.pl": [
+    "Abende"
+   ],
+   "nom.sg": [
+    "Abend"
+   ]
+  }
+ },
+ "Apfel": {
+  "all": [
+   "Apfel",
+   "Apfels",
+   "Apferl",
+   "Appel",
+   "Äpfel",
+   "Äpfelchen",
+   "Äpfelein",
+   "Äpfeln",
+   "Äpflein"
+  ],
+  "english": "apple",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Apfel"
+   ],
+   "dat.pl": [
+    "Äpfeln"
+   ],
+   "dat.sg": [
+    "Apfel"
+   ],
+   "gen.sg": [
+    "Apfels"
+   ],
+   "nom.pl": [
+    "Äpfel"
+   ],
+   "nom.sg": [
+    "Apfel"
+   ]
+  }
+ },
+ "Auto": {
+  "all": [
+   "Auto",
+   "Autos"
+  ],
+  "english": "car",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Auto"
+   ],
+   "dat.pl": [
+    "Autos"
+   ],
+   "dat.sg": [
+    "Auto"
+   ],
+   "gen.sg": [
+    "Autos"
+   ],
+   "nom.pl": [
+    "Autos"
+   ],
+   "nom.sg": [
+    "Auto"
+   ]
+  }
+ },
+ "Bruder": {
+  "all": [
+   "Bruder",
+   "Bruders",
+   "Brüder",
+   "Brüderchen",
+   "Brüderlein",
+   "Brüdern"
+  ],
+  "english": "brother",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Bruder"
+   ],
+   "dat.pl": [
+    "Brüdern"
+   ],
+   "dat.sg": [
+    "Bruder"
+   ],
+   "gen.sg": [
+    "Bruders"
+   ],
+   "nom.pl": [
+    "Brüder"
+   ],
+   "nom.sg": [
+    "Bruder"
+   ]
+  }
+ },
+ "Buch": {
+  "all": [
+   "Buch",
+   "Buche",
+   "Buches",
+   "Buchs",
+   "Büchelchen",
+   "Bücher",
+   "Büchern",
+   "Büchlein"
+  ],
+  "english": "book",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Buch"
+   ],
+   "dat.pl": [
+    "Büchern"
+   ],
+   "dat.sg": [
+    "Buch",
+    "Buche"
+   ],
+   "gen.sg": [
+    "Buches",
+    "Buchs"
+   ],
+   "nom.pl": [
+    "Bücher"
+   ],
+   "nom.sg": [
+    "Buch"
+   ]
+  }
+ },
+ "Fahrrad": {
+  "all": [
+   "Fahrrad",
+   "Fahrrade",
+   "Fahrrades",
+   "Fahrrads",
+   "Fahrräder",
+   "Fahrrädern"
+  ],
+  "english": "bicycle",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Fahrrad"
+   ],
+   "dat.pl": [
+    "Fahrrädern"
+   ],
+   "dat.sg": [
+    "Fahrrad",
+    "Fahrrade"
+   ],
+   "gen.sg": [
+    "Fahrrads",
+    "Fahrrades"
+   ],
+   "nom.pl": [
+    "Fahrräder"
+   ],
+   "nom.sg": [
+    "Fahrrad"
+   ]
+  }
+ },
+ "Familie": {
+  "all": [
+   "Familie",
+   "Familien"
+  ],
+  "english": "family",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Familie"
+   ],
+   "dat.pl": [
+    "Familien"
+   ],
+   "dat.sg": [
+    "Familie"
+   ],
+   "gen.sg": [
+    "Familie"
+   ],
+   "nom.pl": [
+    "Familien"
+   ],
+   "nom.sg": [
+    "Familie"
+   ]
+  }
+ },
+ "Frage": {
+  "all": [
+   "Frage",
+   "Fragen"
+  ],
+  "english": "question",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Frage"
+   ],
+   "dat.pl": [
+    "Fragen"
+   ],
+   "dat.sg": [
+    "Frage"
+   ],
+   "gen.sg": [
+    "Frage"
+   ],
+   "nom.pl": [
+    "Fragen"
+   ],
+   "nom.sg": [
+    "Frage"
+   ]
+  }
+ },
+ "Frau": {
+  "all": [
+   "Frau",
+   "Frauchen",
+   "Fraue",
+   "Frauen",
+   "Frauerl",
+   "Frauw",
+   "Fraw",
+   "Frawe",
+   "Fräulein"
+  ],
+  "english": "woman",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Frau"
+   ],
+   "dat.pl": [
+    "Frauen"
+   ],
+   "dat.sg": [
+    "Frau",
+    "Frauen"
+   ],
+   "gen.sg": [
+    "Frau",
+    "Frauen"
+   ],
+   "nom.pl": [
+    "Frauen"
+   ],
+   "nom.sg": [
+    "Frau"
+   ]
+  }
+ },
+ "Freund": {
+  "all": [
+   "Freund",
+   "Freundchen",
+   "Freunde",
+   "Freunden",
+   "Freunderl",
+   "Freundes",
+   "Freundin",
+   "Freundlein",
+   "Freunds"
+  ],
+  "english": "friend",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Freund"
+   ],
+   "dat.pl": [
+    "Freunden"
+   ],
+   "dat.sg": [
+    "Freund",
+    "Freunde"
+   ],
+   "gen.sg": [
+    "Freundes",
+    "Freunds"
+   ],
+   "nom.pl": [
+    "Freunde"
+   ],
+   "nom.sg": [
+    "Freund"
+   ]
+  }
+ },
+ "Freundin": {
+  "all": [
+   "Freund",
+   "Freundin",
+   "Freundinnen"
+  ],
+  "english": "friend (female)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Freundin"
+   ],
+   "dat.pl": [
+    "Freundinnen"
+   ],
+   "dat.sg": [
+    "Freundin"
+   ],
+   "gen.sg": [
+    "Freundin"
+   ],
+   "nom.pl": [
+    "Freundinnen"
+   ],
+   "nom.sg": [
+    "Freundin"
+   ]
+  }
+ },
+ "Haus": {
+  "all": [
+   "Haus",
+   "Hause",
+   "Hauserl",
+   "Hauses",
+   "Hauß",
+   "Häusche",
+   "Häuschen",
+   "Häuseken",
+   "Häusel",
+   "Häuselein",
+   "Häuselin",
+   "Häuser",
+   "Häuserl",
+   "Häusern",
+   "Häusgen",
+   "Häusken",
+   "Häusl",
+   "Häusle",
+   "Häuslein",
+   "Häusli",
+   "Häuslin"
+  ],
+  "english": "house",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Haus"
+   ],
+   "dat.pl": [
+    "Häusern"
+   ],
+   "dat.sg": [
+    "Haus",
+    "Hause"
+   ],
+   "gen.sg": [
+    "Hauses"
+   ],
+   "nom.pl": [
+    "Häuser"
+   ],
+   "nom.sg": [
+    "Haus"
+   ]
+  }
+ },
+ "Hund": {
+  "all": [
+   "Hund",
+   "Hundchen",
+   "Hunde",
+   "Hunden",
+   "Hunderl",
+   "Hundes",
+   "Hundi",
+   "Hundilein",
+   "Hunds",
+   "Hündchen",
+   "Hünde",
+   "Hünden",
+   "Hündin",
+   "Hündlein",
+   "Petze",
+   "Rüde",
+   "Zaupe",
+   "Zibbe"
+  ],
+  "english": "dog",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Hund"
+   ],
+   "dat.pl": [
+    "Hunden"
+   ],
+   "dat.sg": [
+    "Hund",
+    "Hunde"
+   ],
+   "gen.sg": [
+    "Hundes",
+    "Hunds"
+   ],
+   "nom.pl": [
+    "Hunde"
+   ],
+   "nom.sg": [
+    "Hund"
+   ]
+  }
+ },
+ "Hunger": {
+  "all": [
+   "Hunger",
+   "Hungers"
+  ],
+  "english": "hunger",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Hunger"
+   ],
+   "dat.sg": [
+    "Hunger"
+   ],
+   "gen.sg": [
+    "Hungers"
+   ],
+   "nom.sg": [
+    "Hunger"
+   ]
+  }
+ },
+ "Junge": {
+  "all": [
+   "Jung",
+   "Junge",
+   "Jungen",
+   "Jungens",
+   "Jungs",
+   "Jüngchen",
+   "Jüngelchen",
+   "Jüngelein",
+   "Jünglein"
+  ],
+  "english": "boy",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Jungen"
+   ],
+   "dat.pl": [
+    "Jungen"
+   ],
+   "dat.sg": [
+    "Jungen"
+   ],
+   "gen.sg": [
+    "Jungen"
+   ],
+   "nom.pl": [
+    "Jungen"
+   ],
+   "nom.sg": [
+    "Junge"
+   ]
+  }
+ },
+ "Katze": {
+  "all": [
+   "Kater",
+   "Katerin",
+   "Katz",
+   "Katze",
+   "Katzen",
+   "Katzerl",
+   "Katzi",
+   "Katzl",
+   "Kätzchen",
+   "Kätzin",
+   "Kätzlein",
+   "männliche",
+   "weibliche"
+  ],
+  "english": "cat",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Katze"
+   ],
+   "dat.pl": [
+    "Katzen"
+   ],
+   "dat.sg": [
+    "Katze"
+   ],
+   "gen.sg": [
+    "Katze"
+   ],
+   "nom.pl": [
+    "Katzen"
+   ],
+   "nom.sg": [
+    "Katze"
+   ]
+  }
+ },
+ "Kind": {
+  "all": [
+   "Kind",
+   "Kindchen",
+   "Kinde",
+   "Kindelein",
+   "Kinder",
+   "Kinderl",
+   "Kindern",
+   "Kindes",
+   "Kindlein",
+   "Kinds",
+   "Kindt"
+  ],
+  "english": "child",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Kind"
+   ],
+   "dat.pl": [
+    "Kindern"
+   ],
+   "dat.sg": [
+    "Kind",
+    "Kinde"
+   ],
+   "gen.sg": [
+    "Kindes",
+    "Kinds"
+   ],
+   "nom.pl": [
+    "Kinder"
+   ],
+   "nom.sg": [
+    "Kind"
+   ]
+  }
+ },
+ "Kopf": {
+  "all": [
+   "Kopf",
+   "Kopfe",
+   "Kopferl",
+   "Kopfes",
+   "Kopfs",
+   "Kopp",
+   "Köpfchen",
+   "Köpfe",
+   "Köpfen",
+   "Köpflein"
+  ],
+  "english": "head",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Kopf"
+   ],
+   "dat.pl": [
+    "Köpfen"
+   ],
+   "dat.sg": [
+    "Kopf",
+    "Kopfe"
+   ],
+   "gen.sg": [
+    "Kopfes",
+    "Kopfs"
+   ],
+   "nom.pl": [
+    "Köpfe"
+   ],
+   "nom.sg": [
+    "Kopf"
+   ]
+  }
+ },
+ "Lampe": {
+  "all": [
+   "Lampe",
+   "Lampen",
+   "Lämpchen",
+   "Lämplein"
+  ],
+  "english": "lamp",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Lampe"
+   ],
+   "dat.pl": [
+    "Lampen"
+   ],
+   "dat.sg": [
+    "Lampe"
+   ],
+   "gen.sg": [
+    "Lampe"
+   ],
+   "nom.pl": [
+    "Lampen"
+   ],
+   "nom.sg": [
+    "Lampe"
+   ]
+  }
+ },
+ "Mann": {
+  "all": [
+   "Man",
+   "Manderl",
+   "Mandl",
+   "Mann",
+   "Manne",
+   "Mannen",
+   "Mannes",
+   "Mannli",
+   "Manns",
+   "Männchen",
+   "Männeken",
+   "Männer",
+   "Männern",
+   "Männin",
+   "Männle",
+   "Männlein"
+  ],
+  "english": "man",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Mann"
+   ],
+   "dat.pl": [
+    "Männern",
+    "Mann"
+   ],
+   "dat.sg": [
+    "Mann",
+    "Manne"
+   ],
+   "gen.sg": [
+    "Mannes",
+    "Manns"
+   ],
+   "nom.pl": [
+    "Männer",
+    "Mann"
+   ],
+   "nom.sg": [
+    "Mann"
+   ]
+  }
+ },
+ "Mutter": {
+  "all": [
+   "Mueter",
+   "Muetter",
+   "Muoter",
+   "Muotter",
+   "Muter",
+   "Mutter",
+   "Mütter",
+   "Mütterchen",
+   "Mütterken",
+   "Mütterlein",
+   "Müttern"
+  ],
+  "english": "mother",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Mutter"
+   ],
+   "dat.pl": [
+    "Müttern"
+   ],
+   "dat.sg": [
+    "Mutter"
+   ],
+   "gen.sg": [
+    "Mutter"
+   ],
+   "nom.pl": [
+    "Mütter"
+   ],
+   "nom.sg": [
+    "Mutter"
+   ]
+  }
+ },
+ "Mädchen": {
+  "all": [
+   "Mädchen",
+   "Mädchens",
+   "Mägdchen"
+  ],
+  "english": "girl",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Mädchen"
+   ],
+   "dat.pl": [
+    "Mädchen"
+   ],
+   "dat.sg": [
+    "Mädchen"
+   ],
+   "gen.sg": [
+    "Mädchens"
+   ],
+   "nom.pl": [
+    "Mädchen"
+   ],
+   "nom.sg": [
+    "Mädchen"
+   ]
+  }
+ },
+ "Nacht": {
+  "all": [
+   "Nacht",
+   "Nächtchen",
+   "Nächte",
+   "Nächten"
+  ],
+  "english": "night",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Nacht"
+   ],
+   "dat.pl": [
+    "Nächten"
+   ],
+   "dat.sg": [
+    "Nacht"
+   ],
+   "gen.sg": [
+    "Nacht"
+   ],
+   "nom.pl": [
+    "Nächte"
+   ],
+   "nom.sg": [
+    "Nacht"
+   ]
+  }
+ },
+ "Problem": {
+  "all": [
+   "Problem",
+   "Problemchen",
+   "Probleme",
+   "Problemen",
+   "Problems"
+  ],
+  "english": "problem",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Problem"
+   ],
+   "dat.pl": [
+    "Problemen"
+   ],
+   "dat.sg": [
+    "Problem"
+   ],
+   "gen.sg": [
+    "Problems"
+   ],
+   "nom.pl": [
+    "Probleme"
+   ],
+   "nom.sg": [
+    "Problem"
+   ]
+  }
+ },
+ "Schwester": {
+  "all": [
+   "Schwester",
+   "Schwesterchen",
+   "Schwesterlein",
+   "Schwestern"
+  ],
+  "english": "sister",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Schwester"
+   ],
+   "dat.pl": [
+    "Schwestern"
+   ],
+   "dat.sg": [
+    "Schwester"
+   ],
+   "gen.sg": [
+    "Schwester"
+   ],
+   "nom.pl": [
+    "Schwestern"
+   ],
+   "nom.sg": [
+    "Schwester"
+   ]
+  }
+ },
+ "Sohn": {
+  "all": [
+   "Sohn",
+   "Sohne",
+   "Sohnes",
+   "Sohns",
+   "Söhnchen",
+   "Söhne",
+   "Söhnen",
+   "Söhnlein"
+  ],
+  "english": "son",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Sohn"
+   ],
+   "dat.pl": [
+    "Söhnen"
+   ],
+   "dat.sg": [
+    "Sohn",
+    "Sohne"
+   ],
+   "gen.sg": [
+    "Sohnes",
+    "Sohns"
+   ],
+   "nom.pl": [
+    "Söhne"
+   ],
+   "nom.sg": [
+    "Sohn"
+   ]
+  }
+ },
+ "Stuhl": {
+  "all": [
+   "Stuhl",
+   "Stuhle",
+   "Stuhles",
+   "Stuhls",
+   "Stühlchen",
+   "Stühle",
+   "Stühlen"
+  ],
+  "english": "chair",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Stuhl"
+   ],
+   "dat.pl": [
+    "Stühlen"
+   ],
+   "dat.sg": [
+    "Stuhl",
+    "Stuhle"
+   ],
+   "gen.sg": [
+    "Stuhles",
+    "Stuhls"
+   ],
+   "nom.pl": [
+    "Stühle"
+   ],
+   "nom.sg": [
+    "Stuhl"
+   ]
+  }
+ },
+ "Tag": {
+  "all": [
+   "Tag",
+   "Tage",
+   "Tagen",
+   "Tages",
+   "Tags",
+   "Tägchen",
+   "Täglein"
+  ],
+  "english": "day",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Tag"
+   ],
+   "dat.pl": [
+    "Tagen"
+   ],
+   "dat.sg": [
+    "Tag",
+    "Tage"
+   ],
+   "gen.sg": [
+    "Tages",
+    "Tags"
+   ],
+   "nom.pl": [
+    "Tage"
+   ],
+   "nom.sg": [
+    "Tag"
+   ]
+  }
+ },
+ "Tasche": {
+  "all": [
+   "Tasche",
+   "Taschen",
+   "Tascherl",
+   "Taschl",
+   "Täschchen",
+   "Täschel",
+   "Täschlein"
+  ],
+  "english": "bag",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Tasche"
+   ],
+   "dat.pl": [
+    "Taschen"
+   ],
+   "dat.sg": [
+    "Tasche"
+   ],
+   "gen.sg": [
+    "Tasche"
+   ],
+   "nom.pl": [
+    "Taschen"
+   ],
+   "nom.sg": [
+    "Tasche"
+   ]
+  }
+ },
+ "Tisch": {
+  "all": [
+   "Tisch",
+   "Tischchen",
+   "Tische",
+   "Tischen",
+   "Tischerl",
+   "Tisches",
+   "Tischlein",
+   "Tischs"
+  ],
+  "english": "table",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Tisch"
+   ],
+   "dat.pl": [
+    "Tischen"
+   ],
+   "dat.sg": [
+    "Tisch",
+    "Tische"
+   ],
+   "gen.sg": [
+    "Tisches",
+    "Tischs"
+   ],
+   "nom.pl": [
+    "Tische"
+   ],
+   "nom.sg": [
+    "Tisch"
+   ]
+  }
+ },
+ "Vater": {
+  "all": [
+   "Vater",
+   "Vaters",
+   "Vatter",
+   "Väter",
+   "Väterchen",
+   "Vätern"
+  ],
+  "english": "father",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Vater"
+   ],
+   "dat.pl": [
+    "Vätern"
+   ],
+   "dat.sg": [
+    "Vater"
+   ],
+   "gen.sg": [
+    "Vaters"
+   ],
+   "nom.pl": [
+    "Väter"
+   ],
+   "nom.sg": [
+    "Vater"
+   ]
+  }
+ },
+ "Weg": {
+  "all": [
+   "Weg",
+   "Wegchen",
+   "Wege",
+   "Wegen",
+   "Weges",
+   "Weglein",
+   "Wegs"
+  ],
+  "english": "way, path",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Weg"
+   ],
+   "dat.pl": [
+    "Wegen"
+   ],
+   "dat.sg": [
+    "Weg",
+    "Wege"
+   ],
+   "gen.sg": [
+    "Weges",
+    "Wegs"
+   ],
+   "nom.pl": [
+    "Wege"
+   ],
+   "nom.sg": [
+    "Weg"
+   ]
+  }
+ },
+ "Welt": {
+  "all": [
+   "Welt",
+   "Welten"
+  ],
+  "english": "world",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Welt"
+   ],
+   "dat.pl": [
+    "Welten"
+   ],
+   "dat.sg": [
+    "Welt"
+   ],
+   "gen.sg": [
+    "Welt"
+   ],
+   "nom.pl": [
+    "Welten"
+   ],
+   "nom.sg": [
+    "Welt"
+   ]
+  }
+ },
+ "Zeit": {
+  "all": [
+   "Zeid",
+   "Zeit",
+   "Zeiten"
+  ],
+  "english": "time",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Zeit"
+   ],
+   "dat.pl": [
+    "Zeiten"
+   ],
+   "dat.sg": [
+    "Zeit"
+   ],
+   "gen.sg": [
+    "Zeit"
+   ],
+   "nom.pl": [
+    "Zeiten"
+   ],
+   "nom.sg": [
+    "Zeit"
+   ]
+  }
+ },
+ "Zimmer": {
+  "all": [
+   "Zimmer",
+   "Zimmerchen",
+   "Zimmern",
+   "Zimmers"
+  ],
+  "english": "room",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Zimmer"
+   ],
+   "dat.pl": [
+    "Zimmern"
+   ],
+   "dat.sg": [
+    "Zimmer"
+   ],
+   "gen.sg": [
+    "Zimmers"
+   ],
+   "nom.pl": [
+    "Zimmer"
+   ],
+   "nom.sg": [
+    "Zimmer"
+   ]
+  }
+ },
+ "alt": {
+  "all": [
+   "alt",
+   "alte",
+   "altem",
+   "alten",
+   "alter",
+   "altes",
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "älter",
+   "ältere",
+   "älterem",
+   "älteren",
+   "älterer",
+   "älteres",
+   "älteste",
+   "ältestem",
+   "ältesten",
+   "ältester",
+   "ältestes"
+  ],
+  "english": "old",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "älter",
+    "älterer",
+    "ältere",
+    "älteres",
+    "älteren",
+    "älterem",
+    "der ältere",
+    "die ältere",
+    "das ältere",
+    "die älteren",
+    "des älteren",
+    "der älteren",
+    "dem älteren",
+    "den älteren",
+    "ein älterer",
+    "eine ältere",
+    "ein älteres",
+    "eines älteren",
+    "einer älteren",
+    "einem älteren",
+    "einen älteren"
+   ],
+   "mixed.acc.m": [
+    "einen alten"
+   ],
+   "mixed.nom.n": [
+    "ein altes"
+   ],
+   "strong.dat.f": [
+    "alter"
+   ],
+   "superlative": [
+    "am ältesten",
+    "ältester",
+    "älteste",
+    "ältestes",
+    "ältesten",
+    "ältestem",
+    "der älteste",
+    "die älteste",
+    "das älteste",
+    "die ältesten",
+    "des ältesten",
+    "der ältesten",
+    "dem ältesten",
+    "den ältesten",
+    "ein ältester",
+    "eine älteste",
+    "ein ältestes",
+    "eines ältesten",
+    "einer ältesten",
+    "einem ältesten",
+    "einen ältesten"
+   ],
+   "weak.nom.m": [
+    "der alte"
+   ]
+  }
+ },
+ "brauchen": {
+  "all": [
+   "brauch",
+   "brauche",
+   "brauchen",
+   "brauchend",
+   "brauchest",
+   "brauchet",
+   "brauchst",
+   "braucht",
+   "brauchte",
+   "brauchten",
+   "brauchtest",
+   "brauchtet",
+   "bräuchte",
+   "bräuchten",
+   "bräuchtest",
+   "bräuchtet",
+   "gebraucht",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to need",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "brauch",
+    "brauche"
+   ],
+   "perf.er": [
+    "hat gebraucht"
+   ],
+   "pres.du": [
+    "brauchst"
+   ],
+   "pres.er": [
+    "braucht"
+   ],
+   "pres.ich": [
+    "brauche"
+   ],
+   "pres.ihr": [
+    "braucht"
+   ],
+   "pres.wir": [
+    "brauchen"
+   ],
+   "pret.er": [
+    "brauchte"
+   ]
+  }
+ },
+ "bringen": {
+  "all": [
+   "brachte",
+   "brachten",
+   "brachtest",
+   "brachtet",
+   "bring",
+   "bringe",
+   "bringen",
+   "bringend",
+   "bringest",
+   "bringet",
+   "bringst",
+   "bringt",
+   "brächte",
+   "brächten",
+   "brächtest",
+   "brächtet",
+   "gebracht",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to bring",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "bring",
+    "bringe"
+   ],
+   "perf.er": [
+    "hat gebracht"
+   ],
+   "pres.du": [
+    "bringst"
+   ],
+   "pres.er": [
+    "bringt"
+   ],
+   "pres.ich": [
+    "bringe"
+   ],
+   "pres.ihr": [
+    "bringt"
+   ],
+   "pres.wir": [
+    "bringen"
+   ],
+   "pret.er": [
+    "brachte"
+   ]
+  }
+ },
+ "einfach": {
+  "all": [
+   "am",
+   "einfach",
+   "einfache",
+   "einfachem",
+   "einfachen",
+   "einfacher",
+   "einfachere",
+   "einfacherem",
+   "einfacheren",
+   "einfacherer",
+   "einfacheres",
+   "einfaches",
+   "einfachste",
+   "einfachstem",
+   "einfachsten",
+   "einfachster",
+   "einfachstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "easy, simple",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "einfacher",
+    "einfacherer",
+    "einfachere",
+    "einfacheres",
+    "einfacheren",
+    "einfacherem",
+    "der einfachere",
+    "die einfachere",
+    "das einfachere",
+    "die einfacheren",
+    "des einfacheren",
+    "der einfacheren",
+    "dem einfacheren",
+    "den einfacheren",
+    "ein einfacherer",
+    "eine einfachere",
+    "ein einfacheres",
+    "eines einfacheren",
+    "einer einfacheren",
+    "einem einfacheren",
+    "einen einfacheren"
+   ],
+   "mixed.acc.m": [
+    "einen einfachen"
+   ],
+   "mixed.nom.n": [
+    "ein einfaches"
+   ],
+   "strong.dat.f": [
+    "einfacher"
+   ],
+   "superlative": [
+    "am einfachsten",
+    "einfachster",
+    "einfachste",
+    "einfachstes",
+    "einfachsten",
+    "einfachstem",
+    "der einfachste",
+    "die einfachste",
+    "das einfachste",
+    "die einfachsten",
+    "des einfachsten",
+    "der einfachsten",
+    "dem einfachsten",
+    "den einfachsten",
+    "ein einfachster",
+    "eine einfachste",
+    "ein einfachstes",
+    "eines einfachsten",
+    "einer einfachsten",
+    "einem einfachsten",
+    "einen einfachsten"
+   ],
+   "weak.nom.m": [
+    "der einfache"
+   ]
+  }
+ },
+ "essen": {
+  "all": [
+   "aß",
+   "aßen",
+   "aßest",
+   "aßt",
+   "esse",
+   "essen",
+   "essend",
+   "essest",
+   "esset",
+   "esst",
+   "gegessen",
+   "gessen",
+   "haben",
+   "habest",
+   "habet",
+   "iss",
+   "isst",
+   "werdest",
+   "äße",
+   "äßen",
+   "äßest",
+   "äßet",
+   "äßt"
+  ],
+  "english": "to eat",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "iss"
+   ],
+   "perf.er": [
+    "hat gegessen"
+   ],
+   "pres.du": [
+    "isst"
+   ],
+   "pres.er": [
+    "isst"
+   ],
+   "pres.ich": [
+    "esse"
+   ],
+   "pres.ihr": [
+    "esst"
+   ],
+   "pres.wir": [
+    "essen"
+   ],
+   "pret.er": [
+    "aß"
+   ]
+  }
+ },
+ "finden": {
+  "all": [
+   "fand",
+   "fanden",
+   "fandest",
+   "fandet",
+   "fandst",
+   "find",
+   "finde",
+   "finden",
+   "findend",
+   "findest",
+   "findet",
+   "fände",
+   "fänden",
+   "fändest",
+   "fändet",
+   "gefunden",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to find",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "find",
+    "finde"
+   ],
+   "perf.er": [
+    "hat gefunden"
+   ],
+   "pres.du": [
+    "findest"
+   ],
+   "pres.er": [
+    "findet"
+   ],
+   "pres.ich": [
+    "finde"
+   ],
+   "pres.ihr": [
+    "findet"
+   ],
+   "pres.wir": [
+    "finden"
+   ],
+   "pret.er": [
+    "fand"
+   ]
+  }
+ },
+ "fragen": {
+  "all": [
+   "frag",
+   "frage",
+   "fragen",
+   "fragend",
+   "fragest",
+   "fraget",
+   "fragst",
+   "fragt",
+   "fragte",
+   "fragten",
+   "fragtest",
+   "fragtet",
+   "frug",
+   "frugen",
+   "frugst",
+   "frugt",
+   "frägst",
+   "frägt",
+   "früge",
+   "frügen",
+   "frügest",
+   "früget",
+   "frügst",
+   "frügt",
+   "gefragt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to ask",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "frag",
+    "frage"
+   ],
+   "perf.er": [
+    "hat gefragt"
+   ],
+   "pres.du": [
+    "fragst"
+   ],
+   "pres.er": [
+    "fragt"
+   ],
+   "pres.ich": [
+    "frage"
+   ],
+   "pres.ihr": [
+    "fragt"
+   ],
+   "pres.wir": [
+    "fragen"
+   ],
+   "pret.er": [
+    "fragte"
+   ]
+  }
+ },
+ "frei": {
+  "all": [
+   "am",
+   "frei",
+   "freie",
+   "freiem",
+   "freien",
+   "freier",
+   "freiere",
+   "freierem",
+   "freieren",
+   "freierer",
+   "freieres",
+   "freies",
+   "freieste",
+   "freiestem",
+   "freiesten",
+   "freiester",
+   "freiestes",
+   "freiste",
+   "freistem",
+   "freisten",
+   "freister",
+   "freistes",
+   "frey",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "free",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "freier",
+    "freierer",
+    "freiere",
+    "freieres",
+    "freieren",
+    "freierem",
+    "der freiere",
+    "die freiere",
+    "das freiere",
+    "die freieren",
+    "des freieren",
+    "der freieren",
+    "dem freieren",
+    "den freieren",
+    "ein freierer",
+    "eine freiere",
+    "ein freieres",
+    "eines freieren",
+    "einer freieren",
+    "einem freieren",
+    "einen freieren"
+   ],
+   "mixed.acc.m": [
+    "einen freien"
+   ],
+   "mixed.nom.n": [
+    "ein freies"
+   ],
+   "strong.dat.f": [
+    "freier"
+   ],
+   "superlative": [
+    "am freiesten",
+    "am freisten",
+    "freiester",
+    "freister",
+    "freieste",
+    "freiste",
+    "freiestes",
+    "freistes",
+    "freiesten",
+    "freisten",
+    "freiestem",
+    "freistem",
+    "der freieste",
+    "der freiste",
+    "die freieste",
+    "die freiste",
+    "das freieste",
+    "das freiste",
+    "die freiesten",
+    "die freisten",
+    "des freiesten",
+    "des freisten",
+    "der freiesten",
+    "der freisten",
+    "dem freiesten",
+    "dem freisten",
+    "den freiesten",
+    "den freisten",
+    "ein freiester",
+    "ein freister",
+    "eine freieste",
+    "eine freiste",
+    "ein freiestes",
+    "ein freistes",
+    "eines freiesten",
+    "eines freisten",
+    "einer freiesten",
+    "einer freisten",
+    "einem freiesten",
+    "einem freisten",
+    "einen freiesten",
+    "einen freisten"
+   ],
+   "weak.nom.m": [
+    "der freie"
+   ]
+  }
+ },
+ "geben": {
+  "all": [
+   "gab",
+   "gaben",
+   "gabst",
+   "gabt",
+   "gebe",
+   "geben",
+   "gebend",
+   "gebest",
+   "gebet",
+   "gebt",
+   "gegeben",
+   "gib",
+   "gibst",
+   "gibt",
+   "gäbe",
+   "gäben",
+   "gäbest",
+   "gäbet",
+   "gäbst",
+   "gäbt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to give",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "gib"
+   ],
+   "perf.er": [
+    "hat gegeben"
+   ],
+   "pres.du": [
+    "gibst"
+   ],
+   "pres.er": [
+    "gibt"
+   ],
+   "pres.ich": [
+    "gebe"
+   ],
+   "pres.ihr": [
+    "gebt"
+   ],
+   "pres.wir": [
+    "geben"
+   ],
+   "pret.er": [
+    "gab"
+   ]
+  }
+ },
+ "glauben": {
+  "all": [
+   "geglaubt",
+   "glaub",
+   "glaube",
+   "glauben",
+   "glaubend",
+   "glaubest",
+   "glaubet",
+   "glaubst",
+   "glaubt",
+   "glaubte",
+   "glaubten",
+   "glaubtest",
+   "glaubtet",
+   "gleuben",
+   "gläuben",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to believe",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "glaub",
+    "glaube"
+   ],
+   "perf.er": [
+    "hat geglaubt"
+   ],
+   "pres.du": [
+    "glaubst"
+   ],
+   "pres.er": [
+    "glaubt"
+   ],
+   "pres.ich": [
+    "glaube"
+   ],
+   "pres.ihr": [
+    "glaubt"
+   ],
+   "pres.wir": [
+    "glauben"
+   ],
+   "pret.er": [
+    "glaubte"
+   ]
+  }
+ },
+ "groß": {
+  "all": [
+   "am",
+   "gross",
+   "grosse",
+   "grossem",
+   "grossen",
+   "grosser",
+   "grosses",
+   "groß",
+   "große",
+   "großem",
+   "großen",
+   "großer",
+   "großes",
+   "grösser",
+   "grössere",
+   "grösserem",
+   "grösseren",
+   "grösserer",
+   "grösseres",
+   "grösseste",
+   "grössestem",
+   "grössesten",
+   "grössester",
+   "grössestes",
+   "grösste",
+   "grösstem",
+   "grössten",
+   "grösster",
+   "grösstes",
+   "größer",
+   "größere",
+   "größerem",
+   "größeren",
+   "größerer",
+   "größeres",
+   "größeste",
+   "größestem",
+   "größesten",
+   "größester",
+   "größestes",
+   "größte",
+   "größtem",
+   "größten",
+   "größter",
+   "größtes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "big, tall",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "größer",
+    "größerer",
+    "größere",
+    "größeres",
+    "größeren",
+    "größerem",
+    "der größere",
+    "die größere",
+    "das größere",
+    "die größeren",
+    "des größeren",
+    "der größeren",
+    "dem größeren",
+    "den größeren",
+    "ein größerer",
+    "eine größere",
+    "ein größeres",
+    "eines größeren",
+    "einer größeren",
+    "einem größeren",
+    "einen größeren",
+    "grösser",
+    "grösserer",
+    "grössere",
+    "grösseres",
+    "grösseren",
+    "grösserem",
+    "der grössere",
+    "die grössere",
+    "das grössere",
+    "die grösseren",
+    "des grösseren",
+    "der grösseren",
+    "dem grösseren",
+    "den grösseren",
+    "ein grösserer",
+    "eine grössere",
+    "ein grösseres",
+    "eines grösseren",
+    "einer grösseren",
+    "einem grösseren",
+    "einen grösseren"
+   ],
+   "mixed.acc.m": [
+    "einen großen",
+    "einen grossen"
+   ],
+   "mixed.nom.n": [
+    "ein großes",
+    "ein grosses"
+   ],
+   "strong.dat.f": [
+    "großer",
+    "grosser"
+   ],
+   "superlative": [
+    "am größten",
+    "am größesten",
+    "größter",
+    "größester",
+    "größte",
+    "größeste",
+    "größtes",
+    "größestes",
+    "größten",
+    "größesten",
+    "größtem",
+    "größestem",
+    "der größte",
+    "der größeste",
+    "die größte",
+    "die größeste",
+    "das größte",
+    "das größeste",
+    "die größten",
+    "die größesten",
+    "des größten",
+    "des größesten",
+    "der größten",
+    "der größesten",
+    "dem größten",
+    "dem größesten",
+    "den größten",
+    "den größesten",
+    "ein größter",
+    "ein größester",
+    "eine größte",
+    "eine größeste",
+    "ein größtes",
+    "ein größestes",
+    "eines größten",
+    "eines größesten",
+    "einer größten",
+    "einer größesten",
+    "einem größten",
+    "einem größesten",
+    "einen größten",
+    "einen größesten",
+    "am grössten",
+    "am grössesten",
+    "grösster",
+    "grössester",
+    "grösste",
+    "grösseste",
+    "grösstes",
+    "grössestes",
+    "grössten",
+    "grössesten",
+    "grösstem",
+    "grössestem",
+    "der grösste",
+    "der grösseste",
+    "die grösste",
+    "die grösseste",
+    "das grösste",
+    "das grösseste",
+    "die grössten",
+    "die grössesten",
+    "des grössten",
+    "des grössesten",
+    "der grössten",
+    "der grössesten",
+    "dem grössten",
+    "dem grössesten",
+    "den grössten",
+    "den grössesten",
+    "ein grösster",
+    "ein grössester",
+    "eine grösste",
+    "eine grösseste",
+    "ein grösstes",
+    "ein grössestes",
+    "eines grössten",
+    "eines grössesten",
+    "einer grössten",
+    "einer grössesten",
+    "einem grössten",
+    "einem grössesten",
+    "einen grössten",
+    "einen grössesten"
+   ],
+   "weak.nom.m": [
+    "der große",
+    "der grosse"
+   ]
+  }
+ },
+ "gut": {
+  "all": [
+   "am",
+   "besser",
+   "bessere",
+   "besserem",
+   "besseren",
+   "besserer",
+   "besseres",
+   "beste",
+   "bestem",
+   "besten",
+   "bester",
+   "bestes",
+   "gud",
+   "gut",
+   "gute",
+   "gutem",
+   "guten",
+   "guter",
+   "gutes",
+   "gůt",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "good",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "besser",
+    "besserer",
+    "bessere",
+    "besseres",
+    "besseren",
+    "besserem",
+    "der bessere",
+    "die bessere",
+    "das bessere",
+    "die besseren",
+    "des besseren",
+    "der besseren",
+    "dem besseren",
+    "den besseren",
+    "ein besserer",
+    "eine bessere",
+    "ein besseres",
+    "eines besseren",
+    "einer besseren",
+    "einem besseren",
+    "einen besseren"
+   ],
+   "mixed.acc.m": [
+    "einen guten"
+   ],
+   "mixed.nom.n": [
+    "ein gutes"
+   ],
+   "strong.dat.f": [
+    "guter"
+   ],
+   "superlative": [
+    "am besten",
+    "bester",
+    "beste",
+    "bestes",
+    "besten",
+    "bestem",
+    "der beste",
+    "die beste",
+    "das beste",
+    "die besten",
+    "des besten",
+    "der besten",
+    "dem besten",
+    "den besten",
+    "ein bester",
+    "eine beste",
+    "ein bestes",
+    "eines besten",
+    "einer besten",
+    "einem besten",
+    "einen besten"
+   ],
+   "weak.nom.m": [
+    "der gute"
+   ]
+  }
+ },
+ "haben": {
+  "all": [
+   "gehabt",
+   "hab",
+   "habe",
+   "haben",
+   "habend",
+   "habest",
+   "habet",
+   "habt",
+   "ham",
+   "han",
+   "hast",
+   "hat",
+   "hatte",
+   "hatten",
+   "hattest",
+   "hattet",
+   "hätte",
+   "hätten",
+   "hättest",
+   "hättet",
+   "werdest"
+  ],
+  "english": "to have",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "hab",
+    "habe"
+   ],
+   "perf.er": [
+    "hat gehabt"
+   ],
+   "pres.du": [
+    "hast"
+   ],
+   "pres.er": [
+    "hat"
+   ],
+   "pres.ich": [
+    "habe"
+   ],
+   "pres.ihr": [
+    "habt"
+   ],
+   "pres.wir": [
+    "haben"
+   ],
+   "pret.er": [
+    "hatte"
+   ]
+  }
+ },
+ "helfen": {
+  "all": [
+   "geholfen",
+   "haben",
+   "habest",
+   "habet",
+   "half",
+   "halfen",
+   "halfst",
+   "halft",
+   "helfe",
+   "helfen",
+   "helfend",
+   "helfest",
+   "helfet",
+   "helft",
+   "hilf",
+   "hilfst",
+   "hilft",
+   "hülfe",
+   "hülfen",
+   "hülfest",
+   "hülfet",
+   "hülfst",
+   "hülft",
+   "werdest"
+  ],
+  "english": "to help",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "hilf"
+   ],
+   "perf.er": [
+    "hat geholfen"
+   ],
+   "pres.du": [
+    "hilfst"
+   ],
+   "pres.er": [
+    "hilft"
+   ],
+   "pres.ich": [
+    "helfe"
+   ],
+   "pres.ihr": [
+    "helft"
+   ],
+   "pres.wir": [
+    "helfen"
+   ],
+   "pret.er": [
+    "half"
+   ]
+  }
+ },
+ "hören": {
+  "all": [
+   "gehört",
+   "haben",
+   "habest",
+   "habet",
+   "hör",
+   "höre",
+   "hören",
+   "hörend",
+   "hörest",
+   "höret",
+   "hörst",
+   "hört",
+   "hörte",
+   "hörten",
+   "hörtest",
+   "hörtet",
+   "werdest"
+  ],
+  "english": "to hear, to listen",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "hör",
+    "höre"
+   ],
+   "perf.er": [
+    "hat gehört"
+   ],
+   "pres.du": [
+    "hörst"
+   ],
+   "pres.er": [
+    "hört"
+   ],
+   "pres.ich": [
+    "höre"
+   ],
+   "pres.ihr": [
+    "hört"
+   ],
+   "pres.wir": [
+    "hören"
+   ],
+   "pret.er": [
+    "hörte"
+   ]
+  }
+ },
+ "klar": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "klar",
+   "klare",
+   "klarem",
+   "klaren",
+   "klarer",
+   "klarere",
+   "klarerem",
+   "klareren",
+   "klarerer",
+   "klareres",
+   "klares",
+   "klarste",
+   "klarstem",
+   "klarsten",
+   "klarster",
+   "klarstes"
+  ],
+  "english": "clear",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "klarer",
+    "klarerer",
+    "klarere",
+    "klareres",
+    "klareren",
+    "klarerem",
+    "der klarere",
+    "die klarere",
+    "das klarere",
+    "die klareren",
+    "des klareren",
+    "der klareren",
+    "dem klareren",
+    "den klareren",
+    "ein klarerer",
+    "eine klarere",
+    "ein klareres",
+    "eines klareren",
+    "einer klareren",
+    "einem klareren",
+    "einen klareren"
+   ],
+   "mixed.acc.m": [
+    "einen klaren"
+   ],
+   "mixed.nom.n": [
+    "ein klares"
+   ],
+   "strong.dat.f": [
+    "klarer"
+   ],
+   "superlative": [
+    "am klarsten",
+    "klarster",
+    "klarste",
+    "klarstes",
+    "klarsten",
+    "klarstem",
+    "der klarste",
+    "die klarste",
+    "das klarste",
+    "die klarsten",
+    "des klarsten",
+    "der klarsten",
+    "dem klarsten",
+    "den klarsten",
+    "ein klarster",
+    "eine klarste",
+    "ein klarstes",
+    "eines klarsten",
+    "einer klarsten",
+    "einem klarsten",
+    "einen klarsten"
+   ],
+   "weak.nom.m": [
+    "der klare"
+   ]
+  }
+ },
+ "klein": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "klein",
+   "kleine",
+   "kleinem",
+   "kleinen",
+   "kleiner",
+   "kleinere",
+   "kleinerem",
+   "kleineren",
+   "kleinerer",
+   "kleineres",
+   "kleines",
+   "kleinste",
+   "kleinstem",
+   "kleinsten",
+   "kleinster",
+   "kleinstes"
+  ],
+  "english": "small, short",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "kleiner",
+    "kleinerer",
+    "kleinere",
+    "kleineres",
+    "kleineren",
+    "kleinerem",
+    "der kleinere",
+    "die kleinere",
+    "das kleinere",
+    "die kleineren",
+    "des kleineren",
+    "der kleineren",
+    "dem kleineren",
+    "den kleineren",
+    "ein kleinerer",
+    "eine kleinere",
+    "ein kleineres",
+    "eines kleineren",
+    "einer kleineren",
+    "einem kleineren",
+    "einen kleineren"
+   ],
+   "mixed.acc.m": [
+    "einen kleinen"
+   ],
+   "mixed.nom.n": [
+    "ein kleines"
+   ],
+   "strong.dat.f": [
+    "kleiner"
+   ],
+   "superlative": [
+    "am kleinsten",
+    "kleinster",
+    "kleinste",
+    "kleinstes",
+    "kleinsten",
+    "kleinstem",
+    "der kleinste",
+    "die kleinste",
+    "das kleinste",
+    "die kleinsten",
+    "des kleinsten",
+    "der kleinsten",
+    "dem kleinsten",
+    "den kleinsten",
+    "ein kleinster",
+    "eine kleinste",
+    "ein kleinstes",
+    "eines kleinsten",
+    "einer kleinsten",
+    "einem kleinsten",
+    "einen kleinsten"
+   ],
+   "weak.nom.m": [
+    "der kleine"
+   ]
+  }
+ },
+ "kommen": {
+  "all": [
+   "gekommen",
+   "kam",
+   "kamen",
+   "kamst",
+   "kamt",
+   "komen",
+   "komm",
+   "komme",
+   "kommen",
+   "kommend",
+   "kommest",
+   "kommet",
+   "kommst",
+   "kommt",
+   "kumen",
+   "kummen",
+   "käme",
+   "kämen",
+   "kämest",
+   "kämet",
+   "kämst",
+   "kämt",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to come",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "komm",
+    "komme"
+   ],
+   "perf.er": [
+    "ist gekommen"
+   ],
+   "pres.du": [
+    "kommst"
+   ],
+   "pres.er": [
+    "kommt"
+   ],
+   "pres.ich": [
+    "komme"
+   ],
+   "pres.ihr": [
+    "kommt"
+   ],
+   "pres.wir": [
+    "kommen"
+   ],
+   "pret.er": [
+    "kam"
+   ]
+  }
+ },
+ "lassen": {
+  "all": [
+   "gelassen",
+   "haben",
+   "habest",
+   "habet",
+   "lass",
+   "lasse",
+   "lassen",
+   "lassend",
+   "lassest",
+   "lasset",
+   "lasst",
+   "laßen",
+   "ließ",
+   "ließe",
+   "ließen",
+   "ließest",
+   "ließet",
+   "ließt",
+   "lässt",
+   "werdest"
+  ],
+  "english": "to let, to leave",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lass",
+    "lasse"
+   ],
+   "perf.er": [
+    "hat gelassen",
+    "hat lassen"
+   ],
+   "pres.du": [
+    "lässt"
+   ],
+   "pres.er": [
+    "lässt"
+   ],
+   "pres.ich": [
+    "lasse"
+   ],
+   "pres.ihr": [
+    "lasst"
+   ],
+   "pres.wir": [
+    "lassen"
+   ],
+   "pret.er": [
+    "ließ"
+   ]
+  }
+ },
+ "leben": {
+  "all": [
+   "gelebt",
+   "haben",
+   "habest",
+   "habet",
+   "leb",
+   "lebe",
+   "leben",
+   "lebend",
+   "lebest",
+   "lebet",
+   "lebst",
+   "lebt",
+   "lebte",
+   "lebten",
+   "lebtest",
+   "lebtet",
+   "werdest"
+  ],
+  "english": "to live",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "leb",
+    "lebe"
+   ],
+   "perf.er": [
+    "hat gelebt"
+   ],
+   "pres.du": [
+    "lebst"
+   ],
+   "pres.er": [
+    "lebt"
+   ],
+   "pres.ich": [
+    "lebe"
+   ],
+   "pres.ihr": [
+    "lebt"
+   ],
+   "pres.wir": [
+    "leben"
+   ],
+   "pret.er": [
+    "lebte"
+   ]
+  }
+ },
+ "müde": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "müd",
+   "müde",
+   "müdem",
+   "müden",
+   "müder",
+   "müdere",
+   "müderem",
+   "müderen",
+   "müderer",
+   "müderes",
+   "müdes",
+   "müdeste",
+   "müdestem",
+   "müdesten",
+   "müdester",
+   "müdestes"
+  ],
+  "english": "tired",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "müder",
+    "müderer",
+    "müdere",
+    "müderes",
+    "müderen",
+    "müderem",
+    "der müdere",
+    "die müdere",
+    "das müdere",
+    "die müderen",
+    "des müderen",
+    "der müderen",
+    "dem müderen",
+    "den müderen",
+    "ein müderer",
+    "eine müdere",
+    "ein müderes",
+    "eines müderen",
+    "einer müderen",
+    "einem müderen",
+    "einen müderen"
+   ],
+   "mixed.acc.m": [
+    "einen müden"
+   ],
+   "mixed.nom.n": [
+    "ein müdes"
+   ],
+   "strong.dat.f": [
+    "müder"
+   ],
+   "superlative": [
+    "am müdesten",
+    "müdester",
+    "müdeste",
+    "müdestes",
+    "müdesten",
+    "müdestem",
+    "der müdeste",
+    "die müdeste",
+    "das müdeste",
+    "die müdesten",
+    "des müdesten",
+    "der müdesten",
+    "dem müdesten",
+    "den müdesten",
+    "ein müdester",
+    "eine müdeste",
+    "ein müdestes",
+    "eines müdesten",
+    "einer müdesten",
+    "einem müdesten",
+    "einen müdesten"
+   ],
+   "weak.nom.m": [
+    "der müde"
+   ]
+  }
+ },
+ "müssen": {
+  "all": [
+   "gemusst",
+   "haben",
+   "habest",
+   "habet",
+   "muss",
+   "musst",
+   "musste",
+   "mussten",
+   "musstest",
+   "musstet",
+   "müsse",
+   "müssen",
+   "müssend",
+   "müssest",
+   "müsset",
+   "müsst",
+   "müsste",
+   "müssten",
+   "müsstest",
+   "müsstet",
+   "werdest"
+  ],
+  "english": "must, to have to",
+  "pos": "verb",
+  "slots": {
+   "perf.er": [
+    "hat gemusst"
+   ],
+   "pres.du": [
+    "musst"
+   ],
+   "pres.er": [
+    "muss"
+   ],
+   "pres.ich": [
+    "muss"
+   ],
+   "pres.ihr": [
+    "müsst"
+   ],
+   "pres.wir": [
+    "müssen"
+   ],
+   "pret.er": [
+    "musste"
+   ]
+  }
+ },
+ "nehmen": {
+  "all": [
+   "genommen",
+   "haben",
+   "habest",
+   "habet",
+   "nahm",
+   "nahmen",
+   "nahmst",
+   "nahmt",
+   "nehme",
+   "nehmen",
+   "nehmend",
+   "nehmest",
+   "nehmet",
+   "nehmt",
+   "nimm",
+   "nimmst",
+   "nimmt",
+   "nähme",
+   "nähmen",
+   "nähmest",
+   "nähmet",
+   "nähmst",
+   "nähmt",
+   "werdest"
+  ],
+  "english": "to take",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "nimm"
+   ],
+   "perf.er": [
+    "hat genommen"
+   ],
+   "pres.du": [
+    "nimmst"
+   ],
+   "pres.er": [
+    "nimmt"
+   ],
+   "pres.ich": [
+    "nehme"
+   ],
+   "pres.ihr": [
+    "nehmt"
+   ],
+   "pres.wir": [
+    "nehmen"
+   ],
+   "pret.er": [
+    "nahm"
+   ]
+  }
+ },
+ "nett": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "nett",
+   "nette",
+   "nettem",
+   "netten",
+   "netter",
+   "nettere",
+   "netterem",
+   "netteren",
+   "netterer",
+   "netteres",
+   "nettes",
+   "netteste",
+   "nettestem",
+   "nettesten",
+   "nettester",
+   "nettestes"
+  ],
+  "english": "nice",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "netter",
+    "netterer",
+    "nettere",
+    "netteres",
+    "netteren",
+    "netterem",
+    "der nettere",
+    "die nettere",
+    "das nettere",
+    "die netteren",
+    "des netteren",
+    "der netteren",
+    "dem netteren",
+    "den netteren",
+    "ein netterer",
+    "eine nettere",
+    "ein netteres",
+    "eines netteren",
+    "einer netteren",
+    "einem netteren",
+    "einen netteren"
+   ],
+   "mixed.acc.m": [
+    "einen netten"
+   ],
+   "mixed.nom.n": [
+    "ein nettes"
+   ],
+   "strong.dat.f": [
+    "netter"
+   ],
+   "superlative": [
+    "am nettesten",
+    "nettester",
+    "netteste",
+    "nettestes",
+    "nettesten",
+    "nettestem",
+    "der netteste",
+    "die netteste",
+    "das netteste",
+    "die nettesten",
+    "des nettesten",
+    "der nettesten",
+    "dem nettesten",
+    "den nettesten",
+    "ein nettester",
+    "eine netteste",
+    "ein nettestes",
+    "eines nettesten",
+    "einer nettesten",
+    "einem nettesten",
+    "einen nettesten"
+   ],
+   "weak.nom.m": [
+    "der nette"
+   ]
+  }
+ },
+ "neu": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "neu",
+   "neue",
+   "neuem",
+   "neuen",
+   "neuer",
+   "neuere",
+   "neuerem",
+   "neueren",
+   "neuerer",
+   "neueres",
+   "neues",
+   "neueste",
+   "neuestem",
+   "neuesten",
+   "neuester",
+   "neuestes",
+   "neuste",
+   "neustem",
+   "neusten",
+   "neuster",
+   "neustes",
+   "neuw",
+   "new"
+  ],
+  "english": "new",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "neuer",
+    "neuerer",
+    "neuere",
+    "neueres",
+    "neueren",
+    "neuerem",
+    "der neuere",
+    "die neuere",
+    "das neuere",
+    "die neueren",
+    "des neueren",
+    "der neueren",
+    "dem neueren",
+    "den neueren",
+    "ein neuerer",
+    "eine neuere",
+    "ein neueres",
+    "eines neueren",
+    "einer neueren",
+    "einem neueren",
+    "einen neueren"
+   ],
+   "mixed.acc.m": [
+    "einen neuen"
+   ],
+   "mixed.nom.n": [
+    "ein neues"
+   ],
+   "strong.dat.f": [
+    "neuer"
+   ],
+   "superlative": [
+    "am neuesten",
+    "am neusten",
+    "neuester",
+    "neuster",
+    "neueste",
+    "neuste",
+    "neuestes",
+    "neustes",
+    "neuesten",
+    "neusten",
+    "neuestem",
+    "neustem",
+    "der neueste",
+    "der neuste",
+    "die neueste",
+    "die neuste",
+    "das neueste",
+    "das neuste",
+    "die neuesten",
+    "die neusten",
+    "des neuesten",
+    "des neusten",
+    "der neuesten",
+    "der neusten",
+    "dem neuesten",
+    "dem neusten",
+    "den neuesten",
+    "den neusten",
+    "ein neuester",
+    "ein neuster",
+    "eine neueste",
+    "eine neuste",
+    "ein neuestes",
+    "ein neustes",
+    "eines neuesten",
+    "eines neusten",
+    "einer neuesten",
+    "einer neusten",
+    "einem neuesten",
+    "einem neusten",
+    "einen neuesten",
+    "einen neusten"
+   ],
+   "weak.nom.m": [
+    "der neue"
+   ]
+  }
+ },
+ "ruhig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "ruhig",
+   "ruhige",
+   "ruhigem",
+   "ruhigen",
+   "ruhiger",
+   "ruhigere",
+   "ruhigerem",
+   "ruhigeren",
+   "ruhigerer",
+   "ruhigeres",
+   "ruhiges",
+   "ruhigste",
+   "ruhigstem",
+   "ruhigsten",
+   "ruhigster",
+   "ruhigstes"
+  ],
+  "english": "quiet, calm",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "ruhiger",
+    "ruhigerer",
+    "ruhigere",
+    "ruhigeres",
+    "ruhigeren",
+    "ruhigerem",
+    "der ruhigere",
+    "die ruhigere",
+    "das ruhigere",
+    "die ruhigeren",
+    "des ruhigeren",
+    "der ruhigeren",
+    "dem ruhigeren",
+    "den ruhigeren",
+    "ein ruhigerer",
+    "eine ruhigere",
+    "ein ruhigeres",
+    "eines ruhigeren",
+    "einer ruhigeren",
+    "einem ruhigeren",
+    "einen ruhigeren"
+   ],
+   "mixed.acc.m": [
+    "einen ruhigen"
+   ],
+   "mixed.nom.n": [
+    "ein ruhiges"
+   ],
+   "strong.dat.f": [
+    "ruhiger"
+   ],
+   "superlative": [
+    "am ruhigsten",
+    "ruhigster",
+    "ruhigste",
+    "ruhigstes",
+    "ruhigsten",
+    "ruhigstem",
+    "der ruhigste",
+    "die ruhigste",
+    "das ruhigste",
+    "die ruhigsten",
+    "des ruhigsten",
+    "der ruhigsten",
+    "dem ruhigsten",
+    "den ruhigsten",
+    "ein ruhigster",
+    "eine ruhigste",
+    "ein ruhigstes",
+    "eines ruhigsten",
+    "einer ruhigsten",
+    "einem ruhigsten",
+    "einen ruhigsten"
+   ],
+   "weak.nom.m": [
+    "der ruhige"
+   ]
+  }
+ },
+ "sagen": {
+  "all": [
+   "gesagt",
+   "haben",
+   "habest",
+   "habet",
+   "sag",
+   "sage",
+   "sagen",
+   "sagend",
+   "sagest",
+   "saget",
+   "sagst",
+   "sagt",
+   "sagte",
+   "sagten",
+   "sagtest",
+   "sagtet",
+   "werdest"
+  ],
+  "english": "to say",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "sag",
+    "sage"
+   ],
+   "perf.er": [
+    "hat gesagt"
+   ],
+   "pres.du": [
+    "sagst"
+   ],
+   "pres.er": [
+    "sagt"
+   ],
+   "pres.ich": [
+    "sage"
+   ],
+   "pres.ihr": [
+    "sagt"
+   ],
+   "pres.wir": [
+    "sagen"
+   ],
+   "pret.er": [
+    "sagte"
+   ]
+  }
+ },
+ "schlecht": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "schlecht",
+   "schlechte",
+   "schlechtem",
+   "schlechten",
+   "schlechter",
+   "schlechtere",
+   "schlechterem",
+   "schlechteren",
+   "schlechterer",
+   "schlechteres",
+   "schlechtes",
+   "schlechteste",
+   "schlechtestem",
+   "schlechtesten",
+   "schlechtester",
+   "schlechtestes"
+  ],
+  "english": "bad",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schlechter",
+    "schlechterer",
+    "schlechtere",
+    "schlechteres",
+    "schlechteren",
+    "schlechterem",
+    "der schlechtere",
+    "die schlechtere",
+    "das schlechtere",
+    "die schlechteren",
+    "des schlechteren",
+    "der schlechteren",
+    "dem schlechteren",
+    "den schlechteren",
+    "ein schlechterer",
+    "eine schlechtere",
+    "ein schlechteres",
+    "eines schlechteren",
+    "einer schlechteren",
+    "einem schlechteren",
+    "einen schlechteren"
+   ],
+   "mixed.acc.m": [
+    "einen schlechten"
+   ],
+   "mixed.nom.n": [
+    "ein schlechtes"
+   ],
+   "strong.dat.f": [
+    "schlechter"
+   ],
+   "superlative": [
+    "am schlechtesten",
+    "schlechtester",
+    "schlechteste",
+    "schlechtestes",
+    "schlechtesten",
+    "schlechtestem",
+    "der schlechteste",
+    "die schlechteste",
+    "das schlechteste",
+    "die schlechtesten",
+    "des schlechtesten",
+    "der schlechtesten",
+    "dem schlechtesten",
+    "den schlechtesten",
+    "ein schlechtester",
+    "eine schlechteste",
+    "ein schlechtestes",
+    "eines schlechtesten",
+    "einer schlechtesten",
+    "einem schlechtesten",
+    "einen schlechtesten"
+   ],
+   "weak.nom.m": [
+    "der schlechte"
+   ]
+  }
+ },
+ "schnell": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "schnell",
+   "schnelle",
+   "schnellem",
+   "schnellen",
+   "schneller",
+   "schnellere",
+   "schnellerem",
+   "schnelleren",
+   "schnellerer",
+   "schnelleres",
+   "schnelles",
+   "schnellste",
+   "schnellstem",
+   "schnellsten",
+   "schnellster",
+   "schnellstes"
+  ],
+  "english": "fast",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schneller",
+    "schnellerer",
+    "schnellere",
+    "schnelleres",
+    "schnelleren",
+    "schnellerem",
+    "der schnellere",
+    "die schnellere",
+    "das schnellere",
+    "die schnelleren",
+    "des schnelleren",
+    "der schnelleren",
+    "dem schnelleren",
+    "den schnelleren",
+    "ein schnellerer",
+    "eine schnellere",
+    "ein schnelleres",
+    "eines schnelleren",
+    "einer schnelleren",
+    "einem schnelleren",
+    "einen schnelleren"
+   ],
+   "mixed.acc.m": [
+    "einen schnellen"
+   ],
+   "mixed.nom.n": [
+    "ein schnelles"
+   ],
+   "strong.dat.f": [
+    "schneller"
+   ],
+   "superlative": [
+    "am schnellsten",
+    "schnellster",
+    "schnellste",
+    "schnellstes",
+    "schnellsten",
+    "schnellstem",
+    "der schnellste",
+    "die schnellste",
+    "das schnellste",
+    "die schnellsten",
+    "des schnellsten",
+    "der schnellsten",
+    "dem schnellsten",
+    "den schnellsten",
+    "ein schnellster",
+    "eine schnellste",
+    "ein schnellstes",
+    "eines schnellsten",
+    "einer schnellsten",
+    "einem schnellsten",
+    "einen schnellsten"
+   ],
+   "weak.nom.m": [
+    "der schnelle"
+   ]
+  }
+ },
+ "schwierig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "schwierig",
+   "schwierige",
+   "schwierigem",
+   "schwierigen",
+   "schwieriger",
+   "schwierigere",
+   "schwierigerem",
+   "schwierigeren",
+   "schwierigerer",
+   "schwierigeres",
+   "schwieriges",
+   "schwierigste",
+   "schwierigstem",
+   "schwierigsten",
+   "schwierigster",
+   "schwierigstes"
+  ],
+  "english": "difficult",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schwieriger",
+    "schwierigerer",
+    "schwierigere",
+    "schwierigeres",
+    "schwierigeren",
+    "schwierigerem",
+    "der schwierigere",
+    "die schwierigere",
+    "das schwierigere",
+    "die schwierigeren",
+    "des schwierigeren",
+    "der schwierigeren",
+    "dem schwierigeren",
+    "den schwierigeren",
+    "ein schwierigerer",
+    "eine schwierigere",
+    "ein schwierigeres",
+    "eines schwierigeren",
+    "einer schwierigeren",
+    "einem schwierigeren",
+    "einen schwierigeren"
+   ],
+   "mixed.acc.m": [
+    "einen schwierigen"
+   ],
+   "mixed.nom.n": [
+    "ein schwieriges"
+   ],
+   "strong.dat.f": [
+    "schwieriger"
+   ],
+   "superlative": [
+    "am schwierigsten",
+    "schwierigster",
+    "schwierigste",
+    "schwierigstes",
+    "schwierigsten",
+    "schwierigstem",
+    "der schwierigste",
+    "die schwierigste",
+    "das schwierigste",
+    "die schwierigsten",
+    "des schwierigsten",
+    "der schwierigsten",
+    "dem schwierigsten",
+    "den schwierigsten",
+    "ein schwierigster",
+    "eine schwierigste",
+    "ein schwierigstes",
+    "eines schwierigsten",
+    "einer schwierigsten",
+    "einem schwierigsten",
+    "einen schwierigsten"
+   ],
+   "weak.nom.m": [
+    "der schwierige"
+   ]
+  }
+ },
+ "sein": {
+  "all": [
+   "Brant",
+   "Jacob",
+   "Ruff",
+   "Sebastian",
+   "bin",
+   "bist",
+   "frühneuhochdeutsch",
+   "gewesen",
+   "ist",
+   "sei",
+   "seid",
+   "seien",
+   "seiend",
+   "seiest",
+   "seiet",
+   "sein",
+   "seist",
+   "seyn",
+   "sind",
+   "syn",
+   "war",
+   "waren",
+   "warst",
+   "wart",
+   "werdest",
+   "wäre",
+   "wären",
+   "wärest",
+   "wäret",
+   "wärst",
+   "wärt"
+  ],
+  "english": "to be",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "sei"
+   ],
+   "perf.er": [
+    "ist gewesen"
+   ],
+   "pres.du": [
+    "bist"
+   ],
+   "pres.er": [
+    "ist"
+   ],
+   "pres.ich": [
+    "bin"
+   ],
+   "pres.ihr": [
+    "seid"
+   ],
+   "pres.wir": [
+    "sind"
+   ],
+   "pret.er": [
+    "war"
+   ]
+  }
+ },
+ "toll": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "toll",
+   "tolle",
+   "tollem",
+   "tollen",
+   "toller",
+   "tollere",
+   "tollerem",
+   "tolleren",
+   "tollerer",
+   "tolleres",
+   "tolles",
+   "tollste",
+   "tollstem",
+   "tollsten",
+   "tollster",
+   "tollstes"
+  ],
+  "english": "great",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "toller",
+    "tollerer",
+    "tollere",
+    "tolleres",
+    "tolleren",
+    "tollerem",
+    "der tollere",
+    "die tollere",
+    "das tollere",
+    "die tolleren",
+    "des tolleren",
+    "der tolleren",
+    "dem tolleren",
+    "den tolleren",
+    "ein tollerer",
+    "eine tollere",
+    "ein tolleres",
+    "eines tolleren",
+    "einer tolleren",
+    "einem tolleren",
+    "einen tolleren"
+   ],
+   "mixed.acc.m": [
+    "einen tollen"
+   ],
+   "mixed.nom.n": [
+    "ein tolles"
+   ],
+   "strong.dat.f": [
+    "toller"
+   ],
+   "superlative": [
+    "am tollsten",
+    "tollster",
+    "tollste",
+    "tollstes",
+    "tollsten",
+    "tollstem",
+    "der tollste",
+    "die tollste",
+    "das tollste",
+    "die tollsten",
+    "des tollsten",
+    "der tollsten",
+    "dem tollsten",
+    "den tollsten",
+    "ein tollster",
+    "eine tollste",
+    "ein tollstes",
+    "eines tollsten",
+    "einer tollsten",
+    "einem tollsten",
+    "einen tollsten"
+   ],
+   "weak.nom.m": [
+    "der tolle"
+   ]
+  }
+ },
+ "weit": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "weit",
+   "weite",
+   "weitem",
+   "weiten",
+   "weiter",
+   "weitere",
+   "weiterem",
+   "weiteren",
+   "weiterer",
+   "weiteres",
+   "weites",
+   "weiteste",
+   "weitestem",
+   "weitesten",
+   "weitester",
+   "weitestes"
+  ],
+  "english": "far, wide",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "weiter",
+    "weiterer",
+    "weitere",
+    "weiteres",
+    "weiteren",
+    "weiterem",
+    "der weitere",
+    "die weitere",
+    "das weitere",
+    "die weiteren",
+    "des weiteren",
+    "der weiteren",
+    "dem weiteren",
+    "den weiteren",
+    "ein weiterer",
+    "eine weitere",
+    "ein weiteres",
+    "eines weiteren",
+    "einer weiteren",
+    "einem weiteren",
+    "einen weiteren"
+   ],
+   "mixed.acc.m": [
+    "einen weiten"
+   ],
+   "mixed.nom.n": [
+    "ein weites"
+   ],
+   "strong.dat.f": [
+    "weiter"
+   ],
+   "superlative": [
+    "am weitesten",
+    "weitester",
+    "weiteste",
+    "weitestes",
+    "weitesten",
+    "weitestem",
+    "der weiteste",
+    "die weiteste",
+    "das weiteste",
+    "die weitesten",
+    "des weitesten",
+    "der weitesten",
+    "dem weitesten",
+    "den weitesten",
+    "ein weitester",
+    "eine weiteste",
+    "ein weitestes",
+    "eines weitesten",
+    "einer weitesten",
+    "einem weitesten",
+    "einen weitesten"
+   ],
+   "weak.nom.m": [
+    "der weite"
+   ]
+  }
+ },
+ "werden": {
+  "all": [
+   "geworden",
+   "sein",
+   "seist",
+   "ward",
+   "wardst",
+   "werd",
+   "werde",
+   "werden",
+   "werdend",
+   "werdest",
+   "werdet",
+   "wird",
+   "wirst",
+   "worden",
+   "wurde",
+   "wurden",
+   "wurdest",
+   "wurdet",
+   "würde",
+   "würden",
+   "würdest",
+   "würdet"
+  ],
+  "english": "to become",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "werd",
+    "werde"
+   ],
+   "perf.er": [
+    "ist geworden"
+   ],
+   "pres.du": [
+    "wirst"
+   ],
+   "pres.er": [
+    "wird"
+   ],
+   "pres.ich": [
+    "werde"
+   ],
+   "pres.ihr": [
+    "werdet"
+   ],
+   "pres.wir": [
+    "werden"
+   ],
+   "pret.er": [
+    "wurde"
+   ]
+  }
+ },
+ "wichtig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "wichtig",
+   "wichtige",
+   "wichtigem",
+   "wichtigen",
+   "wichtiger",
+   "wichtigere",
+   "wichtigerem",
+   "wichtigeren",
+   "wichtigerer",
+   "wichtigeres",
+   "wichtiges",
+   "wichtigste",
+   "wichtigstem",
+   "wichtigsten",
+   "wichtigster",
+   "wichtigstes"
+  ],
+  "english": "important",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "wichtiger",
+    "wichtigerer",
+    "wichtigere",
+    "wichtigeres",
+    "wichtigeren",
+    "wichtigerem",
+    "der wichtigere",
+    "die wichtigere",
+    "das wichtigere",
+    "die wichtigeren",
+    "des wichtigeren",
+    "der wichtigeren",
+    "dem wichtigeren",
+    "den wichtigeren",
+    "ein wichtigerer",
+    "eine wichtigere",
+    "ein wichtigeres",
+    "eines wichtigeren",
+    "einer wichtigeren",
+    "einem wichtigeren",
+    "einen wichtigeren"
+   ],
+   "mixed.acc.m": [
+    "einen wichtigen"
+   ],
+   "mixed.nom.n": [
+    "ein wichtiges"
+   ],
+   "strong.dat.f": [
+    "wichtiger"
+   ],
+   "superlative": [
+    "am wichtigsten",
+    "wichtigster",
+    "wichtigste",
+    "wichtigstes",
+    "wichtigsten",
+    "wichtigstem",
+    "der wichtigste",
+    "die wichtigste",
+    "das wichtigste",
+    "die wichtigsten",
+    "des wichtigsten",
+    "der wichtigsten",
+    "dem wichtigsten",
+    "den wichtigsten",
+    "ein wichtigster",
+    "eine wichtigste",
+    "ein wichtigstes",
+    "eines wichtigsten",
+    "einer wichtigsten",
+    "einem wichtigsten",
+    "einen wichtigsten"
+   ],
+   "weak.nom.m": [
+    "der wichtige"
+   ]
+  }
+ },
+ "wissen": {
+  "all": [
+   "gewusst",
+   "haben",
+   "habest",
+   "habet",
+   "weiß",
+   "weißt",
+   "werdest",
+   "wisse",
+   "wissen",
+   "wissend",
+   "wissest",
+   "wisset",
+   "wisst",
+   "wusste",
+   "wussten",
+   "wusstest",
+   "wusstet",
+   "wüsste",
+   "wüssten",
+   "wüsstest",
+   "wüsstet"
+  ],
+  "english": "to know (a fact)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "wisse"
+   ],
+   "perf.er": [
+    "hat gewusst"
+   ],
+   "pres.du": [
+    "weißt"
+   ],
+   "pres.er": [
+    "weiß"
+   ],
+   "pres.ich": [
+    "weiß"
+   ],
+   "pres.ihr": [
+    "wisst"
+   ],
+   "pres.wir": [
+    "wissen"
+   ],
+   "pret.er": [
+    "wusste"
+   ]
+  }
+ },
+ "wollen": {
+  "all": [
+   "gewollt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest",
+   "will",
+   "willst",
+   "wolle",
+   "wollen",
+   "wollend",
+   "wollest",
+   "wollet",
+   "wollt",
+   "wollte",
+   "wollten",
+   "wolltest",
+   "wolltet"
+  ],
+  "english": "to want",
+  "pos": "verb",
+  "slots": {
+   "perf.er": [
+    "hat gewollt"
+   ],
+   "pres.du": [
+    "willst"
+   ],
+   "pres.er": [
+    "will"
+   ],
+   "pres.ich": [
+    "will"
+   ],
+   "pres.ihr": [
+    "wollt"
+   ],
+   "pres.wir": [
+    "wollen"
+   ],
+   "pret.er": [
+    "wollte"
+   ]
+  }
+ }
+}
