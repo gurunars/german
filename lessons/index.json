@@ -10,6 +10,11 @@
       "name": "Lesson 2 · Having things: haben, ein/eine, the accusative",
       "url": "02-haben.json",
       "cards": 33
+    },
+    {
+      "name": "Lesson 3 · Doing things: regular verbs in the present, the verb second",
+      "url": "03-verbs.json",
+      "cards": 40
     }
   ]
 }

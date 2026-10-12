@@ -364,6 +364,42 @@
    ]
   }
  },
+ "Fußball": {
+  "all": [
+   "Fussball",
+   "Fußball",
+   "Fußballe",
+   "Fußballes",
+   "Fußballs",
+   "Fußbälle",
+   "Fußbällen"
+  ],
+  "english": "football",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Fußball"
+   ],
+   "dat.pl": [
+    "Fußbällen"
+   ],
+   "dat.sg": [
+    "Fußball",
+    "Fußballe"
+   ],
+   "gen.sg": [
+    "Fußballs",
+    "Fußballes"
+   ],
+   "nom.pl": [
+    "Fußbälle"
+   ],
+   "nom.sg": [
+    "Fußball"
+   ]
+  }
+ },
  "Haus": {
   "all": [
    "Haus",
@@ -516,6 +552,50 @@
    ],
    "nom.sg": [
     "Junge"
+   ]
+  }
+ },
+ "Kaffee": {
+  "all": [
+   "Caffe",
+   "Caffee",
+   "Caffeh",
+   "Coffe",
+   "Coffee",
+   "Coffeh",
+   "Kaffe",
+   "Kaffee",
+   "Kaffeechen",
+   "Kaffeelein",
+   "Kaffees",
+   "Kaffeh",
+   "Koffe",
+   "Koffee",
+   "Koffeh",
+   "Käffchen",
+   "Käfflein"
+  ],
+  "english": "coffee",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Kaffee"
+   ],
+   "dat.pl": [
+    "Kaffees"
+   ],
+   "dat.sg": [
+    "Kaffee"
+   ],
+   "gen.sg": [
+    "Kaffees"
+   ],
+   "nom.pl": [
+    "Kaffees"
+   ],
+   "nom.sg": [
+    "Kaffee"
    ]
   }
  },
@@ -713,6 +793,36 @@
    ],
    "nom.sg": [
     "Mann"
+   ]
+  }
+ },
+ "Musik": {
+  "all": [
+   "Musik",
+   "Musikchen",
+   "Musiken"
+  ],
+  "english": "music",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Musik"
+   ],
+   "dat.pl": [
+    "Musiken"
+   ],
+   "dat.sg": [
+    "Musik"
+   ],
+   "gen.sg": [
+    "Musik"
+   ],
+   "nom.pl": [
+    "Musiken"
+   ],
+   "nom.sg": [
+    "Musik"
    ]
   }
  },
@@ -1091,6 +1201,42 @@
    ]
   }
  },
+ "Wasser": {
+  "all": [
+   "Wasser",
+   "Wassern",
+   "Wassers",
+   "Wässer",
+   "Wässerchen",
+   "Wässerlein",
+   "Wässern"
+  ],
+  "english": "water",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Wasser"
+   ],
+   "dat.pl": [
+    "Wassern",
+    "Wässern"
+   ],
+   "dat.sg": [
+    "Wasser"
+   ],
+   "gen.sg": [
+    "Wassers"
+   ],
+   "nom.pl": [
+    "Wasser",
+    "Wässer"
+   ],
+   "nom.sg": [
+    "Wasser"
+   ]
+  }
+ },
  "Weg": {
   "all": [
    "Weg",
@@ -1301,6 +1447,54 @@
    ],
    "weak.nom.m": [
     "der alte"
+   ]
+  }
+ },
+ "arbeiten": {
+  "all": [
+   "arbeit",
+   "arbeite",
+   "arbeiten",
+   "arbeitend",
+   "arbeitest",
+   "arbeitet",
+   "arbeitete",
+   "arbeiteten",
+   "arbeitetest",
+   "arbeitetet",
+   "gearbeitet",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to work",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "arbeit",
+    "arbeite"
+   ],
+   "perf.er": [
+    "hat gearbeitet"
+   ],
+   "pres.du": [
+    "arbeitest"
+   ],
+   "pres.er": [
+    "arbeitet"
+   ],
+   "pres.ich": [
+    "arbeite"
+   ],
+   "pres.ihr": [
+    "arbeitet"
+   ],
+   "pres.wir": [
+    "arbeiten"
+   ],
+   "pret.er": [
+    "arbeitete"
    ]
   }
  },
@@ -1837,6 +2031,59 @@
    ]
   }
  },
+ "gehen": {
+  "all": [
+   "gegangen",
+   "geh",
+   "gehe",
+   "gehen",
+   "gehend",
+   "gehest",
+   "gehet",
+   "gehn",
+   "gehst",
+   "geht",
+   "ging",
+   "ginge",
+   "gingen",
+   "gingest",
+   "ginget",
+   "gingst",
+   "gingt",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to go",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "geh",
+    "gehe"
+   ],
+   "perf.er": [
+    "ist gegangen"
+   ],
+   "pres.du": [
+    "gehst"
+   ],
+   "pres.er": [
+    "geht"
+   ],
+   "pres.ich": [
+    "gehe"
+   ],
+   "pres.ihr": [
+    "geht"
+   ],
+   "pres.wir": [
+    "gehen"
+   ],
+   "pret.er": [
+    "ging"
+   ]
+  }
+ },
  "glauben": {
   "all": [
    "geglaubt",
@@ -2340,6 +2587,57 @@
    ]
   }
  },
+ "kaufen": {
+  "all": [
+   "gekauft",
+   "haben",
+   "habest",
+   "habet",
+   "kauf",
+   "kaufe",
+   "kaufen",
+   "kaufend",
+   "kaufest",
+   "kaufet",
+   "kaufst",
+   "kauft",
+   "kaufte",
+   "kauften",
+   "kauftest",
+   "kauftet",
+   "käufen",
+   "werdest"
+  ],
+  "english": "to buy",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "kauf",
+    "kaufe"
+   ],
+   "perf.er": [
+    "hat gekauft"
+   ],
+   "pres.du": [
+    "kaufst"
+   ],
+   "pres.er": [
+    "kauft"
+   ],
+   "pres.ich": [
+    "kaufe"
+   ],
+   "pres.ihr": [
+    "kauft"
+   ],
+   "pres.wir": [
+    "kaufen"
+   ],
+   "pret.er": [
+    "kaufte"
+   ]
+  }
+ },
  "klar": {
   "all": [
    "am",
@@ -2512,6 +2810,56 @@
    ]
   }
  },
+ "kochen": {
+  "all": [
+   "gekocht",
+   "haben",
+   "habest",
+   "habet",
+   "koch",
+   "koche",
+   "kochen",
+   "kochend",
+   "kochest",
+   "kochet",
+   "kochst",
+   "kocht",
+   "kochte",
+   "kochten",
+   "kochtest",
+   "kochtet",
+   "werdest"
+  ],
+  "english": "to cook",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "koch",
+    "koche"
+   ],
+   "perf.er": [
+    "hat gekocht"
+   ],
+   "pres.du": [
+    "kochst"
+   ],
+   "pres.er": [
+    "kocht"
+   ],
+   "pres.ich": [
+    "koche"
+   ],
+   "pres.ihr": [
+    "kocht"
+   ],
+   "pres.wir": [
+    "kochen"
+   ],
+   "pret.er": [
+    "kochte"
+   ]
+  }
+ },
  "kommen": {
   "all": [
    "gekommen",
@@ -2671,6 +3019,106 @@
    ],
    "pret.er": [
     "lebte"
+   ]
+  }
+ },
+ "lernen": {
+  "all": [
+   "gelernt",
+   "haben",
+   "habest",
+   "habet",
+   "lern",
+   "lerne",
+   "lernen",
+   "lernend",
+   "lernest",
+   "lernet",
+   "lernst",
+   "lernt",
+   "lernte",
+   "lernten",
+   "lerntest",
+   "lerntet",
+   "werdest"
+  ],
+  "english": "to learn, to study",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lern",
+    "lerne"
+   ],
+   "perf.er": [
+    "hat gelernt"
+   ],
+   "pres.du": [
+    "lernst"
+   ],
+   "pres.er": [
+    "lernt"
+   ],
+   "pres.ich": [
+    "lerne"
+   ],
+   "pres.ihr": [
+    "lernt"
+   ],
+   "pres.wir": [
+    "lernen"
+   ],
+   "pret.er": [
+    "lernte"
+   ]
+  }
+ },
+ "machen": {
+  "all": [
+   "gemacht",
+   "haben",
+   "habest",
+   "habet",
+   "mach",
+   "mache",
+   "machen",
+   "machend",
+   "machest",
+   "machet",
+   "machst",
+   "macht",
+   "machte",
+   "machten",
+   "machtest",
+   "machtet",
+   "werdest"
+  ],
+  "english": "to do, to make",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "mach",
+    "mache"
+   ],
+   "perf.er": [
+    "hat gemacht"
+   ],
+   "pres.du": [
+    "machst"
+   ],
+   "pres.er": [
+    "macht"
+   ],
+   "pres.ich": [
+    "mache"
+   ],
+   "pres.ihr": [
+    "macht"
+   ],
+   "pres.wir": [
+    "machen"
+   ],
+   "pret.er": [
+    "machte"
    ]
   }
  },
@@ -3523,6 +3971,56 @@
    ]
   }
  },
+ "spielen": {
+  "all": [
+   "gespielt",
+   "haben",
+   "habest",
+   "habet",
+   "spiel",
+   "spiele",
+   "spielen",
+   "spielend",
+   "spielest",
+   "spielet",
+   "spielst",
+   "spielt",
+   "spielte",
+   "spielten",
+   "spieltest",
+   "spieltet",
+   "werdest"
+  ],
+  "english": "to play",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "spiel",
+    "spiele"
+   ],
+   "perf.er": [
+    "hat gespielt"
+   ],
+   "pres.du": [
+    "spielst"
+   ],
+   "pres.er": [
+    "spielt"
+   ],
+   "pres.ich": [
+    "spiele"
+   ],
+   "pres.ihr": [
+    "spielt"
+   ],
+   "pres.wir": [
+    "spielen"
+   ],
+   "pret.er": [
+    "spielte"
+   ]
+  }
+ },
  "toll": {
   "all": [
    "am",
@@ -3606,6 +4104,62 @@
    ],
    "weak.nom.m": [
     "der tolle"
+   ]
+  }
+ },
+ "trinken": {
+  "all": [
+   "getrunken",
+   "haben",
+   "habest",
+   "habet",
+   "trank",
+   "tranken",
+   "trankst",
+   "trankt",
+   "trink",
+   "trinke",
+   "trinken",
+   "trinkend",
+   "trinkest",
+   "trinket",
+   "trinkst",
+   "trinkt",
+   "tränke",
+   "tränken",
+   "tränkest",
+   "tränket",
+   "tränkst",
+   "tränkt",
+   "werdest"
+  ],
+  "english": "to drink",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "trink",
+    "trinke"
+   ],
+   "perf.er": [
+    "hat getrunken"
+   ],
+   "pres.du": [
+    "trinkst"
+   ],
+   "pres.er": [
+    "trinkt"
+   ],
+   "pres.ich": [
+    "trinke"
+   ],
+   "pres.ihr": [
+    "trinkt"
+   ],
+   "pres.wir": [
+    "trinken"
+   ],
+   "pret.er": [
+    "trank"
    ]
   }
  },
@@ -3886,6 +4440,56 @@
    ],
    "pret.er": [
     "wusste"
+   ]
+  }
+ },
+ "wohnen": {
+  "all": [
+   "gewohnt",
+   "haben",
+   "habest",
+   "habet",
+   "werdest",
+   "wohn",
+   "wohne",
+   "wohnen",
+   "wohnend",
+   "wohnest",
+   "wohnet",
+   "wohnst",
+   "wohnt",
+   "wohnte",
+   "wohnten",
+   "wohntest",
+   "wohntet"
+  ],
+  "english": "to live (somewhere)",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "wohn",
+    "wohne"
+   ],
+   "perf.er": [
+    "hat gewohnt"
+   ],
+   "pres.du": [
+    "wohnst"
+   ],
+   "pres.er": [
+    "wohnt"
+   ],
+   "pres.ich": [
+    "wohne"
+   ],
+   "pres.ihr": [
+    "wohnt"
+   ],
+   "pres.wir": [
+    "wohnen"
+   ],
+   "pret.er": [
+    "wohnte"
    ]
   }
  },

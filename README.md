@@ -48,6 +48,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 
 - [Lesson 1 · Being and naming: sein, pronouns, der/die/das](lessons/01-sein.json) — 36 cards
 - [Lesson 2 · Having things: haben, ein/eine, the accusative](lessons/02-haben.json) — 33 cards
+- [Lesson 3 · Doing things: regular verbs in the present, the verb second](lessons/03-verbs.json) — 40 cards
 
 ## Decks
 

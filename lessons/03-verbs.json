@@ -1,0 +1,248 @@
+{
+  "name": "Lesson 3 · Doing things: regular verbs in the present, the verb second",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **live** here.",
+      "back": "Ich **wohne** hier.",
+      "note": "Regular verbs: present-tense endings. ich: the stem wohn- (the infinitive minus -en) plus -e.",
+      "priority": 1
+    },
+    {
+      "front": "You **live** here too.",
+      "back": "Du **wohnst** auch hier.",
+      "note": "Regular verbs: present-tense endings. du: the stem plus -st.",
+      "priority": 1
+    },
+    {
+      "front": "She **lives** here.",
+      "back": "Sie **wohnt** hier.",
+      "note": "Regular verbs: present-tense endings. er, sie and es: the stem plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "We **are learning** German.",
+      "back": "Wir **lernen** Deutsch.",
+      "note": "Regular verbs: present-tense endings. wir: the stem plus -en, the same as the infinitive. German has one present for both we learn and we are learning.",
+      "priority": 1
+    },
+    {
+      "front": "You **are learning** German. (several friends)",
+      "back": "Ihr **lernt** Deutsch.",
+      "note": "Regular verbs: present-tense endings. ihr: the stem plus -t, the same ending as er.",
+      "priority": 1
+    },
+    {
+      "front": "They **play** football.",
+      "back": "Sie **spielen** Fußball.",
+      "note": "Regular verbs: present-tense endings. sie (they) takes -en, like wir.",
+      "priority": 1
+    },
+    {
+      "front": "You **are buying** a car. (formal)",
+      "back": "Sie **kaufen** ein Auto.",
+      "note": "Regular verbs: present-tense endings. Formal Sie takes -en, like wir and they.",
+      "priority": 1
+    },
+    {
+      "front": "I **am working** today.",
+      "back": "Ich **arbeite** heute.",
+      "note": "Regular verbs: present-tense endings. ich: arbeit- plus -e.",
+      "priority": 1
+    },
+    {
+      "front": "You **are working** today. (one friend)",
+      "back": "Du **arbeitest** heute.",
+      "note": "Regular verbs: present-tense endings. The stem ends in -t, so an extra e goes before -st to make it sayable: arbeitest.",
+      "priority": 1
+    },
+    {
+      "front": "He **works** tomorrow.",
+      "back": "Er **arbeitet** morgen.",
+      "note": "Regular verbs: present-tense endings. After a stem in -t, er takes -et: arbeitet. German uses the present for plans too.",
+      "priority": 1
+    },
+    {
+      "front": "You **are working** tomorrow. (several friends)",
+      "back": "Ihr **arbeitet** morgen.",
+      "note": "Regular verbs: present-tense endings. ihr also needs the extra e after the t: arbeitet.",
+      "priority": 1
+    },
+    {
+      "front": "He **drinks** coffee.",
+      "back": "Er **trinkt** Kaffee.",
+      "note": "Regular verbs: present-tense endings. trink- plus -t. Kaffee has no article here, as in English.",
+      "priority": 1
+    },
+    {
+      "front": "I **drink** water.",
+      "back": "Ich **trinke** Wasser.",
+      "note": "Regular verbs: present-tense endings. trink- plus -e.",
+      "priority": 1
+    },
+    {
+      "front": "The child **is playing**.",
+      "back": "Das Kind **spielt**.",
+      "note": "Regular verbs: present-tense endings. A noun subject takes the er ending: -t.",
+      "priority": 1
+    },
+    {
+      "front": "The cat **is drinking** water.",
+      "back": "Die Katze **trinkt** Wasser.",
+      "note": "Regular verbs: present-tense endings. die Katze is one subject, so trinkt, like sie.",
+      "priority": 1
+    },
+    {
+      "front": "We **are buying** a table.",
+      "back": "Wir **kaufen** einen Tisch.",
+      "note": "Regular verbs: present-tense endings. wir kaufen; the object der Tisch becomes einen Tisch.",
+      "priority": 1
+    },
+    {
+      "front": "She **buys** an apple.",
+      "back": "Sie **kauft** einen Apfel.",
+      "note": "Regular verbs: present-tense endings. kauf- plus -t; sie with -t means she, not they.",
+      "priority": 1
+    },
+    {
+      "front": "You **are cooking** today. (one friend)",
+      "back": "Du **kochst** heute.",
+      "note": "Regular verbs: present-tense endings. koch- plus -st.",
+      "priority": 1
+    },
+    {
+      "front": "The man often **cooks**.",
+      "back": "Der Mann **kocht** oft.",
+      "note": "Regular verbs: present-tense endings. koch- plus -t. oft comes after the verb, not before it as in English.",
+      "priority": 1
+    },
+    {
+      "front": "She **listens to** music.",
+      "back": "Sie **hört** Musik.",
+      "note": "Regular verbs: present-tense endings. hören takes its object directly: no word for to.",
+      "priority": 1
+    },
+    {
+      "front": "We often **listen to** music.",
+      "back": "Wir **hören** oft Musik.",
+      "note": "Regular verbs: present-tense endings. wir hören; oft follows the verb.",
+      "priority": 1
+    },
+    {
+      "front": "I like **playing** football.",
+      "back": "Ich **spiele** gern Fußball.",
+      "note": "Regular verbs: present-tense endings. German says I play gladly: gern after the verb means you like doing it.",
+      "priority": 1
+    },
+    {
+      "front": "We like **cooking**.",
+      "back": "Wir **kochen** gern.",
+      "note": "Regular verbs: present-tense endings. wir kochen + gern: we like to cook.",
+      "priority": 1
+    },
+    {
+      "front": "She likes **drinking** coffee.",
+      "back": "Sie **trinkt** gern Kaffee.",
+      "note": "Regular verbs: present-tense endings. The verb stays the main verb; gern only adds the liking.",
+      "priority": 1
+    },
+    {
+      "front": "You **are coming** tomorrow. (one friend)",
+      "back": "Du **kommst** morgen.",
+      "note": "Regular verbs: present-tense endings. komm- plus -st.",
+      "priority": 1
+    },
+    {
+      "front": "We **are going** now.",
+      "back": "Wir **gehen** jetzt.",
+      "note": "Regular verbs: present-tense endings. wir gehen: the -en form, the same as the infinitive.",
+      "priority": 1
+    },
+    {
+      "front": "The brother **is coming** today.",
+      "back": "Der Bruder **kommt** heute.",
+      "note": "Regular verbs: present-tense endings. komm- plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "He **is making** coffee.",
+      "back": "Er **macht** Kaffee.",
+      "note": "Regular verbs: present-tense endings. machen covers both make and do.",
+      "priority": 1
+    },
+    {
+      "front": "The child **is learning** German.",
+      "back": "Das Kind **lernt** Deutsch.",
+      "note": "Regular verbs: present-tense endings. lern- plus -t.",
+      "priority": 1
+    },
+    {
+      "front": "I **am going** now.",
+      "back": "Ich **gehe** jetzt.",
+      "note": "Regular verbs: present-tense endings. geh- plus -e.",
+      "priority": 1
+    },
+    {
+      "front": "Today I **am working**.",
+      "back": "Heute **arbeite** ich.",
+      "note": "The verb comes second. heute takes the first place, so the verb stays second and ich moves after it.",
+      "priority": 1
+    },
+    {
+      "front": "Tomorrow we **are cooking**.",
+      "back": "Morgen **kochen** wir.",
+      "note": "The verb comes second. Only one thing goes before the verb: morgen, then the verb, then wir.",
+      "priority": 1
+    },
+    {
+      "front": "Now he **is drinking** coffee.",
+      "back": "Jetzt **trinkt** er Kaffee.",
+      "note": "The verb comes second. jetzt first, verb second, then the subject er.",
+      "priority": 1
+    },
+    {
+      "front": "Today she **is buying** a bicycle.",
+      "back": "Heute **kauft** sie ein Fahrrad.",
+      "note": "The verb comes second. English keeps she before the verb; German puts the verb second and sie after it.",
+      "priority": 1
+    },
+    {
+      "front": "Tomorrow the woman **is coming**.",
+      "back": "Morgen **kommt** die Frau.",
+      "note": "The verb comes second. A noun subject also moves behind the verb: kommt die Frau.",
+      "priority": 1
+    },
+    {
+      "front": "We **live** here.",
+      "back": "Hier **wohnen** wir.",
+      "note": "The verb comes second. hier can open the sentence too; then the verb comes second and wir follows.",
+      "priority": 1
+    },
+    {
+      "front": "Today I **have** time.",
+      "back": "Heute **habe** ich Zeit.",
+      "note": "The verb comes second. Any verb keeps the second place: heute, habe, ich.",
+      "priority": 1
+    },
+    {
+      "front": "Today the child **is** tired.",
+      "back": "Heute **ist** das Kind müde.",
+      "note": "The verb comes second. heute first, ist second, das Kind third.",
+      "priority": 1
+    },
+    {
+      "front": "I am working today, but tomorrow I **have** time.",
+      "back": "Ich arbeite heute, aber morgen **habe** ich Zeit.",
+      "note": "The verb comes second. aber stands outside the count; morgen is first, so habe comes second.",
+      "priority": 1
+    },
+    {
+      "front": "We play football often, and today we **are playing** too.",
+      "back": "Wir spielen oft Fußball, und heute **spielen** wir auch.",
+      "note": "The verb comes second. und does not count as a position: heute is first, spielen second.",
+      "priority": 1
+    }
+  ]
+}

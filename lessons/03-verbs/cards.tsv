@@ -1,0 +1,41 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+present.regular	wohnen	pres.ich	I **live** here.	Ich **wohne** hier.	ich: the stem wohn- (the infinitive minus -en) plus -e.
+present.regular	wohnen	pres.du	You **live** here too.	Du **wohnst** auch hier.	du: the stem plus -st.
+present.regular	wohnen	pres.er	She **lives** here.	Sie **wohnt** hier.	er, sie and es: the stem plus -t.
+present.regular	lernen	pres.wir	We **are learning** German.	Wir **lernen** Deutsch.	wir: the stem plus -en, the same as the infinitive. German has one present for both we learn and we are learning.
+present.regular	lernen	pres.ihr	You **are learning** German. (several friends)	Ihr **lernt** Deutsch.	ihr: the stem plus -t, the same ending as er.
+present.regular	spielen	pres.wir	They **play** football.	Sie **spielen** Fußball.	sie (they) takes -en, like wir.
+present.regular	kaufen	pres.wir	You **are buying** a car. (formal)	Sie **kaufen** ein Auto.	Formal Sie takes -en, like wir and they.
+present.regular	arbeiten	pres.ich	I **am working** today.	Ich **arbeite** heute.	ich: arbeit- plus -e.
+present.regular	arbeiten	pres.du	You **are working** today. (one friend)	Du **arbeitest** heute.	The stem ends in -t, so an extra e goes before -st to make it sayable: arbeitest.
+present.regular	arbeiten	pres.er	He **works** tomorrow.	Er **arbeitet** morgen.	After a stem in -t, er takes -et: arbeitet. German uses the present for plans too.
+present.regular	arbeiten	pres.ihr	You **are working** tomorrow. (several friends)	Ihr **arbeitet** morgen.	ihr also needs the extra e after the t: arbeitet.
+present.regular	trinken	pres.er	He **drinks** coffee.	Er **trinkt** Kaffee.	trink- plus -t. Kaffee has no article here, as in English.
+present.regular	trinken	pres.ich	I **drink** water.	Ich **trinke** Wasser.	trink- plus -e.
+present.regular	spielen	pres.er	The child **is playing**.	Das Kind **spielt**.	A noun subject takes the er ending: -t.
+present.regular	trinken	pres.er	The cat **is drinking** water.	Die Katze **trinkt** Wasser.	die Katze is one subject, so trinkt, like sie.
+present.regular	kaufen	pres.wir	We **are buying** a table.	Wir **kaufen** einen Tisch.	wir kaufen; the object der Tisch becomes einen Tisch.
+present.regular	kaufen	pres.er	She **buys** an apple.	Sie **kauft** einen Apfel.	kauf- plus -t; sie with -t means she, not they.
+present.regular	kochen	pres.du	You **are cooking** today. (one friend)	Du **kochst** heute.	koch- plus -st.
+present.regular	kochen	pres.er	The man often **cooks**.	Der Mann **kocht** oft.	koch- plus -t. oft comes after the verb, not before it as in English.
+present.regular	hören	pres.er	She **listens to** music.	Sie **hört** Musik.	hören takes its object directly: no word for to.
+present.regular	hören	pres.wir	We often **listen to** music.	Wir **hören** oft Musik.	wir hören; oft follows the verb.
+present.regular	spielen	pres.ich	I like **playing** football.	Ich **spiele** gern Fußball.	German says I play gladly: gern after the verb means you like doing it.
+present.regular	kochen	pres.wir	We like **cooking**.	Wir **kochen** gern.	wir kochen + gern: we like to cook.
+present.regular	trinken	pres.er	She likes **drinking** coffee.	Sie **trinkt** gern Kaffee.	The verb stays the main verb; gern only adds the liking.
+present.regular	kommen	pres.du	You **are coming** tomorrow. (one friend)	Du **kommst** morgen.	komm- plus -st.
+present.regular	gehen	pres.wir	We **are going** now.	Wir **gehen** jetzt.	wir gehen: the -en form, the same as the infinitive.
+present.regular	kommen	pres.er	The brother **is coming** today.	Der Bruder **kommt** heute.	komm- plus -t.
+present.regular	machen	pres.er	He **is making** coffee.	Er **macht** Kaffee.	machen covers both make and do.
+present.regular	lernen	pres.er	The child **is learning** German.	Das Kind **lernt** Deutsch.	lern- plus -t.
+present.regular	gehen	pres.ich	I **am going** now.	Ich **gehe** jetzt.	geh- plus -e.
+verb.second	arbeiten	pres.ich	Today I **am working**.	Heute **arbeite** ich.	heute takes the first place, so the verb stays second and ich moves after it.
+verb.second	kochen	pres.wir	Tomorrow we **are cooking**.	Morgen **kochen** wir.	Only one thing goes before the verb: morgen, then the verb, then wir.
+verb.second	trinken	pres.er	Now he **is drinking** coffee.	Jetzt **trinkt** er Kaffee.	jetzt first, verb second, then the subject er.
+verb.second	kaufen	pres.er	Today she **is buying** a bicycle.	Heute **kauft** sie ein Fahrrad.	English keeps she before the verb; German puts the verb second and sie after it.
+verb.second	kommen	pres.er	Tomorrow the woman **is coming**.	Morgen **kommt** die Frau.	A noun subject also moves behind the verb: kommt die Frau.
+verb.second	wohnen	pres.wir	We **live** here.	Hier **wohnen** wir.	hier can open the sentence too; then the verb comes second and wir follows.
+verb.second	haben	pres.ich	Today I **have** time.	Heute **habe** ich Zeit.	Any verb keeps the second place: heute, habe, ich.
+verb.second	sein	pres.er	Today the child **is** tired.	Heute **ist** das Kind müde.	heute first, ist second, das Kind third.
+verb.second	haben	pres.ich	I am working today, but tomorrow I **have** time.	Ich arbeite heute, aber morgen **habe** ich Zeit.	aber stands outside the count; morgen is first, so habe comes second.
+verb.second	spielen	pres.wir	We play football often, and today we **are playing** too.	Wir spielen oft Fußball, und heute **spielen** wir auch.	und does not count as a position: heute is first, spielen second.
