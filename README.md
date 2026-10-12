@@ -50,6 +50,7 @@ Dave (OpenSubtitles 2018, German, top 50,000 forms), licensed
 - [Lesson 2 · Having things: haben, ein/eine, the accusative](lessons/02-haben.json) — 33 cards
 - [Lesson 3 · Doing things: regular verbs in the present, the verb second](lessons/03-verbs.json) — 40 cards
 - [Lesson 4 · Saying no: nicht and kein](lessons/04-negation.json) — 37 cards
+- [Lesson 5 · Asking: W-questions and yes/no questions](lessons/05-questions.json) — 38 cards
 
 ## Decks
 

@@ -1,0 +1,236 @@
+{
+  "name": "Lesson 5 · Asking: W-questions and yes/no questions",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "**Who** is that?",
+      "back": "**Wer** ist das?",
+      "note": "W-questions: the question word, then the verb. wer asks about a person. The question word comes first, the verb second.",
+      "priority": 1
+    },
+    {
+      "front": "**Who** is the teacher?",
+      "back": "**Wer** ist der Lehrer?",
+      "note": "W-questions: the question word, then the verb. wer: who. Not to be confused with wo, which means where.",
+      "priority": 1
+    },
+    {
+      "front": "**Who** is coming tomorrow?",
+      "back": "**Wer** kommt morgen?",
+      "note": "W-questions: the question word, then the verb. wer is the subject here, so the verb takes the er form: kommt.",
+      "priority": 1
+    },
+    {
+      "front": "**What** is that?",
+      "back": "**Was** ist das?",
+      "note": "W-questions: the question word, then the verb. was asks about a thing.",
+      "priority": 1
+    },
+    {
+      "front": "**What** are you drinking? (one friend)",
+      "back": "**Was** trinkst du?",
+      "note": "W-questions: the question word, then the verb. was first, the verb second, then du: no do-helper.",
+      "priority": 1
+    },
+    {
+      "front": "What **does** the coffee **cost**?",
+      "back": "Was **kostet** der Kaffee?",
+      "note": "W-questions: the question word, then the verb. The stem kost- ends in -t, so er takes -et: kostet.",
+      "priority": 1
+    },
+    {
+      "front": "What **does** that **cost**?",
+      "back": "Was **kostet** das?",
+      "note": "W-questions: the question word, then the verb. The verb comes second, right after the question word.",
+      "priority": 1
+    },
+    {
+      "front": "**Where** do you live? (one friend)",
+      "back": "**Wo** wohnst du?",
+      "note": "W-questions: the question word, then the verb. wo asks where something or someone is.",
+      "priority": 1
+    },
+    {
+      "front": "**Where** is the station?",
+      "back": "**Wo** ist der Bahnhof?",
+      "note": "W-questions: the question word, then the verb. wo + ist: where is.",
+      "priority": 1
+    },
+    {
+      "front": "**Where** is the cinema?",
+      "back": "**Wo** ist das Kino?",
+      "note": "W-questions: the question word, then the verb. wo: the place where something is.",
+      "priority": 1
+    },
+    {
+      "front": "I have a question: **where** is the station?",
+      "back": "Ich habe eine Frage: **Wo** ist der Bahnhof?",
+      "note": "W-questions: the question word, then the verb. A full question after a colon starts with a capital letter.",
+      "priority": 1
+    },
+    {
+      "front": "**Where** are you **from**? (one friend)",
+      "back": "**Woher** kommst du?",
+      "note": "W-questions: the question word, then the verb. woher is where from in one word, and it stays together at the front.",
+      "priority": 1
+    },
+    {
+      "front": "**Where** are you going? (one friend)",
+      "back": "**Wohin** gehst du?",
+      "note": "W-questions: the question word, then the verb. wohin asks for a direction, where to; wo is only for where something is.",
+      "priority": 1
+    },
+    {
+      "front": "**Where** are they going today?",
+      "back": "**Wohin** gehen sie heute?",
+      "note": "W-questions: the question word, then the verb. gehen asks wohin, not wo: the movement needs the -hin.",
+      "priority": 1
+    },
+    {
+      "front": "**What** is your name? (one friend)",
+      "back": "**Wie** heißt du?",
+      "note": "W-questions: the question word, then the verb. German asks how you are called: wie, not was.",
+      "priority": 1
+    },
+    {
+      "front": "What **is** your name? (one friend)",
+      "back": "Wie **heißt** du?",
+      "note": "W-questions: the question word, then the verb. The stem ends in ß, so du adds only -t: du heißt.",
+      "priority": 1
+    },
+    {
+      "front": "What **is** the dog **called**?",
+      "back": "Wie **heißt** der Hund?",
+      "note": "W-questions: the question word, then the verb. er heißt: the same form as du, because the stem already ends in ß.",
+      "priority": 1
+    },
+    {
+      "front": "**What** is the teacher's name? (a woman)",
+      "back": "**Wie** heißt die Lehrerin?",
+      "note": "W-questions: the question word, then the verb. Wie heißt…? asks for a name: literally how is she called.",
+      "priority": 1
+    },
+    {
+      "front": "How do you **like** the flat? (one friend)",
+      "back": "Wie **findest** du die Wohnung?",
+      "note": "W-questions: the question word, then the verb. The stem ends in -d, so du takes -est. Wie findest du…? asks what someone thinks of something.",
+      "priority": 1
+    },
+    {
+      "front": "**How** old is the house?",
+      "back": "**Wie** alt ist das Haus?",
+      "note": "W-questions: the question word, then the verb. wie before an adjective: how old, how big.",
+      "priority": 1
+    },
+    {
+      "front": "**How** big is the flat?",
+      "back": "**Wie** groß ist die Wohnung?",
+      "note": "W-questions: the question word, then the verb. wie + adjective, then the verb second.",
+      "priority": 1
+    },
+    {
+      "front": "**When** are you coming? (one friend)",
+      "back": "**Wann** kommst du?",
+      "note": "W-questions: the question word, then the verb. wann asks about time. Not wenn, which is a different word.",
+      "priority": 1
+    },
+    {
+      "front": "**When** does she work?",
+      "back": "**Wann** arbeitet sie?",
+      "note": "W-questions: the question word, then the verb. wann first, the verb second, the subject after it.",
+      "priority": 1
+    },
+    {
+      "front": "**Why** aren't you coming? (one friend)",
+      "back": "**Warum** kommst du nicht?",
+      "note": "W-questions: the question word, then the verb. warum: why. nicht still goes to the end.",
+      "priority": 1
+    },
+    {
+      "front": "**Why** are you buying a computer? (one friend)",
+      "back": "**Warum** kaufst du einen Computer?",
+      "note": "W-questions: the question word, then the verb. warum first, then the verb, then du, then the rest.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you tired? (one friend)",
+      "back": "**Bist** du müde?",
+      "note": "Yes/no questions: the verb first. In a yes/no question the verb comes first, before the subject.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **have** time? (one friend)",
+      "back": "**Hast** du Zeit?",
+      "note": "Yes/no questions: the verb first. No do-helper: the verb itself opens the question.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **live** here? (formal)",
+      "back": "**Wohnen** Sie hier?",
+      "note": "Yes/no questions: the verb first. The verb first, then Sie: wohnen Sie.",
+      "priority": 1
+    },
+    {
+      "front": "**Is** the flat expensive?",
+      "back": "**Ist** die Wohnung teuer?",
+      "note": "Yes/no questions: the verb first. ist first, then the subject die Wohnung.",
+      "priority": 1
+    },
+    {
+      "front": "**Does** he **smoke**?",
+      "back": "**Raucht** er?",
+      "note": "Yes/no questions: the verb first. English needs does; German just moves the verb to the front.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **coming** tomorrow? (several friends)",
+      "back": "**Kommt** ihr morgen?",
+      "note": "Yes/no questions: the verb first. ihr kommt becomes kommt ihr in the question.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **play** football? (one friend)",
+      "back": "**Spielst** du Fußball?",
+      "note": "Yes/no questions: the verb first. The du form keeps its -st when it moves to the front.",
+      "priority": 1
+    },
+    {
+      "front": "**Do** you **drink** coffee? (formal)",
+      "back": "**Trinken** Sie Kaffee?",
+      "note": "Yes/no questions: the verb first. The verb first, then Sie.",
+      "priority": 1
+    },
+    {
+      "front": "**Are** you **learning** German? (one friend)",
+      "back": "**Lernst** du Deutsch?",
+      "note": "Yes/no questions: the verb first. The verb first: lernst du.",
+      "priority": 1
+    },
+    {
+      "front": "**Is** the teacher ill? (a woman)",
+      "back": "**Ist** die Lehrerin krank?",
+      "note": "Yes/no questions: the verb first. ist first; die Lehrerin is the subject.",
+      "priority": 1
+    },
+    {
+      "front": "Isn't she coming? – **Yes**, she is!",
+      "back": "Kommt sie nicht? – **Doch**, sie kommt!",
+      "note": "Yes/no questions: the verb first. To say yes to a negative question, German uses doch; ja would sound like agreeing with the not.",
+      "priority": 1
+    },
+    {
+      "front": "Don't you have time? – **Yes**, I do!",
+      "back": "Hast du keine Zeit? – **Doch**, ich habe Zeit!",
+      "note": "Yes/no questions: the verb first. doch contradicts the negative: yes, I do have time.",
+      "priority": 1
+    },
+    {
+      "front": "Is the cinema expensive? – **No**, it is cheap.",
+      "back": "Ist das Kino teuer? – **Nein**, es ist billig.",
+      "note": "Yes/no questions: the verb first. A positive question gets ja or nein; doch is only for negative ones.",
+      "priority": 1
+    }
+  ]
+}

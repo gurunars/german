@@ -95,6 +95,43 @@
    ]
   }
  },
+ "Bahnhof": {
+  "all": [
+   "Bahnhof",
+   "Bahnhofe",
+   "Bahnhofes",
+   "Bahnhofs",
+   "Bahnhöfe",
+   "Bahnhöfen",
+   "Bf",
+   "Bhf"
+  ],
+  "english": "station",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Bahnhof"
+   ],
+   "dat.pl": [
+    "Bahnhöfen"
+   ],
+   "dat.sg": [
+    "Bahnhof",
+    "Bahnhofe"
+   ],
+   "gen.sg": [
+    "Bahnhofs",
+    "Bahnhofes"
+   ],
+   "nom.pl": [
+    "Bahnhöfe"
+   ],
+   "nom.sg": [
+    "Bahnhof"
+   ]
+  }
+ },
  "Brot": {
   "all": [
    "Brod",
@@ -812,6 +849,35 @@
    ]
   }
  },
+ "Kino": {
+  "all": [
+   "Kino",
+   "Kinos"
+  ],
+  "english": "cinema",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Kino"
+   ],
+   "dat.pl": [
+    "Kinos"
+   ],
+   "dat.sg": [
+    "Kino"
+   ],
+   "gen.sg": [
+    "Kinos"
+   ],
+   "nom.pl": [
+    "Kinos"
+   ],
+   "nom.sg": [
+    "Kino"
+   ]
+  }
+ },
  "Kopf": {
   "all": [
    "Kopf",
@@ -910,6 +976,67 @@
    ],
    "nom.sg": [
     "Lampe"
+   ]
+  }
+ },
+ "Lehrer": {
+  "all": [
+   "Lehrer",
+   "Lehrerin",
+   "Lehrern",
+   "Lehrers"
+  ],
+  "english": "teacher (male)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Lehrer"
+   ],
+   "dat.pl": [
+    "Lehrern"
+   ],
+   "dat.sg": [
+    "Lehrer"
+   ],
+   "gen.sg": [
+    "Lehrers"
+   ],
+   "nom.pl": [
+    "Lehrer"
+   ],
+   "nom.sg": [
+    "Lehrer"
+   ]
+  }
+ },
+ "Lehrerin": {
+  "all": [
+   "Lehrer",
+   "Lehrerin",
+   "Lehrerinnen"
+  ],
+  "english": "teacher (female)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Lehrerin"
+   ],
+   "dat.pl": [
+    "Lehrerinnen"
+   ],
+   "dat.sg": [
+    "Lehrerin"
+   ],
+   "gen.sg": [
+    "Lehrerin"
+   ],
+   "nom.pl": [
+    "Lehrerinnen"
+   ],
+   "nom.sg": [
+    "Lehrerin"
    ]
   }
  },
@@ -2823,6 +2950,61 @@
    ]
   }
  },
+ "heißen": {
+  "all": [
+   "geheißen",
+   "haben",
+   "habest",
+   "habet",
+   "haißen",
+   "hayßen",
+   "heissen",
+   "heiß",
+   "heiße",
+   "heißen",
+   "heißend",
+   "heißest",
+   "heißet",
+   "heißt",
+   "heyßen",
+   "hieß",
+   "hieße",
+   "hießen",
+   "hießest",
+   "hießet",
+   "hießt",
+   "werdest"
+  ],
+  "english": "to be called",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "heiß",
+    "heiße"
+   ],
+   "perf.er": [
+    "hat geheißen"
+   ],
+   "pres.du": [
+    "heißt"
+   ],
+   "pres.er": [
+    "heißt"
+   ],
+   "pres.ich": [
+    "heiße"
+   ],
+   "pres.ihr": [
+    "heißt"
+   ],
+   "pres.wir": [
+    "heißen"
+   ],
+   "pret.er": [
+    "hieß"
+   ]
+  }
+ },
  "helfen": {
   "all": [
    "geholfen",
@@ -3344,6 +3526,54 @@
    ],
    "pret.er": [
     "kam"
+   ]
+  }
+ },
+ "kosten": {
+  "all": [
+   "gekostet",
+   "haben",
+   "habest",
+   "habet",
+   "kost",
+   "koste",
+   "kosten",
+   "kostend",
+   "kostest",
+   "kostet",
+   "kostete",
+   "kosteten",
+   "kostetest",
+   "kostetet",
+   "werdest"
+  ],
+  "english": "to cost",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "kost",
+    "koste"
+   ],
+   "perf.er": [
+    "hat gekostet"
+   ],
+   "pres.du": [
+    "kostest"
+   ],
+   "pres.er": [
+    "kostet"
+   ],
+   "pres.ich": [
+    "koste"
+   ],
+   "pres.ihr": [
+    "kostet"
+   ],
+   "pres.wir": [
+    "kosten"
+   ],
+   "pret.er": [
+    "kostete"
    ]
   }
  },

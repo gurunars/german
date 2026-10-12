@@ -1,0 +1,39 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+question.w	-	-	**Who** is that?	**Wer** ist das?	wer asks about a person. The question word comes first, the verb second.
+question.w	-	-	**Who** is the teacher?	**Wer** ist der Lehrer?	wer: who. Not to be confused with wo, which means where.
+question.w	-	-	**Who** is coming tomorrow?	**Wer** kommt morgen?	wer is the subject here, so the verb takes the er form: kommt.
+question.w	-	-	**What** is that?	**Was** ist das?	was asks about a thing.
+question.w	-	-	**What** are you drinking? (one friend)	**Was** trinkst du?	was first, the verb second, then du: no do-helper.
+question.w	kosten	pres.er	What **does** the coffee **cost**?	Was **kostet** der Kaffee?	The stem kost- ends in -t, so er takes -et: kostet.
+question.w	kosten	pres.er	What **does** that **cost**?	Was **kostet** das?	The verb comes second, right after the question word.
+question.w	-	-	**Where** do you live? (one friend)	**Wo** wohnst du?	wo asks where something or someone is.
+question.w	-	-	**Where** is the station?	**Wo** ist der Bahnhof?	wo + ist: where is.
+question.w	-	-	**Where** is the cinema?	**Wo** ist das Kino?	wo: the place where something is.
+question.w	-	-	I have a question: **where** is the station?	Ich habe eine Frage: **Wo** ist der Bahnhof?	A full question after a colon starts with a capital letter.
+question.w	-	-	**Where** are you **from**? (one friend)	**Woher** kommst du?	woher is where from in one word, and it stays together at the front.
+question.w	-	-	**Where** are you going? (one friend)	**Wohin** gehst du?	wohin asks for a direction, where to; wo is only for where something is.
+question.w	-	-	**Where** are they going today?	**Wohin** gehen sie heute?	gehen asks wohin, not wo: the movement needs the -hin.
+question.w	-	-	**What** is your name? (one friend)	**Wie** heißt du?	German asks how you are called: wie, not was.
+question.w	heißen	pres.du	What **is** your name? (one friend)	Wie **heißt** du?	The stem ends in ß, so du adds only -t: du heißt.
+question.w	heißen	pres.er	What **is** the dog **called**?	Wie **heißt** der Hund?	er heißt: the same form as du, because the stem already ends in ß.
+question.w	-	-	**What** is the teacher's name? (a woman)	**Wie** heißt die Lehrerin?	Wie heißt…? asks for a name: literally how is she called.
+question.w	finden	pres.du	How do you **like** the flat? (one friend)	Wie **findest** du die Wohnung?	The stem ends in -d, so du takes -est. Wie findest du…? asks what someone thinks of something.
+question.w	-	-	**How** old is the house?	**Wie** alt ist das Haus?	wie before an adjective: how old, how big.
+question.w	-	-	**How** big is the flat?	**Wie** groß ist die Wohnung?	wie + adjective, then the verb second.
+question.w	-	-	**When** are you coming? (one friend)	**Wann** kommst du?	wann asks about time. Not wenn, which is a different word.
+question.w	-	-	**When** does she work?	**Wann** arbeitet sie?	wann first, the verb second, the subject after it.
+question.w	-	-	**Why** aren't you coming? (one friend)	**Warum** kommst du nicht?	warum: why. nicht still goes to the end.
+question.w	-	-	**Why** are you buying a computer? (one friend)	**Warum** kaufst du einen Computer?	warum first, then the verb, then du, then the rest.
+question.yesno	sein	pres.du	**Are** you tired? (one friend)	**Bist** du müde?	In a yes/no question the verb comes first, before the subject.
+question.yesno	haben	pres.du	**Do** you **have** time? (one friend)	**Hast** du Zeit?	No do-helper: the verb itself opens the question.
+question.yesno	wohnen	pres.wir	**Do** you **live** here? (formal)	**Wohnen** Sie hier?	The verb first, then Sie: wohnen Sie.
+question.yesno	sein	pres.er	**Is** the flat expensive?	**Ist** die Wohnung teuer?	ist first, then the subject die Wohnung.
+question.yesno	rauchen	pres.er	**Does** he **smoke**?	**Raucht** er?	English needs does; German just moves the verb to the front.
+question.yesno	kommen	pres.ihr	**Are** you **coming** tomorrow? (several friends)	**Kommt** ihr morgen?	ihr kommt becomes kommt ihr in the question.
+question.yesno	spielen	pres.du	**Do** you **play** football? (one friend)	**Spielst** du Fußball?	The du form keeps its -st when it moves to the front.
+question.yesno	trinken	pres.wir	**Do** you **drink** coffee? (formal)	**Trinken** Sie Kaffee?	The verb first, then Sie.
+question.yesno	lernen	pres.du	**Are** you **learning** German? (one friend)	**Lernst** du Deutsch?	The verb first: lernst du.
+question.yesno	sein	pres.er	**Is** the teacher ill? (a woman)	**Ist** die Lehrerin krank?	ist first; die Lehrerin is the subject.
+question.yesno	-	-	Isn't she coming? – **Yes**, she is!	Kommt sie nicht? – **Doch**, sie kommt!	To say yes to a negative question, German uses doch; ja would sound like agreeing with the not.
+question.yesno	-	-	Don't you have time? – **Yes**, I do!	Hast du keine Zeit? – **Doch**, ich habe Zeit!	doch contradicts the negative: yes, I do have time.
+question.yesno	-	-	Is the cinema expensive? – **No**, it is cheap.	Ist das Kino teuer? – **Nein**, es ist billig.	A positive question gets ja or nein; doch is only for negative ones.
