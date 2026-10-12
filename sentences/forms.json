@@ -33,6 +33,38 @@
    ]
   }
  },
+ "Abendessen": {
+  "all": [
+   "Abendessen",
+   "Abendessens"
+  ],
+  "english": "dinner, supper",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Abendessen"
+   ],
+   "acc.sg": [
+    "Abendessen"
+   ],
+   "dat.pl": [
+    "Abendessen"
+   ],
+   "dat.sg": [
+    "Abendessen"
+   ],
+   "gen.sg": [
+    "Abendessens"
+   ],
+   "nom.pl": [
+    "Abendessen"
+   ],
+   "nom.sg": [
+    "Abendessen"
+   ]
+  }
+ },
  "Apfel": {
   "all": [
    "Apfel",
@@ -1662,6 +1694,43 @@
    ]
   }
  },
+ "Frühstück": {
+  "all": [
+   "Frühstück",
+   "Frühstücke",
+   "Frühstücken",
+   "Frühstückes",
+   "Frühstücks"
+  ],
+  "english": "breakfast",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Frühstücke"
+   ],
+   "acc.sg": [
+    "Frühstück"
+   ],
+   "dat.pl": [
+    "Frühstücken"
+   ],
+   "dat.sg": [
+    "Frühstück",
+    "Frühstücke"
+   ],
+   "gen.sg": [
+    "Frühstücks",
+    "Frühstückes"
+   ],
+   "nom.pl": [
+    "Frühstücke"
+   ],
+   "nom.sg": [
+    "Frühstück"
+   ]
+  }
+ },
  "Fußball": {
   "all": [
    "Fussball",
@@ -3242,6 +3311,38 @@
    ]
   }
  },
+ "Mittagessen": {
+  "all": [
+   "Mittagessen",
+   "Mittagessens"
+  ],
+  "english": "lunch",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Mittagessen"
+   ],
+   "acc.sg": [
+    "Mittagessen"
+   ],
+   "dat.pl": [
+    "Mittagessen"
+   ],
+   "dat.sg": [
+    "Mittagessen"
+   ],
+   "gen.sg": [
+    "Mittagessens"
+   ],
+   "nom.pl": [
+    "Mittagessen"
+   ],
+   "nom.sg": [
+    "Mittagessen"
+   ]
+  }
+ },
  "Mittwoch": {
   "all": [
    "Mittwoch",
@@ -3952,6 +4053,42 @@
    ],
    "nom.sg": [
     "Park"
+   ]
+  }
+ },
+ "Party": {
+  "all": [
+   "Parties",
+   "Party",
+   "Partys"
+  ],
+  "english": "party",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Partys",
+    "Parties"
+   ],
+   "acc.sg": [
+    "Party"
+   ],
+   "dat.pl": [
+    "Partys",
+    "Parties"
+   ],
+   "dat.sg": [
+    "Party"
+   ],
+   "gen.sg": [
+    "Party"
+   ],
+   "nom.pl": [
+    "Partys",
+    "Parties"
+   ],
+   "nom.sg": [
+    "Party"
    ]
   }
  },
@@ -5491,6 +5628,41 @@
    ]
   }
  },
+ "Wochenende": {
+  "all": [
+   "WE",
+   "Wochenendchen",
+   "Wochenende",
+   "Wochenenden",
+   "Wochenendes"
+  ],
+  "english": "weekend",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Wochenenden"
+   ],
+   "acc.sg": [
+    "Wochenende"
+   ],
+   "dat.pl": [
+    "Wochenenden"
+   ],
+   "dat.sg": [
+    "Wochenende"
+   ],
+   "gen.sg": [
+    "Wochenendes"
+   ],
+   "nom.pl": [
+    "Wochenenden"
+   ],
+   "nom.sg": [
+    "Wochenende"
+   ]
+  }
+ },
  "Wohnung": {
   "all": [
    "Wohnung",
@@ -5736,8 +5908,20 @@
    "imp.ihr": [
     "holt ab"
    ],
+   "perf.du": [
+    "hast abgeholt"
+   ],
    "perf.er": [
     "hat abgeholt"
+   ],
+   "perf.ich": [
+    "habe abgeholt"
+   ],
+   "perf.ihr": [
+    "habt abgeholt"
+   ],
+   "perf.wir": [
+    "haben abgeholt"
    ],
    "pres.du": [
     "holst ab",
@@ -5905,8 +6089,20 @@
    "imp.ihr": [
     "fangt an"
    ],
+   "perf.du": [
+    "hast angefangen"
+   ],
    "perf.er": [
     "hat angefangen"
+   ],
+   "perf.ich": [
+    "habe angefangen"
+   ],
+   "perf.ihr": [
+    "habt angefangen"
+   ],
+   "perf.wir": [
+    "haben angefangen"
    ],
    "pres.du": [
     "fängst an",
@@ -5982,8 +6178,20 @@
    "imp.ihr": [
     "ruft an"
    ],
+   "perf.du": [
+    "hast angerufen"
+   ],
    "perf.er": [
     "hat angerufen"
+   ],
+   "perf.ich": [
+    "habe angerufen"
+   ],
+   "perf.ihr": [
+    "habt angerufen"
+   ],
+   "perf.wir": [
+    "haben angerufen"
    ],
    "pres.du": [
     "rufst an",
@@ -6039,8 +6247,20 @@
    "imp.ihr": [
     "antwortet"
    ],
+   "perf.du": [
+    "hast geantwortet"
+   ],
    "perf.er": [
     "hat geantwortet"
+   ],
+   "perf.ich": [
+    "habe geantwortet"
+   ],
+   "perf.ihr": [
+    "habt geantwortet"
+   ],
+   "perf.wir": [
+    "haben geantwortet"
    ],
    "pres.du": [
     "antwortest"
@@ -6090,8 +6310,20 @@
    "imp.ihr": [
     "arbeitet"
    ],
+   "perf.du": [
+    "hast gearbeitet"
+   ],
    "perf.er": [
     "hat gearbeitet"
+   ],
+   "perf.ich": [
+    "habe gearbeitet"
+   ],
+   "perf.ihr": [
+    "habt gearbeitet"
+   ],
+   "perf.wir": [
+    "haben gearbeitet"
    ],
    "pres.du": [
     "arbeitest"
@@ -6155,8 +6387,20 @@
    "imp.ihr": [
     "macht auf"
    ],
+   "perf.du": [
+    "hast aufgemacht"
+   ],
    "perf.er": [
     "hat aufgemacht"
+   ],
+   "perf.ich": [
+    "habe aufgemacht"
+   ],
+   "perf.ihr": [
+    "habt aufgemacht"
+   ],
+   "perf.wir": [
+    "haben aufgemacht"
    ],
    "pres.du": [
     "machst auf",
@@ -6226,8 +6470,20 @@
    "imp.ihr": [
     "räumt auf"
    ],
+   "perf.du": [
+    "hast aufgeräumt"
+   ],
    "perf.er": [
     "hat aufgeräumt"
+   ],
+   "perf.ich": [
+    "habe aufgeräumt"
+   ],
+   "perf.ihr": [
+    "habt aufgeräumt"
+   ],
+   "perf.wir": [
+    "haben aufgeräumt"
    ],
    "pres.du": [
     "räumst auf",
@@ -6348,9 +6604,25 @@
     "aufständen",
     "aufstünden"
    ],
+   "perf.du": [
+    "hast aufgestanden",
+    "bist aufgestanden"
+   ],
    "perf.er": [
     "hat aufgestanden",
     "ist aufgestanden"
+   ],
+   "perf.ich": [
+    "habe aufgestanden",
+    "bin aufgestanden"
+   ],
+   "perf.ihr": [
+    "habt aufgestanden",
+    "seid aufgestanden"
+   ],
+   "perf.wir": [
+    "haben aufgestanden",
+    "sind aufgestanden"
    ],
    "pres.du": [
     "stehst auf",
@@ -6420,8 +6692,20 @@
    "imp.ihr": [
     "füllt aus"
    ],
+   "perf.du": [
+    "hast ausgefüllt"
+   ],
    "perf.er": [
     "hat ausgefüllt"
+   ],
+   "perf.ich": [
+    "habe ausgefüllt"
+   ],
+   "perf.ihr": [
+    "habt ausgefüllt"
+   ],
+   "perf.wir": [
+    "haben ausgefüllt"
    ],
    "pres.du": [
     "füllst aus",
@@ -6491,8 +6775,20 @@
    "imp.ihr": [
     "macht aus"
    ],
+   "perf.du": [
+    "hast ausgemacht"
+   ],
    "perf.er": [
     "hat ausgemacht"
+   ],
+   "perf.ich": [
+    "habe ausgemacht"
+   ],
+   "perf.ihr": [
+    "habt ausgemacht"
+   ],
+   "perf.wir": [
+    "haben ausgemacht"
    ],
    "pres.du": [
     "machst aus",
@@ -6549,8 +6845,20 @@
    "imp.ihr": [
     "besucht"
    ],
+   "perf.du": [
+    "hast besucht"
+   ],
    "perf.er": [
     "hat besucht"
+   ],
+   "perf.ich": [
+    "habe besucht"
+   ],
+   "perf.ihr": [
+    "habt besucht"
+   ],
+   "perf.wir": [
+    "haben besucht"
    ],
    "pres.du": [
     "besuchst"
@@ -6601,8 +6909,20 @@
    "imp.ihr": [
     "bezahlt"
    ],
+   "perf.du": [
+    "hast bezahlt"
+   ],
    "perf.er": [
     "hat bezahlt"
+   ],
+   "perf.ich": [
+    "habe bezahlt"
+   ],
+   "perf.ihr": [
+    "habt bezahlt"
+   ],
+   "perf.wir": [
+    "haben bezahlt"
    ],
    "pres.du": [
     "bezahlst"
@@ -6760,8 +7080,20 @@
    "konj2.wir": [
     "blieben"
    ],
+   "perf.du": [
+    "bist geblieben"
+   ],
    "perf.er": [
     "ist geblieben"
+   ],
+   "perf.ich": [
+    "bin geblieben"
+   ],
+   "perf.ihr": [
+    "seid geblieben"
+   ],
+   "perf.wir": [
+    "sind geblieben"
    ],
    "pres.du": [
     "bleibst"
@@ -6837,8 +7169,20 @@
     "brauchten",
     "bräuchten"
    ],
+   "perf.du": [
+    "hast gebraucht"
+   ],
    "perf.er": [
     "hat gebraucht"
+   ],
+   "perf.ich": [
+    "habe gebraucht"
+   ],
+   "perf.ihr": [
+    "habt gebraucht"
+   ],
+   "perf.wir": [
+    "haben gebraucht"
    ],
    "pres.du": [
     "brauchst"
@@ -6909,8 +7253,20 @@
    "konj2.wir": [
     "brächten"
    ],
+   "perf.du": [
+    "hast gebracht"
+   ],
    "perf.er": [
     "hat gebracht"
+   ],
+   "perf.ich": [
+    "habe gebracht"
+   ],
+   "perf.ihr": [
+    "habt gebracht"
+   ],
+   "perf.wir": [
+    "haben gebracht"
    ],
    "pres.du": [
     "bringst"
@@ -6962,8 +7318,20 @@
    "imp.ihr": [
     "dankt"
    ],
+   "perf.du": [
+    "hast gedankt"
+   ],
    "perf.er": [
     "hat gedankt"
+   ],
+   "perf.ich": [
+    "habe gedankt"
+   ],
+   "perf.ihr": [
+    "habt gedankt"
+   ],
+   "perf.wir": [
+    "haben gedankt"
    ],
    "pres.du": [
     "dankst"
@@ -6982,6 +7350,75 @@
    ],
    "pret.er": [
     "dankte"
+   ]
+  }
+ },
+ "denken": {
+  "all": [
+   "dachte",
+   "dachten",
+   "dachtest",
+   "dachtet",
+   "denk",
+   "denke",
+   "denken",
+   "denkend",
+   "denkest",
+   "denket",
+   "denkst",
+   "denkt",
+   "dächte",
+   "dächten",
+   "dächtest",
+   "dächtet",
+   "gedacht",
+   "haben",
+   "habest",
+   "habet",
+   "werdest"
+  ],
+  "english": "to think",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "denk",
+    "denke"
+   ],
+   "imp.ihr": [
+    "denkt"
+   ],
+   "perf.du": [
+    "hast gedacht"
+   ],
+   "perf.er": [
+    "hat gedacht"
+   ],
+   "perf.ich": [
+    "habe gedacht"
+   ],
+   "perf.ihr": [
+    "habt gedacht"
+   ],
+   "perf.wir": [
+    "haben gedacht"
+   ],
+   "pres.du": [
+    "denkst"
+   ],
+   "pres.er": [
+    "denkt"
+   ],
+   "pres.ich": [
+    "denke"
+   ],
+   "pres.ihr": [
+    "denkt"
+   ],
+   "pres.wir": [
+    "denken"
+   ],
+   "pret.er": [
+    "dachte"
    ]
   }
  },
@@ -7027,8 +7464,20 @@
    "konj2.wir": [
     "dürften"
    ],
+   "perf.du": [
+    "hast gedurft"
+   ],
    "perf.er": [
     "hat gedurft"
+   ],
+   "perf.ich": [
+    "habe gedurft"
+   ],
+   "perf.ihr": [
+    "habt gedurft"
+   ],
+   "perf.wir": [
+    "haben gedurft"
    ],
    "pres.du": [
     "darfst"
@@ -7177,8 +7626,20 @@
    "imp.ihr": [
     "kauft ein"
    ],
+   "perf.du": [
+    "hast eingekauft"
+   ],
    "perf.er": [
     "hat eingekauft"
+   ],
+   "perf.ich": [
+    "habe eingekauft"
+   ],
+   "perf.ihr": [
+    "habt eingekauft"
+   ],
+   "perf.wir": [
+    "haben eingekauft"
    ],
    "pres.du": [
     "kaufst ein",
@@ -7235,8 +7696,20 @@
    "imp.ihr": [
     "erklärt"
    ],
+   "perf.du": [
+    "hast erklärt"
+   ],
    "perf.er": [
     "hat erklärt"
+   ],
+   "perf.ich": [
+    "habe erklärt"
+   ],
+   "perf.ihr": [
+    "habt erklärt"
+   ],
+   "perf.wir": [
+    "haben erklärt"
    ],
    "pres.du": [
     "erklärst"
@@ -7293,8 +7766,20 @@
    "imp.ihr": [
     "esst"
    ],
+   "perf.du": [
+    "hast gegessen"
+   ],
    "perf.er": [
     "hat gegessen"
+   ],
+   "perf.ich": [
+    "habe gegessen"
+   ],
+   "perf.ihr": [
+    "habt gegessen"
+   ],
+   "perf.wir": [
+    "haben gegessen"
    ],
    "pres.du": [
     "isst"
@@ -7356,9 +7841,25 @@
    "imp.ihr": [
     "fahrt"
    ],
+   "perf.du": [
+    "hast gefahren",
+    "bist gefahren"
+   ],
    "perf.er": [
     "hat gefahren",
     "ist gefahren"
+   ],
+   "perf.ich": [
+    "habe gefahren",
+    "bin gefahren"
+   ],
+   "perf.ihr": [
+    "habt gefahren",
+    "seid gefahren"
+   ],
+   "perf.wir": [
+    "haben gefahren",
+    "sind gefahren"
    ],
    "pres.du": [
     "fährst"
@@ -7461,8 +7962,20 @@
     "sähen fern",
     "fernsähen"
    ],
+   "perf.du": [
+    "hast ferngesehen"
+   ],
    "perf.er": [
     "hat ferngesehen"
+   ],
+   "perf.ich": [
+    "habe ferngesehen"
+   ],
+   "perf.ihr": [
+    "habt ferngesehen"
+   ],
+   "perf.wir": [
+    "haben ferngesehen"
    ],
    "pres.du": [
     "siehst fern",
@@ -7538,8 +8051,20 @@
    "konj2.wir": [
     "fänden"
    ],
+   "perf.du": [
+    "hast gefunden"
+   ],
    "perf.er": [
     "hat gefunden"
+   ],
+   "perf.ich": [
+    "habe gefunden"
+   ],
+   "perf.ihr": [
+    "habt gefunden"
+   ],
+   "perf.wir": [
+    "haben gefunden"
    ],
    "pres.du": [
     "findest"
@@ -7603,8 +8128,20 @@
    "imp.ihr": [
     "fragt"
    ],
+   "perf.du": [
+    "hast gefragt"
+   ],
    "perf.er": [
     "hat gefragt"
+   ],
+   "perf.ich": [
+    "habe gefragt"
+   ],
+   "perf.ihr": [
+    "habt gefragt"
+   ],
+   "perf.wir": [
+    "haben gefragt"
    ],
    "pres.du": [
     "fragst"
@@ -7881,8 +8418,20 @@
    "imp.ihr": [
     "frühstückt"
    ],
+   "perf.du": [
+    "hast gefrühstückt"
+   ],
    "perf.er": [
     "hat gefrühstückt"
+   ],
+   "perf.ich": [
+    "habe gefrühstückt"
+   ],
+   "perf.ihr": [
+    "habt gefrühstückt"
+   ],
+   "perf.wir": [
+    "haben gefrühstückt"
    ],
    "pres.du": [
     "frühstückst"
@@ -7957,8 +8506,20 @@
    "konj2.wir": [
     "gäben"
    ],
+   "perf.du": [
+    "hast gegeben"
+   ],
    "perf.er": [
     "hat gegeben"
+   ],
+   "perf.ich": [
+    "habe gegeben"
+   ],
+   "perf.ihr": [
+    "habt gegeben"
+   ],
+   "perf.wir": [
+    "haben gegeben"
    ],
    "pres.du": [
     "gibst"
@@ -8013,8 +8574,20 @@
    "imp.ihr": [
     "gefallt"
    ],
+   "perf.du": [
+    "hast gefallen"
+   ],
    "perf.er": [
     "hat gefallen"
+   ],
+   "perf.ich": [
+    "habe gefallen"
+   ],
+   "perf.ihr": [
+    "habt gefallen"
+   ],
+   "perf.wir": [
+    "haben gefallen"
    ],
    "pres.du": [
     "gefällst"
@@ -8086,8 +8659,20 @@
    "konj2.wir": [
     "gingen"
    ],
+   "perf.du": [
+    "bist gegangen"
+   ],
    "perf.er": [
     "ist gegangen"
+   ],
+   "perf.ich": [
+    "bin gegangen"
+   ],
+   "perf.ihr": [
+    "seid gegangen"
+   ],
+   "perf.wir": [
+    "sind gegangen"
    ],
    "pres.du": [
     "gehst"
@@ -8138,8 +8723,20 @@
    "imp.ihr": [
     "gehört"
    ],
+   "perf.du": [
+    "hast gehört"
+   ],
    "perf.er": [
     "hat gehört"
+   ],
+   "perf.ich": [
+    "habe gehört"
+   ],
+   "perf.ihr": [
+    "habt gehört"
+   ],
+   "perf.wir": [
+    "haben gehört"
    ],
    "pres.du": [
     "gehörst"
@@ -8193,8 +8790,20 @@
    "imp.ihr": [
     "glaubt"
    ],
+   "perf.du": [
+    "hast geglaubt"
+   ],
    "perf.er": [
     "hat geglaubt"
+   ],
+   "perf.ich": [
+    "habe geglaubt"
+   ],
+   "perf.ihr": [
+    "habt geglaubt"
+   ],
+   "perf.wir": [
+    "haben geglaubt"
    ],
    "pres.du": [
     "glaubst"
@@ -8556,8 +9165,20 @@
    "konj2.wir": [
     "hätten"
    ],
+   "perf.du": [
+    "hast gehabt"
+   ],
    "perf.er": [
     "hat gehabt"
+   ],
+   "perf.ich": [
+    "habe gehabt"
+   ],
+   "perf.ihr": [
+    "habt gehabt"
+   ],
+   "perf.wir": [
+    "haben gehabt"
    ],
    "pres.du": [
     "hast"
@@ -8660,8 +9281,20 @@
    "konj2.wir": [
     "hießen"
    ],
+   "perf.du": [
+    "hast geheißen"
+   ],
    "perf.er": [
     "hat geheißen"
+   ],
+   "perf.ich": [
+    "habe geheißen"
+   ],
+   "perf.ihr": [
+    "habt geheißen"
+   ],
+   "perf.wir": [
+    "haben geheißen"
    ],
    "pres.du": [
     "heißt"
@@ -8719,8 +9352,20 @@
    "imp.ihr": [
     "helft"
    ],
+   "perf.du": [
+    "hast geholfen"
+   ],
    "perf.er": [
     "hat geholfen"
+   ],
+   "perf.ich": [
+    "habe geholfen"
+   ],
+   "perf.ihr": [
+    "habt geholfen"
+   ],
+   "perf.wir": [
+    "haben geholfen"
    ],
    "pres.du": [
     "hilfst"
@@ -8772,8 +9417,20 @@
    "imp.ihr": [
     "hört"
    ],
+   "perf.du": [
+    "hast gehört"
+   ],
    "perf.er": [
     "hat gehört"
+   ],
+   "perf.ich": [
+    "habe gehört"
+   ],
+   "perf.ihr": [
+    "habt gehört"
+   ],
+   "perf.wir": [
+    "haben gehört"
    ],
    "pres.du": [
     "hörst"
@@ -8913,8 +9570,20 @@
    "imp.ihr": [
     "kauft"
    ],
+   "perf.du": [
+    "hast gekauft"
+   ],
    "perf.er": [
     "hat gekauft"
+   ],
+   "perf.ich": [
+    "habe gekauft"
+   ],
+   "perf.ihr": [
+    "habt gekauft"
+   ],
+   "perf.wir": [
+    "haben gekauft"
    ],
    "pres.du": [
     "kaufst"
@@ -8970,8 +9639,20 @@
    "imp.ihr": [
     "kennt"
    ],
+   "perf.du": [
+    "hast gekannt"
+   ],
    "perf.er": [
     "hat gekannt"
+   ],
+   "perf.ich": [
+    "habe gekannt"
+   ],
+   "perf.ihr": [
+    "habt gekannt"
+   ],
+   "perf.wir": [
+    "haben gekannt"
    ],
    "pres.du": [
     "kennst"
@@ -9195,8 +9876,20 @@
    "imp.ihr": [
     "kocht"
    ],
+   "perf.du": [
+    "hast gekocht"
+   ],
    "perf.er": [
     "hat gekocht"
+   ],
+   "perf.ich": [
+    "habe gekocht"
+   ],
+   "perf.ihr": [
+    "habt gekocht"
+   ],
+   "perf.wir": [
+    "haben gekocht"
    ],
    "pres.du": [
     "kochst"
@@ -9273,8 +9966,20 @@
    "konj2.wir": [
     "kämen"
    ],
+   "perf.du": [
+    "bist gekommen"
+   ],
    "perf.er": [
     "ist gekommen"
+   ],
+   "perf.ich": [
+    "bin gekommen"
+   ],
+   "perf.ihr": [
+    "seid gekommen"
+   ],
+   "perf.wir": [
+    "sind gekommen"
    ],
    "pres.du": [
     "kommst"
@@ -9324,8 +10029,20 @@
    "imp.ihr": [
     "kostet"
    ],
+   "perf.du": [
+    "hast gekostet"
+   ],
    "perf.er": [
     "hat gekostet"
+   ],
+   "perf.ich": [
+    "habe gekostet"
+   ],
+   "perf.ihr": [
+    "habt gekostet"
+   ],
+   "perf.wir": [
+    "haben gekostet"
    ],
    "pres.du": [
     "kostest"
@@ -9580,9 +10297,25 @@
    "konj2.wir": [
     "könnten"
    ],
+   "perf.du": [
+    "hast gekonnt",
+    "hast können"
+   ],
    "perf.er": [
     "hat gekonnt",
     "hat können"
+   ],
+   "perf.ich": [
+    "habe gekonnt",
+    "habe können"
+   ],
+   "perf.ihr": [
+    "habt gekonnt",
+    "habt können"
+   ],
+   "perf.wir": [
+    "haben gekonnt",
+    "haben können"
    ],
    "pres.du": [
     "kannst"
@@ -9601,6 +10334,71 @@
    ],
    "pret.er": [
     "konnte"
+   ]
+  }
+ },
+ "lachen": {
+  "all": [
+   "gelacht",
+   "haben",
+   "habest",
+   "habet",
+   "lach",
+   "lache",
+   "lachen",
+   "lachend",
+   "lachest",
+   "lachet",
+   "lachst",
+   "lacht",
+   "lachte",
+   "lachten",
+   "lachtest",
+   "lachtet",
+   "werdest"
+  ],
+  "english": "to laugh",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "lach",
+    "lache"
+   ],
+   "imp.ihr": [
+    "lacht"
+   ],
+   "perf.du": [
+    "hast gelacht"
+   ],
+   "perf.er": [
+    "hat gelacht"
+   ],
+   "perf.ich": [
+    "habe gelacht"
+   ],
+   "perf.ihr": [
+    "habt gelacht"
+   ],
+   "perf.wir": [
+    "haben gelacht"
+   ],
+   "pres.du": [
+    "lachst"
+   ],
+   "pres.er": [
+    "lacht"
+   ],
+   "pres.ich": [
+    "lache"
+   ],
+   "pres.ihr": [
+    "lacht"
+   ],
+   "pres.wir": [
+    "lachen"
+   ],
+   "pret.er": [
+    "lachte"
    ]
   }
  },
@@ -9740,9 +10538,25 @@
    "konj2.wir": [
     "ließen"
    ],
+   "perf.du": [
+    "hast gelassen",
+    "hast lassen"
+   ],
    "perf.er": [
     "hat gelassen",
     "hat lassen"
+   ],
+   "perf.ich": [
+    "habe gelassen",
+    "habe lassen"
+   ],
+   "perf.ihr": [
+    "habt gelassen",
+    "habt lassen"
+   ],
+   "perf.wir": [
+    "haben gelassen",
+    "haben lassen"
    ],
    "pres.du": [
     "lässt"
@@ -9814,8 +10628,20 @@
    "konj2.wir": [
     "liefen"
    ],
+   "perf.du": [
+    "bist gelaufen"
+   ],
    "perf.er": [
     "ist gelaufen"
+   ],
+   "perf.ich": [
+    "bin gelaufen"
+   ],
+   "perf.ihr": [
+    "seid gelaufen"
+   ],
+   "perf.wir": [
+    "sind gelaufen"
    ],
    "pres.du": [
     "läufst"
@@ -9953,8 +10779,20 @@
    "imp.ihr": [
     "lebt"
    ],
+   "perf.du": [
+    "hast gelebt"
+   ],
    "perf.er": [
     "hat gelebt"
+   ],
+   "perf.ich": [
+    "habe gelebt"
+   ],
+   "perf.ihr": [
+    "habt gelebt"
+   ],
+   "perf.wir": [
+    "haben gelebt"
    ],
    "pres.du": [
     "lebst"
@@ -10009,8 +10847,20 @@
    "imp.ihr": [
     "leiht"
    ],
+   "perf.du": [
+    "hast geliehen"
+   ],
    "perf.er": [
     "hat geliehen"
+   ],
+   "perf.ich": [
+    "habe geliehen"
+   ],
+   "perf.ihr": [
+    "habt geliehen"
+   ],
+   "perf.wir": [
+    "haben geliehen"
    ],
    "pres.du": [
     "leihst"
@@ -10148,8 +10998,20 @@
    "imp.ihr": [
     "lernt"
    ],
+   "perf.du": [
+    "hast gelernt"
+   ],
    "perf.er": [
     "hat gelernt"
+   ],
+   "perf.ich": [
+    "habe gelernt"
+   ],
+   "perf.ihr": [
+    "habt gelernt"
+   ],
+   "perf.wir": [
+    "haben gelernt"
    ],
    "pres.du": [
     "lernst"
@@ -10205,8 +11067,20 @@
    "imp.ihr": [
     "lest"
    ],
+   "perf.du": [
+    "hast gelesen"
+   ],
    "perf.er": [
     "hat gelesen"
+   ],
+   "perf.ich": [
+    "habe gelesen"
+   ],
+   "perf.ihr": [
+    "habt gelesen"
+   ],
+   "perf.wir": [
+    "haben gelesen"
    ],
    "pres.du": [
     "liest"
@@ -10258,8 +11132,20 @@
    "imp.ihr": [
     "liebt"
    ],
+   "perf.du": [
+    "hast geliebt"
+   ],
    "perf.er": [
     "hat geliebt"
+   ],
+   "perf.ich": [
+    "habe geliebt"
+   ],
+   "perf.ihr": [
+    "habt geliebt"
+   ],
+   "perf.wir": [
+    "haben geliebt"
    ],
    "pres.du": [
     "liebst"
@@ -10311,8 +11197,20 @@
    "imp.ihr": [
     "macht"
    ],
+   "perf.du": [
+    "hast gemacht"
+   ],
    "perf.er": [
     "hat gemacht"
+   ],
+   "perf.ich": [
+    "habe gemacht"
+   ],
+   "perf.ihr": [
+    "habt gemacht"
+   ],
+   "perf.wir": [
+    "haben gemacht"
    ],
    "pres.du": [
     "machst"
@@ -10404,8 +11302,20 @@
     "brächten mit",
     "mitbrächten"
    ],
+   "perf.du": [
+    "hast mitgebracht"
+   ],
    "perf.er": [
     "hat mitgebracht"
+   ],
+   "perf.ich": [
+    "habe mitgebracht"
+   ],
+   "perf.ihr": [
+    "habt mitgebracht"
+   ],
+   "perf.wir": [
+    "haben mitgebracht"
    ],
    "pres.du": [
     "bringst mit",
@@ -10510,8 +11420,20 @@
     "kämen mit",
     "mitkämen"
    ],
+   "perf.du": [
+    "bist mitgekommen"
+   ],
    "perf.er": [
     "ist mitgekommen"
+   ],
+   "perf.ich": [
+    "bin mitgekommen"
+   ],
+   "perf.ihr": [
+    "seid mitgekommen"
+   ],
+   "perf.wir": [
+    "sind mitgekommen"
    ],
    "pres.du": [
     "kommst mit",
@@ -10581,8 +11503,20 @@
    "konj2.wir": [
     "möchten"
    ],
+   "perf.du": [
+    "hast gemocht"
+   ],
    "perf.er": [
     "hat gemocht"
+   ],
+   "perf.ich": [
+    "habe gemocht"
+   ],
+   "perf.ihr": [
+    "habt gemocht"
+   ],
+   "perf.wir": [
+    "haben gemocht"
    ],
    "pres.du": [
     "magst"
@@ -10732,8 +11666,20 @@
    "konj2.wir": [
     "müssten"
    ],
+   "perf.du": [
+    "hast gemusst"
+   ],
    "perf.er": [
     "hat gemusst"
+   ],
+   "perf.ich": [
+    "habe gemusst"
+   ],
+   "perf.ihr": [
+    "habt gemusst"
+   ],
+   "perf.wir": [
+    "haben gemusst"
    ],
    "pres.du": [
     "musst"
@@ -10808,8 +11754,20 @@
    "konj2.wir": [
     "nähmen"
    ],
+   "perf.du": [
+    "hast genommen"
+   ],
    "perf.er": [
     "hat genommen"
+   ],
+   "perf.ich": [
+    "habe genommen"
+   ],
+   "perf.ihr": [
+    "habt genommen"
+   ],
+   "perf.wir": [
+    "haben genommen"
    ],
    "pres.du": [
     "nimmst"
@@ -11060,8 +12018,20 @@
    "imp.ihr": [
     "passt"
    ],
+   "perf.du": [
+    "hast gepasst"
+   ],
    "perf.er": [
     "hat gepasst"
+   ],
+   "perf.ich": [
+    "habe gepasst"
+   ],
+   "perf.ihr": [
+    "habt gepasst"
+   ],
+   "perf.wir": [
+    "haben gepasst"
    ],
    "pres.du": [
     "passt"
@@ -11080,6 +12050,70 @@
    ],
    "pret.er": [
     "passte"
+   ]
+  }
+ },
+ "putzen": {
+  "all": [
+   "geputzt",
+   "haben",
+   "habest",
+   "habet",
+   "putz",
+   "putze",
+   "putzen",
+   "putzend",
+   "putzest",
+   "putzet",
+   "putzt",
+   "putzte",
+   "putzten",
+   "putztest",
+   "putztet",
+   "werdest"
+  ],
+  "english": "to clean",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "putz",
+    "putze"
+   ],
+   "imp.ihr": [
+    "putzt"
+   ],
+   "perf.du": [
+    "hast geputzt"
+   ],
+   "perf.er": [
+    "hat geputzt"
+   ],
+   "perf.ich": [
+    "habe geputzt"
+   ],
+   "perf.ihr": [
+    "habt geputzt"
+   ],
+   "perf.wir": [
+    "haben geputzt"
+   ],
+   "pres.du": [
+    "putzt"
+   ],
+   "pres.er": [
+    "putzt"
+   ],
+   "pres.ich": [
+    "putze"
+   ],
+   "pres.ihr": [
+    "putzt"
+   ],
+   "pres.wir": [
+    "putzen"
+   ],
+   "pret.er": [
+    "putzte"
    ]
   }
  },
@@ -11113,8 +12147,20 @@
    "imp.ihr": [
     "raucht"
    ],
+   "perf.du": [
+    "hast geraucht"
+   ],
    "perf.er": [
     "hat geraucht"
+   ],
+   "perf.ich": [
+    "habe geraucht"
+   ],
+   "perf.ihr": [
+    "habt geraucht"
+   ],
+   "perf.wir": [
+    "haben geraucht"
    ],
    "pres.du": [
     "rauchst"
@@ -11133,6 +12179,67 @@
    ],
    "pret.er": [
     "rauchte"
+   ]
+  }
+ },
+ "regnen": {
+  "all": [
+   "geregnet",
+   "haben",
+   "habest",
+   "habet",
+   "regne",
+   "regnen",
+   "regnend",
+   "regnest",
+   "regnet",
+   "regnete",
+   "regneten",
+   "regnetest",
+   "regnetet",
+   "werdest"
+  ],
+  "english": "to rain",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "regne"
+   ],
+   "imp.ihr": [
+    "regnet"
+   ],
+   "perf.du": [
+    "hast geregnet"
+   ],
+   "perf.er": [
+    "hat geregnet"
+   ],
+   "perf.ich": [
+    "habe geregnet"
+   ],
+   "perf.ihr": [
+    "habt geregnet"
+   ],
+   "perf.wir": [
+    "haben geregnet"
+   ],
+   "pres.du": [
+    "regnest"
+   ],
+   "pres.er": [
+    "regnet"
+   ],
+   "pres.ich": [
+    "regne"
+   ],
+   "pres.ihr": [
+    "regnet"
+   ],
+   "pres.wir": [
+    "regnen"
+   ],
+   "pret.er": [
+    "regnete"
    ]
   }
  },
@@ -11252,8 +12359,20 @@
    "imp.ihr": [
     "sagt"
    ],
+   "perf.du": [
+    "hast gesagt"
+   ],
    "perf.er": [
     "hat gesagt"
+   ],
+   "perf.ich": [
+    "habe gesagt"
+   ],
+   "perf.ihr": [
+    "habt gesagt"
+   ],
+   "perf.wir": [
+    "haben gesagt"
    ],
    "pres.du": [
     "sagst"
@@ -11305,8 +12424,20 @@
    "imp.ihr": [
     "schenkt"
    ],
+   "perf.du": [
+    "hast geschenkt"
+   ],
    "perf.er": [
     "hat geschenkt"
+   ],
+   "perf.ich": [
+    "habe geschenkt"
+   ],
+   "perf.ihr": [
+    "habt geschenkt"
+   ],
+   "perf.wir": [
+    "haben geschenkt"
    ],
    "pres.du": [
     "schenkst"
@@ -11362,8 +12493,20 @@
    "imp.ihr": [
     "schlaft"
    ],
+   "perf.du": [
+    "hast geschlafen"
+   ],
    "perf.er": [
     "hat geschlafen"
+   ],
+   "perf.ich": [
+    "habe geschlafen"
+   ],
+   "perf.ihr": [
+    "habt geschlafen"
+   ],
+   "perf.wir": [
+    "haben geschlafen"
    ],
    "pres.du": [
     "schläfst"
@@ -11506,8 +12649,20 @@
    "imp.ihr": [
     "schließt"
    ],
+   "perf.du": [
+    "hast geschlossen"
+   ],
    "perf.er": [
     "hat geschlossen"
+   ],
+   "perf.ich": [
+    "habe geschlossen"
+   ],
+   "perf.ihr": [
+    "habt geschlossen"
+   ],
+   "perf.wir": [
+    "haben geschlossen"
    ],
    "pres.du": [
     "schließt"
@@ -11559,8 +12714,20 @@
    "imp.ihr": [
     "schmeckt"
    ],
+   "perf.du": [
+    "hast geschmeckt"
+   ],
    "perf.er": [
     "hat geschmeckt"
+   ],
+   "perf.ich": [
+    "habe geschmeckt"
+   ],
+   "perf.ihr": [
+    "habt geschmeckt"
+   ],
+   "perf.wir": [
+    "haben geschmeckt"
    ],
    "pres.du": [
     "schmeckst"
@@ -11701,8 +12868,20 @@
    "imp.ihr": [
     "schreibt"
    ],
+   "perf.du": [
+    "hast geschrieben"
+   ],
    "perf.er": [
     "hat geschrieben"
+   ],
+   "perf.ich": [
+    "habe geschrieben"
+   ],
+   "perf.ihr": [
+    "habt geschrieben"
+   ],
+   "perf.wir": [
+    "haben geschrieben"
    ],
    "pres.du": [
     "schreibst"
@@ -11859,9 +13038,25 @@
    "imp.ihr": [
     "schwimmt"
    ],
+   "perf.du": [
+    "bist geschwommen",
+    "hast geschwommen"
+   ],
    "perf.er": [
     "ist geschwommen",
     "hat geschwommen"
+   ],
+   "perf.ich": [
+    "bin geschwommen",
+    "habe geschwommen"
+   ],
+   "perf.ihr": [
+    "seid geschwommen",
+    "habt geschwommen"
+   ],
+   "perf.wir": [
+    "sind geschwommen",
+    "haben geschwommen"
    ],
    "pres.du": [
     "schwimmst"
@@ -12026,8 +13221,20 @@
    "konj2.wir": [
     "sähen"
    ],
+   "perf.du": [
+    "hast gesehen"
+   ],
    "perf.er": [
     "hat gesehen"
+   ],
+   "perf.ich": [
+    "habe gesehen"
+   ],
+   "perf.ihr": [
+    "habt gesehen"
+   ],
+   "perf.wir": [
+    "haben gesehen"
    ],
    "pres.du": [
     "siehst"
@@ -12109,8 +13316,20 @@
    "konj2.wir": [
     "wären"
    ],
+   "perf.du": [
+    "bist gewesen"
+   ],
    "perf.er": [
     "ist gewesen"
+   ],
+   "perf.ich": [
+    "bin gewesen"
+   ],
+   "perf.ihr": [
+    "seid gewesen"
+   ],
+   "perf.wir": [
+    "sind gewesen"
    ],
    "pres.du": [
     "bist"
@@ -12168,8 +13387,20 @@
    "imp.ihr": [
     "singt"
    ],
+   "perf.du": [
+    "hast gesungen"
+   ],
    "perf.er": [
     "hat gesungen"
+   ],
+   "perf.ich": [
+    "habe gesungen"
+   ],
+   "perf.ihr": [
+    "habt gesungen"
+   ],
+   "perf.wir": [
+    "haben gesungen"
    ],
    "pres.du": [
     "singst"
@@ -12229,8 +13460,20 @@
    "konj2.wir": [
     "sollten"
    ],
+   "perf.du": [
+    "hast gesollt"
+   ],
    "perf.er": [
     "hat gesollt"
+   ],
+   "perf.ich": [
+    "habe gesollt"
+   ],
+   "perf.ihr": [
+    "habt gesollt"
+   ],
+   "perf.wir": [
+    "haben gesollt"
    ],
    "pres.du": [
     "sollst"
@@ -12282,8 +13525,20 @@
    "imp.ihr": [
     "spielt"
    ],
+   "perf.du": [
+    "hast gespielt"
+   ],
    "perf.er": [
     "hat gespielt"
+   ],
+   "perf.ich": [
+    "habe gespielt"
+   ],
+   "perf.ihr": [
+    "habt gespielt"
+   ],
+   "perf.wir": [
+    "haben gespielt"
    ],
    "pres.du": [
     "spielst"
@@ -12341,8 +13596,20 @@
    "imp.ihr": [
     "sprecht"
    ],
+   "perf.du": [
+    "hast gesprochen"
+   ],
    "perf.er": [
     "hat gesprochen"
+   ],
+   "perf.ich": [
+    "habe gesprochen"
+   ],
+   "perf.ihr": [
+    "habt gesprochen"
+   ],
+   "perf.wir": [
+    "haben gesprochen"
    ],
    "pres.du": [
     "sprichst"
@@ -12450,6 +13717,71 @@
    ]
   }
  },
+ "suchen": {
+  "all": [
+   "gesucht",
+   "haben",
+   "habest",
+   "habet",
+   "such",
+   "suche",
+   "suchen",
+   "suchend",
+   "suchest",
+   "suchet",
+   "suchst",
+   "sucht",
+   "suchte",
+   "suchten",
+   "suchtest",
+   "suchtet",
+   "werdest"
+  ],
+  "english": "to look for",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "such",
+    "suche"
+   ],
+   "imp.ihr": [
+    "sucht"
+   ],
+   "perf.du": [
+    "hast gesucht"
+   ],
+   "perf.er": [
+    "hat gesucht"
+   ],
+   "perf.ich": [
+    "habe gesucht"
+   ],
+   "perf.ihr": [
+    "habt gesucht"
+   ],
+   "perf.wir": [
+    "haben gesucht"
+   ],
+   "pres.du": [
+    "suchst"
+   ],
+   "pres.er": [
+    "sucht"
+   ],
+   "pres.ich": [
+    "suche"
+   ],
+   "pres.ihr": [
+    "sucht"
+   ],
+   "pres.wir": [
+    "suchen"
+   ],
+   "pret.er": [
+    "suchte"
+   ]
+  }
+ },
  "tanzen": {
   "all": [
    "getanzt",
@@ -12482,9 +13814,25 @@
    "imp.ihr": [
     "tanzt"
    ],
+   "perf.du": [
+    "hast getanzt",
+    "bist getanzt"
+   ],
    "perf.er": [
     "hat getanzt",
     "ist getanzt"
+   ],
+   "perf.ich": [
+    "habe getanzt",
+    "bin getanzt"
+   ],
+   "perf.ihr": [
+    "habt getanzt",
+    "seid getanzt"
+   ],
+   "perf.wir": [
+    "haben getanzt",
+    "sind getanzt"
    ],
    "pres.du": [
     "tanzt"
@@ -12715,8 +14063,20 @@
    "imp.ihr": [
     "trinkt"
    ],
+   "perf.du": [
+    "hast getrunken"
+   ],
    "perf.er": [
     "hat getrunken"
+   ],
+   "perf.ich": [
+    "habe getrunken"
+   ],
+   "perf.ihr": [
+    "habt getrunken"
+   ],
+   "perf.wir": [
+    "haben getrunken"
    ],
    "pres.du": [
     "trinkst"
@@ -12771,8 +14131,20 @@
    "imp.ihr": [
     "vergesst"
    ],
+   "perf.du": [
+    "hast vergessen"
+   ],
    "perf.er": [
     "hat vergessen"
+   ],
+   "perf.ich": [
+    "habe vergessen"
+   ],
+   "perf.ihr": [
+    "habt vergessen"
+   ],
+   "perf.wir": [
+    "haben vergessen"
    ],
    "pres.du": [
     "vergisst"
@@ -12832,8 +14204,20 @@
    "imp.ihr": [
     "versteht"
    ],
+   "perf.du": [
+    "hast verstanden"
+   ],
    "perf.er": [
     "hat verstanden"
+   ],
+   "perf.ich": [
+    "habe verstanden"
+   ],
+   "perf.ihr": [
+    "habt verstanden"
+   ],
+   "perf.wir": [
+    "haben verstanden"
    ],
    "pres.du": [
     "verstehst"
@@ -13056,8 +14440,20 @@
    "imp.ihr": [
     "wartet"
    ],
+   "perf.du": [
+    "hast gewartet"
+   ],
    "perf.er": [
     "hat gewartet"
+   ],
+   "perf.ich": [
+    "habe gewartet"
+   ],
+   "perf.ihr": [
+    "habt gewartet"
+   ],
+   "perf.wir": [
+    "haben gewartet"
    ],
    "pres.du": [
     "wartest"
@@ -13076,6 +14472,79 @@
    ],
    "pret.er": [
     "wartete"
+   ]
+  }
+ },
+ "waschen": {
+  "all": [
+   "gewaschen",
+   "haben",
+   "habest",
+   "habet",
+   "wasch",
+   "wasche",
+   "waschen",
+   "waschend",
+   "waschest",
+   "waschet",
+   "wascht",
+   "werdest",
+   "wusch",
+   "wuschen",
+   "wuschst",
+   "wuscht",
+   "wäschst",
+   "wäscht",
+   "wüsche",
+   "wüschen",
+   "wüschest",
+   "wüschet",
+   "wüschst",
+   "wüscht"
+  ],
+  "english": "to wash",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "wasch",
+    "wasche"
+   ],
+   "imp.ihr": [
+    "wascht"
+   ],
+   "perf.du": [
+    "hast gewaschen"
+   ],
+   "perf.er": [
+    "hat gewaschen"
+   ],
+   "perf.ich": [
+    "habe gewaschen"
+   ],
+   "perf.ihr": [
+    "habt gewaschen"
+   ],
+   "perf.wir": [
+    "haben gewaschen"
+   ],
+   "pres.du": [
+    "wäschst",
+    "wäscht"
+   ],
+   "pres.er": [
+    "wäscht"
+   ],
+   "pres.ich": [
+    "wasche"
+   ],
+   "pres.ihr": [
+    "wascht"
+   ],
+   "pres.wir": [
+    "waschen"
+   ],
+   "pret.er": [
+    "wusch"
    ]
   }
  },
@@ -13153,8 +14622,20 @@
     "täten weh",
     "wehtäten"
    ],
+   "perf.du": [
+    "hast wehgetan"
+   ],
    "perf.er": [
     "hat wehgetan"
+   ],
+   "perf.ich": [
+    "habe wehgetan"
+   ],
+   "perf.ihr": [
+    "habt wehgetan"
+   ],
+   "perf.wir": [
+    "haben wehgetan"
    ],
    "pres.du": [
     "tust weh",
@@ -13318,8 +14799,20 @@
    "konj2.wir": [
     "würden"
    ],
+   "perf.du": [
+    "bist geworden"
+   ],
    "perf.er": [
     "ist geworden"
+   ],
+   "perf.ich": [
+    "bin geworden"
+   ],
+   "perf.ihr": [
+    "seid geworden"
+   ],
+   "perf.wir": [
+    "sind geworden"
    ],
    "pres.du": [
     "wirst"
@@ -13456,8 +14949,20 @@
    "imp.ihr": [
     "wiederholt"
    ],
+   "perf.du": [
+    "hast wiederholt"
+   ],
    "perf.er": [
     "hat wiederholt"
+   ],
+   "perf.ich": [
+    "habe wiederholt"
+   ],
+   "perf.ihr": [
+    "habt wiederholt"
+   ],
+   "perf.wir": [
+    "haben wiederholt"
    ],
    "pres.du": [
     "wiederholst"
@@ -13527,8 +15032,20 @@
    "konj2.wir": [
     "wüssten"
    ],
+   "perf.du": [
+    "hast gewusst"
+   ],
    "perf.er": [
     "hat gewusst"
+   ],
+   "perf.ich": [
+    "habe gewusst"
+   ],
+   "perf.ihr": [
+    "habt gewusst"
+   ],
+   "perf.wir": [
+    "haben gewusst"
    ],
    "pres.du": [
     "weißt"
@@ -13580,8 +15097,20 @@
    "imp.ihr": [
     "wohnt"
    ],
+   "perf.du": [
+    "hast gewohnt"
+   ],
    "perf.er": [
     "hat gewohnt"
+   ],
+   "perf.ich": [
+    "habe gewohnt"
+   ],
+   "perf.ihr": [
+    "habt gewohnt"
+   ],
+   "perf.wir": [
+    "haben gewohnt"
    ],
    "pres.du": [
     "wohnst"
@@ -13641,8 +15170,20 @@
    "konj2.wir": [
     "wollten"
    ],
+   "perf.du": [
+    "hast gewollt"
+   ],
    "perf.er": [
     "hat gewollt"
+   ],
+   "perf.ich": [
+    "habe gewollt"
+   ],
+   "perf.ihr": [
+    "habt gewollt"
+   ],
+   "perf.wir": [
+    "haben gewollt"
    ],
    "pres.du": [
     "willst"
@@ -13694,8 +15235,20 @@
    "imp.ihr": [
     "zeigt"
    ],
+   "perf.du": [
+    "hast gezeigt"
+   ],
    "perf.er": [
     "hat gezeigt"
+   ],
+   "perf.ich": [
+    "habe gezeigt"
+   ],
+   "perf.ihr": [
+    "habt gezeigt"
+   ],
+   "perf.wir": [
+    "haben gezeigt"
    ],
    "pres.du": [
     "zeigst"
@@ -13758,8 +15311,20 @@
    "imp.ihr": [
     "macht zu"
    ],
+   "perf.du": [
+    "hast zugemacht"
+   ],
    "perf.er": [
     "hat zugemacht"
+   ],
+   "perf.ich": [
+    "habe zugemacht"
+   ],
+   "perf.ihr": [
+    "habt zugemacht"
+   ],
+   "perf.wir": [
+    "haben zugemacht"
    ],
    "pres.du": [
     "machst zu",
@@ -13813,8 +15378,20 @@
    "imp.ihr": [
     "öffnet"
    ],
+   "perf.du": [
+    "hast geöffnet"
+   ],
    "perf.er": [
     "hat geöffnet"
+   ],
+   "perf.ich": [
+    "habe geöffnet"
+   ],
+   "perf.ihr": [
+    "habt geöffnet"
+   ],
+   "perf.wir": [
+    "haben geöffnet"
    ],
    "pres.du": [
     "öffnest"

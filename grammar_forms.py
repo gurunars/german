@@ -35,7 +35,11 @@ SLOTS = {
         "pres.wir": ({"present", "indicative", "first-person", "plural"}, "present, wir"),
         "pres.ihr": ({"present", "indicative", "second-person", "plural"}, "present, ihr"),
         "pret.er": ({"preterite", "indicative", "third-person", "singular"}, "simple past (Präteritum), er/sie/es"),
+        "perf.ich": ({"perfect", "indicative", "first-person", "singular"}, "perfect, ich"),
+        "perf.du": ({"perfect", "indicative", "second-person", "singular"}, "perfect, du"),
         "perf.er": ({"perfect", "indicative", "third-person", "singular"}, "perfect, er/sie/es"),
+        "perf.wir": ({"perfect", "indicative", "first-person", "plural"}, "perfect, wir"),
+        "perf.ihr": ({"perfect", "indicative", "second-person", "plural"}, "perfect, ihr"),
         "imp.du": ({"imperative", "second-person", "singular"}, "imperative, du"),
         "imp.ihr": ({"imperative", "second-person", "plural"}, "imperative, ihr"),
         # Konjunktiv II in one word: möchte, hätte, wäre, könnte.

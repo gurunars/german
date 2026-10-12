@@ -1,0 +1,230 @@
+{
+  "name": "Lesson 20 · What I did: the perfect with haben",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **played** football yesterday.",
+      "back": "Ich **habe** gestern Fußball **gespielt**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. The perfect is haben in second place and the participle at the end. Regular: ge- + stem + -t.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **buy** bread? (one friend)",
+      "back": "**Hast** du Brot **gekauft**?",
+      "note": "The perfect with haben: regular participles, ge- … -t. German speech uses the perfect for the past: hast … gekauft.",
+      "priority": 1
+    },
+    {
+      "front": "He **cooked** fish.",
+      "back": "Er **hat** Fisch **gekocht**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + koch + t: gekocht.",
+      "priority": 1
+    },
+    {
+      "front": "We **worked** a lot.",
+      "back": "Wir **haben** viel **gearbeitet**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. A stem in -t takes -et: gearbeitet.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **wait** long? (several friends)",
+      "back": "**Habt** ihr lange **gewartet**?",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + wart + et: gewartet.",
+      "priority": 1
+    },
+    {
+      "front": "They **laughed** a lot.",
+      "back": "Sie **haben** viel **gelacht**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + lach + t: gelacht.",
+      "priority": 1
+    },
+    {
+      "front": "What **did** you **do** at the weekend? (one friend)",
+      "back": "Was **hast** du am Wochenende **gemacht**?",
+      "note": "The perfect with haben: regular participles, ge- … -t. Question word, hast, du … gemacht at the end.",
+      "priority": 1
+    },
+    {
+      "front": "I **looked for** my key.",
+      "back": "Ich **habe** meinen Schlüssel **gesucht**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + such + t: gesucht.",
+      "priority": 1
+    },
+    {
+      "front": "It **rained** yesterday.",
+      "back": "Gestern **hat** es **geregnet**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. regn- needs the e before t: geregnet.",
+      "priority": 1
+    },
+    {
+      "front": "She **cleaned** the flat.",
+      "back": "Sie **hat** die Wohnung **geputzt**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + putz + t: geputzt.",
+      "priority": 1
+    },
+    {
+      "front": "We **listened** to music.",
+      "back": "Wir **haben** Musik **gehört**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + hör + t: gehört.",
+      "priority": 1
+    },
+    {
+      "front": "You **have** already **learned** a lot of German. (formal)",
+      "back": "Sie **haben** schon viel Deutsch **gelernt**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. schon: already. gelernt at the very end.",
+      "priority": 1
+    },
+    {
+      "front": "What **did** he **say**?",
+      "back": "Was **hat** er **gesagt**?",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + sag + t: gesagt.",
+      "priority": 1
+    },
+    {
+      "front": "I **asked** the teacher. (a woman)",
+      "back": "Ich **habe** die Lehrerin **gefragt**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + frag + t: gefragt.",
+      "priority": 1
+    },
+    {
+      "front": "We **had breakfast** at eight.",
+      "back": "Wir **haben** um acht **gefrühstückt**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. frühstücken is regular: gefrühstückt.",
+      "priority": 1
+    },
+    {
+      "front": "We **danced** a lot.",
+      "back": "Wir **haben** viel **getanzt**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. ge + tanz + t: getanzt.",
+      "priority": 1
+    },
+    {
+      "front": "We **had** a party.",
+      "back": "Wir **haben** eine Party **gemacht**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. eine Party machen: to have a party.",
+      "priority": 1
+    },
+    {
+      "front": "I **didn't have** time.",
+      "back": "Ich **habe** keine Zeit **gehabt**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. haben is regular in the perfect: habe … gehabt.",
+      "priority": 1
+    },
+    {
+      "front": "I **ate** a salad.",
+      "back": "Ich **habe** einen Salat **gegessen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. Many common verbs end in -en: ge + gess + en, with an extra g.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **drink** coffee? (one friend)",
+      "back": "**Hast** du Kaffee **getrunken**?",
+      "note": "The perfect with haben: irregular participles, ge- … -en. trinken changes its vowel: getrunken.",
+      "priority": 1
+    },
+    {
+      "front": "She **read** the newspaper.",
+      "back": "Sie **hat** die Zeitung **gelesen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. ge + les + en: gelesen.",
+      "priority": 1
+    },
+    {
+      "front": "We **saw** a film.",
+      "back": "Wir **haben** einen Film **gesehen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. ge + seh + en: gesehen.",
+      "priority": 1
+    },
+    {
+      "front": "**Have** you **written** the letter? (several friends)",
+      "back": "**Habt** ihr den Brief **geschrieben**?",
+      "note": "The perfect with haben: irregular participles, ge- … -en. ei becomes ie: geschrieben.",
+      "priority": 1
+    },
+    {
+      "front": "I **found** my key.",
+      "back": "Ich **habe** meinen Schlüssel **gefunden**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. i becomes u: gefunden.",
+      "priority": 1
+    },
+    {
+      "front": "He **took** the bus.",
+      "back": "Er **hat** den Bus **genommen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. nehmen → genommen: o and a double m.",
+      "priority": 1
+    },
+    {
+      "front": "We **spoke** German.",
+      "back": "Wir **haben** Deutsch **gesprochen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. e becomes o: gesprochen.",
+      "priority": 1
+    },
+    {
+      "front": "**Did** you **sleep** well? (one friend)",
+      "back": "**Hast** du gut **geschlafen**?",
+      "note": "The perfect with haben: irregular participles, ge- … -en. schlafen keeps its a: geschlafen.",
+      "priority": 1
+    },
+    {
+      "front": "She **helped** me.",
+      "back": "Sie **hat** mir **geholfen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. e becomes o: geholfen. helfen still takes the dative: mir.",
+      "priority": 1
+    },
+    {
+      "front": "He **gave** me the book.",
+      "back": "Er **hat** mir das Buch **gegeben**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. geben keeps its e: gegeben.",
+      "priority": 1
+    },
+    {
+      "front": "I **washed** the car.",
+      "back": "Ich **habe** das Auto **gewaschen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. waschen → gewaschen: -en, vowel unchanged.",
+      "priority": 1
+    },
+    {
+      "front": "I **brought** you a cake. (one friend)",
+      "back": "Ich **habe** dir einen Kuchen **gebracht**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. A mixed verb: the stem changes, but the ending is -t: gebracht.",
+      "priority": 1
+    },
+    {
+      "front": "What **did** you **think**? (one friend)",
+      "back": "Was **hast** du **gedacht**?",
+      "note": "The perfect with haben: irregular participles, ge- … -en. Mixed, like bringen: gedacht.",
+      "priority": 1
+    },
+    {
+      "front": "I **didn't know** him.",
+      "back": "Ich **habe** ihn nicht **gekannt**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. Mixed: gekannt. nicht before the participle.",
+      "priority": 1
+    },
+    {
+      "front": "I **have** never **eaten** meat.",
+      "back": "Ich **habe** nie Fleisch **gegessen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. nie: never. It goes inside the bracket.",
+      "priority": 1
+    },
+    {
+      "front": "We **cooked** dinner.",
+      "back": "Wir **haben** das Abendessen **gekocht**.",
+      "note": "The perfect with haben: regular participles, ge- … -t. das Abendessen: the evening meal.",
+      "priority": 1
+    },
+    {
+      "front": "What **did** you **have** for lunch? (one friend)",
+      "back": "Was **hast** du zum Mittagessen **gegessen**?",
+      "note": "The perfect with haben: irregular participles, ge- … -en. zum Mittagessen: for lunch. gegessen last.",
+      "priority": 1
+    },
+    {
+      "front": "For breakfast I **had** an egg.",
+      "back": "Zum Frühstück **habe** ich ein Ei **gegessen**.",
+      "note": "The perfect with haben: irregular participles, ge- … -en. The time phrase first, habe second, the participle last.",
+      "priority": 1
+    }
+  ]
+}
