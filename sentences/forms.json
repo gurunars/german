@@ -346,6 +346,44 @@
    ]
   }
  },
+ "Bad": {
+  "all": [
+   "Bad",
+   "Bade",
+   "Bades",
+   "Bads",
+   "Bäder",
+   "Bädern"
+  ],
+  "english": "bathroom",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Bäder"
+   ],
+   "acc.sg": [
+    "Bad"
+   ],
+   "dat.pl": [
+    "Bädern"
+   ],
+   "dat.sg": [
+    "Bad",
+    "Bade"
+   ],
+   "gen.sg": [
+    "Bades",
+    "Bads"
+   ],
+   "nom.pl": [
+    "Bäder"
+   ],
+   "nom.sg": [
+    "Bad"
+   ]
+  }
+ },
  "Bahnhof": {
   "all": [
    "Bahnhof",
@@ -1478,6 +1516,39 @@
    ],
    "nom.pl": [
     "Ferien"
+   ]
+  }
+ },
+ "Fernseher": {
+  "all": [
+   "Fernseher",
+   "Fernsehern",
+   "Fernsehers"
+  ],
+  "english": "television (set)",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Fernseher"
+   ],
+   "acc.sg": [
+    "Fernseher"
+   ],
+   "dat.pl": [
+    "Fernsehern"
+   ],
+   "dat.sg": [
+    "Fernseher"
+   ],
+   "gen.sg": [
+    "Fernsehers"
+   ],
+   "nom.pl": [
+    "Fernseher"
+   ],
+   "nom.sg": [
+    "Fernseher"
    ]
   }
  },
@@ -5192,6 +5263,39 @@
    ]
   }
  },
+ "Sofa": {
+  "all": [
+   "Sofa",
+   "Sofas",
+   "Sopha"
+  ],
+  "english": "sofa",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Sofas"
+   ],
+   "acc.sg": [
+    "Sofa"
+   ],
+   "dat.pl": [
+    "Sofas"
+   ],
+   "dat.sg": [
+    "Sofa"
+   ],
+   "gen.sg": [
+    "Sofas"
+   ],
+   "nom.pl": [
+    "Sofas"
+   ],
+   "nom.sg": [
+    "Sofa"
+   ]
+  }
+ },
  "Sohn": {
   "all": [
    "Sohn",
@@ -5266,6 +5370,41 @@
    ],
    "nom.sg": [
     "Sonntag"
+   ]
+  }
+ },
+ "Spiegel": {
+  "all": [
+   "Spiegel",
+   "Spiegelchen",
+   "Spiegeln",
+   "Spiegels",
+   "Spieglein"
+  ],
+  "english": "mirror",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Spiegel"
+   ],
+   "acc.sg": [
+    "Spiegel"
+   ],
+   "dat.pl": [
+    "Spiegeln"
+   ],
+   "dat.sg": [
+    "Spiegel"
+   ],
+   "gen.sg": [
+    "Spiegels"
+   ],
+   "nom.pl": [
+    "Spiegel"
+   ],
+   "nom.sg": [
+    "Spiegel"
    ]
   }
  },
@@ -5724,6 +5863,80 @@
    ],
    "nom.sg": [
     "Tee"
+   ]
+  }
+ },
+ "Teppich": {
+  "all": [
+   "Teppich",
+   "Teppiche",
+   "Teppichen",
+   "Teppiches",
+   "Teppichs"
+  ],
+  "english": "carpet, rug",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Teppiche"
+   ],
+   "acc.sg": [
+    "Teppich"
+   ],
+   "dat.pl": [
+    "Teppichen"
+   ],
+   "dat.sg": [
+    "Teppich",
+    "Teppiche"
+   ],
+   "gen.sg": [
+    "Teppiches",
+    "Teppichs"
+   ],
+   "nom.pl": [
+    "Teppiche"
+   ],
+   "nom.sg": [
+    "Teppich"
+   ]
+  }
+ },
+ "Termin": {
+  "all": [
+   "Termin",
+   "Termine",
+   "Terminen",
+   "Termines",
+   "Termins"
+  ],
+  "english": "appointment",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Termine"
+   ],
+   "acc.sg": [
+    "Termin"
+   ],
+   "dat.pl": [
+    "Terminen"
+   ],
+   "dat.sg": [
+    "Termin",
+    "Termine"
+   ],
+   "gen.sg": [
+    "Termines",
+    "Termins"
+   ],
+   "nom.pl": [
+    "Termine"
+   ],
+   "nom.sg": [
+    "Termin"
    ]
   }
  },
@@ -6841,11 +7054,53 @@
     "einem älteren",
     "einen älteren"
    ],
+   "mixed.acc.f": [
+    "eine alte"
+   ],
    "mixed.acc.m": [
     "einen alten"
    ],
+   "mixed.acc.n": [
+    "ein altes"
+   ],
+   "mixed.acc.pl": [
+    "alten"
+   ],
+   "mixed.dat.f": [
+    "einer alten"
+   ],
+   "mixed.dat.m": [
+    "einem alten"
+   ],
+   "mixed.dat.n": [
+    "einem alten"
+   ],
+   "mixed.dat.pl": [
+    "alten"
+   ],
+   "mixed.gen.f": [
+    "einer alten"
+   ],
+   "mixed.gen.m": [
+    "eines alten"
+   ],
+   "mixed.gen.n": [
+    "eines alten"
+   ],
+   "mixed.gen.pl": [
+    "alten"
+   ],
+   "mixed.nom.f": [
+    "eine alte"
+   ],
+   "mixed.nom.m": [
+    "ein alter"
+   ],
    "mixed.nom.n": [
     "ein altes"
+   ],
+   "mixed.nom.pl": [
+    "alten"
    ],
    "strong.dat.f": [
     "alter"
@@ -8163,6 +8418,179 @@
    ]
   }
  },
+ "bequem": {
+  "all": [
+   "am",
+   "bequem",
+   "bequeme",
+   "bequemem",
+   "bequemen",
+   "bequemer",
+   "bequemere",
+   "bequemerem",
+   "bequemeren",
+   "bequemerer",
+   "bequemeres",
+   "bequemes",
+   "bequemste",
+   "bequemstem",
+   "bequemsten",
+   "bequemster",
+   "bequemstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "comfortable",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "bequemer",
+    "bequemerer",
+    "bequemere",
+    "bequemeres",
+    "bequemeren",
+    "bequemerem",
+    "der bequemere",
+    "die bequemere",
+    "das bequemere",
+    "die bequemeren",
+    "des bequemeren",
+    "der bequemeren",
+    "dem bequemeren",
+    "den bequemeren",
+    "ein bequemerer",
+    "eine bequemere",
+    "ein bequemeres",
+    "eines bequemeren",
+    "einer bequemeren",
+    "einem bequemeren",
+    "einen bequemeren"
+   ],
+   "mixed.acc.f": [
+    "eine bequeme"
+   ],
+   "mixed.acc.m": [
+    "einen bequemen"
+   ],
+   "mixed.acc.n": [
+    "ein bequemes"
+   ],
+   "mixed.acc.pl": [
+    "bequemen"
+   ],
+   "mixed.dat.f": [
+    "einer bequemen"
+   ],
+   "mixed.dat.m": [
+    "einem bequemen"
+   ],
+   "mixed.dat.n": [
+    "einem bequemen"
+   ],
+   "mixed.dat.pl": [
+    "bequemen"
+   ],
+   "mixed.gen.f": [
+    "einer bequemen"
+   ],
+   "mixed.gen.m": [
+    "eines bequemen"
+   ],
+   "mixed.gen.n": [
+    "eines bequemen"
+   ],
+   "mixed.gen.pl": [
+    "bequemen"
+   ],
+   "mixed.nom.f": [
+    "eine bequeme"
+   ],
+   "mixed.nom.m": [
+    "ein bequemer"
+   ],
+   "mixed.nom.n": [
+    "ein bequemes"
+   ],
+   "mixed.nom.pl": [
+    "bequemen"
+   ],
+   "strong.dat.f": [
+    "bequemer"
+   ],
+   "superlative": [
+    "am bequemsten",
+    "bequemster",
+    "bequemste",
+    "bequemstes",
+    "bequemsten",
+    "bequemstem",
+    "der bequemste",
+    "die bequemste",
+    "das bequemste",
+    "die bequemsten",
+    "des bequemsten",
+    "der bequemsten",
+    "dem bequemsten",
+    "den bequemsten",
+    "ein bequemster",
+    "eine bequemste",
+    "ein bequemstes",
+    "eines bequemsten",
+    "einer bequemsten",
+    "einem bequemsten",
+    "einen bequemsten"
+   ],
+   "weak.acc.f": [
+    "die bequeme"
+   ],
+   "weak.acc.m": [
+    "den bequemen"
+   ],
+   "weak.acc.n": [
+    "das bequeme"
+   ],
+   "weak.acc.pl": [
+    "die bequemen"
+   ],
+   "weak.dat.f": [
+    "der bequemen"
+   ],
+   "weak.dat.m": [
+    "dem bequemen"
+   ],
+   "weak.dat.n": [
+    "dem bequemen"
+   ],
+   "weak.dat.pl": [
+    "den bequemen"
+   ],
+   "weak.gen.f": [
+    "der bequemen"
+   ],
+   "weak.gen.m": [
+    "des bequemen"
+   ],
+   "weak.gen.n": [
+    "des bequemen"
+   ],
+   "weak.gen.pl": [
+    "der bequemen"
+   ],
+   "weak.nom.f": [
+    "die bequeme"
+   ],
+   "weak.nom.m": [
+    "der bequeme"
+   ],
+   "weak.nom.n": [
+    "das bequeme"
+   ],
+   "weak.nom.pl": [
+    "die bequemen"
+   ]
+  }
+ },
  "besuchen": {
   "all": [
    "besuch",
@@ -8364,11 +8792,53 @@
     "einem billigeren",
     "einen billigeren"
    ],
+   "mixed.acc.f": [
+    "eine billige"
+   ],
    "mixed.acc.m": [
     "einen billigen"
    ],
+   "mixed.acc.n": [
+    "ein billiges"
+   ],
+   "mixed.acc.pl": [
+    "billigen"
+   ],
+   "mixed.dat.f": [
+    "einer billigen"
+   ],
+   "mixed.dat.m": [
+    "einem billigen"
+   ],
+   "mixed.dat.n": [
+    "einem billigen"
+   ],
+   "mixed.dat.pl": [
+    "billigen"
+   ],
+   "mixed.gen.f": [
+    "einer billigen"
+   ],
+   "mixed.gen.m": [
+    "eines billigen"
+   ],
+   "mixed.gen.n": [
+    "eines billigen"
+   ],
+   "mixed.gen.pl": [
+    "billigen"
+   ],
+   "mixed.nom.f": [
+    "eine billige"
+   ],
+   "mixed.nom.m": [
+    "ein billiger"
+   ],
    "mixed.nom.n": [
     "ein billiges"
+   ],
+   "mixed.nom.pl": [
+    "billigen"
    ],
    "strong.dat.f": [
     "billiger"
@@ -8501,11 +8971,53 @@
     "einem blaueren",
     "einen blaueren"
    ],
+   "mixed.acc.f": [
+    "eine blaue"
+   ],
    "mixed.acc.m": [
     "einen blauen"
    ],
+   "mixed.acc.n": [
+    "ein blaues"
+   ],
+   "mixed.acc.pl": [
+    "blauen"
+   ],
+   "mixed.dat.f": [
+    "einer blauen"
+   ],
+   "mixed.dat.m": [
+    "einem blauen"
+   ],
+   "mixed.dat.n": [
+    "einem blauen"
+   ],
+   "mixed.dat.pl": [
+    "blauen"
+   ],
+   "mixed.gen.f": [
+    "einer blauen"
+   ],
+   "mixed.gen.m": [
+    "eines blauen"
+   ],
+   "mixed.gen.n": [
+    "eines blauen"
+   ],
+   "mixed.gen.pl": [
+    "blauen"
+   ],
+   "mixed.nom.f": [
+    "eine blaue"
+   ],
+   "mixed.nom.m": [
+    "ein blauer"
+   ],
    "mixed.nom.n": [
     "ein blaues"
+   ],
+   "mixed.nom.pl": [
+    "blauen"
    ],
    "strong.dat.f": [
     "blauer"
@@ -8862,11 +9374,53 @@
     "einem brauneren",
     "einen brauneren"
    ],
+   "mixed.acc.f": [
+    "eine braune"
+   ],
    "mixed.acc.m": [
     "einen braunen"
    ],
+   "mixed.acc.n": [
+    "ein braunes"
+   ],
+   "mixed.acc.pl": [
+    "braunen"
+   ],
+   "mixed.dat.f": [
+    "einer braunen"
+   ],
+   "mixed.dat.m": [
+    "einem braunen"
+   ],
+   "mixed.dat.n": [
+    "einem braunen"
+   ],
+   "mixed.dat.pl": [
+    "braunen"
+   ],
+   "mixed.gen.f": [
+    "einer braunen"
+   ],
+   "mixed.gen.m": [
+    "eines braunen"
+   ],
+   "mixed.gen.n": [
+    "eines braunen"
+   ],
+   "mixed.gen.pl": [
+    "braunen"
+   ],
+   "mixed.nom.f": [
+    "eine braune"
+   ],
+   "mixed.nom.m": [
+    "ein brauner"
+   ],
    "mixed.nom.n": [
     "ein braunes"
+   ],
+   "mixed.nom.pl": [
+    "braunen"
    ],
    "strong.dat.f": [
     "brauner"
@@ -9308,13 +9862,69 @@
     "einem dunkeleren",
     "einen dunkeleren"
    ],
+   "mixed.acc.f": [
+    "eine dunkle",
+    "eine dunkele"
+   ],
    "mixed.acc.m": [
     "einen dunklen",
     "einen dunkelen"
    ],
+   "mixed.acc.n": [
+    "ein dunkles",
+    "ein dunkeles"
+   ],
+   "mixed.acc.pl": [
+    "dunklen",
+    "dunkelen"
+   ],
+   "mixed.dat.f": [
+    "einer dunklen",
+    "einer dunkelen"
+   ],
+   "mixed.dat.m": [
+    "einem dunklen",
+    "einem dunkelen"
+   ],
+   "mixed.dat.n": [
+    "einem dunklen",
+    "einem dunkelen"
+   ],
+   "mixed.dat.pl": [
+    "dunklen",
+    "dunkelen"
+   ],
+   "mixed.gen.f": [
+    "einer dunklen",
+    "einer dunkelen"
+   ],
+   "mixed.gen.m": [
+    "eines dunklen",
+    "eines dunkelen"
+   ],
+   "mixed.gen.n": [
+    "eines dunklen",
+    "eines dunkelen"
+   ],
+   "mixed.gen.pl": [
+    "dunklen",
+    "dunkelen"
+   ],
+   "mixed.nom.f": [
+    "eine dunkle",
+    "eine dunkele"
+   ],
+   "mixed.nom.m": [
+    "ein dunkler",
+    "ein dunkeler"
+   ],
    "mixed.nom.n": [
     "ein dunkles",
     "ein dunkeles"
+   ],
+   "mixed.nom.pl": [
+    "dunklen",
+    "dunkelen"
    ],
    "strong.dat.f": [
     "dunkler",
@@ -9547,11 +10157,53 @@
     "einem einfacheren",
     "einen einfacheren"
    ],
+   "mixed.acc.f": [
+    "eine einfache"
+   ],
    "mixed.acc.m": [
     "einen einfachen"
    ],
+   "mixed.acc.n": [
+    "ein einfaches"
+   ],
+   "mixed.acc.pl": [
+    "einfachen"
+   ],
+   "mixed.dat.f": [
+    "einer einfachen"
+   ],
+   "mixed.dat.m": [
+    "einem einfachen"
+   ],
+   "mixed.dat.n": [
+    "einem einfachen"
+   ],
+   "mixed.dat.pl": [
+    "einfachen"
+   ],
+   "mixed.gen.f": [
+    "einer einfachen"
+   ],
+   "mixed.gen.m": [
+    "eines einfachen"
+   ],
+   "mixed.gen.n": [
+    "eines einfachen"
+   ],
+   "mixed.gen.pl": [
+    "einfachen"
+   ],
+   "mixed.nom.f": [
+    "eine einfache"
+   ],
+   "mixed.nom.m": [
+    "ein einfacher"
+   ],
    "mixed.nom.n": [
     "ein einfaches"
+   ],
+   "mixed.nom.pl": [
+    "einfachen"
    ],
    "strong.dat.f": [
     "einfacher"
@@ -10628,11 +11280,53 @@
     "einem freieren",
     "einen freieren"
    ],
+   "mixed.acc.f": [
+    "eine freie"
+   ],
    "mixed.acc.m": [
     "einen freien"
    ],
+   "mixed.acc.n": [
+    "ein freies"
+   ],
+   "mixed.acc.pl": [
+    "freien"
+   ],
+   "mixed.dat.f": [
+    "einer freien"
+   ],
+   "mixed.dat.m": [
+    "einem freien"
+   ],
+   "mixed.dat.n": [
+    "einem freien"
+   ],
+   "mixed.dat.pl": [
+    "freien"
+   ],
+   "mixed.gen.f": [
+    "einer freien"
+   ],
+   "mixed.gen.m": [
+    "eines freien"
+   ],
+   "mixed.gen.n": [
+    "eines freien"
+   ],
+   "mixed.gen.pl": [
+    "freien"
+   ],
+   "mixed.nom.f": [
+    "eine freie"
+   ],
+   "mixed.nom.m": [
+    "ein freier"
+   ],
    "mixed.nom.n": [
     "ein freies"
+   ],
+   "mixed.nom.pl": [
+    "freien"
    ],
    "strong.dat.f": [
     "freier"
@@ -10785,11 +11479,53 @@
     "einem früheren",
     "einen früheren"
    ],
+   "mixed.acc.f": [
+    "eine frühe"
+   ],
    "mixed.acc.m": [
     "einen frühen"
    ],
+   "mixed.acc.n": [
+    "ein frühes"
+   ],
+   "mixed.acc.pl": [
+    "frühen"
+   ],
+   "mixed.dat.f": [
+    "einer frühen"
+   ],
+   "mixed.dat.m": [
+    "einem frühen"
+   ],
+   "mixed.dat.n": [
+    "einem frühen"
+   ],
+   "mixed.dat.pl": [
+    "frühen"
+   ],
+   "mixed.gen.f": [
+    "einer frühen"
+   ],
+   "mixed.gen.m": [
+    "eines frühen"
+   ],
+   "mixed.gen.n": [
+    "eines frühen"
+   ],
+   "mixed.gen.pl": [
+    "frühen"
+   ],
+   "mixed.nom.f": [
+    "eine frühe"
+   ],
+   "mixed.nom.m": [
+    "ein früher"
+   ],
    "mixed.nom.n": [
     "ein frühes"
+   ],
+   "mixed.nom.pl": [
+    "frühen"
    ],
    "strong.dat.f": [
     "früher"
@@ -11374,11 +12110,53 @@
     "einem gelberen",
     "einen gelberen"
    ],
+   "mixed.acc.f": [
+    "eine gelbe"
+   ],
    "mixed.acc.m": [
     "einen gelben"
    ],
+   "mixed.acc.n": [
+    "ein gelbes"
+   ],
+   "mixed.acc.pl": [
+    "gelben"
+   ],
+   "mixed.dat.f": [
+    "einer gelben"
+   ],
+   "mixed.dat.m": [
+    "einem gelben"
+   ],
+   "mixed.dat.n": [
+    "einem gelben"
+   ],
+   "mixed.dat.pl": [
+    "gelben"
+   ],
+   "mixed.gen.f": [
+    "einer gelben"
+   ],
+   "mixed.gen.m": [
+    "eines gelben"
+   ],
+   "mixed.gen.n": [
+    "eines gelben"
+   ],
+   "mixed.gen.pl": [
+    "gelben"
+   ],
+   "mixed.nom.f": [
+    "eine gelbe"
+   ],
+   "mixed.nom.m": [
+    "ein gelber"
+   ],
    "mixed.nom.n": [
     "ein gelbes"
+   ],
+   "mixed.nom.pl": [
+    "gelben"
    ],
    "strong.dat.f": [
     "gelber"
@@ -11453,6 +12231,179 @@
    ],
    "weak.nom.pl": [
     "die gelben"
+   ]
+  }
+ },
+ "gemütlich": {
+  "all": [
+   "am",
+   "gemütlich",
+   "gemütliche",
+   "gemütlichem",
+   "gemütlichen",
+   "gemütlicher",
+   "gemütlichere",
+   "gemütlicherem",
+   "gemütlicheren",
+   "gemütlicherer",
+   "gemütlicheres",
+   "gemütliches",
+   "gemütlichste",
+   "gemütlichstem",
+   "gemütlichsten",
+   "gemütlichster",
+   "gemütlichstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "cosy",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "gemütlicher",
+    "gemütlicherer",
+    "gemütlichere",
+    "gemütlicheres",
+    "gemütlicheren",
+    "gemütlicherem",
+    "der gemütlichere",
+    "die gemütlichere",
+    "das gemütlichere",
+    "die gemütlicheren",
+    "des gemütlicheren",
+    "der gemütlicheren",
+    "dem gemütlicheren",
+    "den gemütlicheren",
+    "ein gemütlicherer",
+    "eine gemütlichere",
+    "ein gemütlicheres",
+    "eines gemütlicheren",
+    "einer gemütlicheren",
+    "einem gemütlicheren",
+    "einen gemütlicheren"
+   ],
+   "mixed.acc.f": [
+    "eine gemütliche"
+   ],
+   "mixed.acc.m": [
+    "einen gemütlichen"
+   ],
+   "mixed.acc.n": [
+    "ein gemütliches"
+   ],
+   "mixed.acc.pl": [
+    "gemütlichen"
+   ],
+   "mixed.dat.f": [
+    "einer gemütlichen"
+   ],
+   "mixed.dat.m": [
+    "einem gemütlichen"
+   ],
+   "mixed.dat.n": [
+    "einem gemütlichen"
+   ],
+   "mixed.dat.pl": [
+    "gemütlichen"
+   ],
+   "mixed.gen.f": [
+    "einer gemütlichen"
+   ],
+   "mixed.gen.m": [
+    "eines gemütlichen"
+   ],
+   "mixed.gen.n": [
+    "eines gemütlichen"
+   ],
+   "mixed.gen.pl": [
+    "gemütlichen"
+   ],
+   "mixed.nom.f": [
+    "eine gemütliche"
+   ],
+   "mixed.nom.m": [
+    "ein gemütlicher"
+   ],
+   "mixed.nom.n": [
+    "ein gemütliches"
+   ],
+   "mixed.nom.pl": [
+    "gemütlichen"
+   ],
+   "strong.dat.f": [
+    "gemütlicher"
+   ],
+   "superlative": [
+    "am gemütlichsten",
+    "gemütlichster",
+    "gemütlichste",
+    "gemütlichstes",
+    "gemütlichsten",
+    "gemütlichstem",
+    "der gemütlichste",
+    "die gemütlichste",
+    "das gemütlichste",
+    "die gemütlichsten",
+    "des gemütlichsten",
+    "der gemütlichsten",
+    "dem gemütlichsten",
+    "den gemütlichsten",
+    "ein gemütlichster",
+    "eine gemütlichste",
+    "ein gemütlichstes",
+    "eines gemütlichsten",
+    "einer gemütlichsten",
+    "einem gemütlichsten",
+    "einen gemütlichsten"
+   ],
+   "weak.acc.f": [
+    "die gemütliche"
+   ],
+   "weak.acc.m": [
+    "den gemütlichen"
+   ],
+   "weak.acc.n": [
+    "das gemütliche"
+   ],
+   "weak.acc.pl": [
+    "die gemütlichen"
+   ],
+   "weak.dat.f": [
+    "der gemütlichen"
+   ],
+   "weak.dat.m": [
+    "dem gemütlichen"
+   ],
+   "weak.dat.n": [
+    "dem gemütlichen"
+   ],
+   "weak.dat.pl": [
+    "den gemütlichen"
+   ],
+   "weak.gen.f": [
+    "der gemütlichen"
+   ],
+   "weak.gen.m": [
+    "des gemütlichen"
+   ],
+   "weak.gen.n": [
+    "des gemütlichen"
+   ],
+   "weak.gen.pl": [
+    "der gemütlichen"
+   ],
+   "weak.nom.f": [
+    "die gemütliche"
+   ],
+   "weak.nom.m": [
+    "der gemütliche"
+   ],
+   "weak.nom.n": [
+    "das gemütliche"
+   ],
+   "weak.nom.pl": [
+    "die gemütlichen"
    ]
   }
  },
@@ -11633,13 +12584,69 @@
     "einem grösseren",
     "einen grösseren"
    ],
+   "mixed.acc.f": [
+    "eine große",
+    "eine grosse"
+   ],
    "mixed.acc.m": [
     "einen großen",
     "einen grossen"
    ],
+   "mixed.acc.n": [
+    "ein großes",
+    "ein grosses"
+   ],
+   "mixed.acc.pl": [
+    "großen",
+    "grossen"
+   ],
+   "mixed.dat.f": [
+    "einer großen",
+    "einer grossen"
+   ],
+   "mixed.dat.m": [
+    "einem großen",
+    "einem grossen"
+   ],
+   "mixed.dat.n": [
+    "einem großen",
+    "einem grossen"
+   ],
+   "mixed.dat.pl": [
+    "großen",
+    "grossen"
+   ],
+   "mixed.gen.f": [
+    "einer großen",
+    "einer grossen"
+   ],
+   "mixed.gen.m": [
+    "eines großen",
+    "eines grossen"
+   ],
+   "mixed.gen.n": [
+    "eines großen",
+    "eines grossen"
+   ],
+   "mixed.gen.pl": [
+    "großen",
+    "grossen"
+   ],
+   "mixed.nom.f": [
+    "eine große",
+    "eine grosse"
+   ],
+   "mixed.nom.m": [
+    "ein großer",
+    "ein grosser"
+   ],
    "mixed.nom.n": [
     "ein großes",
     "ein grosses"
+   ],
+   "mixed.nom.pl": [
+    "großen",
+    "grossen"
    ],
    "strong.dat.f": [
     "großer",
@@ -11846,11 +12853,53 @@
     "einem grüneren",
     "einen grüneren"
    ],
+   "mixed.acc.f": [
+    "eine grüne"
+   ],
    "mixed.acc.m": [
     "einen grünen"
    ],
+   "mixed.acc.n": [
+    "ein grünes"
+   ],
+   "mixed.acc.pl": [
+    "grünen"
+   ],
+   "mixed.dat.f": [
+    "einer grünen"
+   ],
+   "mixed.dat.m": [
+    "einem grünen"
+   ],
+   "mixed.dat.n": [
+    "einem grünen"
+   ],
+   "mixed.dat.pl": [
+    "grünen"
+   ],
+   "mixed.gen.f": [
+    "einer grünen"
+   ],
+   "mixed.gen.m": [
+    "eines grünen"
+   ],
+   "mixed.gen.n": [
+    "eines grünen"
+   ],
+   "mixed.gen.pl": [
+    "grünen"
+   ],
+   "mixed.nom.f": [
+    "eine grüne"
+   ],
+   "mixed.nom.m": [
+    "ein grüner"
+   ],
    "mixed.nom.n": [
     "ein grünes"
+   ],
+   "mixed.nom.pl": [
+    "grünen"
    ],
    "strong.dat.f": [
     "grüner"
@@ -11980,11 +13029,53 @@
     "einem besseren",
     "einen besseren"
    ],
+   "mixed.acc.f": [
+    "eine gute"
+   ],
    "mixed.acc.m": [
     "einen guten"
    ],
+   "mixed.acc.n": [
+    "ein gutes"
+   ],
+   "mixed.acc.pl": [
+    "guten"
+   ],
+   "mixed.dat.f": [
+    "einer guten"
+   ],
+   "mixed.dat.m": [
+    "einem guten"
+   ],
+   "mixed.dat.n": [
+    "einem guten"
+   ],
+   "mixed.dat.pl": [
+    "guten"
+   ],
+   "mixed.gen.f": [
+    "einer guten"
+   ],
+   "mixed.gen.m": [
+    "eines guten"
+   ],
+   "mixed.gen.n": [
+    "eines guten"
+   ],
+   "mixed.gen.pl": [
+    "guten"
+   ],
+   "mixed.nom.f": [
+    "eine gute"
+   ],
+   "mixed.nom.m": [
+    "ein guter"
+   ],
    "mixed.nom.n": [
     "ein gutes"
+   ],
+   "mixed.nom.pl": [
+    "guten"
    ],
    "strong.dat.f": [
     "guter"
@@ -12173,11 +13264,53 @@
   "english": "half",
   "pos": "adj",
   "slots": {
+   "mixed.acc.f": [
+    "eine halbe"
+   ],
    "mixed.acc.m": [
     "einen halben"
    ],
+   "mixed.acc.n": [
+    "ein halbes"
+   ],
+   "mixed.acc.pl": [
+    "halben"
+   ],
+   "mixed.dat.f": [
+    "einer halben"
+   ],
+   "mixed.dat.m": [
+    "einem halben"
+   ],
+   "mixed.dat.n": [
+    "einem halben"
+   ],
+   "mixed.dat.pl": [
+    "halben"
+   ],
+   "mixed.gen.f": [
+    "einer halben"
+   ],
+   "mixed.gen.m": [
+    "eines halben"
+   ],
+   "mixed.gen.n": [
+    "eines halben"
+   ],
+   "mixed.gen.pl": [
+    "halben"
+   ],
+   "mixed.nom.f": [
+    "eine halbe"
+   ],
+   "mixed.nom.m": [
+    "ein halber"
+   ],
    "mixed.nom.n": [
     "ein halbes"
+   ],
+   "mixed.nom.pl": [
+    "halben"
    ],
    "strong.dat.f": [
     "halber"
@@ -12464,11 +13597,53 @@
     "einem helleren",
     "einen helleren"
    ],
+   "mixed.acc.f": [
+    "eine helle"
+   ],
    "mixed.acc.m": [
     "einen hellen"
    ],
+   "mixed.acc.n": [
+    "ein helles"
+   ],
+   "mixed.acc.pl": [
+    "hellen"
+   ],
+   "mixed.dat.f": [
+    "einer hellen"
+   ],
+   "mixed.dat.m": [
+    "einem hellen"
+   ],
+   "mixed.dat.n": [
+    "einem hellen"
+   ],
+   "mixed.dat.pl": [
+    "hellen"
+   ],
+   "mixed.gen.f": [
+    "einer hellen"
+   ],
+   "mixed.gen.m": [
+    "eines hellen"
+   ],
+   "mixed.gen.n": [
+    "eines hellen"
+   ],
+   "mixed.gen.pl": [
+    "hellen"
+   ],
+   "mixed.nom.f": [
+    "eine helle"
+   ],
+   "mixed.nom.m": [
+    "ein heller"
+   ],
    "mixed.nom.n": [
     "ein helles"
+   ],
+   "mixed.nom.pl": [
+    "hellen"
    ],
    "strong.dat.f": [
     "heller"
@@ -12641,6 +13816,180 @@
    ]
   }
  },
+ "hässlich": {
+  "all": [
+   "am",
+   "hässlich",
+   "hässliche",
+   "hässlichem",
+   "hässlichen",
+   "hässlicher",
+   "hässlichere",
+   "hässlicherem",
+   "hässlicheren",
+   "hässlicherer",
+   "hässlicheres",
+   "hässliches",
+   "hässlichste",
+   "hässlichstem",
+   "hässlichsten",
+   "hässlichster",
+   "hässlichstes",
+   "häßlich",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "ugly",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "hässlicher",
+    "hässlicherer",
+    "hässlichere",
+    "hässlicheres",
+    "hässlicheren",
+    "hässlicherem",
+    "der hässlichere",
+    "die hässlichere",
+    "das hässlichere",
+    "die hässlicheren",
+    "des hässlicheren",
+    "der hässlicheren",
+    "dem hässlicheren",
+    "den hässlicheren",
+    "ein hässlicherer",
+    "eine hässlichere",
+    "ein hässlicheres",
+    "eines hässlicheren",
+    "einer hässlicheren",
+    "einem hässlicheren",
+    "einen hässlicheren"
+   ],
+   "mixed.acc.f": [
+    "eine hässliche"
+   ],
+   "mixed.acc.m": [
+    "einen hässlichen"
+   ],
+   "mixed.acc.n": [
+    "ein hässliches"
+   ],
+   "mixed.acc.pl": [
+    "hässlichen"
+   ],
+   "mixed.dat.f": [
+    "einer hässlichen"
+   ],
+   "mixed.dat.m": [
+    "einem hässlichen"
+   ],
+   "mixed.dat.n": [
+    "einem hässlichen"
+   ],
+   "mixed.dat.pl": [
+    "hässlichen"
+   ],
+   "mixed.gen.f": [
+    "einer hässlichen"
+   ],
+   "mixed.gen.m": [
+    "eines hässlichen"
+   ],
+   "mixed.gen.n": [
+    "eines hässlichen"
+   ],
+   "mixed.gen.pl": [
+    "hässlichen"
+   ],
+   "mixed.nom.f": [
+    "eine hässliche"
+   ],
+   "mixed.nom.m": [
+    "ein hässlicher"
+   ],
+   "mixed.nom.n": [
+    "ein hässliches"
+   ],
+   "mixed.nom.pl": [
+    "hässlichen"
+   ],
+   "strong.dat.f": [
+    "hässlicher"
+   ],
+   "superlative": [
+    "am hässlichsten",
+    "hässlichster",
+    "hässlichste",
+    "hässlichstes",
+    "hässlichsten",
+    "hässlichstem",
+    "der hässlichste",
+    "die hässlichste",
+    "das hässlichste",
+    "die hässlichsten",
+    "des hässlichsten",
+    "der hässlichsten",
+    "dem hässlichsten",
+    "den hässlichsten",
+    "ein hässlichster",
+    "eine hässlichste",
+    "ein hässlichstes",
+    "eines hässlichsten",
+    "einer hässlichsten",
+    "einem hässlichsten",
+    "einen hässlichsten"
+   ],
+   "weak.acc.f": [
+    "die hässliche"
+   ],
+   "weak.acc.m": [
+    "den hässlichen"
+   ],
+   "weak.acc.n": [
+    "das hässliche"
+   ],
+   "weak.acc.pl": [
+    "die hässlichen"
+   ],
+   "weak.dat.f": [
+    "der hässlichen"
+   ],
+   "weak.dat.m": [
+    "dem hässlichen"
+   ],
+   "weak.dat.n": [
+    "dem hässlichen"
+   ],
+   "weak.dat.pl": [
+    "den hässlichen"
+   ],
+   "weak.gen.f": [
+    "der hässlichen"
+   ],
+   "weak.gen.m": [
+    "des hässlichen"
+   ],
+   "weak.gen.n": [
+    "des hässlichen"
+   ],
+   "weak.gen.pl": [
+    "der hässlichen"
+   ],
+   "weak.nom.f": [
+    "die hässliche"
+   ],
+   "weak.nom.m": [
+    "der hässliche"
+   ],
+   "weak.nom.n": [
+    "das hässliche"
+   ],
+   "weak.nom.pl": [
+    "die hässlichen"
+   ]
+  }
+ },
  "hören": {
   "all": [
    "gehört",
@@ -12718,6 +14067,179 @@
    ]
   }
  },
+ "interessant": {
+  "all": [
+   "am",
+   "interessant",
+   "interessante",
+   "interessantem",
+   "interessanten",
+   "interessanter",
+   "interessantere",
+   "interessanterem",
+   "interessanteren",
+   "interessanterer",
+   "interessanteres",
+   "interessantes",
+   "interessanteste",
+   "interessantestem",
+   "interessantesten",
+   "interessantester",
+   "interessantestes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "interesting",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "interessanter",
+    "interessanterer",
+    "interessantere",
+    "interessanteres",
+    "interessanteren",
+    "interessanterem",
+    "der interessantere",
+    "die interessantere",
+    "das interessantere",
+    "die interessanteren",
+    "des interessanteren",
+    "der interessanteren",
+    "dem interessanteren",
+    "den interessanteren",
+    "ein interessanterer",
+    "eine interessantere",
+    "ein interessanteres",
+    "eines interessanteren",
+    "einer interessanteren",
+    "einem interessanteren",
+    "einen interessanteren"
+   ],
+   "mixed.acc.f": [
+    "eine interessante"
+   ],
+   "mixed.acc.m": [
+    "einen interessanten"
+   ],
+   "mixed.acc.n": [
+    "ein interessantes"
+   ],
+   "mixed.acc.pl": [
+    "interessanten"
+   ],
+   "mixed.dat.f": [
+    "einer interessanten"
+   ],
+   "mixed.dat.m": [
+    "einem interessanten"
+   ],
+   "mixed.dat.n": [
+    "einem interessanten"
+   ],
+   "mixed.dat.pl": [
+    "interessanten"
+   ],
+   "mixed.gen.f": [
+    "einer interessanten"
+   ],
+   "mixed.gen.m": [
+    "eines interessanten"
+   ],
+   "mixed.gen.n": [
+    "eines interessanten"
+   ],
+   "mixed.gen.pl": [
+    "interessanten"
+   ],
+   "mixed.nom.f": [
+    "eine interessante"
+   ],
+   "mixed.nom.m": [
+    "ein interessanter"
+   ],
+   "mixed.nom.n": [
+    "ein interessantes"
+   ],
+   "mixed.nom.pl": [
+    "interessanten"
+   ],
+   "strong.dat.f": [
+    "interessanter"
+   ],
+   "superlative": [
+    "am interessantesten",
+    "interessantester",
+    "interessanteste",
+    "interessantestes",
+    "interessantesten",
+    "interessantestem",
+    "der interessanteste",
+    "die interessanteste",
+    "das interessanteste",
+    "die interessantesten",
+    "des interessantesten",
+    "der interessantesten",
+    "dem interessantesten",
+    "den interessantesten",
+    "ein interessantester",
+    "eine interessanteste",
+    "ein interessantestes",
+    "eines interessantesten",
+    "einer interessantesten",
+    "einem interessantesten",
+    "einen interessantesten"
+   ],
+   "weak.acc.f": [
+    "die interessante"
+   ],
+   "weak.acc.m": [
+    "den interessanten"
+   ],
+   "weak.acc.n": [
+    "das interessante"
+   ],
+   "weak.acc.pl": [
+    "die interessanten"
+   ],
+   "weak.dat.f": [
+    "der interessanten"
+   ],
+   "weak.dat.m": [
+    "dem interessanten"
+   ],
+   "weak.dat.n": [
+    "dem interessanten"
+   ],
+   "weak.dat.pl": [
+    "den interessanten"
+   ],
+   "weak.gen.f": [
+    "der interessanten"
+   ],
+   "weak.gen.m": [
+    "des interessanten"
+   ],
+   "weak.gen.n": [
+    "des interessanten"
+   ],
+   "weak.gen.pl": [
+    "der interessanten"
+   ],
+   "weak.nom.f": [
+    "die interessante"
+   ],
+   "weak.nom.m": [
+    "der interessante"
+   ],
+   "weak.nom.n": [
+    "das interessante"
+   ],
+   "weak.nom.pl": [
+    "die interessanten"
+   ]
+  }
+ },
  "jung": {
   "all": [
    "am",
@@ -12768,11 +14290,53 @@
     "einem jüngeren",
     "einen jüngeren"
    ],
+   "mixed.acc.f": [
+    "eine junge"
+   ],
    "mixed.acc.m": [
     "einen jungen"
    ],
+   "mixed.acc.n": [
+    "ein junges"
+   ],
+   "mixed.acc.pl": [
+    "jungen"
+   ],
+   "mixed.dat.f": [
+    "einer jungen"
+   ],
+   "mixed.dat.m": [
+    "einem jungen"
+   ],
+   "mixed.dat.n": [
+    "einem jungen"
+   ],
+   "mixed.dat.pl": [
+    "jungen"
+   ],
+   "mixed.gen.f": [
+    "einer jungen"
+   ],
+   "mixed.gen.m": [
+    "eines jungen"
+   ],
+   "mixed.gen.n": [
+    "eines jungen"
+   ],
+   "mixed.gen.pl": [
+    "jungen"
+   ],
+   "mixed.nom.f": [
+    "eine junge"
+   ],
+   "mixed.nom.m": [
+    "ein junger"
+   ],
    "mixed.nom.n": [
     "ein junges"
+   ],
+   "mixed.nom.pl": [
+    "jungen"
    ],
    "strong.dat.f": [
     "junger"
@@ -12900,11 +14464,53 @@
     "einem kälteren",
     "einen kälteren"
    ],
+   "mixed.acc.f": [
+    "eine kalte"
+   ],
    "mixed.acc.m": [
     "einen kalten"
    ],
+   "mixed.acc.n": [
+    "ein kaltes"
+   ],
+   "mixed.acc.pl": [
+    "kalten"
+   ],
+   "mixed.dat.f": [
+    "einer kalten"
+   ],
+   "mixed.dat.m": [
+    "einem kalten"
+   ],
+   "mixed.dat.n": [
+    "einem kalten"
+   ],
+   "mixed.dat.pl": [
+    "kalten"
+   ],
+   "mixed.gen.f": [
+    "einer kalten"
+   ],
+   "mixed.gen.m": [
+    "eines kalten"
+   ],
+   "mixed.gen.n": [
+    "eines kalten"
+   ],
+   "mixed.gen.pl": [
+    "kalten"
+   ],
+   "mixed.nom.f": [
+    "eine kalte"
+   ],
+   "mixed.nom.m": [
+    "ein kalter"
+   ],
    "mixed.nom.n": [
     "ein kaltes"
+   ],
+   "mixed.nom.pl": [
+    "kalten"
    ],
    "strong.dat.f": [
     "kalter"
@@ -12979,6 +14585,179 @@
    ],
    "weak.nom.pl": [
     "die kalten"
+   ]
+  }
+ },
+ "kaputt": {
+  "all": [
+   "am",
+   "kaputt",
+   "kaputte",
+   "kaputtem",
+   "kaputten",
+   "kaputter",
+   "kaputtere",
+   "kaputterem",
+   "kaputteren",
+   "kaputterer",
+   "kaputteres",
+   "kaputtes",
+   "kaputteste",
+   "kaputtestem",
+   "kaputtesten",
+   "kaputtester",
+   "kaputtestes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "broken",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "kaputter",
+    "kaputterer",
+    "kaputtere",
+    "kaputteres",
+    "kaputteren",
+    "kaputterem",
+    "der kaputtere",
+    "die kaputtere",
+    "das kaputtere",
+    "die kaputteren",
+    "des kaputteren",
+    "der kaputteren",
+    "dem kaputteren",
+    "den kaputteren",
+    "ein kaputterer",
+    "eine kaputtere",
+    "ein kaputteres",
+    "eines kaputteren",
+    "einer kaputteren",
+    "einem kaputteren",
+    "einen kaputteren"
+   ],
+   "mixed.acc.f": [
+    "eine kaputte"
+   ],
+   "mixed.acc.m": [
+    "einen kaputten"
+   ],
+   "mixed.acc.n": [
+    "ein kaputtes"
+   ],
+   "mixed.acc.pl": [
+    "kaputten"
+   ],
+   "mixed.dat.f": [
+    "einer kaputten"
+   ],
+   "mixed.dat.m": [
+    "einem kaputten"
+   ],
+   "mixed.dat.n": [
+    "einem kaputten"
+   ],
+   "mixed.dat.pl": [
+    "kaputten"
+   ],
+   "mixed.gen.f": [
+    "einer kaputten"
+   ],
+   "mixed.gen.m": [
+    "eines kaputten"
+   ],
+   "mixed.gen.n": [
+    "eines kaputten"
+   ],
+   "mixed.gen.pl": [
+    "kaputten"
+   ],
+   "mixed.nom.f": [
+    "eine kaputte"
+   ],
+   "mixed.nom.m": [
+    "ein kaputter"
+   ],
+   "mixed.nom.n": [
+    "ein kaputtes"
+   ],
+   "mixed.nom.pl": [
+    "kaputten"
+   ],
+   "strong.dat.f": [
+    "kaputter"
+   ],
+   "superlative": [
+    "am kaputtesten",
+    "kaputtester",
+    "kaputteste",
+    "kaputtestes",
+    "kaputtesten",
+    "kaputtestem",
+    "der kaputteste",
+    "die kaputteste",
+    "das kaputteste",
+    "die kaputtesten",
+    "des kaputtesten",
+    "der kaputtesten",
+    "dem kaputtesten",
+    "den kaputtesten",
+    "ein kaputtester",
+    "eine kaputteste",
+    "ein kaputtestes",
+    "eines kaputtesten",
+    "einer kaputtesten",
+    "einem kaputtesten",
+    "einen kaputtesten"
+   ],
+   "weak.acc.f": [
+    "die kaputte"
+   ],
+   "weak.acc.m": [
+    "den kaputten"
+   ],
+   "weak.acc.n": [
+    "das kaputte"
+   ],
+   "weak.acc.pl": [
+    "die kaputten"
+   ],
+   "weak.dat.f": [
+    "der kaputten"
+   ],
+   "weak.dat.m": [
+    "dem kaputten"
+   ],
+   "weak.dat.n": [
+    "dem kaputten"
+   ],
+   "weak.dat.pl": [
+    "den kaputten"
+   ],
+   "weak.gen.f": [
+    "der kaputten"
+   ],
+   "weak.gen.m": [
+    "des kaputten"
+   ],
+   "weak.gen.n": [
+    "des kaputten"
+   ],
+   "weak.gen.pl": [
+    "der kaputten"
+   ],
+   "weak.nom.f": [
+    "die kaputte"
+   ],
+   "weak.nom.m": [
+    "der kaputte"
+   ],
+   "weak.nom.n": [
+    "das kaputte"
+   ],
+   "weak.nom.pl": [
+    "die kaputten"
    ]
   }
  },
@@ -13190,11 +14969,53 @@
     "einem klareren",
     "einen klareren"
    ],
+   "mixed.acc.f": [
+    "eine klare"
+   ],
    "mixed.acc.m": [
     "einen klaren"
    ],
+   "mixed.acc.n": [
+    "ein klares"
+   ],
+   "mixed.acc.pl": [
+    "klaren"
+   ],
+   "mixed.dat.f": [
+    "einer klaren"
+   ],
+   "mixed.dat.m": [
+    "einem klaren"
+   ],
+   "mixed.dat.n": [
+    "einem klaren"
+   ],
+   "mixed.dat.pl": [
+    "klaren"
+   ],
+   "mixed.gen.f": [
+    "einer klaren"
+   ],
+   "mixed.gen.m": [
+    "eines klaren"
+   ],
+   "mixed.gen.n": [
+    "eines klaren"
+   ],
+   "mixed.gen.pl": [
+    "klaren"
+   ],
+   "mixed.nom.f": [
+    "eine klare"
+   ],
+   "mixed.nom.m": [
+    "ein klarer"
+   ],
    "mixed.nom.n": [
     "ein klares"
+   ],
+   "mixed.nom.pl": [
+    "klaren"
    ],
    "strong.dat.f": [
     "klarer"
@@ -13321,11 +15142,53 @@
     "einem kleineren",
     "einen kleineren"
    ],
+   "mixed.acc.f": [
+    "eine kleine"
+   ],
    "mixed.acc.m": [
     "einen kleinen"
    ],
+   "mixed.acc.n": [
+    "ein kleines"
+   ],
+   "mixed.acc.pl": [
+    "kleinen"
+   ],
+   "mixed.dat.f": [
+    "einer kleinen"
+   ],
+   "mixed.dat.m": [
+    "einem kleinen"
+   ],
+   "mixed.dat.n": [
+    "einem kleinen"
+   ],
+   "mixed.dat.pl": [
+    "kleinen"
+   ],
+   "mixed.gen.f": [
+    "einer kleinen"
+   ],
+   "mixed.gen.m": [
+    "eines kleinen"
+   ],
+   "mixed.gen.n": [
+    "eines kleinen"
+   ],
+   "mixed.gen.pl": [
+    "kleinen"
+   ],
+   "mixed.nom.f": [
+    "eine kleine"
+   ],
+   "mixed.nom.m": [
+    "ein kleiner"
+   ],
    "mixed.nom.n": [
     "ein kleines"
+   ],
+   "mixed.nom.pl": [
+    "kleinen"
    ],
    "strong.dat.f": [
     "kleiner"
@@ -13748,11 +15611,53 @@
     "einen kränkeren",
     "einen krankeren"
    ],
+   "mixed.acc.f": [
+    "eine kranke"
+   ],
    "mixed.acc.m": [
     "einen kranken"
    ],
+   "mixed.acc.n": [
+    "ein krankes"
+   ],
+   "mixed.acc.pl": [
+    "kranken"
+   ],
+   "mixed.dat.f": [
+    "einer kranken"
+   ],
+   "mixed.dat.m": [
+    "einem kranken"
+   ],
+   "mixed.dat.n": [
+    "einem kranken"
+   ],
+   "mixed.dat.pl": [
+    "kranken"
+   ],
+   "mixed.gen.f": [
+    "einer kranken"
+   ],
+   "mixed.gen.m": [
+    "eines kranken"
+   ],
+   "mixed.gen.n": [
+    "eines kranken"
+   ],
+   "mixed.gen.pl": [
+    "kranken"
+   ],
+   "mixed.nom.f": [
+    "eine kranke"
+   ],
+   "mixed.nom.m": [
+    "ein kranker"
+   ],
    "mixed.nom.n": [
     "ein krankes"
+   ],
+   "mixed.nom.pl": [
+    "kranken"
    ],
    "strong.dat.f": [
     "kranker"
@@ -13943,11 +15848,53 @@
     "einem kürzeren",
     "einen kürzeren"
    ],
+   "mixed.acc.f": [
+    "eine kurze"
+   ],
    "mixed.acc.m": [
     "einen kurzen"
    ],
+   "mixed.acc.n": [
+    "ein kurzes"
+   ],
+   "mixed.acc.pl": [
+    "kurzen"
+   ],
+   "mixed.dat.f": [
+    "einer kurzen"
+   ],
+   "mixed.dat.m": [
+    "einem kurzen"
+   ],
+   "mixed.dat.n": [
+    "einem kurzen"
+   ],
+   "mixed.dat.pl": [
+    "kurzen"
+   ],
+   "mixed.gen.f": [
+    "einer kurzen"
+   ],
+   "mixed.gen.m": [
+    "eines kurzen"
+   ],
+   "mixed.gen.n": [
+    "eines kurzen"
+   ],
+   "mixed.gen.pl": [
+    "kurzen"
+   ],
+   "mixed.nom.f": [
+    "eine kurze"
+   ],
+   "mixed.nom.m": [
+    "ein kurzer"
+   ],
    "mixed.nom.n": [
     "ein kurzes"
+   ],
+   "mixed.nom.pl": [
+    "kurzen"
    ],
    "strong.dat.f": [
     "kurzer"
@@ -14246,11 +16193,53 @@
     "einem längeren",
     "einen längeren"
    ],
+   "mixed.acc.f": [
+    "eine lange"
+   ],
    "mixed.acc.m": [
     "einen langen"
    ],
+   "mixed.acc.n": [
+    "ein langes"
+   ],
+   "mixed.acc.pl": [
+    "langen"
+   ],
+   "mixed.dat.f": [
+    "einer langen"
+   ],
+   "mixed.dat.m": [
+    "einem langen"
+   ],
+   "mixed.dat.n": [
+    "einem langen"
+   ],
+   "mixed.dat.pl": [
+    "langen"
+   ],
+   "mixed.gen.f": [
+    "einer langen"
+   ],
+   "mixed.gen.m": [
+    "eines langen"
+   ],
+   "mixed.gen.n": [
+    "eines langen"
+   ],
+   "mixed.gen.pl": [
+    "langen"
+   ],
+   "mixed.nom.f": [
+    "eine lange"
+   ],
+   "mixed.nom.m": [
+    "ein langer"
+   ],
    "mixed.nom.n": [
     "ein langes"
+   ],
+   "mixed.nom.pl": [
+    "langen"
    ],
    "strong.dat.f": [
     "langer"
@@ -14377,11 +16366,53 @@
     "einem langsameren",
     "einen langsameren"
    ],
+   "mixed.acc.f": [
+    "eine langsame"
+   ],
    "mixed.acc.m": [
     "einen langsamen"
    ],
+   "mixed.acc.n": [
+    "ein langsames"
+   ],
+   "mixed.acc.pl": [
+    "langsamen"
+   ],
+   "mixed.dat.f": [
+    "einer langsamen"
+   ],
+   "mixed.dat.m": [
+    "einem langsamen"
+   ],
+   "mixed.dat.n": [
+    "einem langsamen"
+   ],
+   "mixed.dat.pl": [
+    "langsamen"
+   ],
+   "mixed.gen.f": [
+    "einer langsamen"
+   ],
+   "mixed.gen.m": [
+    "eines langsamen"
+   ],
+   "mixed.gen.n": [
+    "eines langsamen"
+   ],
+   "mixed.gen.pl": [
+    "langsamen"
+   ],
+   "mixed.nom.f": [
+    "eine langsame"
+   ],
+   "mixed.nom.m": [
+    "ein langsamer"
+   ],
    "mixed.nom.n": [
     "ein langsames"
+   ],
+   "mixed.nom.pl": [
+    "langsamen"
    ],
    "strong.dat.f": [
     "langsamer"
@@ -14508,11 +16539,53 @@
     "einem langweiligeren",
     "einen langweiligeren"
    ],
+   "mixed.acc.f": [
+    "eine langweilige"
+   ],
    "mixed.acc.m": [
     "einen langweiligen"
    ],
+   "mixed.acc.n": [
+    "ein langweiliges"
+   ],
+   "mixed.acc.pl": [
+    "langweiligen"
+   ],
+   "mixed.dat.f": [
+    "einer langweiligen"
+   ],
+   "mixed.dat.m": [
+    "einem langweiligen"
+   ],
+   "mixed.dat.n": [
+    "einem langweiligen"
+   ],
+   "mixed.dat.pl": [
+    "langweiligen"
+   ],
+   "mixed.gen.f": [
+    "einer langweiligen"
+   ],
+   "mixed.gen.m": [
+    "eines langweiligen"
+   ],
+   "mixed.gen.n": [
+    "eines langweiligen"
+   ],
+   "mixed.gen.pl": [
+    "langweiligen"
+   ],
+   "mixed.nom.f": [
+    "eine langweilige"
+   ],
+   "mixed.nom.m": [
+    "ein langweiliger"
+   ],
    "mixed.nom.n": [
     "ein langweiliges"
+   ],
+   "mixed.nom.pl": [
+    "langweiligen"
    ],
    "strong.dat.f": [
     "langweiliger"
@@ -14839,11 +16912,53 @@
     "einem lauteren",
     "einen lauteren"
    ],
+   "mixed.acc.f": [
+    "eine laute"
+   ],
    "mixed.acc.m": [
     "einen lauten"
    ],
+   "mixed.acc.n": [
+    "ein lautes"
+   ],
+   "mixed.acc.pl": [
+    "lauten"
+   ],
+   "mixed.dat.f": [
+    "einer lauten"
+   ],
+   "mixed.dat.m": [
+    "einem lauten"
+   ],
+   "mixed.dat.n": [
+    "einem lauten"
+   ],
+   "mixed.dat.pl": [
+    "lauten"
+   ],
+   "mixed.gen.f": [
+    "einer lauten"
+   ],
+   "mixed.gen.m": [
+    "eines lauten"
+   ],
+   "mixed.gen.n": [
+    "eines lauten"
+   ],
+   "mixed.gen.pl": [
+    "lauten"
+   ],
+   "mixed.nom.f": [
+    "eine laute"
+   ],
+   "mixed.nom.m": [
+    "ein lauter"
+   ],
    "mixed.nom.n": [
     "ein lautes"
+   ],
+   "mixed.nom.pl": [
+    "lauten"
    ],
    "strong.dat.f": [
     "lauter"
@@ -15047,11 +17162,53 @@
     "einem leereren",
     "einen leereren"
    ],
+   "mixed.acc.f": [
+    "eine leere"
+   ],
    "mixed.acc.m": [
     "einen leeren"
    ],
+   "mixed.acc.n": [
+    "ein leeres"
+   ],
+   "mixed.acc.pl": [
+    "leeren"
+   ],
+   "mixed.dat.f": [
+    "einer leeren"
+   ],
+   "mixed.dat.m": [
+    "einem leeren"
+   ],
+   "mixed.dat.n": [
+    "einem leeren"
+   ],
+   "mixed.dat.pl": [
+    "leeren"
+   ],
+   "mixed.gen.f": [
+    "einer leeren"
+   ],
+   "mixed.gen.m": [
+    "eines leeren"
+   ],
+   "mixed.gen.n": [
+    "eines leeren"
+   ],
+   "mixed.gen.pl": [
+    "leeren"
+   ],
+   "mixed.nom.f": [
+    "eine leere"
+   ],
+   "mixed.nom.m": [
+    "ein leerer"
+   ],
    "mixed.nom.n": [
     "ein leeres"
+   ],
+   "mixed.nom.pl": [
+    "leeren"
    ],
    "strong.dat.f": [
     "leerer"
@@ -15335,11 +17492,53 @@
     "einem leiseren",
     "einen leiseren"
    ],
+   "mixed.acc.f": [
+    "eine leise"
+   ],
    "mixed.acc.m": [
     "einen leisen"
    ],
+   "mixed.acc.n": [
+    "ein leises"
+   ],
+   "mixed.acc.pl": [
+    "leisen"
+   ],
+   "mixed.dat.f": [
+    "einer leisen"
+   ],
+   "mixed.dat.m": [
+    "einem leisen"
+   ],
+   "mixed.dat.n": [
+    "einem leisen"
+   ],
+   "mixed.dat.pl": [
+    "leisen"
+   ],
+   "mixed.gen.f": [
+    "einer leisen"
+   ],
+   "mixed.gen.m": [
+    "eines leisen"
+   ],
+   "mixed.gen.n": [
+    "eines leisen"
+   ],
+   "mixed.gen.pl": [
+    "leisen"
+   ],
+   "mixed.nom.f": [
+    "eine leise"
+   ],
+   "mixed.nom.m": [
+    "ein leiser"
+   ],
    "mixed.nom.n": [
     "ein leises"
+   ],
+   "mixed.nom.pl": [
+    "leisen"
    ],
    "strong.dat.f": [
     "leiser"
@@ -15811,11 +18010,53 @@
     "einem lustigeren",
     "einen lustigeren"
    ],
+   "mixed.acc.f": [
+    "eine lustige"
+   ],
    "mixed.acc.m": [
     "einen lustigen"
    ],
+   "mixed.acc.n": [
+    "ein lustiges"
+   ],
+   "mixed.acc.pl": [
+    "lustigen"
+   ],
+   "mixed.dat.f": [
+    "einer lustigen"
+   ],
+   "mixed.dat.m": [
+    "einem lustigen"
+   ],
+   "mixed.dat.n": [
+    "einem lustigen"
+   ],
+   "mixed.dat.pl": [
+    "lustigen"
+   ],
+   "mixed.gen.f": [
+    "einer lustigen"
+   ],
+   "mixed.gen.m": [
+    "eines lustigen"
+   ],
+   "mixed.gen.n": [
+    "eines lustigen"
+   ],
+   "mixed.gen.pl": [
+    "lustigen"
+   ],
+   "mixed.nom.f": [
+    "eine lustige"
+   ],
+   "mixed.nom.m": [
+    "ein lustiger"
+   ],
    "mixed.nom.n": [
     "ein lustiges"
+   ],
+   "mixed.nom.pl": [
+    "lustigen"
    ],
    "strong.dat.f": [
     "lustiger"
@@ -16369,11 +18610,53 @@
     "einem müderen",
     "einen müderen"
    ],
+   "mixed.acc.f": [
+    "eine müde"
+   ],
    "mixed.acc.m": [
     "einen müden"
    ],
+   "mixed.acc.n": [
+    "ein müdes"
+   ],
+   "mixed.acc.pl": [
+    "müden"
+   ],
+   "mixed.dat.f": [
+    "einer müden"
+   ],
+   "mixed.dat.m": [
+    "einem müden"
+   ],
+   "mixed.dat.n": [
+    "einem müden"
+   ],
+   "mixed.dat.pl": [
+    "müden"
+   ],
+   "mixed.gen.f": [
+    "einer müden"
+   ],
+   "mixed.gen.m": [
+    "eines müden"
+   ],
+   "mixed.gen.n": [
+    "eines müden"
+   ],
+   "mixed.gen.pl": [
+    "müden"
+   ],
+   "mixed.nom.f": [
+    "eine müde"
+   ],
+   "mixed.nom.m": [
+    "ein müder"
+   ],
    "mixed.nom.n": [
     "ein müdes"
+   ],
+   "mixed.nom.pl": [
+    "müden"
    ],
    "strong.dat.f": [
     "müder"
@@ -16689,11 +18972,53 @@
     "einem netteren",
     "einen netteren"
    ],
+   "mixed.acc.f": [
+    "eine nette"
+   ],
    "mixed.acc.m": [
     "einen netten"
    ],
+   "mixed.acc.n": [
+    "ein nettes"
+   ],
+   "mixed.acc.pl": [
+    "netten"
+   ],
+   "mixed.dat.f": [
+    "einer netten"
+   ],
+   "mixed.dat.m": [
+    "einem netten"
+   ],
+   "mixed.dat.n": [
+    "einem netten"
+   ],
+   "mixed.dat.pl": [
+    "netten"
+   ],
+   "mixed.gen.f": [
+    "einer netten"
+   ],
+   "mixed.gen.m": [
+    "eines netten"
+   ],
+   "mixed.gen.n": [
+    "eines netten"
+   ],
+   "mixed.gen.pl": [
+    "netten"
+   ],
+   "mixed.nom.f": [
+    "eine nette"
+   ],
+   "mixed.nom.m": [
+    "ein netter"
+   ],
    "mixed.nom.n": [
     "ein nettes"
+   ],
+   "mixed.nom.pl": [
+    "netten"
    ],
    "strong.dat.f": [
     "netter"
@@ -16827,11 +19152,53 @@
     "einem neueren",
     "einen neueren"
    ],
+   "mixed.acc.f": [
+    "eine neue"
+   ],
    "mixed.acc.m": [
     "einen neuen"
    ],
+   "mixed.acc.n": [
+    "ein neues"
+   ],
+   "mixed.acc.pl": [
+    "neuen"
+   ],
+   "mixed.dat.f": [
+    "einer neuen"
+   ],
+   "mixed.dat.m": [
+    "einem neuen"
+   ],
+   "mixed.dat.n": [
+    "einem neuen"
+   ],
+   "mixed.dat.pl": [
+    "neuen"
+   ],
+   "mixed.gen.f": [
+    "einer neuen"
+   ],
+   "mixed.gen.m": [
+    "eines neuen"
+   ],
+   "mixed.gen.n": [
+    "eines neuen"
+   ],
+   "mixed.gen.pl": [
+    "neuen"
+   ],
+   "mixed.nom.f": [
+    "eine neue"
+   ],
+   "mixed.nom.m": [
+    "ein neuer"
+   ],
    "mixed.nom.n": [
     "ein neues"
+   ],
+   "mixed.nom.pl": [
+    "neuen"
    ],
    "strong.dat.f": [
     "neuer"
@@ -17473,11 +19840,53 @@
     "einen röteren",
     "einen roteren"
    ],
+   "mixed.acc.f": [
+    "eine rote"
+   ],
    "mixed.acc.m": [
     "einen roten"
    ],
+   "mixed.acc.n": [
+    "ein rotes"
+   ],
+   "mixed.acc.pl": [
+    "roten"
+   ],
+   "mixed.dat.f": [
+    "einer roten"
+   ],
+   "mixed.dat.m": [
+    "einem roten"
+   ],
+   "mixed.dat.n": [
+    "einem roten"
+   ],
+   "mixed.dat.pl": [
+    "roten"
+   ],
+   "mixed.gen.f": [
+    "einer roten"
+   ],
+   "mixed.gen.m": [
+    "eines roten"
+   ],
+   "mixed.gen.n": [
+    "eines roten"
+   ],
+   "mixed.gen.pl": [
+    "roten"
+   ],
+   "mixed.nom.f": [
+    "eine rote"
+   ],
+   "mixed.nom.m": [
+    "ein roter"
+   ],
    "mixed.nom.n": [
     "ein rotes"
+   ],
+   "mixed.nom.pl": [
+    "roten"
    ],
    "strong.dat.f": [
     "roter"
@@ -17625,11 +20034,53 @@
     "einem ruhigeren",
     "einen ruhigeren"
    ],
+   "mixed.acc.f": [
+    "eine ruhige"
+   ],
    "mixed.acc.m": [
     "einen ruhigen"
    ],
+   "mixed.acc.n": [
+    "ein ruhiges"
+   ],
+   "mixed.acc.pl": [
+    "ruhigen"
+   ],
+   "mixed.dat.f": [
+    "einer ruhigen"
+   ],
+   "mixed.dat.m": [
+    "einem ruhigen"
+   ],
+   "mixed.dat.n": [
+    "einem ruhigen"
+   ],
+   "mixed.dat.pl": [
+    "ruhigen"
+   ],
+   "mixed.gen.f": [
+    "einer ruhigen"
+   ],
+   "mixed.gen.m": [
+    "eines ruhigen"
+   ],
+   "mixed.gen.n": [
+    "eines ruhigen"
+   ],
+   "mixed.gen.pl": [
+    "ruhigen"
+   ],
+   "mixed.nom.f": [
+    "eine ruhige"
+   ],
+   "mixed.nom.m": [
+    "ein ruhiger"
+   ],
    "mixed.nom.n": [
     "ein ruhiges"
+   ],
+   "mixed.nom.pl": [
+    "ruhigen"
    ],
    "strong.dat.f": [
     "ruhiger"
@@ -17781,6 +20232,179 @@
    ],
    "pret.wir": [
     "sagten"
+   ]
+  }
+ },
+ "sauber": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "sauber",
+   "saubere",
+   "sauberem",
+   "sauberen",
+   "sauberer",
+   "sauberere",
+   "saubererem",
+   "saubereren",
+   "saubererer",
+   "saubereres",
+   "sauberes",
+   "sauberste",
+   "sauberstem",
+   "saubersten",
+   "sauberster",
+   "sauberstes"
+  ],
+  "english": "clean",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "sauberer",
+    "saubererer",
+    "sauberere",
+    "saubereres",
+    "saubereren",
+    "saubererem",
+    "der sauberere",
+    "die sauberere",
+    "das sauberere",
+    "die saubereren",
+    "des saubereren",
+    "der saubereren",
+    "dem saubereren",
+    "den saubereren",
+    "ein saubererer",
+    "eine sauberere",
+    "ein saubereres",
+    "eines saubereren",
+    "einer saubereren",
+    "einem saubereren",
+    "einen saubereren"
+   ],
+   "mixed.acc.f": [
+    "eine saubere"
+   ],
+   "mixed.acc.m": [
+    "einen sauberen"
+   ],
+   "mixed.acc.n": [
+    "ein sauberes"
+   ],
+   "mixed.acc.pl": [
+    "sauberen"
+   ],
+   "mixed.dat.f": [
+    "einer sauberen"
+   ],
+   "mixed.dat.m": [
+    "einem sauberen"
+   ],
+   "mixed.dat.n": [
+    "einem sauberen"
+   ],
+   "mixed.dat.pl": [
+    "sauberen"
+   ],
+   "mixed.gen.f": [
+    "einer sauberen"
+   ],
+   "mixed.gen.m": [
+    "eines sauberen"
+   ],
+   "mixed.gen.n": [
+    "eines sauberen"
+   ],
+   "mixed.gen.pl": [
+    "sauberen"
+   ],
+   "mixed.nom.f": [
+    "eine saubere"
+   ],
+   "mixed.nom.m": [
+    "ein sauberer"
+   ],
+   "mixed.nom.n": [
+    "ein sauberes"
+   ],
+   "mixed.nom.pl": [
+    "sauberen"
+   ],
+   "strong.dat.f": [
+    "sauberer"
+   ],
+   "superlative": [
+    "am saubersten",
+    "sauberster",
+    "sauberste",
+    "sauberstes",
+    "saubersten",
+    "sauberstem",
+    "der sauberste",
+    "die sauberste",
+    "das sauberste",
+    "die saubersten",
+    "des saubersten",
+    "der saubersten",
+    "dem saubersten",
+    "den saubersten",
+    "ein sauberster",
+    "eine sauberste",
+    "ein sauberstes",
+    "eines saubersten",
+    "einer saubersten",
+    "einem saubersten",
+    "einen saubersten"
+   ],
+   "weak.acc.f": [
+    "die saubere"
+   ],
+   "weak.acc.m": [
+    "den sauberen"
+   ],
+   "weak.acc.n": [
+    "das saubere"
+   ],
+   "weak.acc.pl": [
+    "die sauberen"
+   ],
+   "weak.dat.f": [
+    "der sauberen"
+   ],
+   "weak.dat.m": [
+    "dem sauberen"
+   ],
+   "weak.dat.n": [
+    "dem sauberen"
+   ],
+   "weak.dat.pl": [
+    "den sauberen"
+   ],
+   "weak.gen.f": [
+    "der sauberen"
+   ],
+   "weak.gen.m": [
+    "des sauberen"
+   ],
+   "weak.gen.n": [
+    "des sauberen"
+   ],
+   "weak.gen.pl": [
+    "der sauberen"
+   ],
+   "weak.nom.f": [
+    "die saubere"
+   ],
+   "weak.nom.m": [
+    "der saubere"
+   ],
+   "weak.nom.n": [
+    "das saubere"
+   ],
+   "weak.nom.pl": [
+    "die sauberen"
    ]
   }
  },
@@ -17991,11 +20615,53 @@
     "einem schlechteren",
     "einen schlechteren"
    ],
+   "mixed.acc.f": [
+    "eine schlechte"
+   ],
    "mixed.acc.m": [
     "einen schlechten"
    ],
+   "mixed.acc.n": [
+    "ein schlechtes"
+   ],
+   "mixed.acc.pl": [
+    "schlechten"
+   ],
+   "mixed.dat.f": [
+    "einer schlechten"
+   ],
+   "mixed.dat.m": [
+    "einem schlechten"
+   ],
+   "mixed.dat.n": [
+    "einem schlechten"
+   ],
+   "mixed.dat.pl": [
+    "schlechten"
+   ],
+   "mixed.gen.f": [
+    "einer schlechten"
+   ],
+   "mixed.gen.m": [
+    "eines schlechten"
+   ],
+   "mixed.gen.n": [
+    "eines schlechten"
+   ],
+   "mixed.gen.pl": [
+    "schlechten"
+   ],
+   "mixed.nom.f": [
+    "eine schlechte"
+   ],
+   "mixed.nom.m": [
+    "ein schlechter"
+   ],
    "mixed.nom.n": [
     "ein schlechtes"
+   ],
+   "mixed.nom.pl": [
+    "schlechten"
    ],
    "strong.dat.f": [
     "schlechter"
@@ -18233,6 +20899,179 @@
    ]
   }
  },
+ "schmutzig": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "schmutzig",
+   "schmutzige",
+   "schmutzigem",
+   "schmutzigen",
+   "schmutziger",
+   "schmutzigere",
+   "schmutzigerem",
+   "schmutzigeren",
+   "schmutzigerer",
+   "schmutzigeres",
+   "schmutziges",
+   "schmutzigste",
+   "schmutzigstem",
+   "schmutzigsten",
+   "schmutzigster",
+   "schmutzigstes"
+  ],
+  "english": "dirty",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schmutziger",
+    "schmutzigerer",
+    "schmutzigere",
+    "schmutzigeres",
+    "schmutzigeren",
+    "schmutzigerem",
+    "der schmutzigere",
+    "die schmutzigere",
+    "das schmutzigere",
+    "die schmutzigeren",
+    "des schmutzigeren",
+    "der schmutzigeren",
+    "dem schmutzigeren",
+    "den schmutzigeren",
+    "ein schmutzigerer",
+    "eine schmutzigere",
+    "ein schmutzigeres",
+    "eines schmutzigeren",
+    "einer schmutzigeren",
+    "einem schmutzigeren",
+    "einen schmutzigeren"
+   ],
+   "mixed.acc.f": [
+    "eine schmutzige"
+   ],
+   "mixed.acc.m": [
+    "einen schmutzigen"
+   ],
+   "mixed.acc.n": [
+    "ein schmutziges"
+   ],
+   "mixed.acc.pl": [
+    "schmutzigen"
+   ],
+   "mixed.dat.f": [
+    "einer schmutzigen"
+   ],
+   "mixed.dat.m": [
+    "einem schmutzigen"
+   ],
+   "mixed.dat.n": [
+    "einem schmutzigen"
+   ],
+   "mixed.dat.pl": [
+    "schmutzigen"
+   ],
+   "mixed.gen.f": [
+    "einer schmutzigen"
+   ],
+   "mixed.gen.m": [
+    "eines schmutzigen"
+   ],
+   "mixed.gen.n": [
+    "eines schmutzigen"
+   ],
+   "mixed.gen.pl": [
+    "schmutzigen"
+   ],
+   "mixed.nom.f": [
+    "eine schmutzige"
+   ],
+   "mixed.nom.m": [
+    "ein schmutziger"
+   ],
+   "mixed.nom.n": [
+    "ein schmutziges"
+   ],
+   "mixed.nom.pl": [
+    "schmutzigen"
+   ],
+   "strong.dat.f": [
+    "schmutziger"
+   ],
+   "superlative": [
+    "am schmutzigsten",
+    "schmutzigster",
+    "schmutzigste",
+    "schmutzigstes",
+    "schmutzigsten",
+    "schmutzigstem",
+    "der schmutzigste",
+    "die schmutzigste",
+    "das schmutzigste",
+    "die schmutzigsten",
+    "des schmutzigsten",
+    "der schmutzigsten",
+    "dem schmutzigsten",
+    "den schmutzigsten",
+    "ein schmutzigster",
+    "eine schmutzigste",
+    "ein schmutzigstes",
+    "eines schmutzigsten",
+    "einer schmutzigsten",
+    "einem schmutzigsten",
+    "einen schmutzigsten"
+   ],
+   "weak.acc.f": [
+    "die schmutzige"
+   ],
+   "weak.acc.m": [
+    "den schmutzigen"
+   ],
+   "weak.acc.n": [
+    "das schmutzige"
+   ],
+   "weak.acc.pl": [
+    "die schmutzigen"
+   ],
+   "weak.dat.f": [
+    "der schmutzigen"
+   ],
+   "weak.dat.m": [
+    "dem schmutzigen"
+   ],
+   "weak.dat.n": [
+    "dem schmutzigen"
+   ],
+   "weak.dat.pl": [
+    "den schmutzigen"
+   ],
+   "weak.gen.f": [
+    "der schmutzigen"
+   ],
+   "weak.gen.m": [
+    "des schmutzigen"
+   ],
+   "weak.gen.n": [
+    "des schmutzigen"
+   ],
+   "weak.gen.pl": [
+    "der schmutzigen"
+   ],
+   "weak.nom.f": [
+    "die schmutzige"
+   ],
+   "weak.nom.m": [
+    "der schmutzige"
+   ],
+   "weak.nom.n": [
+    "das schmutzige"
+   ],
+   "weak.nom.pl": [
+    "die schmutzigen"
+   ]
+  }
+ },
  "schnell": {
   "all": [
    "am",
@@ -18282,11 +21121,53 @@
     "einem schnelleren",
     "einen schnelleren"
    ],
+   "mixed.acc.f": [
+    "eine schnelle"
+   ],
    "mixed.acc.m": [
     "einen schnellen"
    ],
+   "mixed.acc.n": [
+    "ein schnelles"
+   ],
+   "mixed.acc.pl": [
+    "schnellen"
+   ],
+   "mixed.dat.f": [
+    "einer schnellen"
+   ],
+   "mixed.dat.m": [
+    "einem schnellen"
+   ],
+   "mixed.dat.n": [
+    "einem schnellen"
+   ],
+   "mixed.dat.pl": [
+    "schnellen"
+   ],
+   "mixed.gen.f": [
+    "einer schnellen"
+   ],
+   "mixed.gen.m": [
+    "eines schnellen"
+   ],
+   "mixed.gen.n": [
+    "eines schnellen"
+   ],
+   "mixed.gen.pl": [
+    "schnellen"
+   ],
+   "mixed.nom.f": [
+    "eine schnelle"
+   ],
+   "mixed.nom.m": [
+    "ein schneller"
+   ],
    "mixed.nom.n": [
     "ein schnelles"
+   ],
+   "mixed.nom.pl": [
+    "schnellen"
    ],
    "strong.dat.f": [
     "schneller"
@@ -18525,11 +21406,53 @@
     "einen schwärzeren",
     "einen schwarzeren"
    ],
+   "mixed.acc.f": [
+    "eine schwarze"
+   ],
    "mixed.acc.m": [
     "einen schwarzen"
    ],
+   "mixed.acc.n": [
+    "ein schwarzes"
+   ],
+   "mixed.acc.pl": [
+    "schwarzen"
+   ],
+   "mixed.dat.f": [
+    "einer schwarzen"
+   ],
+   "mixed.dat.m": [
+    "einem schwarzen"
+   ],
+   "mixed.dat.n": [
+    "einem schwarzen"
+   ],
+   "mixed.dat.pl": [
+    "schwarzen"
+   ],
+   "mixed.gen.f": [
+    "einer schwarzen"
+   ],
+   "mixed.gen.m": [
+    "eines schwarzen"
+   ],
+   "mixed.gen.n": [
+    "eines schwarzen"
+   ],
+   "mixed.gen.pl": [
+    "schwarzen"
+   ],
+   "mixed.nom.f": [
+    "eine schwarze"
+   ],
+   "mixed.nom.m": [
+    "ein schwarzer"
+   ],
    "mixed.nom.n": [
     "ein schwarzes"
+   ],
+   "mixed.nom.pl": [
+    "schwarzen"
    ],
    "strong.dat.f": [
     "schwarzer"
@@ -18677,11 +21600,53 @@
     "einem schwierigeren",
     "einen schwierigeren"
    ],
+   "mixed.acc.f": [
+    "eine schwierige"
+   ],
    "mixed.acc.m": [
     "einen schwierigen"
    ],
+   "mixed.acc.n": [
+    "ein schwieriges"
+   ],
+   "mixed.acc.pl": [
+    "schwierigen"
+   ],
+   "mixed.dat.f": [
+    "einer schwierigen"
+   ],
+   "mixed.dat.m": [
+    "einem schwierigen"
+   ],
+   "mixed.dat.n": [
+    "einem schwierigen"
+   ],
+   "mixed.dat.pl": [
+    "schwierigen"
+   ],
+   "mixed.gen.f": [
+    "einer schwierigen"
+   ],
+   "mixed.gen.m": [
+    "eines schwierigen"
+   ],
+   "mixed.gen.n": [
+    "eines schwierigen"
+   ],
+   "mixed.gen.pl": [
+    "schwierigen"
+   ],
+   "mixed.nom.f": [
+    "eine schwierige"
+   ],
+   "mixed.nom.m": [
+    "ein schwieriger"
+   ],
    "mixed.nom.n": [
     "ein schwieriges"
+   ],
+   "mixed.nom.pl": [
+    "schwierigen"
    ],
    "strong.dat.f": [
     "schwieriger"
@@ -18914,11 +21879,53 @@
     "einem schöneren",
     "einen schöneren"
    ],
+   "mixed.acc.f": [
+    "eine schöne"
+   ],
    "mixed.acc.m": [
     "einen schönen"
    ],
+   "mixed.acc.n": [
+    "ein schönes"
+   ],
+   "mixed.acc.pl": [
+    "schönen"
+   ],
+   "mixed.dat.f": [
+    "einer schönen"
+   ],
+   "mixed.dat.m": [
+    "einem schönen"
+   ],
+   "mixed.dat.n": [
+    "einem schönen"
+   ],
+   "mixed.dat.pl": [
+    "schönen"
+   ],
+   "mixed.gen.f": [
+    "einer schönen"
+   ],
+   "mixed.gen.m": [
+    "eines schönen"
+   ],
+   "mixed.gen.n": [
+    "eines schönen"
+   ],
+   "mixed.gen.pl": [
+    "schönen"
+   ],
+   "mixed.nom.f": [
+    "eine schöne"
+   ],
+   "mixed.nom.m": [
+    "ein schöner"
+   ],
    "mixed.nom.n": [
     "ein schönes"
+   ],
+   "mixed.nom.pl": [
+    "schönen"
    ],
    "strong.dat.f": [
     "schöner"
@@ -19674,11 +22681,53 @@
     "einem späteren",
     "einen späteren"
    ],
+   "mixed.acc.f": [
+    "eine späte"
+   ],
    "mixed.acc.m": [
     "einen späten"
    ],
+   "mixed.acc.n": [
+    "ein spätes"
+   ],
+   "mixed.acc.pl": [
+    "späten"
+   ],
+   "mixed.dat.f": [
+    "einer späten"
+   ],
+   "mixed.dat.m": [
+    "einem späten"
+   ],
+   "mixed.dat.n": [
+    "einem späten"
+   ],
+   "mixed.dat.pl": [
+    "späten"
+   ],
+   "mixed.gen.f": [
+    "einer späten"
+   ],
+   "mixed.gen.m": [
+    "eines späten"
+   ],
+   "mixed.gen.n": [
+    "eines späten"
+   ],
+   "mixed.gen.pl": [
+    "späten"
+   ],
+   "mixed.nom.f": [
+    "eine späte"
+   ],
+   "mixed.nom.m": [
+    "ein später"
+   ],
    "mixed.nom.n": [
     "ein spätes"
+   ],
+   "mixed.nom.pl": [
+    "späten"
    ],
    "strong.dat.f": [
     "später"
@@ -20160,11 +23209,53 @@
     "einem teureren",
     "einen teureren"
    ],
+   "mixed.acc.f": [
+    "eine teure"
+   ],
    "mixed.acc.m": [
     "einen teuren"
    ],
+   "mixed.acc.n": [
+    "ein teures"
+   ],
+   "mixed.acc.pl": [
+    "teuren"
+   ],
+   "mixed.dat.f": [
+    "einer teuren"
+   ],
+   "mixed.dat.m": [
+    "einem teuren"
+   ],
+   "mixed.dat.n": [
+    "einem teuren"
+   ],
+   "mixed.dat.pl": [
+    "teuren"
+   ],
+   "mixed.gen.f": [
+    "einer teuren"
+   ],
+   "mixed.gen.m": [
+    "eines teuren"
+   ],
+   "mixed.gen.n": [
+    "eines teuren"
+   ],
+   "mixed.gen.pl": [
+    "teuren"
+   ],
+   "mixed.nom.f": [
+    "eine teure"
+   ],
+   "mixed.nom.m": [
+    "ein teurer"
+   ],
    "mixed.nom.n": [
     "ein teures"
+   ],
+   "mixed.nom.pl": [
+    "teuren"
    ],
    "strong.dat.f": [
     "teurer"
@@ -20291,11 +23382,53 @@
     "einem tolleren",
     "einen tolleren"
    ],
+   "mixed.acc.f": [
+    "eine tolle"
+   ],
    "mixed.acc.m": [
     "einen tollen"
    ],
+   "mixed.acc.n": [
+    "ein tolles"
+   ],
+   "mixed.acc.pl": [
+    "tollen"
+   ],
+   "mixed.dat.f": [
+    "einer tollen"
+   ],
+   "mixed.dat.m": [
+    "einem tollen"
+   ],
+   "mixed.dat.n": [
+    "einem tollen"
+   ],
+   "mixed.dat.pl": [
+    "tollen"
+   ],
+   "mixed.gen.f": [
+    "einer tollen"
+   ],
+   "mixed.gen.m": [
+    "eines tollen"
+   ],
+   "mixed.gen.n": [
+    "eines tollen"
+   ],
+   "mixed.gen.pl": [
+    "tollen"
+   ],
+   "mixed.nom.f": [
+    "eine tolle"
+   ],
+   "mixed.nom.m": [
+    "ein toller"
+   ],
    "mixed.nom.n": [
     "ein tolles"
+   ],
+   "mixed.nom.pl": [
+    "tollen"
    ],
    "strong.dat.f": [
     "toller"
@@ -20506,11 +23639,53 @@
     "einem traurigeren",
     "einen traurigeren"
    ],
+   "mixed.acc.f": [
+    "eine traurige"
+   ],
    "mixed.acc.m": [
     "einen traurigen"
    ],
+   "mixed.acc.n": [
+    "ein trauriges"
+   ],
+   "mixed.acc.pl": [
+    "traurigen"
+   ],
+   "mixed.dat.f": [
+    "einer traurigen"
+   ],
+   "mixed.dat.m": [
+    "einem traurigen"
+   ],
+   "mixed.dat.n": [
+    "einem traurigen"
+   ],
+   "mixed.dat.pl": [
+    "traurigen"
+   ],
+   "mixed.gen.f": [
+    "einer traurigen"
+   ],
+   "mixed.gen.m": [
+    "eines traurigen"
+   ],
+   "mixed.gen.n": [
+    "eines traurigen"
+   ],
+   "mixed.gen.pl": [
+    "traurigen"
+   ],
+   "mixed.nom.f": [
+    "eine traurige"
+   ],
+   "mixed.nom.m": [
+    "ein trauriger"
+   ],
    "mixed.nom.n": [
     "ein trauriges"
+   ],
+   "mixed.nom.pl": [
+    "traurigen"
    ],
    "strong.dat.f": [
     "trauriger"
@@ -21164,11 +24339,53 @@
     "einem volleren",
     "einen volleren"
    ],
+   "mixed.acc.f": [
+    "eine volle"
+   ],
    "mixed.acc.m": [
     "einen vollen"
    ],
+   "mixed.acc.n": [
+    "ein volles"
+   ],
+   "mixed.acc.pl": [
+    "vollen"
+   ],
+   "mixed.dat.f": [
+    "einer vollen"
+   ],
+   "mixed.dat.m": [
+    "einem vollen"
+   ],
+   "mixed.dat.n": [
+    "einem vollen"
+   ],
+   "mixed.dat.pl": [
+    "vollen"
+   ],
+   "mixed.gen.f": [
+    "einer vollen"
+   ],
+   "mixed.gen.m": [
+    "eines vollen"
+   ],
+   "mixed.gen.n": [
+    "eines vollen"
+   ],
+   "mixed.gen.pl": [
+    "vollen"
+   ],
+   "mixed.nom.f": [
+    "eine volle"
+   ],
+   "mixed.nom.m": [
+    "ein voller"
+   ],
    "mixed.nom.n": [
     "ein volles"
+   ],
+   "mixed.nom.pl": [
+    "vollen"
    ],
    "strong.dat.f": [
     "voller"
@@ -21295,11 +24512,53 @@
     "einem vorsichtigeren",
     "einen vorsichtigeren"
    ],
+   "mixed.acc.f": [
+    "eine vorsichtige"
+   ],
    "mixed.acc.m": [
     "einen vorsichtigen"
    ],
+   "mixed.acc.n": [
+    "ein vorsichtiges"
+   ],
+   "mixed.acc.pl": [
+    "vorsichtigen"
+   ],
+   "mixed.dat.f": [
+    "einer vorsichtigen"
+   ],
+   "mixed.dat.m": [
+    "einem vorsichtigen"
+   ],
+   "mixed.dat.n": [
+    "einem vorsichtigen"
+   ],
+   "mixed.dat.pl": [
+    "vorsichtigen"
+   ],
+   "mixed.gen.f": [
+    "einer vorsichtigen"
+   ],
+   "mixed.gen.m": [
+    "eines vorsichtigen"
+   ],
+   "mixed.gen.n": [
+    "eines vorsichtigen"
+   ],
+   "mixed.gen.pl": [
+    "vorsichtigen"
+   ],
+   "mixed.nom.f": [
+    "eine vorsichtige"
+   ],
+   "mixed.nom.m": [
+    "ein vorsichtiger"
+   ],
    "mixed.nom.n": [
     "ein vorsichtiges"
+   ],
+   "mixed.nom.pl": [
+    "vorsichtigen"
    ],
    "strong.dat.f": [
     "vorsichtiger"
@@ -21513,11 +24772,53 @@
     "einem wärmeren",
     "einen wärmeren"
    ],
+   "mixed.acc.f": [
+    "eine warme"
+   ],
    "mixed.acc.m": [
     "einen warmen"
    ],
+   "mixed.acc.n": [
+    "ein warmes"
+   ],
+   "mixed.acc.pl": [
+    "warmen"
+   ],
+   "mixed.dat.f": [
+    "einer warmen"
+   ],
+   "mixed.dat.m": [
+    "einem warmen"
+   ],
+   "mixed.dat.n": [
+    "einem warmen"
+   ],
+   "mixed.dat.pl": [
+    "warmen"
+   ],
+   "mixed.gen.f": [
+    "einer warmen"
+   ],
+   "mixed.gen.m": [
+    "eines warmen"
+   ],
+   "mixed.gen.n": [
+    "eines warmen"
+   ],
+   "mixed.gen.pl": [
+    "warmen"
+   ],
+   "mixed.nom.f": [
+    "eine warme"
+   ],
+   "mixed.nom.m": [
+    "ein warmer"
+   ],
    "mixed.nom.n": [
     "ein warmes"
+   ],
+   "mixed.nom.pl": [
+    "warmen"
    ],
    "strong.dat.f": [
     "warmer"
@@ -21937,11 +25238,53 @@
     "einem weiteren",
     "einen weiteren"
    ],
+   "mixed.acc.f": [
+    "eine weite"
+   ],
    "mixed.acc.m": [
     "einen weiten"
    ],
+   "mixed.acc.n": [
+    "ein weites"
+   ],
+   "mixed.acc.pl": [
+    "weiten"
+   ],
+   "mixed.dat.f": [
+    "einer weiten"
+   ],
+   "mixed.dat.m": [
+    "einem weiten"
+   ],
+   "mixed.dat.n": [
+    "einem weiten"
+   ],
+   "mixed.dat.pl": [
+    "weiten"
+   ],
+   "mixed.gen.f": [
+    "einer weiten"
+   ],
+   "mixed.gen.m": [
+    "eines weiten"
+   ],
+   "mixed.gen.n": [
+    "eines weiten"
+   ],
+   "mixed.gen.pl": [
+    "weiten"
+   ],
+   "mixed.nom.f": [
+    "eine weite"
+   ],
+   "mixed.nom.m": [
+    "ein weiter"
+   ],
    "mixed.nom.n": [
     "ein weites"
+   ],
+   "mixed.nom.pl": [
+    "weiten"
    ],
    "strong.dat.f": [
     "weiter"
@@ -22069,11 +25412,53 @@
     "einem weißeren",
     "einen weißeren"
    ],
+   "mixed.acc.f": [
+    "eine weiße"
+   ],
    "mixed.acc.m": [
     "einen weißen"
    ],
+   "mixed.acc.n": [
+    "ein weißes"
+   ],
+   "mixed.acc.pl": [
+    "weißen"
+   ],
+   "mixed.dat.f": [
+    "einer weißen"
+   ],
+   "mixed.dat.m": [
+    "einem weißen"
+   ],
+   "mixed.dat.n": [
+    "einem weißen"
+   ],
+   "mixed.dat.pl": [
+    "weißen"
+   ],
+   "mixed.gen.f": [
+    "einer weißen"
+   ],
+   "mixed.gen.m": [
+    "eines weißen"
+   ],
+   "mixed.gen.n": [
+    "eines weißen"
+   ],
+   "mixed.gen.pl": [
+    "weißen"
+   ],
+   "mixed.nom.f": [
+    "eine weiße"
+   ],
+   "mixed.nom.m": [
+    "ein weißer"
+   ],
    "mixed.nom.n": [
     "ein weißes"
+   ],
+   "mixed.nom.pl": [
+    "weißen"
    ],
    "strong.dat.f": [
     "weißer"
@@ -22297,11 +25682,53 @@
     "einem wichtigeren",
     "einen wichtigeren"
    ],
+   "mixed.acc.f": [
+    "eine wichtige"
+   ],
    "mixed.acc.m": [
     "einen wichtigen"
    ],
+   "mixed.acc.n": [
+    "ein wichtiges"
+   ],
+   "mixed.acc.pl": [
+    "wichtigen"
+   ],
+   "mixed.dat.f": [
+    "einer wichtigen"
+   ],
+   "mixed.dat.m": [
+    "einem wichtigen"
+   ],
+   "mixed.dat.n": [
+    "einem wichtigen"
+   ],
+   "mixed.dat.pl": [
+    "wichtigen"
+   ],
+   "mixed.gen.f": [
+    "einer wichtigen"
+   ],
+   "mixed.gen.m": [
+    "eines wichtigen"
+   ],
+   "mixed.gen.n": [
+    "eines wichtigen"
+   ],
+   "mixed.gen.pl": [
+    "wichtigen"
+   ],
+   "mixed.nom.f": [
+    "eine wichtige"
+   ],
+   "mixed.nom.m": [
+    "ein wichtiger"
+   ],
    "mixed.nom.n": [
     "ein wichtiges"
+   ],
+   "mixed.nom.pl": [
+    "wichtigen"
    ],
    "strong.dat.f": [
     "wichtiger"

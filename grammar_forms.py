@@ -30,21 +30,24 @@ def _persons(prefix, tags, label):
 _CASE_TAGS = {"nom": "nominative", "acc": "accusative", "dat": "dative", "gen": "genitive"}
 _GENDER_TAGS = {"m": "masculine", "f": "feminine", "n": "neuter"}
 # An adjective ending is weak after der/die/das, mixed after ein/kein/mein…, strong with no article.
-# Wiktionary writes the weak forms and the mixed singular with their article: "der alte", "ein alter".
+# Wiktionary writes the weak forms and the mixed singular with their article: "der alte", "ein alter";
+# the mixed plural (meine alten) without one, since ein has no plural.
+# declension → (singular tags, plural tags, label)
 _DECLENSIONS = {
-    "weak": ({"weak", "definite", "includes-article"}, "after der"),
+    "weak": ({"weak", "definite", "includes-article"}, {"weak", "definite", "includes-article"}, "after der"),
+    "mixed": ({"mixed", "indefinite", "includes-article"}, {"mixed", "indefinite"}, "after ein"),
 }
 
 
 def _endings(declension):
     """One adjective slot per case and gender of [declension]: weak.nom.m … weak.gen.pl."""
-    tags, label = _DECLENSIONS[declension]
+    singular, plural, label = _DECLENSIONS[declension]
     slots = {}
     for case, case_tag in _CASE_TAGS.items():
         for gender, gender_tag in _GENDER_TAGS.items():
             slots["%s.%s.%s" % (declension, case, gender)] = (
-                tags | {case_tag, gender_tag, "singular"}, "%s, %s %s" % (label, gender_tag, case_tag))
-        slots["%s.%s.pl" % (declension, case)] = (tags | {case_tag, "plural"}, "%s, plural %s" % (label, case_tag))
+                singular | {case_tag, gender_tag, "singular"}, "%s, %s %s" % (label, gender_tag, case_tag))
+        slots["%s.%s.pl" % (declension, case)] = (plural | {case_tag, "plural"}, "%s, plural %s" % (label, case_tag))
     return slots
 
 # slot → (tags, label shown on the card)
@@ -92,6 +95,7 @@ SLOTS = {
         "superlative": ({"superlative"}, "superlative"),
         # Every case and gender: weak.acc.f, weak.dat.pl, …
         **_endings("weak"),
+        **_endings("mixed"),
     },
 }
 
@@ -129,3 +133,12 @@ def matches(tags, wanted):
 
 
 GENDER_WORD = {"m": "der", "f": "die", "n": "das", "pl": "die"}
+
+
+def ein_variants(form):
+    """A form Wiktionary gives after ein, after every ein-word: "ein alter" → "kein alter", "mein alter"…"""
+    first, _, rest = form.partition(" ")
+    ending = first[3:]
+    if not rest or not first.startswith("ein") or ending not in {"", "e", "en", "em", "er", "es"}:
+        return {form}
+    return {"%s %s" % (ein_word(word, ending), rest) for word in EIN_WORDS}

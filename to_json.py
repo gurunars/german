@@ -30,7 +30,7 @@ import os
 import re
 import sys
 
-from grammar_forms import GENDER_WORD, SLOTS, articles
+from grammar_forms import GENDER_WORD, SLOTS, articles, ein_variants
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 WORDS = os.path.join(ROOT, "archive", "words")
@@ -168,8 +168,11 @@ def write_json(filename, data):
 
 
 def expected_forms(entry, slot):
-    """Every bold text the slot accepts, lower-cased: the form itself, or for a noun, the form with its article."""
+    """Every bold text the slot accepts, lower-cased: the form itself; for a noun, the form with its
+    article; for an adjective after ein, the same form after any ein-word (kein, mein…)."""
     forms = entry["slots"].get(slot, [])
+    if entry["pos"] == "adj":
+        return {variant.lower() for f in forms for variant in ein_variants(f)}
     if entry["pos"] != "noun":
         return {f.lower() for f in forms}
     return {("%s %s" % (article, f)).strip().lower() for f in forms for article in articles(entry["gender"], slot)}

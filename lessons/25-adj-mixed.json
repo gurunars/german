@@ -1,0 +1,212 @@
+{
+  "name": "Lesson 25 · A new sofa: adjective endings after ein, kein, mein",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "That is **a comfortable** sofa.",
+      "back": "Das ist **ein bequemes** Sofa.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). ein shows no gender, so the adjective does: -es for a das-word.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a beautiful** carpet.",
+      "back": "Das ist **ein schöner** Teppich.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). ein shows no gender: the adjective takes -er for a der-word.",
+      "priority": 1
+    },
+    {
+      "front": "That is **a cosy** kitchen.",
+      "back": "Das ist **eine gemütliche** Küche.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). eine already shows the die-word: just -e.",
+      "priority": 1
+    },
+    {
+      "front": "That is **an interesting** question.",
+      "back": "Das ist **eine interessante** Frage.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). eine + -e.",
+      "priority": 1
+    },
+    {
+      "front": "**A small** dog is sitting in front of the door.",
+      "back": "**Ein kleiner** Hund sitzt vor der Tür.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). der Hund, ein kleiner Hund: -er where der would be.",
+      "priority": 1
+    },
+    {
+      "front": "**An ugly** mirror is hanging on the wall.",
+      "back": "**Ein hässlicher** Spiegel hängt an der Wand.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). der Spiegel → ein hässlicher.",
+      "priority": 1
+    },
+    {
+      "front": "**My new** television is broken.",
+      "back": "**Mein neuer** Fernseher ist kaputt.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). Possessives work like ein: mein neuer, with -er for der Fernseher.",
+      "priority": 1
+    },
+    {
+      "front": "**Our old** fridge is dirty.",
+      "back": "**Unser alter** Kühlschrank ist schmutzig.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). unser alter: -er.",
+      "priority": 1
+    },
+    {
+      "front": "**Her new** flat is quiet.",
+      "back": "**Ihre neue** Wohnung ist ruhig.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). ihre neue: -e, as after eine.",
+      "priority": 1
+    },
+    {
+      "front": "Is that **your new** car? (one friend)",
+      "back": "Ist das **dein neues** Auto?",
+      "note": "Adjective endings after ein, kein and possessives (mixed). dein neues: -es for das Auto.",
+      "priority": 1
+    },
+    {
+      "front": "That's **not a nice** picture.",
+      "back": "Das ist **kein schönes** Bild.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). kein works like ein: kein schönes.",
+      "priority": 1
+    },
+    {
+      "front": "That's **not an important** question.",
+      "back": "Das ist **keine wichtige** Frage.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). keine + -e.",
+      "priority": 1
+    },
+    {
+      "front": "**Your new** jumper is lovely. (formal)",
+      "back": "**Ihr neuer** Pullover ist schön.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). Ihr neuer: -er for der Pullover.",
+      "priority": 1
+    },
+    {
+      "front": "I'm buying **a new** sofa.",
+      "back": "Ich kaufe **ein neues** Sofa.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). das-words keep -es in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "My phone is broken. I need **a new** phone.",
+      "back": "Mein Handy ist kaputt. Ich brauche **ein neues** Handy.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). kaputt after ist has no ending; before the noun: ein neues.",
+      "priority": 1
+    },
+    {
+      "front": "We need **a big** fridge.",
+      "back": "Wir brauchen **einen großen** Kühlschrank.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). einen already shows the case: -en.",
+      "priority": 1
+    },
+    {
+      "front": "She has **a red** carpet.",
+      "back": "Sie hat **einen roten** Teppich.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). einen + -en.",
+      "priority": 1
+    },
+    {
+      "front": "I have **an important** appointment.",
+      "back": "Ich habe **einen wichtigen** Termin.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). der Termin → einen wichtigen Termin.",
+      "priority": 1
+    },
+    {
+      "front": "He's wearing **a black** jacket.",
+      "back": "Er trägt **eine schwarze** Jacke.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). eine + -e: the same as the nominative.",
+      "priority": 1
+    },
+    {
+      "front": "Do you have **a clean** glass? (formal)",
+      "back": "Haben Sie **ein sauberes** Glas?",
+      "note": "Adjective endings after ein, kein and possessives (mixed). ein sauberes: -es.",
+      "priority": 1
+    },
+    {
+      "front": "I don't have **a big** car.",
+      "back": "Ich habe **kein großes** Auto.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). kein großes: like ein großes.",
+      "priority": 1
+    },
+    {
+      "front": "He's looking for **his black** coat.",
+      "back": "Er sucht **seinen schwarzen** Mantel.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). seinen + -en.",
+      "priority": 1
+    },
+    {
+      "front": "I love **my small** flat.",
+      "back": "Ich liebe **meine kleine** Wohnung.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). meine + -e.",
+      "priority": 1
+    },
+    {
+      "front": "We're selling **our old** television.",
+      "back": "Wir verkaufen **unseren alten** Fernseher.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). unseren + -en.",
+      "priority": 1
+    },
+    {
+      "front": "Have you seen **my blue** shirt? (one friend)",
+      "back": "Hast du **mein blaues** Hemd gesehen?",
+      "note": "Adjective endings after ein, kein and possessives (mixed). mein blaues: -es for das Hemd.",
+      "priority": 1
+    },
+    {
+      "front": "I live in **a quiet** flat.",
+      "back": "Ich wohne in **einer ruhigen** Wohnung.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). In the dative the adjective always takes -en: einer ruhigen.",
+      "priority": 1
+    },
+    {
+      "front": "We're going in **an old** car.",
+      "back": "Wir fahren mit **einem alten** Auto.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). einem + -en.",
+      "priority": 1
+    },
+    {
+      "front": "The cat is sleeping on **a comfortable** chair.",
+      "back": "Die Katze schläft auf **einem bequemen** Stuhl.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). auf + dative: einem bequemen.",
+      "priority": 1
+    },
+    {
+      "front": "She's talking to **her little** son.",
+      "back": "Sie spricht mit **ihrem kleinen** Sohn.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). ihrem + -en.",
+      "priority": 1
+    },
+    {
+      "front": "The mirror is hanging in **our new** bathroom.",
+      "back": "Der Spiegel hängt in **unserem neuen** Bad.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). unserem + -en.",
+      "priority": 1
+    },
+    {
+      "front": "My **old** shoes are dirty.",
+      "back": "Meine **alten** Schuhe sind schmutzig.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). After a plural ein-word (meine, keine) the adjective takes -en.",
+      "priority": 1
+    },
+    {
+      "front": "We have no **clean** glasses.",
+      "back": "Wir haben keine **sauberen** Gläser.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). keine + -en in the plural.",
+      "priority": 1
+    },
+    {
+      "front": "I'm visiting my **old** friends.",
+      "back": "Ich besuche meine **alten** Freunde.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). meine alten: -en.",
+      "priority": 1
+    },
+    {
+      "front": "He's playing with his **small** children.",
+      "back": "Er spielt mit seinen **kleinen** Kindern.",
+      "note": "Adjective endings after ein, kein and possessives (mixed). Dative plural: seinen kleinen Kindern.",
+      "priority": 1
+    }
+  ]
+}

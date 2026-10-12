@@ -1,0 +1,35 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+adj.mixed	bequem	mixed.nom.n	That is **a comfortable** sofa.	Das ist **ein bequemes** Sofa.	ein shows no gender, so the adjective does: -es for a das-word.
+adj.mixed	schön	mixed.nom.m	That is **a beautiful** carpet.	Das ist **ein schöner** Teppich.	ein shows no gender: the adjective takes -er for a der-word.
+adj.mixed	gemütlich	mixed.nom.f	That is **a cosy** kitchen.	Das ist **eine gemütliche** Küche.	eine already shows the die-word: just -e.
+adj.mixed	interessant	mixed.nom.f	That is **an interesting** question.	Das ist **eine interessante** Frage.	eine + -e.
+adj.mixed	klein	mixed.nom.m	**A small** dog is sitting in front of the door.	**Ein kleiner** Hund sitzt vor der Tür.	der Hund, ein kleiner Hund: -er where der would be.
+adj.mixed	hässlich	mixed.nom.m	**An ugly** mirror is hanging on the wall.	**Ein hässlicher** Spiegel hängt an der Wand.	der Spiegel → ein hässlicher.
+adj.mixed	neu	mixed.nom.m	**My new** television is broken.	**Mein neuer** Fernseher ist kaputt.	Possessives work like ein: mein neuer, with -er for der Fernseher.
+adj.mixed	alt	mixed.nom.m	**Our old** fridge is dirty.	**Unser alter** Kühlschrank ist schmutzig.	unser alter: -er.
+adj.mixed	neu	mixed.nom.f	**Her new** flat is quiet.	**Ihre neue** Wohnung ist ruhig.	ihre neue: -e, as after eine.
+adj.mixed	neu	mixed.nom.n	Is that **your new** car? (one friend)	Ist das **dein neues** Auto?	dein neues: -es for das Auto.
+adj.mixed	schön	mixed.nom.n	That's **not a nice** picture.	Das ist **kein schönes** Bild.	kein works like ein: kein schönes.
+adj.mixed	wichtig	mixed.nom.f	That's **not an important** question.	Das ist **keine wichtige** Frage.	keine + -e.
+adj.mixed	neu	mixed.nom.m	**Your new** jumper is lovely. (formal)	**Ihr neuer** Pullover ist schön.	Ihr neuer: -er for der Pullover.
+adj.mixed	neu	mixed.acc.n	I'm buying **a new** sofa.	Ich kaufe **ein neues** Sofa.	das-words keep -es in the accusative.
+adj.mixed	neu	mixed.acc.n	My phone is broken. I need **a new** phone.	Mein Handy ist kaputt. Ich brauche **ein neues** Handy.	kaputt after ist has no ending; before the noun: ein neues.
+adj.mixed	groß	mixed.acc.m	We need **a big** fridge.	Wir brauchen **einen großen** Kühlschrank.	einen already shows the case: -en.
+adj.mixed	rot	mixed.acc.m	She has **a red** carpet.	Sie hat **einen roten** Teppich.	einen + -en.
+adj.mixed	wichtig	mixed.acc.m	I have **an important** appointment.	Ich habe **einen wichtigen** Termin.	der Termin → einen wichtigen Termin.
+adj.mixed	schwarz	mixed.acc.f	He's wearing **a black** jacket.	Er trägt **eine schwarze** Jacke.	eine + -e: the same as the nominative.
+adj.mixed	sauber	mixed.acc.n	Do you have **a clean** glass? (formal)	Haben Sie **ein sauberes** Glas?	ein sauberes: -es.
+adj.mixed	groß	mixed.acc.n	I don't have **a big** car.	Ich habe **kein großes** Auto.	kein großes: like ein großes.
+adj.mixed	schwarz	mixed.acc.m	He's looking for **his black** coat.	Er sucht **seinen schwarzen** Mantel.	seinen + -en.
+adj.mixed	klein	mixed.acc.f	I love **my small** flat.	Ich liebe **meine kleine** Wohnung.	meine + -e.
+adj.mixed	alt	mixed.acc.m	We're selling **our old** television.	Wir verkaufen **unseren alten** Fernseher.	unseren + -en.
+adj.mixed	blau	mixed.acc.n	Have you seen **my blue** shirt? (one friend)	Hast du **mein blaues** Hemd gesehen?	mein blaues: -es for das Hemd.
+adj.mixed	ruhig	mixed.dat.f	I live in **a quiet** flat.	Ich wohne in **einer ruhigen** Wohnung.	In the dative the adjective always takes -en: einer ruhigen.
+adj.mixed	alt	mixed.dat.n	We're going in **an old** car.	Wir fahren mit **einem alten** Auto.	einem + -en.
+adj.mixed	bequem	mixed.dat.m	The cat is sleeping on **a comfortable** chair.	Die Katze schläft auf **einem bequemen** Stuhl.	auf + dative: einem bequemen.
+adj.mixed	klein	mixed.dat.m	She's talking to **her little** son.	Sie spricht mit **ihrem kleinen** Sohn.	ihrem + -en.
+adj.mixed	neu	mixed.dat.n	The mirror is hanging in **our new** bathroom.	Der Spiegel hängt in **unserem neuen** Bad.	unserem + -en.
+adj.mixed	alt	mixed.nom.pl	My **old** shoes are dirty.	Meine **alten** Schuhe sind schmutzig.	After a plural ein-word (meine, keine) the adjective takes -en.
+adj.mixed	sauber	mixed.acc.pl	We have no **clean** glasses.	Wir haben keine **sauberen** Gläser.	keine + -en in the plural.
+adj.mixed	alt	mixed.acc.pl	I'm visiting my **old** friends.	Ich besuche meine **alten** Freunde.	meine alten: -en.
+adj.mixed	klein	mixed.dat.pl	He's playing with his **small** children.	Er spielt mit seinen **kleinen** Kindern.	Dative plural: seinen kleinen Kindern.
