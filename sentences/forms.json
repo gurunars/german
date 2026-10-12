@@ -22,6 +22,9 @@
    "dat.sg": [
     "Abend"
    ],
+   "gen.pl": [
+    "Abende"
+   ],
    "gen.sg": [
     "Abends"
    ],
@@ -54,6 +57,9 @@
    "dat.sg": [
     "Abendessen"
    ],
+   "gen.pl": [
+    "Abendessen"
+   ],
    "gen.sg": [
     "Abendessens"
    ],
@@ -62,6 +68,41 @@
    ],
    "nom.sg": [
     "Abendessen"
+   ]
+  }
+ },
+ "Adresse": {
+  "all": [
+   "Adresse",
+   "Adressen"
+  ],
+  "english": "address",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Adressen"
+   ],
+   "acc.sg": [
+    "Adresse"
+   ],
+   "dat.pl": [
+    "Adressen"
+   ],
+   "dat.sg": [
+    "Adresse"
+   ],
+   "gen.pl": [
+    "Adressen"
+   ],
+   "gen.sg": [
+    "Adresse"
+   ],
+   "nom.pl": [
+    "Adressen"
+   ],
+   "nom.sg": [
+    "Adresse"
    ]
   }
  },
@@ -86,6 +127,9 @@
    "dat.sg": [
     "Ahnung"
    ],
+   "gen.pl": [
+    "Ahnungen"
+   ],
    "gen.sg": [
     "Ahnung"
    ],
@@ -94,6 +138,47 @@
    ],
    "nom.sg": [
     "Ahnung"
+   ]
+  }
+ },
+ "Anfang": {
+  "all": [
+   "Anfang",
+   "Anfange",
+   "Anfanges",
+   "Anfangs",
+   "Anfänge",
+   "Anfängen"
+  ],
+  "english": "beginning",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Anfänge"
+   ],
+   "acc.sg": [
+    "Anfang"
+   ],
+   "dat.pl": [
+    "Anfängen"
+   ],
+   "dat.sg": [
+    "Anfang",
+    "Anfange"
+   ],
+   "gen.pl": [
+    "Anfänge"
+   ],
+   "gen.sg": [
+    "Anfanges",
+    "Anfangs"
+   ],
+   "nom.pl": [
+    "Anfänge"
+   ],
+   "nom.sg": [
+    "Anfang"
    ]
   }
  },
@@ -118,6 +203,9 @@
    ],
    "dat.sg": [
     "Angst"
+   ],
+   "gen.pl": [
+    "Ängste"
    ],
    "gen.sg": [
     "Angst"
@@ -150,6 +238,9 @@
    ],
    "dat.sg": [
     "Antwort"
+   ],
+   "gen.pl": [
+    "Antworten"
    ],
    "gen.sg": [
     "Antwort"
@@ -190,6 +281,9 @@
    "dat.sg": [
     "Apfel"
    ],
+   "gen.pl": [
+    "Äpfel"
+   ],
    "gen.sg": [
     "Apfels"
    ],
@@ -221,6 +315,9 @@
    ],
    "dat.sg": [
     "Apotheke"
+   ],
+   "gen.pl": [
+    "Apotheken"
    ],
    "gen.sg": [
     "Apotheke"
@@ -256,6 +353,9 @@
    "dat.sg": [
     "April"
    ],
+   "gen.pl": [
+    "Aprile"
+   ],
    "gen.sg": [
     "April",
     "Aprils"
@@ -288,6 +388,9 @@
    ],
    "dat.sg": [
     "Arbeit"
+   ],
+   "gen.pl": [
+    "Arbeiten"
    ],
    "gen.sg": [
     "Arbeit"
@@ -328,6 +431,9 @@
     "Arzt",
     "Arzte"
    ],
+   "gen.pl": [
+    "Ärzte"
+   ],
    "gen.sg": [
     "Arztes",
     "Arzts"
@@ -365,6 +471,9 @@
     "August",
     "Auguste"
    ],
+   "gen.pl": [
+    "Auguste"
+   ],
    "gen.sg": [
     "August",
     "Augusts",
@@ -398,6 +507,9 @@
    ],
    "dat.sg": [
     "Auto"
+   ],
+   "gen.pl": [
+    "Autos"
    ],
    "gen.sg": [
     "Autos"
@@ -435,6 +547,9 @@
    "dat.sg": [
     "Bad",
     "Bade"
+   ],
+   "gen.pl": [
+    "Bäder"
    ],
    "gen.sg": [
     "Bades",
@@ -476,6 +591,9 @@
     "Bahnhof",
     "Bahnhofe"
    ],
+   "gen.pl": [
+    "Bahnhöfe"
+   ],
    "gen.sg": [
     "Bahnhofs",
     "Bahnhofes"
@@ -515,6 +633,9 @@
    "dat.sg": [
     "Bauch",
     "Bauche"
+   ],
+   "gen.pl": [
+    "Bäuche"
    ],
    "gen.sg": [
     "Bauches",
@@ -556,6 +677,9 @@
     "Baum",
     "Baume"
    ],
+   "gen.pl": [
+    "Bäume"
+   ],
    "gen.sg": [
     "Baumes",
     "Baums"
@@ -591,6 +715,9 @@
    ],
    "dat.sg": [
     "Berg",
+    "Berge"
+   ],
+   "gen.pl": [
     "Berge"
    ],
    "gen.sg": [
@@ -633,6 +760,9 @@
     "Bett",
     "Bette"
    ],
+   "gen.pl": [
+    "Betten"
+   ],
    "gen.sg": [
     "Bettes",
     "Betts"
@@ -674,6 +804,10 @@
     "Bier",
     "Biere"
    ],
+   "gen.pl": [
+    "Biere",
+    "Bier"
+   ],
    "gen.sg": [
     "Bieres",
     "Biers"
@@ -714,6 +848,9 @@
     "Bild",
     "Bilde"
    ],
+   "gen.pl": [
+    "Bilder"
+   ],
    "gen.sg": [
     "Bildes",
     "Bilds"
@@ -749,6 +886,9 @@
    ],
    "dat.sg": [
     "Blume"
+   ],
+   "gen.pl": [
+    "Blumen"
    ],
    "gen.sg": [
     "Blume"
@@ -787,6 +927,9 @@
    ],
    "dat.sg": [
     "Brief",
+    "Briefe"
+   ],
+   "gen.pl": [
     "Briefe"
    ],
    "gen.sg": [
@@ -828,6 +971,9 @@
     "Brot",
     "Brote"
    ],
+   "gen.pl": [
+    "Brote"
+   ],
    "gen.sg": [
     "Brotes",
     "Brots"
@@ -864,6 +1010,9 @@
    ],
    "dat.sg": [
     "Bruder"
+   ],
+   "gen.pl": [
+    "Brüder"
    ],
    "gen.sg": [
     "Bruders"
@@ -904,6 +1053,9 @@
     "Buch",
     "Buche"
    ],
+   "gen.pl": [
+    "Bücher"
+   ],
    "gen.sg": [
     "Buches",
     "Buchs"
@@ -938,6 +1090,9 @@
    ],
    "dat.sg": [
     "Bus",
+    "Busse"
+   ],
+   "gen.pl": [
     "Busse"
    ],
    "gen.sg": [
@@ -996,6 +1151,9 @@
    "dat.sg": [
     "Bäckerei"
    ],
+   "gen.pl": [
+    "Bäckereien"
+   ],
    "gen.sg": [
     "Bäckerei"
    ],
@@ -1030,6 +1188,9 @@
    "dat.sg": [
     "Chef"
    ],
+   "gen.pl": [
+    "Chefs"
+   ],
    "gen.sg": [
     "Chefs"
    ],
@@ -1061,6 +1222,9 @@
     "Computern"
    ],
    "dat.sg": [
+    "Computer"
+   ],
+   "gen.pl": [
     "Computer"
    ],
    "gen.sg": [
@@ -1096,6 +1260,9 @@
     "Dezembern"
    ],
    "dat.sg": [
+    "Dezember"
+   ],
+   "gen.pl": [
     "Dezember"
    ],
    "gen.sg": [
@@ -1135,6 +1302,9 @@
     "Dienstag",
     "Dienstage"
    ],
+   "gen.pl": [
+    "Dienstage"
+   ],
    "gen.sg": [
     "Dienstages",
     "Dienstags"
@@ -1170,6 +1340,9 @@
    ],
    "dat.sg": [
     "Donnerstag",
+    "Donnerstage"
+   ],
+   "gen.pl": [
     "Donnerstage"
    ],
    "gen.sg": [
@@ -1211,6 +1384,9 @@
    "dat.sg": [
     "Dorf",
     "Dorfe"
+   ],
+   "gen.pl": [
+    "Dörfer"
    ],
    "gen.sg": [
     "Dorfes",
@@ -1276,6 +1452,9 @@
    "dat.sg": [
     "Ecke"
    ],
+   "gen.pl": [
+    "Ecken"
+   ],
    "gen.sg": [
     "Ecke"
    ],
@@ -1316,6 +1495,9 @@
     "Ei",
     "Eie"
    ],
+   "gen.pl": [
+    "Eier"
+   ],
    "gen.sg": [
     "Eies",
     "Eis"
@@ -1355,6 +1537,10 @@
     "Eis",
     "Eise"
    ],
+   "gen.pl": [
+    "Eis",
+    "Eise"
+   ],
    "gen.sg": [
     "Eises"
    ],
@@ -1384,8 +1570,48 @@
    "dat.pl": [
     "Eltern"
    ],
+   "gen.pl": [
+    "Eltern"
+   ],
    "nom.pl": [
     "Eltern"
+   ]
+  }
+ },
+ "Ende": {
+  "all": [
+   "Endchen",
+   "Ende",
+   "Enden",
+   "Endes"
+  ],
+  "english": "end",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Enden"
+   ],
+   "acc.sg": [
+    "Ende"
+   ],
+   "dat.pl": [
+    "Enden"
+   ],
+   "dat.sg": [
+    "Ende"
+   ],
+   "gen.pl": [
+    "Enden"
+   ],
+   "gen.sg": [
+    "Endes"
+   ],
+   "nom.pl": [
+    "Enden"
+   ],
+   "nom.sg": [
+    "Ende"
    ]
   }
  },
@@ -1409,6 +1635,9 @@
    ],
    "dat.sg": [
     "Entschuldigung"
+   ],
+   "gen.pl": [
+    "Entschuldigungen"
    ],
    "gen.sg": [
     "Entschuldigung"
@@ -1441,6 +1670,9 @@
    ],
    "dat.sg": [
     "Erkältung"
+   ],
+   "gen.pl": [
+    "Erkältungen"
    ],
    "gen.sg": [
     "Erkältung"
@@ -1476,6 +1708,10 @@
    "dat.sg": [
     "Euro"
    ],
+   "gen.pl": [
+    "Euros",
+    "Euro"
+   ],
    "gen.sg": [
     "Euros",
     "Euro"
@@ -1509,6 +1745,9 @@
    ],
    "dat.sg": [
     "Fahrkarte"
+   ],
+   "gen.pl": [
+    "Fahrkarten"
    ],
    "gen.sg": [
     "Fahrkarte"
@@ -1547,6 +1786,9 @@
     "Fahrrad",
     "Fahrrade"
    ],
+   "gen.pl": [
+    "Fahrräder"
+   ],
    "gen.sg": [
     "Fahrrads",
     "Fahrrades"
@@ -1579,6 +1821,9 @@
    ],
    "dat.sg": [
     "Familie"
+   ],
+   "gen.pl": [
+    "Familien"
    ],
    "gen.sg": [
     "Familie"
@@ -1614,6 +1859,9 @@
    "dat.sg": [
     "Farbe"
    ],
+   "gen.pl": [
+    "Farben"
+   ],
    "gen.sg": [
     "Farbe"
    ],
@@ -1648,6 +1896,9 @@
    ],
    "dat.sg": [
     "Februar"
+   ],
+   "gen.pl": [
+    "Februare"
    ],
    "gen.sg": [
     "Februars",
@@ -1686,6 +1937,9 @@
    "dat.sg": [
     "Fenster"
    ],
+   "gen.pl": [
+    "Fenster"
+   ],
    "gen.sg": [
     "Fensters"
    ],
@@ -1709,6 +1963,9 @@
     "Ferien"
    ],
    "dat.pl": [
+    "Ferien"
+   ],
+   "gen.pl": [
     "Ferien"
    ],
    "nom.pl": [
@@ -1736,6 +1993,9 @@
     "Fernsehern"
    ],
    "dat.sg": [
+    "Fernseher"
+   ],
+   "gen.pl": [
     "Fernseher"
    ],
    "gen.sg": [
@@ -1769,6 +2029,9 @@
     "Fiebern"
    ],
    "dat.sg": [
+    "Fieber"
+   ],
+   "gen.pl": [
     "Fieber"
    ],
    "gen.sg": [
@@ -1808,6 +2071,9 @@
     "Film",
     "Filme"
    ],
+   "gen.pl": [
+    "Filme"
+   ],
    "gen.sg": [
     "Filmes",
     "Films"
@@ -1840,6 +2106,9 @@
    ],
    "dat.sg": [
     "Firma"
+   ],
+   "gen.pl": [
+    "Firmen"
    ],
    "gen.sg": [
     "Firma"
@@ -1881,6 +2150,9 @@
     "Fisch",
     "Fische"
    ],
+   "gen.pl": [
+    "Fische"
+   ],
    "gen.sg": [
     "Fisches",
     "Fischs"
@@ -1918,6 +2190,9 @@
    ],
    "dat.sg": [
     "Flasche"
+   ],
+   "gen.pl": [
+    "Flaschen"
    ],
    "gen.sg": [
     "Flasche"
@@ -1986,6 +2261,9 @@
     "Flugzeug",
     "Flugzeuge"
    ],
+   "gen.pl": [
+    "Flugzeuge"
+   ],
    "gen.sg": [
     "Flugzeuges",
     "Flugzeugs"
@@ -2026,6 +2304,9 @@
     "Fluss",
     "Flusse"
    ],
+   "gen.pl": [
+    "Flüsse"
+   ],
    "gen.sg": [
     "Flusses"
    ],
@@ -2060,6 +2341,9 @@
    "dat.sg": [
     "Formular"
    ],
+   "gen.pl": [
+    "Formulare"
+   ],
    "gen.sg": [
     "Formulars"
    ],
@@ -2093,6 +2377,9 @@
    "dat.sg": [
     "Foto"
    ],
+   "gen.pl": [
+    "Fotos"
+   ],
    "gen.sg": [
     "Fotos"
    ],
@@ -2124,6 +2411,9 @@
    ],
    "dat.sg": [
     "Frage"
+   ],
+   "gen.pl": [
+    "Fragen"
    ],
    "gen.sg": [
     "Frage"
@@ -2165,6 +2455,9 @@
     "Frau",
     "Frauen"
    ],
+   "gen.pl": [
+    "Frauen"
+   ],
    "gen.sg": [
     "Frau",
     "Frauen"
@@ -2200,6 +2493,9 @@
    ],
    "dat.sg": [
     "Freitag",
+    "Freitage"
+   ],
+   "gen.pl": [
     "Freitage"
    ],
    "gen.sg": [
@@ -2243,6 +2539,9 @@
     "Freund",
     "Freunde"
    ],
+   "gen.pl": [
+    "Freunde"
+   ],
    "gen.sg": [
     "Freundes",
     "Freunds"
@@ -2276,6 +2575,9 @@
    ],
    "dat.sg": [
     "Freundin"
+   ],
+   "gen.pl": [
+    "Freundinnen"
    ],
    "gen.sg": [
     "Freundin"
@@ -2311,6 +2613,9 @@
    ],
    "dat.sg": [
     "Frühstück",
+    "Frühstücke"
+   ],
+   "gen.pl": [
     "Frühstücke"
    ],
    "gen.sg": [
@@ -2352,6 +2657,9 @@
     "Fußball",
     "Fußballe"
    ],
+   "gen.pl": [
+    "Fußbälle"
+   ],
    "gen.sg": [
     "Fußballs",
     "Fußballes"
@@ -2387,6 +2695,9 @@
    ],
    "dat.sg": [
     "Garten"
+   ],
+   "gen.pl": [
+    "Gärten"
    ],
    "gen.sg": [
     "Gartens"
@@ -2427,6 +2738,9 @@
     "Gast",
     "Gaste"
    ],
+   "gen.pl": [
+    "Gäste"
+   ],
    "gen.sg": [
     "Gastes",
     "Gasts"
@@ -2462,6 +2776,9 @@
    ],
    "dat.sg": [
     "Geburtstag",
+    "Geburtstage"
+   ],
+   "gen.pl": [
     "Geburtstage"
    ],
    "gen.sg": [
@@ -2502,6 +2819,9 @@
     "Geld",
     "Gelde"
    ],
+   "gen.pl": [
+    "Gelder"
+   ],
    "gen.sg": [
     "Geldes",
     "Gelds"
@@ -2534,6 +2854,9 @@
     "Gemüsen"
    ],
    "dat.sg": [
+    "Gemüse"
+   ],
+   "gen.pl": [
     "Gemüse"
    ],
    "gen.sg": [
@@ -2570,6 +2893,9 @@
    ],
    "dat.sg": [
     "Geschenk",
+    "Geschenke"
+   ],
+   "gen.pl": [
     "Geschenke"
    ],
    "gen.sg": [
@@ -2609,6 +2935,9 @@
    "dat.sg": [
     "Geschichte"
    ],
+   "gen.pl": [
+    "Geschichten"
+   ],
    "gen.sg": [
     "Geschichte"
    ],
@@ -2643,6 +2972,9 @@
     "Geschwistern"
    ],
    "dat.sg": [
+    "Geschwister"
+   ],
+   "gen.pl": [
     "Geschwister"
    ],
    "gen.sg": [
@@ -2685,6 +3017,9 @@
     "Gesicht",
     "Gesichte"
    ],
+   "gen.pl": [
+    "Gesichter"
+   ],
    "gen.sg": [
     "Gesichtes",
     "Gesichts"
@@ -2718,6 +3053,9 @@
    ],
    "dat.sg": [
     "Gitarre"
+   ],
+   "gen.pl": [
+    "Gitarren"
    ],
    "gen.sg": [
     "Gitarre"
@@ -2760,6 +3098,10 @@
    "dat.sg": [
     "Glas",
     "Glase"
+   ],
+   "gen.pl": [
+    "Gläser",
+    "Glas"
    ],
    "gen.sg": [
     "Glases"
@@ -2827,6 +3169,9 @@
     "Glückwunsch",
     "Glückwunsche"
    ],
+   "gen.pl": [
+    "Glückwünsche"
+   ],
    "gen.sg": [
     "Glückwunsches",
     "Glückwunschs"
@@ -2851,6 +3196,9 @@
     "Großeltern"
    ],
    "dat.pl": [
+    "Großeltern"
+   ],
+   "gen.pl": [
     "Großeltern"
    ],
    "nom.pl": [
@@ -2885,6 +3233,9 @@
    "dat.sg": [
     "Gruß",
     "Gruße"
+   ],
+   "gen.pl": [
+    "Grüße"
    ],
    "gen.sg": [
     "Grußes"
@@ -2923,6 +3274,9 @@
     "Haar",
     "Haare"
    ],
+   "gen.pl": [
+    "Haare"
+   ],
    "gen.sg": [
     "Haares",
     "Haars"
@@ -2955,6 +3309,9 @@
    ],
    "dat.sg": [
     "Haltestelle"
+   ],
+   "gen.pl": [
+    "Haltestellen"
    ],
    "gen.sg": [
     "Haltestelle"
@@ -2992,6 +3349,9 @@
    "dat.sg": [
     "Hand"
    ],
+   "gen.pl": [
+    "Hände"
+   ],
    "gen.sg": [
     "Hand"
    ],
@@ -3027,6 +3387,10 @@
    "dat.sg": [
     "Handy"
    ],
+   "gen.pl": [
+    "Handys",
+    "Handies"
+   ],
    "gen.sg": [
     "Handys"
    ],
@@ -3036,6 +3400,43 @@
    ],
    "nom.sg": [
     "Handy"
+   ]
+  }
+ },
+ "Hauptstadt": {
+  "all": [
+   "Hauptstadt",
+   "Hauptstädtchen",
+   "Hauptstädte",
+   "Hauptstädten"
+  ],
+  "english": "capital (city)",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Hauptstädte"
+   ],
+   "acc.sg": [
+    "Hauptstadt"
+   ],
+   "dat.pl": [
+    "Hauptstädten"
+   ],
+   "dat.sg": [
+    "Hauptstadt"
+   ],
+   "gen.pl": [
+    "Hauptstädte"
+   ],
+   "gen.sg": [
+    "Hauptstadt"
+   ],
+   "nom.pl": [
+    "Hauptstädte"
+   ],
+   "nom.sg": [
+    "Hauptstadt"
    ]
   }
  },
@@ -3080,6 +3481,9 @@
     "Haus",
     "Hause"
    ],
+   "gen.pl": [
+    "Häuser"
+   ],
    "gen.sg": [
     "Hauses"
    ],
@@ -3111,6 +3515,9 @@
    ],
    "dat.sg": [
     "Hausaufgabe"
+   ],
+   "gen.pl": [
+    "Hausaufgaben"
    ],
    "gen.sg": [
     "Hausaufgabe"
@@ -3150,6 +3557,9 @@
     "Hemd",
     "Hemde"
    ],
+   "gen.pl": [
+    "Hemden"
+   ],
    "gen.sg": [
     "Hemdes",
     "Hemds"
@@ -3183,6 +3593,9 @@
    ],
    "dat.sg": [
     "Hilfe"
+   ],
+   "gen.pl": [
+    "Hilfen"
    ],
    "gen.sg": [
     "Hilfe"
@@ -3219,6 +3632,9 @@
    "dat.sg": [
     "Hose"
    ],
+   "gen.pl": [
+    "Hosen"
+   ],
    "gen.sg": [
     "Hose"
    ],
@@ -3250,6 +3666,9 @@
    ],
    "dat.sg": [
     "Hotel"
+   ],
+   "gen.pl": [
+    "Hotels"
    ],
    "gen.sg": [
     "Hotels"
@@ -3298,6 +3717,9 @@
    ],
    "dat.sg": [
     "Hund",
+    "Hunde"
+   ],
+   "gen.pl": [
     "Hunde"
    ],
    "gen.sg": [
@@ -3358,6 +3780,9 @@
    "dat.sg": [
     "Idee"
    ],
+   "gen.pl": [
+    "Ideen"
+   ],
    "gen.sg": [
     "Idee"
    ],
@@ -3392,6 +3817,9 @@
    "dat.sg": [
     "Insel"
    ],
+   "gen.pl": [
+    "Inseln"
+   ],
    "gen.sg": [
     "Insel"
    ],
@@ -3424,6 +3852,9 @@
    ],
    "dat.sg": [
     "Jacke"
+   ],
+   "gen.pl": [
+    "Jacken"
    ],
    "gen.sg": [
     "Jacke"
@@ -3465,6 +3896,10 @@
     "Jahr",
     "Jahre"
    ],
+   "gen.pl": [
+    "Jahre",
+    "Jahr"
+   ],
    "gen.sg": [
     "Jahres",
     "Jahrs"
@@ -3501,6 +3936,9 @@
    "dat.sg": [
     "Januar"
    ],
+   "gen.pl": [
+    "Januare"
+   ],
    "gen.sg": [
     "Januars",
     "Januar"
@@ -3534,6 +3972,9 @@
    "dat.sg": [
     "Job"
    ],
+   "gen.pl": [
+    "Jobs"
+   ],
    "gen.sg": [
     "Jobs"
    ],
@@ -3566,6 +4007,9 @@
    ],
    "dat.sg": [
     "Juli"
+   ],
+   "gen.pl": [
+    "Julis"
    ],
    "gen.sg": [
     "Julis",
@@ -3607,6 +4051,9 @@
    "dat.sg": [
     "Jungen"
    ],
+   "gen.pl": [
+    "Jungen"
+   ],
    "gen.sg": [
     "Jungen"
    ],
@@ -3639,6 +4086,9 @@
    ],
    "dat.sg": [
     "Juni"
+   ],
+   "gen.pl": [
+    "Junis"
    ],
    "gen.sg": [
     "Junis",
@@ -3688,6 +4138,9 @@
    "dat.sg": [
     "Kaffee"
    ],
+   "gen.pl": [
+    "Kaffees"
+   ],
    "gen.sg": [
     "Kaffees"
    ],
@@ -3720,6 +4173,9 @@
    ],
    "dat.sg": [
     "Kartoffel"
+   ],
+   "gen.pl": [
+    "Kartoffeln"
    ],
    "gen.sg": [
     "Kartoffel"
@@ -3764,6 +4220,9 @@
    "dat.sg": [
     "Katze"
    ],
+   "gen.pl": [
+    "Katzen"
+   ],
    "gen.sg": [
     "Katze"
    ],
@@ -3798,6 +4257,9 @@
    "dat.sg": [
     "Kellner"
    ],
+   "gen.pl": [
+    "Kellner"
+   ],
    "gen.sg": [
     "Kellners"
    ],
@@ -3830,6 +4292,9 @@
    ],
    "dat.sg": [
     "Kellnerin"
+   ],
+   "gen.pl": [
+    "Kellnerinnen"
    ],
    "gen.sg": [
     "Kellnerin"
@@ -3873,6 +4338,9 @@
     "Kind",
     "Kinde"
    ],
+   "gen.pl": [
+    "Kinder"
+   ],
    "gen.sg": [
     "Kindes",
     "Kinds"
@@ -3905,6 +4373,9 @@
    ],
    "dat.sg": [
     "Kino"
+   ],
+   "gen.pl": [
+    "Kinos"
    ],
    "gen.sg": [
     "Kinos"
@@ -3946,6 +4417,9 @@
     "Kleid",
     "Kleide"
    ],
+   "gen.pl": [
+    "Kleider"
+   ],
    "gen.sg": [
     "Kleides",
     "Kleids"
@@ -3979,6 +4453,9 @@
     "Koffern"
    ],
    "dat.sg": [
+    "Koffer"
+   ],
+   "gen.pl": [
     "Koffer"
    ],
    "gen.sg": [
@@ -4015,6 +4492,9 @@
    "dat.sg": [
     "Kollegen"
    ],
+   "gen.pl": [
+    "Kollegen"
+   ],
    "gen.sg": [
     "Kollegen"
    ],
@@ -4046,6 +4526,9 @@
    ],
    "dat.sg": [
     "Kollegin"
+   ],
+   "gen.pl": [
+    "Kolleginnen"
    ],
    "gen.sg": [
     "Kollegin"
@@ -4088,6 +4571,9 @@
     "Kopf",
     "Kopfe"
    ],
+   "gen.pl": [
+    "Köpfe"
+   ],
    "gen.sg": [
     "Kopfes",
     "Kopfs"
@@ -4124,6 +4610,9 @@
     "Kopfschmerz",
     "Kopfschmerze"
    ],
+   "gen.pl": [
+    "Kopfschmerzen"
+   ],
    "gen.sg": [
     "Kopfschmerzes"
    ],
@@ -4132,6 +4621,41 @@
    ],
    "nom.sg": [
     "Kopfschmerz"
+   ]
+  }
+ },
+ "Krankheit": {
+  "all": [
+   "Krankheit",
+   "Krankheiten"
+  ],
+  "english": "illness",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Krankheiten"
+   ],
+   "acc.sg": [
+    "Krankheit"
+   ],
+   "dat.pl": [
+    "Krankheiten"
+   ],
+   "dat.sg": [
+    "Krankheit"
+   ],
+   "gen.pl": [
+    "Krankheiten"
+   ],
+   "gen.sg": [
+    "Krankheit"
+   ],
+   "nom.pl": [
+    "Krankheiten"
+   ],
+   "nom.sg": [
+    "Krankheit"
    ]
   }
  },
@@ -4156,6 +4680,9 @@
     "Kuchen"
    ],
    "dat.sg": [
+    "Kuchen"
+   ],
+   "gen.pl": [
     "Kuchen"
    ],
    "gen.sg": [
@@ -4190,6 +4717,9 @@
    ],
    "dat.sg": [
     "Kunst"
+   ],
+   "gen.pl": [
+    "Künste"
    ],
    "gen.sg": [
     "Kunst"
@@ -4226,6 +4756,9 @@
     "Kurs",
     "Kurse"
    ],
+   "gen.pl": [
+    "Kurse"
+   ],
    "gen.sg": [
     "Kurses"
    ],
@@ -4259,6 +4792,9 @@
     "Käsen"
    ],
    "dat.sg": [
+    "Käse"
+   ],
+   "gen.pl": [
     "Käse"
    ],
    "gen.sg": [
@@ -4297,6 +4833,9 @@
     "König",
     "Könige"
    ],
+   "gen.pl": [
+    "Könige"
+   ],
    "gen.sg": [
     "Königs",
     "Königes"
@@ -4329,6 +4868,9 @@
    ],
    "dat.sg": [
     "Königin"
+   ],
+   "gen.pl": [
+    "Königinnen"
    ],
    "gen.sg": [
     "Königin"
@@ -4364,6 +4906,9 @@
    ],
    "dat.sg": [
     "Küche"
+   ],
+   "gen.pl": [
+    "Küchen"
    ],
    "gen.sg": [
     "Küche"
@@ -4402,6 +4947,9 @@
     "Kühlschrank",
     "Kühlschranke"
    ],
+   "gen.pl": [
+    "Kühlschränke"
+   ],
    "gen.sg": [
     "Kühlschrankes",
     "Kühlschranks"
@@ -4436,6 +4984,9 @@
    ],
    "dat.sg": [
     "Lampe"
+   ],
+   "gen.pl": [
+    "Lampen"
    ],
    "gen.sg": [
     "Lampe"
@@ -4480,6 +5031,10 @@
     "Land",
     "Lande"
    ],
+   "gen.pl": [
+    "Länder",
+    "Lande"
+   ],
    "gen.sg": [
     "Landes",
     "Lands"
@@ -4516,6 +5071,9 @@
    "dat.sg": [
     "Lehrer"
    ],
+   "gen.pl": [
+    "Lehrer"
+   ],
    "gen.sg": [
     "Lehrers"
    ],
@@ -4549,6 +5107,9 @@
    "dat.sg": [
     "Lehrerin"
    ],
+   "gen.pl": [
+    "Lehrerinnen"
+   ],
    "gen.sg": [
     "Lehrerin"
    ],
@@ -4578,6 +5139,9 @@
    ],
    "dat.pl": [
     "Leuten"
+   ],
+   "gen.pl": [
+    "Leute"
    ],
    "nom.pl": [
     "Leute"
@@ -4617,6 +5181,10 @@
     "Licht",
     "Lichte"
    ],
+   "gen.pl": [
+    "Lichter",
+    "Lichte"
+   ],
    "gen.sg": [
     "Lichtes",
     "Lichts"
@@ -4652,6 +5220,9 @@
    "dat.sg": [
     "Lust"
    ],
+   "gen.pl": [
+    "Lüste"
+   ],
    "gen.sg": [
     "Lust"
    ],
@@ -4660,6 +5231,33 @@
    ],
    "nom.sg": [
     "Lust"
+   ]
+  }
+ },
+ "Lärm": {
+  "all": [
+   "Lärm",
+   "Lärme",
+   "Lärmes",
+   "Lärms"
+  ],
+  "english": "noise",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Lärm"
+   ],
+   "dat.sg": [
+    "Lärm",
+    "Lärme"
+   ],
+   "gen.sg": [
+    "Lärmes",
+    "Lärms"
+   ],
+   "nom.sg": [
+    "Lärm"
    ]
   }
  },
@@ -4685,6 +5283,9 @@
    ],
    "dat.sg": [
     "Mai"
+   ],
+   "gen.pl": [
+    "Maie"
    ],
    "gen.sg": [
     "Mais",
@@ -4736,6 +5337,10 @@
     "Mann",
     "Manne"
    ],
+   "gen.pl": [
+    "Männer",
+    "Mann"
+   ],
    "gen.sg": [
     "Mannes",
     "Manns"
@@ -4774,6 +5379,9 @@
    "dat.sg": [
     "Mantel"
    ],
+   "gen.pl": [
+    "Mäntel"
+   ],
    "gen.sg": [
     "Mantels"
    ],
@@ -4808,6 +5416,9 @@
    ],
    "dat.sg": [
     "Meer",
+    "Meere"
+   ],
+   "gen.pl": [
     "Meere"
    ],
    "gen.sg": [
@@ -4846,6 +5457,9 @@
    "dat.sg": [
     "Menschen"
    ],
+   "gen.pl": [
+    "Menschen"
+   ],
    "gen.sg": [
     "Menschen"
    ],
@@ -4880,6 +5494,10 @@
    "dat.sg": [
     "Milch"
    ],
+   "gen.pl": [
+    "Milchen",
+    "Milche"
+   ],
    "gen.sg": [
     "Milch"
    ],
@@ -4913,6 +5531,9 @@
    "dat.sg": [
     "Mittagessen"
    ],
+   "gen.pl": [
+    "Mittagessen"
+   ],
    "gen.sg": [
     "Mittagessens"
    ],
@@ -4921,6 +5542,41 @@
    ],
    "nom.sg": [
     "Mittagessen"
+   ]
+  }
+ },
+ "Mitte": {
+  "all": [
+   "Mitte",
+   "Mitten"
+  ],
+  "english": "middle",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Mitten"
+   ],
+   "acc.sg": [
+    "Mitte"
+   ],
+   "dat.pl": [
+    "Mitten"
+   ],
+   "dat.sg": [
+    "Mitte"
+   ],
+   "gen.pl": [
+    "Mitten"
+   ],
+   "gen.sg": [
+    "Mitte"
+   ],
+   "nom.pl": [
+    "Mitten"
+   ],
+   "nom.sg": [
+    "Mitte"
    ]
   }
  },
@@ -4947,6 +5603,9 @@
    ],
    "dat.sg": [
     "Mittwoch"
+   ],
+   "gen.pl": [
+    "Mittwoche"
    ],
    "gen.sg": [
     "Mittwochs"
@@ -4986,6 +5645,9 @@
     "Moment",
     "Momente"
    ],
+   "gen.pl": [
+    "Momente"
+   ],
    "gen.sg": [
     "Momentes",
     "Moments"
@@ -5021,6 +5683,9 @@
    ],
    "dat.sg": [
     "Monat",
+    "Monate"
+   ],
+   "gen.pl": [
     "Monate"
    ],
    "gen.sg": [
@@ -5060,6 +5725,9 @@
     "Montag",
     "Montage"
    ],
+   "gen.pl": [
+    "Montage"
+   ],
    "gen.sg": [
     "Montages",
     "Montags"
@@ -5095,6 +5763,9 @@
    "dat.sg": [
     "Morgen"
    ],
+   "gen.pl": [
+    "Morgen"
+   ],
    "gen.sg": [
     "Morgens"
    ],
@@ -5127,6 +5798,9 @@
    ],
    "dat.sg": [
     "Musik"
+   ],
+   "gen.pl": [
+    "Musiken"
    ],
    "gen.sg": [
     "Musik"
@@ -5169,6 +5843,9 @@
    "dat.sg": [
     "Mutter"
    ],
+   "gen.pl": [
+    "Mütter"
+   ],
    "gen.sg": [
     "Mutter"
    ],
@@ -5200,6 +5877,9 @@
     "Mädchen"
    ],
    "dat.sg": [
+    "Mädchen"
+   ],
+   "gen.pl": [
     "Mädchen"
    ],
    "gen.sg": [
@@ -5241,6 +5921,9 @@
     "März",
     "Märze"
    ],
+   "gen.pl": [
+    "Märze"
+   ],
    "gen.sg": [
     "März",
     "Märzes"
@@ -5280,6 +5963,9 @@
     "Nachbarn",
     "Nachbar"
    ],
+   "gen.pl": [
+    "Nachbarn"
+   ],
    "gen.sg": [
     "Nachbarn",
     "Nachbars"
@@ -5314,6 +6000,9 @@
    "dat.sg": [
     "Nachbarin"
    ],
+   "gen.pl": [
+    "Nachbarinnen"
+   ],
    "gen.sg": [
     "Nachbarin"
    ],
@@ -5345,6 +6034,9 @@
    ],
    "dat.sg": [
     "Nachricht"
+   ],
+   "gen.pl": [
+    "Nachrichten"
    ],
    "gen.sg": [
     "Nachricht"
@@ -5379,6 +6071,9 @@
    ],
    "dat.sg": [
     "Nacht"
+   ],
+   "gen.pl": [
+    "Nächte"
    ],
    "gen.sg": [
     "Nacht"
@@ -5415,6 +6110,9 @@
    "dat.sg": [
     "Namen"
    ],
+   "gen.pl": [
+    "Namen"
+   ],
    "gen.sg": [
     "Namens"
    ],
@@ -5446,6 +6144,9 @@
     "Novembern"
    ],
    "dat.sg": [
+    "November"
+   ],
+   "gen.pl": [
     "November"
    ],
    "gen.sg": [
@@ -5482,6 +6183,9 @@
    "dat.sg": [
     "Nudel"
    ],
+   "gen.pl": [
+    "Nudeln"
+   ],
    "gen.sg": [
     "Nudel"
    ],
@@ -5490,6 +6194,43 @@
    ],
    "nom.sg": [
     "Nudel"
+   ]
+  }
+ },
+ "Nummer": {
+  "all": [
+   "Numero",
+   "Nummer",
+   "Nummern",
+   "Nümmerchen"
+  ],
+  "english": "number",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Nummern"
+   ],
+   "acc.sg": [
+    "Nummer"
+   ],
+   "dat.pl": [
+    "Nummern"
+   ],
+   "dat.sg": [
+    "Nummer"
+   ],
+   "gen.pl": [
+    "Nummern"
+   ],
+   "gen.sg": [
+    "Nummer"
+   ],
+   "nom.pl": [
+    "Nummern"
+   ],
+   "nom.sg": [
+    "Nummer"
    ]
   }
  },
@@ -5543,6 +6284,9 @@
    "dat.sg": [
     "Oktober"
    ],
+   "gen.pl": [
+    "Oktober"
+   ],
    "gen.sg": [
     "Oktobers",
     "Oktober"
@@ -5575,6 +6319,9 @@
    ],
    "dat.sg": [
     "Oma"
+   ],
+   "gen.pl": [
+    "Omas"
    ],
    "gen.sg": [
     "Oma",
@@ -5612,6 +6359,10 @@
    "dat.sg": [
     "Onkel"
    ],
+   "gen.pl": [
+    "Onkel",
+    "Onkels"
+   ],
    "gen.sg": [
     "Onkels"
    ],
@@ -5645,6 +6396,9 @@
    ],
    "dat.sg": [
     "Opa"
+   ],
+   "gen.pl": [
+    "Opas"
    ],
    "gen.sg": [
     "Opas"
@@ -5688,6 +6442,11 @@
     "Park",
     "Parke"
    ],
+   "gen.pl": [
+    "Parks",
+    "Parke",
+    "Pärke"
+   ],
    "gen.sg": [
     "Parks",
     "Parkes"
@@ -5726,6 +6485,10 @@
    "dat.sg": [
     "Party"
    ],
+   "gen.pl": [
+    "Partys",
+    "Parties"
+   ],
    "gen.sg": [
     "Party"
    ],
@@ -5760,6 +6523,9 @@
    ],
    "dat.sg": [
     "Pause"
+   ],
+   "gen.pl": [
+    "Pausen"
    ],
    "gen.sg": [
     "Pause"
@@ -5799,6 +6565,10 @@
    ],
    "dat.sg": [
     "Plan",
+    "Plane"
+   ],
+   "gen.pl": [
+    "Pläne",
     "Plane"
    ],
    "gen.sg": [
@@ -5843,6 +6613,9 @@
     "Platz",
     "Platze"
    ],
+   "gen.pl": [
+    "Plätze"
+   ],
    "gen.sg": [
     "Platzes"
    ],
@@ -5875,6 +6648,9 @@
    "dat.sg": [
     "Politik"
    ],
+   "gen.pl": [
+    "Politiken"
+   ],
    "gen.sg": [
     "Politik"
    ],
@@ -5883,6 +6659,44 @@
    ],
    "nom.sg": [
     "Politik"
+   ]
+  }
+ },
+ "Preis": {
+  "all": [
+   "Preis",
+   "Preise",
+   "Preisen",
+   "Preises"
+  ],
+  "english": "price",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Preise"
+   ],
+   "acc.sg": [
+    "Preis"
+   ],
+   "dat.pl": [
+    "Preisen"
+   ],
+   "dat.sg": [
+    "Preis",
+    "Preise"
+   ],
+   "gen.pl": [
+    "Preise"
+   ],
+   "gen.sg": [
+    "Preises"
+   ],
+   "nom.pl": [
+    "Preise"
+   ],
+   "nom.sg": [
+    "Preis"
    ]
   }
  },
@@ -5909,6 +6723,9 @@
    ],
    "dat.sg": [
     "Problem"
+   ],
+   "gen.pl": [
+    "Probleme"
    ],
    "gen.sg": [
     "Problems"
@@ -5942,6 +6759,9 @@
    "dat.sg": [
     "Prüfung"
    ],
+   "gen.pl": [
+    "Prüfungen"
+   ],
    "gen.sg": [
     "Prüfung"
    ],
@@ -5974,6 +6794,9 @@
     "Pullovern"
    ],
    "dat.sg": [
+    "Pullover"
+   ],
+   "gen.pl": [
     "Pullover"
    ],
    "gen.sg": [
@@ -6013,6 +6836,9 @@
     "Ratschlag",
     "Ratschlage"
    ],
+   "gen.pl": [
+    "Ratschläge"
+   ],
    "gen.sg": [
     "Ratschlages",
     "Ratschlags"
@@ -6045,6 +6871,9 @@
    ],
    "dat.sg": [
     "Rechnung"
+   ],
+   "gen.pl": [
+    "Rechnungen"
    ],
    "gen.sg": [
     "Rechnung"
@@ -6083,6 +6912,9 @@
     "Regal",
     "Regale"
    ],
+   "gen.pl": [
+    "Regale"
+   ],
    "gen.sg": [
     "Regals",
     "Regales"
@@ -6092,6 +6924,42 @@
    ],
    "nom.sg": [
     "Regal"
+   ]
+  }
+ },
+ "Regen": {
+  "all": [
+   "Reegen",
+   "Regen",
+   "Regens"
+  ],
+  "english": "rain",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Regen"
+   ],
+   "acc.sg": [
+    "Regen"
+   ],
+   "dat.pl": [
+    "Regen"
+   ],
+   "dat.sg": [
+    "Regen"
+   ],
+   "gen.pl": [
+    "Regen"
+   ],
+   "gen.sg": [
+    "Regens"
+   ],
+   "nom.pl": [
+    "Regen"
+   ],
+   "nom.sg": [
+    "Regen"
    ]
   }
  },
@@ -6118,6 +6986,9 @@
    ],
    "dat.sg": [
     "Regenschirm",
+    "Regenschirme"
+   ],
+   "gen.pl": [
     "Regenschirme"
    ],
    "gen.sg": [
@@ -6156,6 +7027,9 @@
     "Reis",
     "Reise"
    ],
+   "gen.pl": [
+    "Reise"
+   ],
    "gen.sg": [
     "Reises"
    ],
@@ -6188,6 +7062,9 @@
    "dat.sg": [
     "Reise"
    ],
+   "gen.pl": [
+    "Reisen"
+   ],
    "gen.sg": [
     "Reise"
    ],
@@ -6219,6 +7096,9 @@
    ],
    "dat.sg": [
     "Restaurant"
+   ],
+   "gen.pl": [
+    "Restaurants"
    ],
    "gen.sg": [
     "Restaurants"
@@ -6259,6 +7139,9 @@
     "Rock",
     "Rocke"
    ],
+   "gen.pl": [
+    "Röcke"
+   ],
    "gen.sg": [
     "Rockes",
     "Rocks"
@@ -6294,6 +7177,9 @@
    ],
    "dat.sg": [
     "Roman",
+    "Romane"
+   ],
+   "gen.pl": [
     "Romane"
    ],
    "gen.sg": [
@@ -6333,6 +7219,9 @@
    "dat.sg": [
     "Rucksack",
     "Rucksacke"
+   ],
+   "gen.pl": [
+    "Rucksäcke"
    ],
    "gen.sg": [
     "Rucksackes",
@@ -6375,6 +7264,9 @@
     "Saft",
     "Safte"
    ],
+   "gen.pl": [
+    "Säfte"
+   ],
    "gen.sg": [
     "Saftes",
     "Safts"
@@ -6413,6 +7305,9 @@
     "Salat",
     "Salate"
    ],
+   "gen.pl": [
+    "Salate"
+   ],
    "gen.sg": [
     "Salats",
     "Salates"
@@ -6448,6 +7343,9 @@
    ],
    "dat.sg": [
     "Samstag",
+    "Samstage"
+   ],
+   "gen.pl": [
     "Samstage"
    ],
    "gen.sg": [
@@ -6491,6 +7389,9 @@
     "Schloss",
     "Schlosse"
    ],
+   "gen.pl": [
+    "Schlösser"
+   ],
    "gen.sg": [
     "Schlosses"
    ],
@@ -6524,6 +7425,9 @@
     "Schlüsseln"
    ],
    "dat.sg": [
+    "Schlüssel"
+   ],
+   "gen.pl": [
     "Schlüssel"
    ],
    "gen.sg": [
@@ -6585,6 +7489,9 @@
    "dat.sg": [
     "Schokolade"
    ],
+   "gen.pl": [
+    "Schokoladen"
+   ],
    "gen.sg": [
     "Schokolade"
    ],
@@ -6622,6 +7529,9 @@
    "dat.sg": [
     "Schrank",
     "Schranke"
+   ],
+   "gen.pl": [
+    "Schränke"
    ],
    "gen.sg": [
     "Schrankes",
@@ -6665,6 +7575,10 @@
     "Schuh",
     "Schuhe"
    ],
+   "gen.pl": [
+    "Schuhe",
+    "Schuh"
+   ],
    "gen.sg": [
     "Schuhes",
     "Schuhs"
@@ -6698,6 +7612,9 @@
    ],
    "dat.sg": [
     "Schule"
+   ],
+   "gen.pl": [
+    "Schulen"
    ],
    "gen.sg": [
     "Schule"
@@ -6733,6 +7650,9 @@
    "dat.sg": [
     "Schwester"
    ],
+   "gen.pl": [
+    "Schwestern"
+   ],
    "gen.sg": [
     "Schwester"
    ],
@@ -6765,6 +7685,9 @@
     "Schülern"
    ],
    "dat.sg": [
+    "Schüler"
+   ],
+   "gen.pl": [
     "Schüler"
    ],
    "gen.sg": [
@@ -6800,6 +7723,9 @@
    "dat.sg": [
     "September"
    ],
+   "gen.pl": [
+    "September"
+   ],
    "gen.sg": [
     "Septembers",
     "September"
@@ -6833,6 +7759,9 @@
    ],
    "dat.sg": [
     "Sofa"
+   ],
+   "gen.pl": [
+    "Sofas"
    ],
    "gen.sg": [
     "Sofas"
@@ -6873,6 +7802,9 @@
     "Sohn",
     "Sohne"
    ],
+   "gen.pl": [
+    "Söhne"
+   ],
    "gen.sg": [
     "Sohnes",
     "Sohns"
@@ -6907,6 +7839,9 @@
    "dat.sg": [
     "Sommer"
    ],
+   "gen.pl": [
+    "Sommer"
+   ],
    "gen.sg": [
     "Sommers"
    ],
@@ -6938,6 +7873,9 @@
    ],
    "dat.sg": [
     "Sonne"
+   ],
+   "gen.pl": [
+    "Sonnen"
    ],
    "gen.sg": [
     "Sonne"
@@ -6973,6 +7911,9 @@
    ],
    "dat.sg": [
     "Sonntag",
+    "Sonntage"
+   ],
+   "gen.pl": [
     "Sonntage"
    ],
    "gen.sg": [
@@ -7015,6 +7956,9 @@
     "Spaß",
     "Spaße"
    ],
+   "gen.pl": [
+    "Späße"
+   ],
    "gen.sg": [
     "Spaßes"
    ],
@@ -7048,6 +7992,9 @@
     "Spiegeln"
    ],
    "dat.sg": [
+    "Spiegel"
+   ],
+   "gen.pl": [
     "Spiegel"
    ],
    "gen.sg": [
@@ -7086,6 +8033,9 @@
     "Sport",
     "Sporte"
    ],
+   "gen.pl": [
+    "Sporte"
+   ],
    "gen.sg": [
     "Sports",
     "Sportes"
@@ -7118,6 +8068,9 @@
    ],
    "dat.sg": [
     "Sprache"
+   ],
+   "gen.pl": [
+    "Sprachen"
    ],
    "gen.sg": [
     "Sprache"
@@ -7154,6 +8107,9 @@
    "dat.sg": [
     "Stadt"
    ],
+   "gen.pl": [
+    "Städte"
+   ],
    "gen.sg": [
     "Stadt"
    ],
@@ -7162,6 +8118,47 @@
    ],
    "nom.sg": [
     "Stadt"
+   ]
+  }
+ },
+ "Stau": {
+  "all": [
+   "Stau",
+   "Staue",
+   "Stauen",
+   "Staus"
+  ],
+  "english": "traffic jam",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Staus",
+    "Staue"
+   ],
+   "acc.sg": [
+    "Stau"
+   ],
+   "dat.pl": [
+    "Staus",
+    "Stauen"
+   ],
+   "dat.sg": [
+    "Stau"
+   ],
+   "gen.pl": [
+    "Staus",
+    "Staue"
+   ],
+   "gen.sg": [
+    "Staus"
+   ],
+   "nom.pl": [
+    "Staus",
+    "Staue"
+   ],
+   "nom.sg": [
+    "Stau"
    ]
   }
  },
@@ -7185,6 +8182,9 @@
    ],
    "dat.sg": [
     "Stelle"
+   ],
+   "gen.pl": [
+    "Stellen"
    ],
    "gen.sg": [
     "Stelle"
@@ -7223,6 +8223,9 @@
     "Strand",
     "Strande"
    ],
+   "gen.pl": [
+    "Strände"
+   ],
    "gen.sg": [
     "Strandes",
     "Strands"
@@ -7258,6 +8261,9 @@
    "dat.sg": [
     "Straße"
    ],
+   "gen.pl": [
+    "Straßen"
+   ],
    "gen.sg": [
     "Straße"
    ],
@@ -7290,6 +8296,9 @@
    "dat.sg": [
     "Straßenbahn"
    ],
+   "gen.pl": [
+    "Straßenbahnen"
+   ],
    "gen.sg": [
     "Straßenbahn"
    ],
@@ -7298,6 +8307,51 @@
    ],
    "nom.sg": [
     "Straßenbahn"
+   ]
+  }
+ },
+ "Streik": {
+  "all": [
+   "Streik",
+   "Streike",
+   "Streiken",
+   "Streikes",
+   "Streiks",
+   "Strike"
+  ],
+  "english": "strike",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Streiks",
+    "Streike"
+   ],
+   "acc.sg": [
+    "Streik"
+   ],
+   "dat.pl": [
+    "Streiks",
+    "Streiken"
+   ],
+   "dat.sg": [
+    "Streik",
+    "Streike"
+   ],
+   "gen.pl": [
+    "Streiks",
+    "Streike"
+   ],
+   "gen.sg": [
+    "Streiks",
+    "Streikes"
+   ],
+   "nom.pl": [
+    "Streiks",
+    "Streike"
+   ],
+   "nom.sg": [
+    "Streik"
    ]
   }
  },
@@ -7321,6 +8375,9 @@
     "Studenten"
    ],
    "dat.sg": [
+    "Studenten"
+   ],
+   "gen.pl": [
     "Studenten"
    ],
    "gen.sg": [
@@ -7355,6 +8412,9 @@
    ],
    "dat.sg": [
     "Studentin"
+   ],
+   "gen.pl": [
+    "Studentinnen"
    ],
    "gen.sg": [
     "Studentin"
@@ -7394,6 +8454,9 @@
     "Stuhl",
     "Stuhle"
    ],
+   "gen.pl": [
+    "Stühle"
+   ],
    "gen.sg": [
     "Stuhles",
     "Stuhls"
@@ -7432,6 +8495,9 @@
     "Supermarkt",
     "Supermarkte"
    ],
+   "gen.pl": [
+    "Supermärkte"
+   ],
    "gen.sg": [
     "Supermarktes",
     "Supermarkts"
@@ -7467,6 +8533,9 @@
    "dat.sg": [
     "Suppe"
    ],
+   "gen.pl": [
+    "Suppen"
+   ],
    "gen.sg": [
     "Suppe"
    ],
@@ -7498,6 +8567,9 @@
    ],
    "dat.sg": [
     "Tablette"
+   ],
+   "gen.pl": [
+    "Tabletten"
    ],
    "gen.sg": [
     "Tablette"
@@ -7537,6 +8609,9 @@
     "Tag",
     "Tage"
    ],
+   "gen.pl": [
+    "Tage"
+   ],
    "gen.sg": [
     "Tages",
     "Tags"
@@ -7570,6 +8645,9 @@
    ],
    "dat.sg": [
     "Tante"
+   ],
+   "gen.pl": [
+    "Tanten"
    ],
    "gen.sg": [
     "Tante"
@@ -7608,6 +8686,9 @@
    "dat.sg": [
     "Tasche"
    ],
+   "gen.pl": [
+    "Taschen"
+   ],
    "gen.sg": [
     "Tasche"
    ],
@@ -7644,6 +8725,10 @@
    "dat.sg": [
     "Taxi"
    ],
+   "gen.pl": [
+    "Taxis",
+    "Taxen"
+   ],
    "gen.sg": [
     "Taxis"
    ],
@@ -7676,6 +8761,9 @@
    ],
    "dat.sg": [
     "Team"
+   ],
+   "gen.pl": [
+    "Teams"
    ],
    "gen.sg": [
     "Teams"
@@ -7710,6 +8798,10 @@
     "Tee"
    ],
    "dat.sg": [
+    "Tee"
+   ],
+   "gen.pl": [
+    "Tees",
     "Tee"
    ],
    "gen.sg": [
@@ -7749,6 +8841,9 @@
     "Teppich",
     "Teppiche"
    ],
+   "gen.pl": [
+    "Teppiche"
+   ],
    "gen.sg": [
     "Teppiches",
     "Teppichs"
@@ -7784,6 +8879,9 @@
    ],
    "dat.sg": [
     "Termin",
+    "Termine"
+   ],
+   "gen.pl": [
     "Termine"
    ],
    "gen.sg": [
@@ -7826,6 +8924,9 @@
     "Tier",
     "Tiere"
    ],
+   "gen.pl": [
+    "Tiere"
+   ],
    "gen.sg": [
     "Tieres",
     "Tiers"
@@ -7866,6 +8967,9 @@
     "Tisch",
     "Tische"
    ],
+   "gen.pl": [
+    "Tische"
+   ],
    "gen.sg": [
     "Tisches",
     "Tischs"
@@ -7875,6 +8979,42 @@
    ],
    "nom.sg": [
     "Tisch"
+   ]
+  }
+ },
+ "Titel": {
+  "all": [
+   "Titel",
+   "Titeln",
+   "Titels"
+  ],
+  "english": "title",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Titel"
+   ],
+   "acc.sg": [
+    "Titel"
+   ],
+   "dat.pl": [
+    "Titeln"
+   ],
+   "dat.sg": [
+    "Titel"
+   ],
+   "gen.pl": [
+    "Titel"
+   ],
+   "gen.sg": [
+    "Titels"
+   ],
+   "nom.pl": [
+    "Titel"
+   ],
+   "nom.sg": [
+    "Titel"
    ]
   }
  },
@@ -7902,6 +9042,9 @@
    ],
    "dat.sg": [
     "Tochter"
+   ],
+   "gen.pl": [
+    "Töchter"
    ],
    "gen.sg": [
     "Tochter"
@@ -7935,6 +9078,9 @@
    "dat.sg": [
     "Toilette"
    ],
+   "gen.pl": [
+    "Toiletten"
+   ],
    "gen.sg": [
     "Toilette"
    ],
@@ -7966,6 +9112,9 @@
    ],
    "dat.sg": [
     "Tomate"
+   ],
+   "gen.pl": [
+    "Tomaten"
    ],
    "gen.sg": [
     "Tomate"
@@ -8005,6 +9154,9 @@
    "dat.sg": [
     "Tür"
    ],
+   "gen.pl": [
+    "Türen"
+   ],
    "gen.sg": [
     "Tür"
    ],
@@ -8038,6 +9190,9 @@
    "dat.sg": [
     "Uhr"
    ],
+   "gen.pl": [
+    "Uhren"
+   ],
    "gen.sg": [
     "Uhr"
    ],
@@ -8069,6 +9224,9 @@
    ],
    "dat.sg": [
     "Universität"
+   ],
+   "gen.pl": [
+    "Universitäten"
    ],
    "gen.sg": [
     "Universität"
@@ -8104,6 +9262,9 @@
    ],
    "dat.sg": [
     "Urlaub",
+    "Urlaube"
+   ],
+   "gen.pl": [
     "Urlaube"
    ],
    "gen.sg": [
@@ -8143,6 +9304,9 @@
    "dat.sg": [
     "Vater"
    ],
+   "gen.pl": [
+    "Väter"
+   ],
    "gen.sg": [
     "Vaters"
    ],
@@ -8175,6 +9339,9 @@
     "Verkäufern"
    ],
    "dat.sg": [
+    "Verkäufer"
+   ],
+   "gen.pl": [
     "Verkäufer"
    ],
    "gen.sg": [
@@ -8210,6 +9377,9 @@
    "dat.sg": [
     "Verkäuferin"
    ],
+   "gen.pl": [
+    "Verkäuferinnen"
+   ],
    "gen.sg": [
     "Verkäuferin"
    ],
@@ -8218,6 +9388,41 @@
    ],
    "nom.sg": [
     "Verkäuferin"
+   ]
+  }
+ },
+ "Verspätung": {
+  "all": [
+   "Verspätung",
+   "Verspätungen"
+  ],
+  "english": "delay",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.pl": [
+    "Verspätungen"
+   ],
+   "acc.sg": [
+    "Verspätung"
+   ],
+   "dat.pl": [
+    "Verspätungen"
+   ],
+   "dat.sg": [
+    "Verspätung"
+   ],
+   "gen.pl": [
+    "Verspätungen"
+   ],
+   "gen.sg": [
+    "Verspätung"
+   ],
+   "nom.pl": [
+    "Verspätungen"
+   ],
+   "nom.sg": [
+    "Verspätung"
    ]
   }
  },
@@ -8241,6 +9446,9 @@
     "Vierteln"
    ],
    "dat.sg": [
+    "Viertel"
+   ],
+   "gen.pl": [
     "Viertel"
    ],
    "gen.sg": [
@@ -8282,6 +9490,9 @@
     "Wald",
     "Walde"
    ],
+   "gen.pl": [
+    "Wälder"
+   ],
    "gen.sg": [
     "Waldes",
     "Walds"
@@ -8315,6 +9526,9 @@
    ],
    "dat.sg": [
     "Wand"
+   ],
+   "gen.pl": [
+    "Wände"
    ],
    "gen.sg": [
     "Wand"
@@ -8355,6 +9569,10 @@
    "dat.sg": [
     "Wasser"
    ],
+   "gen.pl": [
+    "Wasser",
+    "Wässer"
+   ],
    "gen.sg": [
     "Wassers"
    ],
@@ -8394,6 +9612,9 @@
     "Weg",
     "Wege"
    ],
+   "gen.pl": [
+    "Wege"
+   ],
    "gen.sg": [
     "Weges",
     "Wegs"
@@ -8426,6 +9647,9 @@
     "Weihnachten"
    ],
    "dat.sg": [
+    "Weihnachten"
+   ],
+   "gen.pl": [
     "Weihnachten"
    ],
    "gen.sg": [
@@ -8465,6 +9689,9 @@
     "Wein",
     "Weine"
    ],
+   "gen.pl": [
+    "Weine"
+   ],
    "gen.sg": [
     "Weines",
     "Weins"
@@ -8497,6 +9724,9 @@
    ],
    "dat.sg": [
     "Welt"
+   ],
+   "gen.pl": [
+    "Welten"
    ],
    "gen.sg": [
     "Welt"
@@ -8532,6 +9762,9 @@
    "dat.sg": [
     "Wetter"
    ],
+   "gen.pl": [
+    "Wetter"
+   ],
    "gen.sg": [
     "Wetters"
    ],
@@ -8563,6 +9796,9 @@
     "Wintern"
    ],
    "dat.sg": [
+    "Winter"
+   ],
+   "gen.pl": [
     "Winter"
    ],
    "gen.sg": [
@@ -8599,6 +9835,9 @@
    "dat.sg": [
     "Woche"
    ],
+   "gen.pl": [
+    "Wochen"
+   ],
    "gen.sg": [
     "Woche"
    ],
@@ -8634,6 +9873,9 @@
    "dat.sg": [
     "Wochenende"
    ],
+   "gen.pl": [
+    "Wochenenden"
+   ],
    "gen.sg": [
     "Wochenendes"
    ],
@@ -8665,6 +9907,9 @@
    ],
    "dat.sg": [
     "Wohnung"
+   ],
+   "gen.pl": [
+    "Wohnungen"
    ],
    "gen.sg": [
     "Wohnung"
@@ -8702,6 +9947,9 @@
    ],
    "dat.sg": [
     "Wurst"
+   ],
+   "gen.pl": [
+    "Würste"
    ],
    "gen.sg": [
     "Wurst"
@@ -8743,6 +9991,9 @@
     "Zahn",
     "Zahne"
    ],
+   "gen.pl": [
+    "Zähne"
+   ],
    "gen.sg": [
     "Zahnes",
     "Zahns"
@@ -8777,6 +10028,9 @@
    "dat.sg": [
     "Zeit"
    ],
+   "gen.pl": [
+    "Zeiten"
+   ],
    "gen.sg": [
     "Zeit"
    ],
@@ -8808,6 +10062,9 @@
    ],
    "dat.sg": [
     "Zeitung"
+   ],
+   "gen.pl": [
+    "Zeitungen"
    ],
    "gen.sg": [
     "Zeitung"
@@ -8843,6 +10100,9 @@
    "dat.sg": [
     "Zimmer"
    ],
+   "gen.pl": [
+    "Zimmer"
+   ],
    "gen.sg": [
     "Zimmers"
    ],
@@ -8875,6 +10135,9 @@
     "Zuckern"
    ],
    "dat.sg": [
+    "Zucker"
+   ],
+   "gen.pl": [
     "Zucker"
    ],
    "gen.sg": [
@@ -8913,6 +10176,9 @@
    "dat.sg": [
     "Zug",
     "Zuge"
+   ],
+   "gen.pl": [
+    "Züge"
    ],
    "gen.sg": [
     "Zuges",

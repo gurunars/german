@@ -84,6 +84,7 @@ SLOTS = {
         "gen.sg": ({"genitive", "singular"}, "genitive singular"),
         "nom.pl": ({"nominative", "plural"}, "nominative plural"),
         "acc.pl": ({"accusative", "plural"}, "accusative plural"),
+        "gen.pl": ({"genitive", "plural"}, "genitive plural"),
         "dat.pl": ({"dative", "plural"}, "dative plural"),
     },
     "adj": {

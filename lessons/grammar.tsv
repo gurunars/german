@@ -70,3 +70,5 @@ relative.nom	35	Relative clauses: der, die, das as the subject
 relative.acc	35	Relative clauses: den, die, das as the object
 inf.zu	36	The infinitive with zu
 um.zu	36	um … zu: in order to
+genitive	37	The genitive: des Vaters, der Mutter
+wegen	37	wegen + genitive: because of

@@ -1,0 +1,30 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+genitive	Vater	gen.sg	That is **my father's** car.	Das ist das Auto **meines Vaters**.	The genitive says whose. It follows the noun it belongs to; der-words take des or -es and add -s to the noun.
+genitive	Straße	gen.sg	The name **of the street** is long.	Der Name **der Straße** ist lang.	die-words take der in the genitive, and the noun stays the same.
+genitive	Film	gen.sg	The end **of the film** was sad.	Das Ende **des Films** war traurig.	der Film → des Films: the article and the noun both mark it.
+genitive	Jahr	gen.sg	At the beginning **of the year** I worked a lot.	Am Anfang **des Jahres** habe ich viel gearbeitet.	Short words often take -es: des Jahres.
+genitive	Monat	gen.sg	At the end **of the month** I have no money.	Am Ende **des Monats** habe ich kein Geld.	der Monat → des Monats.
+genitive	Woche	gen.sg	**In the middle of the week** the cinema is cheap.	Mitte **der Woche** ist das Kino billig.	die Woche → der Woche. Mitte der Woche: midweek.
+genitive	Fahrkarte	gen.sg	The price **of the ticket** is high.	Der Preis **der Fahrkarte** ist hoch.	die Fahrkarte → der Fahrkarte.
+genitive	Hotel	gen.sg	What is the address **of the hotel**?	Wie ist die Adresse **des Hotels**?	das Hotel → des Hotels: das-words take des too.
+genitive	Arzt	gen.sg	Do you have the number **of the doctor**? (one friend)	Hast du die Nummer **des Arztes**?	After -t, the -es is easier to say: des Arztes.
+genitive	Schwester	gen.sg	**My sister's** flat is big.	Die Wohnung **meiner Schwester** ist groß.	Possessives take ein's endings: meiner for a die-word. German puts the owner after the thing.
+genitive	Auto	gen.sg	I like the colour **of the car**.	Die Farbe **des Autos** gefällt mir.	das Auto → des Autos.
+genitive	Buch	gen.sg	What is the title **of the book**?	Wie ist der Titel **des Buches**?	das Buch → des Buches.
+genitive	Kollege	gen.sg	That is **the colleague's** car.	Das ist das Auto **des Kollegen**.	der Kollege takes -n, not -s: des Kollegen.
+genitive	Bruder	gen.sg	That is **his brother's** friend.	Das ist der Freund **seines Bruders**.	sein → seines, Bruder → Bruders.
+genitive	Freund	gen.sg	The mother **of a friend** is a teacher.	Die Mutter **eines Freundes** ist Lehrerin.	ein → eines, Freund → Freundes.
+genitive	Kind	gen.pl	**The children's** room is small.	Das Zimmer **der Kinder** ist klein.	The plural genitive is der, and the noun keeps its plural form.
+genitive	Eltern	gen.pl	**My parents'** house is old.	Das Haus **meiner Eltern** ist alt.	Plural: meiner Eltern.
+genitive	alt	weak.gen.n	The door **of the old** house is broken.	Die Tür **des alten** Hauses ist kaputt.	After des, the adjective takes -en: des alten Hauses.
+genitive	-	-	Berlin is the capital **of Germany**.	Berlin ist die Hauptstadt **Deutschlands**.	A name without an article just adds -s in the genitive: Deutschlands.
+genitive	-	-	**Whose** bag is that?	**Wessen** Tasche ist das?	wessen: whose. In speech, Wem gehört die Tasche? is more common.
+wegen	Regen	gen.sg	Because of **the rain** we're staying at home.	Wegen **des Regens** bleiben wir zu Hause.	wegen takes the genitive: des Regens.
+wegen	Stau	gen.sg	Because of **the traffic jam** I'm late.	Wegen **des Staus** komme ich zu spät.	der Stau → des Staus. zu spät: too late.
+wegen	Streik	gen.sg	Because of **the strike** there are no trains running.	Wegen **des Streiks** fahren keine Züge.	der Streik → des Streiks.
+wegen	Lärm	gen.sg	Because of **the noise** I can't sleep.	Wegen **des Lärms** kann ich nicht schlafen.	der Lärm → des Lärms.
+wegen	Verspätung	gen.sg	Because of **the delay** we arrived late.	Wegen **der Verspätung** sind wir spät angekommen.	die Verspätung → der Verspätung.
+wegen	Krankheit	gen.sg	Because of **my illness** I couldn't come.	Wegen **meiner Krankheit** konnte ich nicht kommen.	die Krankheit → meiner Krankheit.
+wegen	Wetter	gen.sg	Because of **the weather** we didn't go hiking.	Wegen **des Wetters** sind wir nicht gewandert.	das Wetter → des Wetters.
+wegen	Prüfung	gen.sg	Because of **the exam** I'm studying a lot.	Wegen **der Prüfung** lerne ich viel.	wegen der Prüfung takes the first place; the verb follows.
+wegen	Preis	gen.sg	Because of **the price** I'm not buying the jacket.	Wegen **des Preises** kaufe ich die Jacke nicht.	der Preis → des Preises: -es after s.
