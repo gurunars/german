@@ -1,0 +1,230 @@
+{
+  "name": "Lesson 4 · Saying no: nicht and kein",
+  "description": "English → German",
+  "frontLanguage": "en",
+  "backLanguage": "de",
+  "cards": [
+    {
+      "front": "I **don't** smoke.",
+      "back": "Ich rauche **nicht**.",
+      "note": "nicht: not. German has no do-helper: the verb itself, then nicht after it.",
+      "priority": 1
+    },
+    {
+      "front": "He **isn't** working today.",
+      "back": "Er arbeitet heute **nicht**.",
+      "note": "nicht: not. nicht comes after a time word like heute, near the end.",
+      "priority": 1
+    },
+    {
+      "front": "She **isn't** coming tomorrow.",
+      "back": "Sie kommt morgen **nicht**.",
+      "note": "nicht: not. Time word first, then nicht: morgen nicht.",
+      "priority": 1
+    },
+    {
+      "front": "The dog **isn't** swimming.",
+      "back": "Der Hund schwimmt **nicht**.",
+      "note": "nicht: not. With only a verb to negate, nicht goes to the end.",
+      "priority": 1
+    },
+    {
+      "front": "The coffee is **not** warm.",
+      "back": "Der Kaffee ist **nicht** warm.",
+      "note": "nicht: not. nicht stands right before the adjective it negates.",
+      "priority": 1
+    },
+    {
+      "front": "The car is **not** expensive.",
+      "back": "Das Auto ist **nicht** teuer.",
+      "note": "nicht: not. ist, then nicht, then the adjective: nicht teuer.",
+      "priority": 1
+    },
+    {
+      "front": "I am **not** ill.",
+      "back": "Ich bin **nicht** krank.",
+      "note": "nicht: not. After sein, nicht goes before the adjective.",
+      "priority": 1
+    },
+    {
+      "front": "The child is **not** tired.",
+      "back": "Das Kind ist **nicht** müde.",
+      "note": "nicht: not. nicht müde: not before the describing word.",
+      "priority": 1
+    },
+    {
+      "front": "That is **not** good.",
+      "back": "Das ist **nicht** gut.",
+      "note": "nicht: not. An adjective is negated with nicht, never with kein.",
+      "priority": 1
+    },
+    {
+      "front": "It is **not** cold today.",
+      "back": "Heute ist es **nicht** kalt.",
+      "note": "nicht: not. heute first, the verb second, then es, then nicht before the adjective.",
+      "priority": 1
+    },
+    {
+      "front": "The flat is nice, but **not** cheap.",
+      "back": "Die Wohnung ist schön, aber **nicht** billig.",
+      "note": "nicht: not. aber nicht billig: nicht before the adjective, as always.",
+      "priority": 1
+    },
+    {
+      "front": "The garden is **not** big.",
+      "back": "Der Garten ist **nicht** groß.",
+      "note": "nicht: not. nicht groß: not big.",
+      "priority": 1
+    },
+    {
+      "front": "We **don't** like swimming.",
+      "back": "Wir schwimmen **nicht** gern.",
+      "note": "nicht: not. nicht goes before gern: we swim not gladly.",
+      "priority": 1
+    },
+    {
+      "front": "He **doesn't** often drink coffee.",
+      "back": "Er trinkt **nicht** oft Kaffee.",
+      "note": "nicht: not. nicht before oft negates the often: not often.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **not** buying the car.",
+      "back": "Ich kaufe das Auto **nicht**.",
+      "note": "nicht: not. With a the-object (das Auto), nicht goes after it. A the-noun is negated with nicht, not kein.",
+      "priority": 1
+    },
+    {
+      "front": "I **don't** have the book.",
+      "back": "Ich habe das Buch **nicht**.",
+      "note": "nicht: not. das Buch is a particular book, so nicht, after the object.",
+      "priority": 1
+    },
+    {
+      "front": "You **don't** cook. (one friend)",
+      "back": "Du kochst **nicht**.",
+      "note": "nicht: not. The verb alone is negated: nicht at the end.",
+      "priority": 1
+    },
+    {
+      "front": "I have **no money**.",
+      "back": "Ich habe **kein Geld**.",
+      "note": "kein: no, not a, not any. A noun without an article is negated with kein: Geld → kein Geld.",
+      "priority": 1
+    },
+    {
+      "front": "We have **no milk**.",
+      "back": "Wir haben **keine Milch**.",
+      "note": "kein: no, not a, not any. kein takes the endings of ein: die Milch → keine Milch.",
+      "priority": 1
+    },
+    {
+      "front": "I have **no time** today.",
+      "back": "Heute habe ich **keine Zeit**.",
+      "note": "kein: no, not a, not any. die Zeit → keine Zeit.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **not hungry**.",
+      "back": "Ich habe **keinen Hunger**.",
+      "note": "kein: no, not a, not any. der Hunger is the object of haben, so kein takes -en like einen.",
+      "priority": 1
+    },
+    {
+      "front": "He doesn't drink **coffee**.",
+      "back": "Er trinkt **keinen Kaffee**.",
+      "note": "kein: no, not a, not any. English negates the verb; German negates the noun: keinen Kaffee, as the object of a der-word.",
+      "priority": 1
+    },
+    {
+      "front": "I don't drink **tea**.",
+      "back": "Ich trinke **keinen Tee**.",
+      "note": "kein: no, not a, not any. der Tee → keinen Tee in the accusative.",
+      "priority": 1
+    },
+    {
+      "front": "The dog doesn't drink **water**.",
+      "back": "Der Hund trinkt **kein Wasser**.",
+      "note": "kein: no, not a, not any. das Wasser → kein Wasser: das-words add nothing.",
+      "priority": 1
+    },
+    {
+      "front": "The child doesn't drink **milk**.",
+      "back": "Das Kind trinkt **keine Milch**.",
+      "note": "kein: no, not a, not any. die Milch → keine Milch.",
+      "priority": 1
+    },
+    {
+      "front": "We aren't buying **bread** today.",
+      "back": "Wir kaufen heute **kein Brot**.",
+      "note": "kein: no, not a, not any. das Brot → kein Brot.",
+      "priority": 1
+    },
+    {
+      "front": "That is **not a dog**.",
+      "back": "Das ist **kein Hund**.",
+      "note": "kein: no, not a, not any. not a + noun is kein: never nicht ein.",
+      "priority": 1
+    },
+    {
+      "front": "That is **not a cat**.",
+      "back": "Das ist **keine Katze**.",
+      "note": "kein: no, not a, not any. die Katze → keine Katze.",
+      "priority": 1
+    },
+    {
+      "front": "That's **no problem**.",
+      "back": "Das ist **kein Problem**.",
+      "note": "kein: no, not a, not any. das Problem → kein Problem: after ist, the nominative.",
+      "priority": 1
+    },
+    {
+      "front": "She **doesn't have a car**.",
+      "back": "Sie hat **kein Auto**.",
+      "note": "kein: no, not a, not any. ein Auto → kein Auto.",
+      "priority": 1
+    },
+    {
+      "front": "We **don't have a garden**.",
+      "back": "Wir haben **keinen Garten**.",
+      "note": "kein: no, not a, not any. einen Garten → keinen Garten.",
+      "priority": 1
+    },
+    {
+      "front": "They **don't have a computer**.",
+      "back": "Sie haben **keinen Computer**.",
+      "note": "kein: no, not a, not any. der Computer → keinen Computer as the object.",
+      "priority": 1
+    },
+    {
+      "front": "He **doesn't have a brother**.",
+      "back": "Er hat **keinen Bruder**.",
+      "note": "kein: no, not a, not any. einen Bruder → keinen Bruder.",
+      "priority": 1
+    },
+    {
+      "front": "I'm **not buying a cake**.",
+      "back": "Ich kaufe **keinen Kuchen**.",
+      "note": "kein: no, not a, not any. der Kuchen → keinen Kuchen.",
+      "priority": 1
+    },
+    {
+      "front": "I **don't have a car**, but I have a bicycle.",
+      "back": "Ich habe **kein Auto**, aber ich habe ein Fahrrad.",
+      "note": "kein: no, not a, not any. kein is ein with a k: kein Auto, ein Fahrrad.",
+      "priority": 1
+    },
+    {
+      "front": "The flat isn't expensive, but it has **no garden**.",
+      "back": "Die Wohnung ist nicht teuer, aber sie hat **keinen Garten**.",
+      "note": "kein: no, not a, not any. nicht for the adjective, kein for the noun.",
+      "priority": 1
+    },
+    {
+      "front": "That is **not a computer**, that is a book.",
+      "back": "Das ist **kein Computer**, das ist ein Buch.",
+      "note": "kein: no, not a, not any. kein Computer, then the positive ein Buch.",
+      "priority": 1
+    }
+  ]
+}

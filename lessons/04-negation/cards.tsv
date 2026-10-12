@@ -1,0 +1,38 @@
+# tag	lemma	slot	English	German	note — the bold part is what the card tests.
+negation.nicht	-	-	I **don't** smoke.	Ich rauche **nicht**.	German has no do-helper: the verb itself, then nicht after it.
+negation.nicht	-	-	He **isn't** working today.	Er arbeitet heute **nicht**.	nicht comes after a time word like heute, near the end.
+negation.nicht	-	-	She **isn't** coming tomorrow.	Sie kommt morgen **nicht**.	Time word first, then nicht: morgen nicht.
+negation.nicht	-	-	The dog **isn't** swimming.	Der Hund schwimmt **nicht**.	With only a verb to negate, nicht goes to the end.
+negation.nicht	-	-	The coffee is **not** warm.	Der Kaffee ist **nicht** warm.	nicht stands right before the adjective it negates.
+negation.nicht	-	-	The car is **not** expensive.	Das Auto ist **nicht** teuer.	ist, then nicht, then the adjective: nicht teuer.
+negation.nicht	-	-	I am **not** ill.	Ich bin **nicht** krank.	After sein, nicht goes before the adjective.
+negation.nicht	-	-	The child is **not** tired.	Das Kind ist **nicht** müde.	nicht müde: not before the describing word.
+negation.nicht	-	-	That is **not** good.	Das ist **nicht** gut.	An adjective is negated with nicht, never with kein.
+negation.nicht	-	-	It is **not** cold today.	Heute ist es **nicht** kalt.	heute first, the verb second, then es, then nicht before the adjective.
+negation.nicht	-	-	The flat is nice, but **not** cheap.	Die Wohnung ist schön, aber **nicht** billig.	aber nicht billig: nicht before the adjective, as always.
+negation.nicht	-	-	The garden is **not** big.	Der Garten ist **nicht** groß.	nicht groß: not big.
+negation.nicht	-	-	We **don't** like swimming.	Wir schwimmen **nicht** gern.	nicht goes before gern: we swim not gladly.
+negation.nicht	-	-	He **doesn't** often drink coffee.	Er trinkt **nicht** oft Kaffee.	nicht before oft negates the often: not often.
+negation.nicht	-	-	I'm **not** buying the car.	Ich kaufe das Auto **nicht**.	With a the-object (das Auto), nicht goes after it. A the-noun is negated with nicht, not kein.
+negation.nicht	-	-	I **don't** have the book.	Ich habe das Buch **nicht**.	das Buch is a particular book, so nicht, after the object.
+negation.nicht	-	-	You **don't** cook. (one friend)	Du kochst **nicht**.	The verb alone is negated: nicht at the end.
+negation.kein	Geld	acc.sg	I have **no money**.	Ich habe **kein Geld**.	A noun without an article is negated with kein: Geld → kein Geld.
+negation.kein	Milch	acc.sg	We have **no milk**.	Wir haben **keine Milch**.	kein takes the endings of ein: die Milch → keine Milch.
+negation.kein	Zeit	acc.sg	I have **no time** today.	Heute habe ich **keine Zeit**.	die Zeit → keine Zeit.
+negation.kein	Hunger	acc.sg	I'm **not hungry**.	Ich habe **keinen Hunger**.	der Hunger is the object of haben, so kein takes -en like einen.
+negation.kein	Kaffee	acc.sg	He doesn't drink **coffee**.	Er trinkt **keinen Kaffee**.	English negates the verb; German negates the noun: keinen Kaffee, as the object of a der-word.
+negation.kein	Tee	acc.sg	I don't drink **tea**.	Ich trinke **keinen Tee**.	der Tee → keinen Tee in the accusative.
+negation.kein	Wasser	acc.sg	The dog doesn't drink **water**.	Der Hund trinkt **kein Wasser**.	das Wasser → kein Wasser: das-words add nothing.
+negation.kein	Milch	acc.sg	The child doesn't drink **milk**.	Das Kind trinkt **keine Milch**.	die Milch → keine Milch.
+negation.kein	Brot	acc.sg	We aren't buying **bread** today.	Wir kaufen heute **kein Brot**.	das Brot → kein Brot.
+negation.kein	Hund	nom.sg	That is **not a dog**.	Das ist **kein Hund**.	not a + noun is kein: never nicht ein.
+negation.kein	Katze	nom.sg	That is **not a cat**.	Das ist **keine Katze**.	die Katze → keine Katze.
+negation.kein	Problem	nom.sg	That's **no problem**.	Das ist **kein Problem**.	das Problem → kein Problem: after ist, the nominative.
+negation.kein	Auto	acc.sg	She **doesn't have a car**.	Sie hat **kein Auto**.	ein Auto → kein Auto.
+negation.kein	Garten	acc.sg	We **don't have a garden**.	Wir haben **keinen Garten**.	einen Garten → keinen Garten.
+negation.kein	Computer	acc.sg	They **don't have a computer**.	Sie haben **keinen Computer**.	der Computer → keinen Computer as the object.
+negation.kein	Bruder	acc.sg	He **doesn't have a brother**.	Er hat **keinen Bruder**.	einen Bruder → keinen Bruder.
+negation.kein	Kuchen	acc.sg	I'm **not buying a cake**.	Ich kaufe **keinen Kuchen**.	der Kuchen → keinen Kuchen.
+negation.kein	Auto	acc.sg	I **don't have a car**, but I have a bicycle.	Ich habe **kein Auto**, aber ich habe ein Fahrrad.	kein is ein with a k: kein Auto, ein Fahrrad.
+negation.kein	Garten	acc.sg	The flat isn't expensive, but it has **no garden**.	Die Wohnung ist nicht teuer, aber sie hat **keinen Garten**.	nicht for the adjective, kein for the noun.
+negation.kein	Computer	nom.sg	That is **not a computer**, that is a book.	Das ist **kein Computer**, das ist ein Buch.	kein Computer, then the positive ein Buch.

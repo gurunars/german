@@ -95,6 +95,42 @@
    ]
   }
  },
+ "Brot": {
+  "all": [
+   "Brod",
+   "Brot",
+   "Brote",
+   "Broten",
+   "Brotes",
+   "Brots",
+   "Brötchen"
+  ],
+  "english": "bread",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Brot"
+   ],
+   "dat.pl": [
+    "Broten"
+   ],
+   "dat.sg": [
+    "Brot",
+    "Brote"
+   ],
+   "gen.sg": [
+    "Brotes",
+    "Brots"
+   ],
+   "nom.pl": [
+    "Brote"
+   ],
+   "nom.sg": [
+    "Brot"
+   ]
+  }
+ },
  "Bruder": {
   "all": [
    "Bruder",
@@ -162,6 +198,36 @@
    ],
    "nom.sg": [
     "Buch"
+   ]
+  }
+ },
+ "Computer": {
+  "all": [
+   "Computer",
+   "Computern",
+   "Computers"
+  ],
+  "english": "computer",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Computer"
+   ],
+   "dat.pl": [
+    "Computern"
+   ],
+   "dat.sg": [
+    "Computer"
+   ],
+   "gen.sg": [
+    "Computers"
+   ],
+   "nom.pl": [
+    "Computer"
+   ],
+   "nom.sg": [
+    "Computer"
    ]
   }
  },
@@ -397,6 +463,73 @@
    ],
    "nom.sg": [
     "Fußball"
+   ]
+  }
+ },
+ "Garten": {
+  "all": [
+   "Garten",
+   "Gartens",
+   "Gärtchen",
+   "Gärten",
+   "Gärtlein"
+  ],
+  "english": "garden",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Garten"
+   ],
+   "dat.pl": [
+    "Gärten"
+   ],
+   "dat.sg": [
+    "Garten"
+   ],
+   "gen.sg": [
+    "Gartens"
+   ],
+   "nom.pl": [
+    "Gärten"
+   ],
+   "nom.sg": [
+    "Garten"
+   ]
+  }
+ },
+ "Geld": {
+  "all": [
+   "Geld",
+   "Gelde",
+   "Gelder",
+   "Geldern",
+   "Geldes",
+   "Gelds"
+  ],
+  "english": "money",
+  "gender": "n",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Geld"
+   ],
+   "dat.pl": [
+    "Geldern"
+   ],
+   "dat.sg": [
+    "Geld",
+    "Gelde"
+   ],
+   "gen.sg": [
+    "Geldes",
+    "Gelds"
+   ],
+   "nom.pl": [
+    "Gelder"
+   ],
+   "nom.sg": [
+    "Geld"
    ]
   }
  },
@@ -718,6 +851,37 @@
    ]
   }
  },
+ "Kuchen": {
+  "all": [
+   "Kuchen",
+   "Kuchens",
+   "Küchelchen",
+   "Küchlein"
+  ],
+  "english": "cake",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Kuchen"
+   ],
+   "dat.pl": [
+    "Kuchen"
+   ],
+   "dat.sg": [
+    "Kuchen"
+   ],
+   "gen.sg": [
+    "Kuchens"
+   ],
+   "nom.pl": [
+    "Kuchen"
+   ],
+   "nom.sg": [
+    "Kuchen"
+   ]
+  }
+ },
  "Lampe": {
   "all": [
    "Lampe",
@@ -793,6 +957,37 @@
    ],
    "nom.sg": [
     "Mann"
+   ]
+  }
+ },
+ "Milch": {
+  "all": [
+   "Milch",
+   "Milche",
+   "Milchen"
+  ],
+  "english": "milk",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Milch"
+   ],
+   "dat.pl": [
+    "Milchen"
+   ],
+   "dat.sg": [
+    "Milch"
+   ],
+   "gen.sg": [
+    "Milch"
+   ],
+   "nom.pl": [
+    "Milchen",
+    "Milche"
+   ],
+   "nom.sg": [
+    "Milch"
    ]
   }
  },
@@ -1131,6 +1326,38 @@
    ]
   }
  },
+ "Tee": {
+  "all": [
+   "Tee",
+   "Tees",
+   "Thee"
+  ],
+  "english": "tea",
+  "gender": "m",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Tee"
+   ],
+   "dat.pl": [
+    "Tees",
+    "Tee"
+   ],
+   "dat.sg": [
+    "Tee"
+   ],
+   "gen.sg": [
+    "Tees"
+   ],
+   "nom.pl": [
+    "Tees",
+    "Tee"
+   ],
+   "nom.sg": [
+    "Tee"
+   ]
+  }
+ },
  "Tisch": {
   "all": [
    "Tisch",
@@ -1299,6 +1526,35 @@
    ],
    "nom.sg": [
     "Welt"
+   ]
+  }
+ },
+ "Wohnung": {
+  "all": [
+   "Wohnung",
+   "Wohnungen"
+  ],
+  "english": "flat, apartment",
+  "gender": "f",
+  "pos": "noun",
+  "slots": {
+   "acc.sg": [
+    "Wohnung"
+   ],
+   "dat.pl": [
+    "Wohnungen"
+   ],
+   "dat.sg": [
+    "Wohnung"
+   ],
+   "gen.sg": [
+    "Wohnung"
+   ],
+   "nom.pl": [
+    "Wohnungen"
+   ],
+   "nom.sg": [
+    "Wohnung"
    ]
   }
  },
@@ -1495,6 +1751,92 @@
    ],
    "pret.er": [
     "arbeitete"
+   ]
+  }
+ },
+ "billig": {
+  "all": [
+   "am",
+   "billig",
+   "billige",
+   "billigem",
+   "billigen",
+   "billiger",
+   "billigere",
+   "billigerem",
+   "billigeren",
+   "billigerer",
+   "billigeres",
+   "billiges",
+   "billigste",
+   "billigstem",
+   "billigsten",
+   "billigster",
+   "billigstes",
+   "keine",
+   "keinen",
+   "keiner"
+  ],
+  "english": "cheap",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "billiger",
+    "billigerer",
+    "billigere",
+    "billigeres",
+    "billigeren",
+    "billigerem",
+    "der billigere",
+    "die billigere",
+    "das billigere",
+    "die billigeren",
+    "des billigeren",
+    "der billigeren",
+    "dem billigeren",
+    "den billigeren",
+    "ein billigerer",
+    "eine billigere",
+    "ein billigeres",
+    "eines billigeren",
+    "einer billigeren",
+    "einem billigeren",
+    "einen billigeren"
+   ],
+   "mixed.acc.m": [
+    "einen billigen"
+   ],
+   "mixed.nom.n": [
+    "ein billiges"
+   ],
+   "strong.dat.f": [
+    "billiger"
+   ],
+   "superlative": [
+    "am billigsten",
+    "billigster",
+    "billigste",
+    "billigstes",
+    "billigsten",
+    "billigstem",
+    "der billigste",
+    "die billigste",
+    "das billigste",
+    "die billigsten",
+    "des billigsten",
+    "der billigsten",
+    "dem billigsten",
+    "den billigsten",
+    "ein billigster",
+    "eine billigste",
+    "ein billigstes",
+    "eines billigsten",
+    "einer billigsten",
+    "einem billigsten",
+    "einen billigsten"
+   ],
+   "weak.nom.m": [
+    "der billige"
    ]
   }
  },
@@ -2587,6 +2929,93 @@
    ]
   }
  },
+ "kalt": {
+  "all": [
+   "am",
+   "kalt",
+   "kalte",
+   "kaltem",
+   "kalten",
+   "kalter",
+   "kaltes",
+   "keine",
+   "keinen",
+   "keiner",
+   "kälter",
+   "kältere",
+   "kälterem",
+   "kälteren",
+   "kälterer",
+   "kälteres",
+   "kälteste",
+   "kältestem",
+   "kältesten",
+   "kältester",
+   "kältestes"
+  ],
+  "english": "cold",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "kälter",
+    "kälterer",
+    "kältere",
+    "kälteres",
+    "kälteren",
+    "kälterem",
+    "der kältere",
+    "die kältere",
+    "das kältere",
+    "die kälteren",
+    "des kälteren",
+    "der kälteren",
+    "dem kälteren",
+    "den kälteren",
+    "ein kälterer",
+    "eine kältere",
+    "ein kälteres",
+    "eines kälteren",
+    "einer kälteren",
+    "einem kälteren",
+    "einen kälteren"
+   ],
+   "mixed.acc.m": [
+    "einen kalten"
+   ],
+   "mixed.nom.n": [
+    "ein kaltes"
+   ],
+   "strong.dat.f": [
+    "kalter"
+   ],
+   "superlative": [
+    "am kältesten",
+    "kältester",
+    "kälteste",
+    "kältestes",
+    "kältesten",
+    "kältestem",
+    "der kälteste",
+    "die kälteste",
+    "das kälteste",
+    "die kältesten",
+    "des kältesten",
+    "der kältesten",
+    "dem kältesten",
+    "den kältesten",
+    "ein kältester",
+    "eine kälteste",
+    "ein kältestes",
+    "eines kältesten",
+    "einer kältesten",
+    "einem kältesten",
+    "einen kältesten"
+   ],
+   "weak.nom.m": [
+    "der kalte"
+   ]
+  }
+ },
  "kaufen": {
   "all": [
    "gekauft",
@@ -2915,6 +3344,197 @@
    ],
    "pret.er": [
     "kam"
+   ]
+  }
+ },
+ "krank": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "krank",
+   "kranke",
+   "krankem",
+   "kranken",
+   "kranker",
+   "krankere",
+   "krankerem",
+   "krankeren",
+   "krankerer",
+   "krankeres",
+   "krankes",
+   "krankeste",
+   "krankestem",
+   "krankesten",
+   "krankester",
+   "krankestes",
+   "krankste",
+   "krankstem",
+   "kranksten",
+   "krankster",
+   "krankstes",
+   "kränker",
+   "kränkere",
+   "kränkerem",
+   "kränkeren",
+   "kränkerer",
+   "kränkeres",
+   "kränkeste",
+   "kränkestem",
+   "kränkesten",
+   "kränkester",
+   "kränkestes",
+   "kränkste",
+   "kränkstem",
+   "kränksten",
+   "kränkster",
+   "kränkstes"
+  ],
+  "english": "ill, sick",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "kränker",
+    "kranker",
+    "kränkerer",
+    "krankerer",
+    "kränkere",
+    "krankere",
+    "kränkeres",
+    "krankeres",
+    "kränkeren",
+    "krankeren",
+    "kränkerem",
+    "krankerem",
+    "der kränkere",
+    "der krankere",
+    "die kränkere",
+    "die krankere",
+    "das kränkere",
+    "das krankere",
+    "die kränkeren",
+    "die krankeren",
+    "des kränkeren",
+    "des krankeren",
+    "der kränkeren",
+    "der krankeren",
+    "dem kränkeren",
+    "dem krankeren",
+    "den kränkeren",
+    "den krankeren",
+    "ein kränkerer",
+    "ein krankerer",
+    "eine kränkere",
+    "eine krankere",
+    "ein kränkeres",
+    "ein krankeres",
+    "eines kränkeren",
+    "eines krankeren",
+    "einer kränkeren",
+    "einer krankeren",
+    "einem kränkeren",
+    "einem krankeren",
+    "einen kränkeren",
+    "einen krankeren"
+   ],
+   "mixed.acc.m": [
+    "einen kranken"
+   ],
+   "mixed.nom.n": [
+    "ein krankes"
+   ],
+   "strong.dat.f": [
+    "kranker"
+   ],
+   "superlative": [
+    "am kränksten",
+    "am kränkesten",
+    "am kranksten",
+    "am krankesten",
+    "kränkster",
+    "kränkester",
+    "krankster",
+    "krankester",
+    "kränkste",
+    "kränkeste",
+    "krankste",
+    "krankeste",
+    "kränkstes",
+    "kränkestes",
+    "krankstes",
+    "krankestes",
+    "kränksten",
+    "kränkesten",
+    "kranksten",
+    "krankesten",
+    "kränkstem",
+    "kränkestem",
+    "krankstem",
+    "krankestem",
+    "der kränkste",
+    "der kränkeste",
+    "der krankste",
+    "der krankeste",
+    "die kränkste",
+    "die kränkeste",
+    "die krankste",
+    "die krankeste",
+    "das kränkste",
+    "das kränkeste",
+    "das krankste",
+    "das krankeste",
+    "die kränksten",
+    "die kränkesten",
+    "die kranksten",
+    "die krankesten",
+    "des kränksten",
+    "des kränkesten",
+    "des kranksten",
+    "des krankesten",
+    "der kränksten",
+    "der kränkesten",
+    "der kranksten",
+    "der krankesten",
+    "dem kränksten",
+    "dem kränkesten",
+    "dem kranksten",
+    "dem krankesten",
+    "den kränksten",
+    "den kränkesten",
+    "den kranksten",
+    "den krankesten",
+    "ein kränkster",
+    "ein kränkester",
+    "ein krankster",
+    "ein krankester",
+    "eine kränkste",
+    "eine kränkeste",
+    "eine krankste",
+    "eine krankeste",
+    "ein kränkstes",
+    "ein kränkestes",
+    "ein krankstes",
+    "ein krankestes",
+    "eines kränksten",
+    "eines kränkesten",
+    "eines kranksten",
+    "eines krankesten",
+    "einer kränksten",
+    "einer kränkesten",
+    "einer kranksten",
+    "einer krankesten",
+    "einem kränksten",
+    "einem kränkesten",
+    "einem kranksten",
+    "einem krankesten",
+    "einen kränksten",
+    "einen kränkesten",
+    "einen kranksten",
+    "einen krankesten"
+   ],
+   "weak.nom.m": [
+    "der kranke"
    ]
   }
  },
@@ -3514,6 +4134,56 @@
    ]
   }
  },
+ "rauchen": {
+  "all": [
+   "geraucht",
+   "haben",
+   "habest",
+   "habet",
+   "rauch",
+   "rauche",
+   "rauchen",
+   "rauchend",
+   "rauchest",
+   "rauchet",
+   "rauchst",
+   "raucht",
+   "rauchte",
+   "rauchten",
+   "rauchtest",
+   "rauchtet",
+   "werdest"
+  ],
+  "english": "to smoke",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "rauch",
+    "rauche"
+   ],
+   "perf.er": [
+    "hat geraucht"
+   ],
+   "pres.du": [
+    "rauchst"
+   ],
+   "pres.er": [
+    "raucht"
+   ],
+   "pres.ich": [
+    "rauche"
+   ],
+   "pres.ihr": [
+    "raucht"
+   ],
+   "pres.wir": [
+    "rauchen"
+   ],
+   "pret.er": [
+    "rauchte"
+   ]
+  }
+ },
  "ruhig": {
   "all": [
    "am",
@@ -3908,6 +4578,163 @@
    ]
   }
  },
+ "schwimmen": {
+  "all": [
+   "geschwommen",
+   "haben",
+   "habest",
+   "habet",
+   "or",
+   "schwamm",
+   "schwammen",
+   "schwammst",
+   "schwammt",
+   "schwimm",
+   "schwimme",
+   "schwimmen",
+   "schwimmend",
+   "schwimmest",
+   "schwimmet",
+   "schwimmst",
+   "schwimmt",
+   "schwomm",
+   "schwommen",
+   "schwommst",
+   "schwommt",
+   "schwämme",
+   "schwämmen",
+   "schwämmest",
+   "schwämmet",
+   "schwämmst",
+   "schwämmt",
+   "schwömme",
+   "schwömmen",
+   "schwömmest",
+   "schwömmet",
+   "schwömmst",
+   "schwömmt",
+   "sein",
+   "seist",
+   "werdest"
+  ],
+  "english": "to swim",
+  "pos": "verb",
+  "slots": {
+   "imp.du": [
+    "schwimm",
+    "schwimme"
+   ],
+   "perf.er": [
+    "ist geschwommen",
+    "hat geschwommen"
+   ],
+   "pres.du": [
+    "schwimmst"
+   ],
+   "pres.er": [
+    "schwimmt"
+   ],
+   "pres.ich": [
+    "schwimme"
+   ],
+   "pres.ihr": [
+    "schwimmt"
+   ],
+   "pres.wir": [
+    "schwimmen"
+   ],
+   "pret.er": [
+    "schwamm",
+    "schwomm"
+   ]
+  }
+ },
+ "schön": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "schön",
+   "schöne",
+   "schönem",
+   "schönen",
+   "schöner",
+   "schönere",
+   "schönerem",
+   "schöneren",
+   "schönerer",
+   "schöneres",
+   "schönes",
+   "schönste",
+   "schönstem",
+   "schönsten",
+   "schönster",
+   "schönstes"
+  ],
+  "english": "beautiful, nice",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "schöner",
+    "schönerer",
+    "schönere",
+    "schöneres",
+    "schöneren",
+    "schönerem",
+    "der schönere",
+    "die schönere",
+    "das schönere",
+    "die schöneren",
+    "des schöneren",
+    "der schöneren",
+    "dem schöneren",
+    "den schöneren",
+    "ein schönerer",
+    "eine schönere",
+    "ein schöneres",
+    "eines schöneren",
+    "einer schöneren",
+    "einem schöneren",
+    "einen schöneren"
+   ],
+   "mixed.acc.m": [
+    "einen schönen"
+   ],
+   "mixed.nom.n": [
+    "ein schönes"
+   ],
+   "strong.dat.f": [
+    "schöner"
+   ],
+   "superlative": [
+    "am schönsten",
+    "schönster",
+    "schönste",
+    "schönstes",
+    "schönsten",
+    "schönstem",
+    "der schönste",
+    "die schönste",
+    "das schönste",
+    "die schönsten",
+    "des schönsten",
+    "der schönsten",
+    "dem schönsten",
+    "den schönsten",
+    "ein schönster",
+    "eine schönste",
+    "ein schönstes",
+    "eines schönsten",
+    "einer schönsten",
+    "einem schönsten",
+    "einen schönsten"
+   ],
+   "weak.nom.m": [
+    "der schöne"
+   ]
+  }
+ },
  "sein": {
   "all": [
    "Brant",
@@ -4018,6 +4845,93 @@
    ],
    "pret.er": [
     "spielte"
+   ]
+  }
+ },
+ "teuer": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "teuer",
+   "teuerste",
+   "teuerstem",
+   "teuersten",
+   "teuerster",
+   "teuerstes",
+   "teure",
+   "teurem",
+   "teuren",
+   "teurer",
+   "teurere",
+   "teurerem",
+   "teureren",
+   "teurerer",
+   "teureres",
+   "teures",
+   "theuer"
+  ],
+  "english": "expensive",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "teurer",
+    "teurerer",
+    "teurere",
+    "teureres",
+    "teureren",
+    "teurerem",
+    "der teurere",
+    "die teurere",
+    "das teurere",
+    "die teureren",
+    "des teureren",
+    "der teureren",
+    "dem teureren",
+    "den teureren",
+    "ein teurerer",
+    "eine teurere",
+    "ein teureres",
+    "eines teureren",
+    "einer teureren",
+    "einem teureren",
+    "einen teureren"
+   ],
+   "mixed.acc.m": [
+    "einen teuren"
+   ],
+   "mixed.nom.n": [
+    "ein teures"
+   ],
+   "strong.dat.f": [
+    "teurer"
+   ],
+   "superlative": [
+    "am teuersten",
+    "teuerster",
+    "teuerste",
+    "teuerstes",
+    "teuersten",
+    "teuerstem",
+    "der teuerste",
+    "die teuerste",
+    "das teuerste",
+    "die teuersten",
+    "des teuersten",
+    "der teuersten",
+    "dem teuersten",
+    "den teuersten",
+    "ein teuerster",
+    "eine teuerste",
+    "ein teuerstes",
+    "eines teuersten",
+    "einer teuersten",
+    "einem teuersten",
+    "einen teuersten"
+   ],
+   "weak.nom.m": [
+    "der teure"
    ]
   }
  },
@@ -4160,6 +5074,93 @@
    ],
    "pret.er": [
     "trank"
+   ]
+  }
+ },
+ "warm": {
+  "all": [
+   "am",
+   "keine",
+   "keinen",
+   "keiner",
+   "warm",
+   "warme",
+   "warmem",
+   "warmen",
+   "warmer",
+   "warmes",
+   "wärmer",
+   "wärmere",
+   "wärmerem",
+   "wärmeren",
+   "wärmerer",
+   "wärmeres",
+   "wärmste",
+   "wärmstem",
+   "wärmsten",
+   "wärmster",
+   "wärmstes"
+  ],
+  "english": "warm",
+  "pos": "adj",
+  "slots": {
+   "comparative": [
+    "wärmer",
+    "wärmerer",
+    "wärmere",
+    "wärmeres",
+    "wärmeren",
+    "wärmerem",
+    "der wärmere",
+    "die wärmere",
+    "das wärmere",
+    "die wärmeren",
+    "des wärmeren",
+    "der wärmeren",
+    "dem wärmeren",
+    "den wärmeren",
+    "ein wärmerer",
+    "eine wärmere",
+    "ein wärmeres",
+    "eines wärmeren",
+    "einer wärmeren",
+    "einem wärmeren",
+    "einen wärmeren"
+   ],
+   "mixed.acc.m": [
+    "einen warmen"
+   ],
+   "mixed.nom.n": [
+    "ein warmes"
+   ],
+   "strong.dat.f": [
+    "warmer"
+   ],
+   "superlative": [
+    "am wärmsten",
+    "wärmster",
+    "wärmste",
+    "wärmstes",
+    "wärmsten",
+    "wärmstem",
+    "der wärmste",
+    "die wärmste",
+    "das wärmste",
+    "die wärmsten",
+    "des wärmsten",
+    "der wärmsten",
+    "dem wärmsten",
+    "den wärmsten",
+    "ein wärmster",
+    "eine wärmste",
+    "ein wärmstes",
+    "eines wärmsten",
+    "einer wärmsten",
+    "einem wärmsten",
+    "einen wärmsten"
+   ],
+   "weak.nom.m": [
+    "der warme"
    ]
   }
  },

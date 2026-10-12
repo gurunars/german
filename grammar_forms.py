@@ -47,20 +47,29 @@ SLOTS = {
     },
 }
 
-# Articles a noun form may carry in its sentence: definite or indefinite.
+# Articles a noun form may carry in its sentence: definite, or an ein-word (ein, kein, …).
 _DEF = {"m": "der den dem des", "f": "die die der der", "n": "das das dem des"}
-_INDEF = {"m": "ein einen einem eines", "f": "eine eine einer einer", "n": "ein ein einem eines"}
 _CASES = ["nom", "acc", "dat", "gen"]
 _PLURAL_DEF = {"nom": "die", "acc": "die", "dat": "den", "gen": "der"}
+# The ein-words all take ein's endings — ein Hund, kein Hund; einen Hund, keinen Hund — and the
+# plural ones take the endings ein would have if it had a plural.
+EIN_WORDS = ["ein", "kein"]
+EIN_ENDINGS = {"m": ["", "en", "em", "es"], "f": ["e", "e", "er", "er"], "n": ["", "", "em", "es"],
+               "pl": ["e", "e", "en", "er"]}
+
+
+def ein_word(word, ending):
+    """The ein-word [word] with [ending]: kein + en → keinen."""
+    return word + ending
 
 
 def articles(gender, slot):
     """The articles that may stand before a noun in [slot]; '' means none."""
     case, number = slot.split(".")
-    if number == "pl":
-        return {"", _PLURAL_DEF[case]}
     index = _CASES.index(case)
-    return {_DEF[gender].split()[index], _INDEF[gender].split()[index]}
+    if number == "pl":
+        return {"", _PLURAL_DEF[case]} | {ein_word(w, EIN_ENDINGS["pl"][index]) for w in EIN_WORDS if w != "ein"}
+    return {_DEF[gender].split()[index]} | {ein_word(w, EIN_ENDINGS[gender][index]) for w in EIN_WORDS}
 
 
 def matches(tags, wanted):

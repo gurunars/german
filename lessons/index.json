@@ -15,6 +15,11 @@
       "name": "Lesson 3 · Doing things: regular verbs in the present, the verb second",
       "url": "03-verbs.json",
       "cards": 40
+    },
+    {
+      "name": "Lesson 4 · Saying no: nicht and kein",
+      "url": "04-negation.json",
+      "cards": 37
     }
   ]
 }
